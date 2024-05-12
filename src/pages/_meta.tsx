@@ -1,4 +1,5 @@
 export default {
+  "*": { type: "page" },
   index: {
     title: "Home",
     display: "hidden",
@@ -10,4 +11,5 @@ export default {
       pagination: false,
     },
   },
+  eye: "Eye",
 };

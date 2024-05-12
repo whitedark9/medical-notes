@@ -1,19 +1,8 @@
-# Home
+# Medical Notes
 
-import Alert from "~/ui/alert/Alert";
+import { Cards } from "nextra/components";
+import Icon from "~/ui/icon/Icon";
 
-<Alert className={"mb-3"}>
-  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Explicabo rem odio
-  dolores debitis exercitationem architecto unde perferendis expedita? Beatae
-  cupiditate quae exercitationem harum iure nulla dicta temporibus, inventore
-  sint! Iste.
-</Alert>
-
----
-
-<Alert variant={"error"} iconName={"exclamation-triangle"} className={"mb-3"}>
-  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Explicabo rem odio
-  dolores debitis exercitationem architecto unde perferendis expedita? Beatae
-  cupiditate quae exercitationem harum iure nulla dicta temporibus, inventore
-  sint! Iste.
-</Alert>
+<Cards>
+  <Cards.Card title={"Eye"} href={"/eye"} />
+</Cards>
