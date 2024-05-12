@@ -1,9 +1,3 @@
-# Nextjs 14 + Nextra 3
+# Medical Notes
 
-A template for static document websites using nextjs 14, nextra 3 (alpha-24), nextra-theme-docs 3 (alpha-24), with tailwindcss and some styled components button, alert, divider.
-
-- Change default values in `src/constants`
-- Start writing in pages with mdx or md format
-- Bootstrap Icons are used with cdn, check `src/pages/_document.js`
-
-> Use `_meta.ts` or `_meta.tsx` instead of `_meta.json`
+I am a final part 2 MBBS student. These notes are based on the lectures given by our teachers. Images and extra information are researched from internet various sources.

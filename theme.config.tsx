@@ -25,8 +25,13 @@ const config: DocsThemeConfig = {
     autoCollapse: true,
   },
   footer: {
-    component: <Logo />,
+    component: null,
   },
+  project: {
+    link: APP.repository,
+  },
+  docsRepositoryBase: APP.repository,
+  feedback: { content: null },
 };
 
 export default config;
