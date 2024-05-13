@@ -30,7 +30,7 @@ const config: DocsThemeConfig = {
   project: {
     link: APP.repository,
   },
-  docsRepositoryBase: APP.repository,
+  docsRepositoryBase: APP.repository + "/tree/main/",
   feedback: { content: null },
 };
 
