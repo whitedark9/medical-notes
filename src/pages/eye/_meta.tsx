@@ -4,4 +4,5 @@ export default {
   "corneal-diseases": "Corneal Diseases",
   glaucoma: "Glaucoma",
   cataract: "Cataract",
+  leukocordia: "Leukocordia",
 };

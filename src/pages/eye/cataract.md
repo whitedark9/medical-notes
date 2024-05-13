@@ -56,9 +56,32 @@
 
 > Surgery is the best and only treatment for cataract to regain normal vision.
 
-- If left untreated >> Lens induced glaucoma
+- If left untreated >> Lazy eyes [^2] (children), Lens induced glaucoma (adult)
 - If left longer without treatment >> More complication during surgery
 - Remove the lens, vision is corrected with contact lens or intraocular lens (IOL) implants
+
+[^2] Lazy Eyes (Amblyopia) - Happens in childhood, Brain cannot recognize the sight from the eye after that eye has had blurry vision or blindness for a long time
+
+### Indication For Surgery
+
+#### Visual function
+
+- Visual Acuity is 6/60 (Person can only read the top letter of the Snellen chart)
+- Compromised fixation in infants
+
+#### Cataract Density
+
+- Poor visualization of fundus
+- Opacity is > 3 mm
+
+#### Children
+
+- In young children at visual developing age, removing cataract is urgent
+- If not, lazy eyes (amblyopia) can occur
+- Unilateral cataract - 6 weeks
+- Bilateral cataract - 12 weeks
+
+---
 
 ### IntraoCapsular Cataract Extraction with IOL (ICCE)
 
