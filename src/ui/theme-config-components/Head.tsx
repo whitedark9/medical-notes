@@ -13,8 +13,6 @@ export default function Head() {
       <meta name="keyword" content={title} /> {/**TODO: Add keywords */}
       <meta name="description" content={APP.description} />
       <meta name="og:description" content={APP.description} />
-      <meta name="twitter:site:domain" content={APP.domain} />
-      <meta name="twitter:url" content={APP.domain} />
       <meta
         name="og:title"
         content={title ? `${title} - ${APP.shortName}` : APP.shortName}
