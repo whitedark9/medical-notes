@@ -28,7 +28,7 @@ export default function Alert(props: AlertProps) {
     showIcon = true,
     size = "md",
     iconPosition = "center",
-    iconSize = 22,
+    iconSize = 20,
   } = props;
 
   const alertVariant = useMemo(
