@@ -60,7 +60,7 @@
 - If left longer without treatment >> More complication during surgery
 - Remove the lens, vision is corrected with contact lens or intraocular lens (IOL) implants
 
-[^2] Lazy Eyes (Amblyopia) - Happens in childhood, Brain cannot recognize the sight from the eye after that eye has had blurry vision or blindness for a long time
+[^2]: Lazy Eyes (Amblyopia) - Happens in childhood, Brain cannot recognize the sight from the eye after that eye has had blurry vision or blindness for a long time
 
 ### Indication For Surgery
 
@@ -83,7 +83,7 @@
 
 ---
 
-### IntraoCapsular Cataract Extraction with IOL (ICCE)
+### IntraCapsular Cataract Extraction with IOL (ICCE)
 
 - The entired lens is removed using cryo probe
 - This method is for subluxated cataratous lens
@@ -133,7 +133,7 @@
 ### Early Post-Op
 
 1. Wound leak
-1. Hyphaema
+1. Hyphema
 1. Iris prolapse
 1. Uveitis
 1. Increase IOP
@@ -145,3 +145,5 @@
 1. Retinal detachment
 1. Displacement of IOL implants >> Pupillary capture/sunset syndrome
 1. Posterior capsule opacity (Elschnig's pearls)
+
+---

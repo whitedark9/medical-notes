@@ -22,7 +22,7 @@
 - Optic disc cupping
 - Photosensitivity
 
-[^1] Buphthalmos - Congenital enlargement of the eye mostly bluish color, Single or both eyes, Corneal diameter 12 mm < 1 year, The wider the diameter, the poorer the prognosis
+[^1]: Buphthalmos - Congenital enlargement of the eye mostly bluish color, Single or both eyes, Corneal diameter 12 mm < 1 year, The wider the diameter, the poorer the prognosis
 
 ---
 
@@ -64,7 +64,7 @@ Increased production of aqueous fluid >> the iris bowed forward >> Make the angl
 
 - Acute, Severely painful (Medical emergency)
 - Nausea, vomiting
-- Dilated pupil
+- Fixed and dilated pupil
 - Red eye
 - Rainbow-colored circles around bright light
 - Blurry vision or Loss of vision

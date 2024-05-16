@@ -73,7 +73,7 @@
 - Scleritis (Anterior Scleritis, Posterior Scleritis)
 - Uveitis (Anterior Uveitis, Posterior Uveitis)
 - Trauma
-- Hyphema (blood collects inside the front of the eye)
+- Hyphema (blood collects inside the anterior chamber of the eye)
 - **Acute angle closure glaucoma**
 - Corneal infection, **Corneal ulcers**
 
@@ -102,14 +102,14 @@
 - Cool compresses
 - Artificial tears
 - Systemic and/or topical antihistamines
-- Topical mast cell stabilier
+- Topical mast cell stabilizer
 - Topical NSAID
 
 ---
 
 ### Viral Conjunctivitis
 
-- Caused by organisms like Adenovirus, cocsakie virus, Echo virus
+- Caused by organisms like _Adenovirus_, _Cocsakie virus_, _Echo virus_
 
 #### Signs & Symptoms [#VC]
 
@@ -187,7 +187,7 @@
 - Watery - purulent discharge
 - May observe discrete corneal opacity
 - Possible decreased vision
-- May have hypopyon [^1] in the anterir chamber
+- May have hypopyon [^1] in the anterior chamber
 
 [^1]: hypopyon - accumulation of white blood cells, leading to the formation of thick white layer in the anterior chamber
 
@@ -229,3 +229,5 @@
 
 - Prevent secondary infections
 - Topical cycloplegic to relieve pain
+
+---

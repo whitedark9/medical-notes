@@ -16,8 +16,8 @@
 
 > Acute, localized infection or inflammation of the eyelid
 
-- Zeis or Moll glands involvement >> External stye
-- Meibomian glands involvement >> Internal stye
+- Zeis or Moll glands involvement >> `External stye`
+- Meibomian glands involvement >> `Internal stye`
 - Painful
 - Infection present (most common organism - _Stap. aureus_)
 - Tenderness, swelling, redness
@@ -51,7 +51,7 @@
 | **Red Eye**              | Rare                                              | Present                                                                    |
 | **Corneal Edema**        | Absent                                            | Present                                                                    |
 | **Pupil**                | Normal                                            | Fixed and dilated                                                          |
-| **Optic Disc**           | Increase cup-to-disc ratio                        | Normal or decrease cup-to-disc ration                                      |
+| **Optic Disc**           | Increase cup-to-disc ratio                        | Normal or decrease cup-to-disc ratio                                       |
 | **Risk factor**          | Age, Family history, Ethnicity                    | Shallow anterior chamber, Age, Hyperopia                                   |
 
 ## Lens
@@ -62,7 +62,7 @@
 
 - Main cause: Aging
 - Symptoms: Blurry vision, Seeing halos around lights, Faded colors, Increased sensitivity to glare
-- Secondary glaucoma if cataract is left untreated
+- Secondary glaucoma can occur if cataract is left untreated
 - Management: ICCE, ECCE, Phacoemulsification with IOL implants
 
 ## Retina
@@ -155,7 +155,6 @@
    - Most common cause
 1. Orbital Tumors
    - Benign or malignant (e.g. meningioma, lymphoma)
-   - Retinal blastoma
 1. Inflammatory Conditions
    - Orbital cellulitis
 1. Vascular Disorders
@@ -168,7 +167,7 @@
    - Sarcoidosis
    - Amyloidosis
 
-## Refractive Erros
+## Refractive Errors
 
 ### Myopia (Nearsightedness)
 
