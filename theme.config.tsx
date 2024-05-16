@@ -1,7 +1,5 @@
 import { ThemeSwitch, type DocsThemeConfig } from "nextra-theme-docs";
-import { ReactNode } from "react";
 import APP from "~/constants/app.config";
-import { AddSpeakButton } from "~/ui/buttons/SpeakButton";
 import Head from "~/ui/theme-config-components/Head";
 import Logo from "~/ui/theme-config-components/Logo";
 import MDXComponents from "~/ui/theme-config-components/MDXComponents";
@@ -34,12 +32,6 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: APP.repository + "/tree/main",
   feedback: { content: null },
-  main: ({ children }: { children: ReactNode }) => (
-    <>
-      <AddSpeakButton />
-      {children}
-    </>
-  ),
 };
 
 export default config;
