@@ -5,14 +5,17 @@
 ![Eye Muscles](/eye/eye-muscles.webp)
 
 - The eye sits in a protective bony socket called `the orbit`
-- `Six extraoccular mucles` in the orbit are attached to the white part of the eye called `the sclera`. They move the eye up and down, side to side, and rotate the eye.
+- `Six extraoccular muscles` in the orbit are attached to the white part of the eye called `the sclera`. They move the eye up and down, side to side, and rotate the eye.
 
 ## Surface of the Eye
 
 ![Surface of the Eye](/eye/surface-of-the-eye.webp)
 
 - The surface of the eye and the inner surface of the eyelids are covered with a clear membrane called `conjunctiva`.
-- Tears lubricate the eye and are made up of three layers - mucous layer, watery layer and oil layer. These three layers together are called `tear film`. Mucous layer is made by the conjunctiva. Watery part is made by the `lacrimal gland`, located under the outside edge of the eyebrow in the orbit. Oil layer is made by the `meibomian gland`.
+- Tears lubricate the eye and are made up of three layers - mucous layer, watery layer and oil layer. These three layers together are called `tear film`.
+- Mucous layer is made by the conjunctiva.
+- Watery part is made by the `lacrimal gland`, located under the outside edge of the eyebrow in the orbit.
+- Oil layer is made by the `meibomian gland`.
 - Tears drain from the eye through the tear duct.
 
 ## Front of the Eye
@@ -28,7 +31,7 @@
 
 ![Anatomy of Eye (3D)](/eye/anatomy-3d.gif)
 
-- Directly behind the pupil is the `lens`. Lens change shape to focus on the object. The lens is surrounded by the `anterior and posterior lens capsules`. Small fibers called `zonules` are attached to the capsule holding the lens, suspending it from the wall. (_During cataract surgery, lens capsules is left in place when the lens is removed_)
+- Directly behind the pupil is the `lens`. Lens change shape to focus on the object. The lens is surrounded by the `anterior and posterior lens capsules`. Small fibers called `zonules` are attached to the capsule holding the lens, suspending it from the wall.
 
 ## Back of the Eye
 

@@ -1,7 +1,5 @@
 # Red Eye
 
-## Defination
-
 > Tiny blood vessels under the surface of the eyes get larger or become inflamed, usually caused by a reaction such as allergy, eye injury, etc.
 
 ## Causes
@@ -23,7 +21,7 @@
 1. Bacterial conjunctivitis
 1. Gonococcal conjunctivitis
 1. Chlamydial conjunctivitis
-1. **Viral conjunctivitis** (Common in Monsoon season)
+1. Viral conjunctivitis (Common in Monsoon season)
 1. Allergic conjunctivits
 1. Subconjunctival haemorrhage (by trauma)
 1. Pingueculum
@@ -69,13 +67,13 @@
 - Corneal abrasion
 - Subconjunctival haemorrhage
 
-#### Vision Threatening
+### Vision Threatening
 
 - Orbital cellulitis
 - Scleritis (Anterior Scleritis, Posterior Scleritis)
 - Uveitis (Anterior Uveitis, Posterior Uveitis)
-- Trauama
-- Hyphema
+- Trauma
+- Hyphema (blood collects inside the front of the eye)
 - **Acute angle closure glaucoma**
 - Corneal infection, **Corneal ulcers**
 

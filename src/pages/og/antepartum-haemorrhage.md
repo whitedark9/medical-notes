@@ -79,11 +79,19 @@
 
 > Placenta implants low in the uterus, covering the cervical os [^1]
 
+- May be associated with bleeding, provoked or spontaneous
+- Bleeding is from the maternal, not featal circulation
+
+### Classification
+
+- **Major**: placenta within 2 cm from the internal os
+- **Minor**: placenta beyond 2 cm from the internal os
+
 [^1]: cervical os: the opening in the cervix at each end of the endocervical canal
 
 ### Clinical Presentation [#PP]
 
-- **Painless Vaginal Bleeding**: Bright red color
+- **Painless Vaginal Bleeding (in 3rd trimester)**: Bright red color
 - **Bleeding**: Often occur without warning, may be recurrent, increase in frequency and volume as the pregnancy progresses
 
 ### Warning Signs [#PP]
@@ -94,17 +102,35 @@
 
 ### Risk Factors [#PP]
 
+- Previous uterine surgery (Curettage [^2], Submucous myomectomy [^3])
 - Previous cesarean section
 - Previous placenta praevia
 - Multiple gestations
 - Smoking
 - Assisted conception
-- Uterine structural anomaly
+- Uterine structural abnormality (e.g. septum, fundal myoma)
+
+[^2]: Curettage: A surgical cleaning or scraping of a body part (as the uterus)
+[^3]: Myomectomy: Removal of uterine leiomyomas (fibroids)
 
 ### Prevention [#PP]
 
 - Avoid risk factors: Unnecssary caesarean section, smoking
 - Early identification: Ultrasound in 2nd trimester to locate the placenta
+
+### On Abdominal Examination [#PP]
+
+- Size of uterus is proportionate to the period of gestation
+- Soft and relaxed uterus (No tenderness)
+- May associate with abnormal lie, malpresentation
+- High presentation part (placenta in lower segment prevents the fetus from descending)
+- Irregular abdominal pain associated with uterine contraction
+- **No digital vaginal examination until the cause of APH is identified by ultrasound**
+
+### Investigation [#PP]
+
+- **Ultrasound**: Difficult to diagnose placenta praevia until lower segment begins to form at about 28 weeks
+- **Transvaginal Ultrasound**: Cold standard in the localization of a low lying placenta (allow acurate measurement of the placenta edge from the internal os)
 
 ## Placental Abruption
 

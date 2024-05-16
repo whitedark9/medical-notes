@@ -5,4 +5,7 @@ export default {
   glaucoma: "Glaucoma",
   cataract: "Cataract",
   leukocordia: "Leukocordia",
+  "retinal-diseases": "Retinal Diseases",
+  squint: "Squint",
+  revision: "Revision",
 };

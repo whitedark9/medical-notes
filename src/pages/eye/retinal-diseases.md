@@ -198,7 +198,9 @@ Retina has 10 layers.
 
 ### Uveitis
 
-> Inflammation of the uveal tract, affecting the retina
+> Inflammation of the uveal tract [^4], affecting the retina
+
+[^4]: Uveal tract: iris, ciliary body and choroid
 
 #### Symptoms [#U]
 

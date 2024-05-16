@@ -100,7 +100,7 @@
 - **Pros**: Less expensive
 - **Cons**: Large wound, slow healing
 
-### Phacoemulsification
+### Phacoemulsification with IOL implants
 
 - Incision size is 2.4-3 mm
 - Open the anterior capsule
