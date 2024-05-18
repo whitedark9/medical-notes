@@ -1,0 +1,121 @@
+# Down Syndrome
+
+- Most common autosomal trisomy
+- Most common genetic cause of severe learning difficulties
+- Karyotype of `Down Syndrome` is `trisomy 21`
+
+## Types of Down Syndrome
+
+1. **Non-disjunction** (95%)
+
+   - Error at meiosis
+   - Karyotype - `47 XX/XY (+21)`
+
+1. **Translocation** (4%)
+
+   - Commonest - 14/21
+   - Karyotype - `46 XX/XY (-14,-21) (t14:21)`
+
+1. **Mosaicism** (1%)
+
+   - Some of the cells are normal and some have `trisomy 21`
+   - Karotype - `47 XY +21/46 XY`
+
+## Risk of Down Syndrome
+
+- All ages (rises with increasing maternal age)
+
+## Clincal Features of Down Syndrome
+
+### Characteristic Physical Features
+
+#### Head & Faces
+
+![Down Syndrome Head](/pediatric/down-syndrome-head.jpg)
+
+![Down Syndrome Face](/pediatric/down-syndrome-face.png)
+
+- Small head with flat occiput (brachycephaly)
+- Small nose with flat nasal bridge
+- Small mouth
+- Flat facies
+- Protruded fissured tongue
+- Upward slanting eyes/palpebral fissures (Mongoloid slant)
+- Prominent inner epicanthic folds
+- Brushfield spots in iris
+- Low set ears
+
+#### Limbs
+
+![Down Syndrome Hand](/pediatric/down-syndrome-hand.jpg)
+
+- Short and broad hands
+- Incurved little finger (clinodactyly)
+- Wide space between the first and second toes
+- Hyperflexibility of joints
+
+### Intellectual Disabilities
+
+### Hypotonia
+
+### Dermatoglyphics (Fingerprints)
+
+![Down Syndrome Fingerprint](/pediatric/ulnar-loop.jpg)
+
+- Single palmar crease (Simian crease)
+- Excess ulnar loops on finger tips
+- Distal location of palmar triradius (angle of triradii > 60%)
+
+### Growth Retardation
+
+### Associated Problems/Anomalites
+
+- Alzheimer disease
+- Hypothyroidism
+- Atlanto-axial instability
+- Congenital heart disease (40% of cases)
+  - Most common - `Ventricular septal defect`, `Arterioventricular septal defect`, `Patent ductus arteriosus`
+- Congenital GI anomalies
+  - `Duodenal atriasia`
+  - `Oesophageal atriasia`
+  - `Inperforate anus`
+  - `Hirschprung's disease`
+- Recurrent respiratory tract infection including `pneumonia`
+- Prone to infection
+- Increase risk of `leukemias`
+
+## Management of Down Syndrome
+
+- No specific treatment, Only supportive measures
+- Diagnosis should be confirmed by `chromosomal analysis` (Karyotyping)
+
+### Supportive Measures
+
+#### Community Support
+
+- Early stimulation programme
+- Speech therapy in older children
+- Special education and occupational training
+- Parental support/counseling
+- Psychological support
+
+#### Medical Support
+
+- Regular check-up for associated problems
+
+  - ENT, ophthalmic and cardiac evaluations
+  - Thyroid function test
+
+- Treatment of associated problems
+
+  - Surgical interventions (e.g. congenital heart disease GI tract anomalies)
+  - Medical interventions (e.g. recurrent infections, leukiemia)
+
+#### Future Plans
+
+- Genetic counseling
+  - How and why the condition has risen
+  - Risk of recurrence
+    - translocation - 10%
+    - non-disjunction - 1%
+- Antenal diagnosis for future pregnancies

@@ -6,7 +6,7 @@ export const Bold = ({ children }: { children?: React.ReactNode }) => (
 );
 
 export const Strikethrough = ({ children }: { children?: React.ReactNode }) => (
-  <del className="text-error decoration-1">{children}</del>
+  <del className="text-error font-bold no-underline">{children}</del>
 );
 
 export const Blockquote = ({ children }: { children?: React.ReactNode }) => (

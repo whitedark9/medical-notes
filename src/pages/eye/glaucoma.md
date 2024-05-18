@@ -35,7 +35,7 @@
 #### Causes [#OAG]
 
 - increased resistance to drainage in the trabecular meshwork, even though the drainage angle between the cornea and iris remains open
-- Increase resistance >> Increase fluid accumulation >> Increase eye pressure (Intraocular pressure) >> Damage optic nerve
+- Increase resistance >>> Increase fluid accumulation >>> Increase eye pressure (Intraocular pressure) >>> Damage optic nerve
 - Most common type of glaucoma
 
 #### Signs & Symptoms [#OAG]
@@ -58,7 +58,7 @@
 
 #### Causes [#CAG]
 
-Increased production of aqueous fluid >> the iris bowed forward >> Make the angle between cornea and iris narrow or close >> Increase fluid accumulation >> Increase eye pressure (Intraocular pressure) >> Damage optic nerve
+Increased production of aqueous fluid >>> the iris bowed forward >>> Make the angle between cornea and iris narrow or close >>> Increase fluid accumulation >>> Increase eye pressure (Intraocular pressure) >>> Damage optic nerve
 
 #### Signs & Symptoms [#CAG]
 

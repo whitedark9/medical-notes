@@ -18,6 +18,7 @@ const config: DocsThemeConfig = {
   components: MDXComponents,
   toc: {
     backToTop: true,
+    title: "Table of Contents",
   },
   sidebar: {
     defaultMenuCollapseLevel: 1,

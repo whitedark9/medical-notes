@@ -16,8 +16,8 @@
 
 > Acute, localized infection or inflammation of the eyelid
 
-- Zeis or Moll glands involvement >> `External stye`
-- Meibomian glands involvement >> `Internal stye`
+- Zeis or Moll glands involvement >>> `External stye`
+- Meibomian glands involvement >>> `Internal stye`
 - Painful
 - Infection present (most common organism - _Stap. aureus_)
 - Tenderness, swelling, redness

@@ -10,7 +10,7 @@ const warning = colors.yellow;
 const neutral = colors.neutral;
 
 const createColors = (color: any, isDark = false) => ({
-  default: isDark ? color[800] : color[700],
+  default: isDark ? color[500] : color[700],
   container: isDark ? color[950] : color[200],
   on: {
     default: isDark ? color[50] : colors.white,
