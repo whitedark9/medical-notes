@@ -31,9 +31,9 @@
 
 #### Head & Faces
 
-![Down Syndrome Head](/pediatric/down-syndrome-head.jpg)
+![Down Syndrome Head](/pediatrics/down-syndrome-head.jpg)
 
-![Down Syndrome Face](/pediatric/down-syndrome-face.png)
+![Down Syndrome Face](/pediatrics/down-syndrome-face.png)
 
 - Small head with flat occiput (brachycephaly)
 - Small nose with flat nasal bridge
@@ -47,7 +47,7 @@
 
 #### Limbs
 
-![Down Syndrome Hand](/pediatric/down-syndrome-hand.jpg)
+![Down Syndrome Hand](/pediatrics/down-syndrome-hand.jpg)
 
 - Short and broad hands
 - Incurved little finger (clinodactyly)
@@ -60,7 +60,7 @@
 
 ### Dermatoglyphics (Fingerprints)
 
-![Down Syndrome Fingerprint](/pediatric/ulnar-loop.jpg)
+![Down Syndrome Fingerprint](/pediatrics/ulnar-loop.jpg)
 
 - Single palmar crease (Simian crease)
 - Excess ulnar loops on finger tips

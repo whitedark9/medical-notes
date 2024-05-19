@@ -2,6 +2,7 @@
 
 - Present in a pair
 - **Function**: Hearing & Balance
+- Contain three parts: `External ear`, `Middle ear`, `Inner ear`
 
 ![Anatomy of Ear](/ent/anatomy-of-ear.jpg)
 

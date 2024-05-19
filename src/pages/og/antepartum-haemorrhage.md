@@ -80,7 +80,7 @@
 > Placenta implants low in the uterus, covering the cervical os [^1]
 
 - May be associated with bleeding, provoked or spontaneous
-- Bleeding is from the maternal, not featal circulation
+- Bleeding is from the maternal, not featal circulation (so mother is more dangerous than the fetus)
 
 ### Classification
 
@@ -135,6 +135,8 @@
 ## Placental Abruption
 
 > Premature separation of the placenta from the uterine wall.
+
+- Bleeding may be from mother and/or fetus (so both mother and fetus are dangerous)
 
 ### Clinical Presentation [#PA]
 

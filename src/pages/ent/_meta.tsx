@@ -1,3 +1,4 @@
 export default {
-  index: "Anatomy of Ear and Throat",
+  index: "Anatomy of Ear",
+  "anatomy-of-throat": "Anatomy of Throat",
 };
