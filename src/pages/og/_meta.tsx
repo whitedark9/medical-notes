@@ -1,4 +1,4 @@
 export default {
   index: "_",
-  "antepartum-haemorrhage": "Antepartum Haemorrhage",
+  "aph": "Antepartum Haemorrhage",
 };
