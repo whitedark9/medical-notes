@@ -5,7 +5,7 @@
 ![Eye Muscles](/eye/eye-muscles.webp)
 
 - The eye sits in a protective bony socket called `the orbit`
-- `Six extraoccular muscles` in the orbit are attached to the white part of the eye called `the sclera`. They move the eye up and down, side to side, and rotate the eye.
+- [Six extraoccular muscles](/medicine/cns#oculomotor-nerve) in the orbit are attached to the white part of the eye called `the sclera`. They move the eye up and down, side to side, and rotate the eye.
 
 ## Surface of the Eye
 
