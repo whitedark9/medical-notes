@@ -31,6 +31,8 @@
 
 ### Paranasal Sinuses
 
+Function of paranasal sinuses is reduction of skull weight.
+
 1. **Maxillary Sinuses**: Located in the maxilla (cheekbones)
 1. **Frontal Sinuses**: Located in the frontal bone (forehead)
 1. **Ethmoid Sinuses**: Located between the nose and eyes

@@ -81,6 +81,10 @@ Usually present in early infant (around 6-10 weeks of age)
 - Small VSD: Normal
 - Large VSD: Left ventricular hypertrophy, Biventricular hypertrophy, Peak P-wave
 
+![Ventricular Hypertrophy ECG](/cvs/lvh-ecg.webp)
+
+![Ventricular Hypertrophy ECG](/cvs/vh-ecg.jpg)
+
 ### Echocardiogram
 
 - Two dimension to detect structural defects - site, size, vegetations, chamber enlargement
