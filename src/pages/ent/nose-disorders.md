@@ -3,12 +3,14 @@
 ## Symptoms in Nasal and Paranasal Sinus Diseases
 
 1. Nasal obstruction
-1. Nasal discharge (Watery/mucoid, Mucopurulent, Bloody)
+1. Nasal discharge (Watery/mucoid, Mucopurulent [^1], Bloody)
 1. Sneezing
 1. Facial pain
 1. Otological (Otalgia, Hearing loss, Crackling)
 1. Disorders of smell
 1. Halitosis (Bad smelling breath)
+
+[^1]: Mucopurulent = Mucus + Pus
 
 ## Rhinitis
 
@@ -62,6 +64,7 @@
 
 ### Causes [#sin]
 
+- Upper dental infections
 - _Streptococcus_
 - _Pneumococcus_
 - _Staphylococcus aureus_
@@ -176,7 +179,7 @@ If not controlled, then proceed with
 1. Anterior nasal packing under LA using ribbon gauze soaked in tincture benzoin and liquid paraffin
 1. If bleeding persist - refer for posterior nasal packing and further management
 1. Nasal packing are usually removed after 24 to 48 hours
-1. Antibiotics must be given
+1. Antibiotics must be given (to prevent `Toxic Shock Syndrome`)
 
 #### General Management
 
@@ -198,6 +201,7 @@ If not controlled, then proceed with
 
 #### Benign
 
+1. **Angiofibroma (Rare, Tennage boys, Epistaxis)**
 1. Osteoma
 1. Papilloma
 1. Squamous cell carcinoma
