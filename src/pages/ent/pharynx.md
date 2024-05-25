@@ -1,4 +1,4 @@
-# Anatomy of Throat (Pharynx)
+# Anatomy of Pharynx
 
 > A muscular tube that serves as a passage for both air and food. It connects the nasal and oral cavities to the larynx and oesophagus.
 
@@ -6,7 +6,7 @@
 
 ![Anatomy of Pharynx](/ent/pharynx.jpg)
 
-## Regions of the Throat
+## Regions of the Pharynx
 
 ### Nasopharynx
 
