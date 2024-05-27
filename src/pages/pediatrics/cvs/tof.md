@@ -12,8 +12,11 @@
 
 ## Pathophysiology
 
-- Right to left shunt through the VSD due to higher resistance caused by pulmonary stenosis ([Left to right shunt](/pediatrics/cvs/vsd#left-to-right-shunt))
-- **Result**: Mixed oxygenated and deoxygenated blood are pumped into systemic circulation >>> **Low oxygen signs and symptoms**
+### Right-to-left Shunt
+
+> Blood bypasses the lungs and moves directly from the right side of the heart to the left side, or from the pulmonary circulation to the systemic circulation. This results in deoxygenated blood entering the systemic circulation, causing hypoxemia (low blood oxygen levels)
+
+- Right to left shunt through the VSD due to higher resistance caused by pulmonary stenosis >>> Mixed oxygenated and deoxygenated blood are pumped into systemic circulation >>> `Low oxygen signs and symptoms`
 
 ## Clinical Features
 

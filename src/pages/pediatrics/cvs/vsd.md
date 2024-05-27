@@ -8,19 +8,18 @@
 
 ### Left-to-Right Shunt
 
+> Blood flows abnormally from the left side of the heart or systemic circulation (higher pressure) to the right side of the heart or pulmonary circulation (lower pressure) through a congenital or acquired defect.
+
 - Left ventricle has higher pressure than right ventricle
-- **During systole**, blood flows from left ventricle to right ventricle through the ventricular septal defect (`Pansystolic murmur`)
-- **Effect**: Increase volume in right ventricle and Increase pulmonary circulation
+- **During systole**, blood flows from left ventricle to right ventricle through the ventricular septal defect (`Pansystolic murmur`) >>> Increase volume in right ventricle >>> Increase pulmonary circulation
 
 ### Increased Pulmonary Circulation
 
-- Right ventricle pumps the extra blood into pulmonary arteries (Increase pulmonary blood flow/`Pulmonary hypertension`)
-- **Effect**: Increase blood returns to the left atrium via pulmonary veins
+- Right ventricle pumps the extra blood into pulmonary arteries >>> Increase pulmonary blood flow (`Pulmonary hypertension`) >>> Increase blood returns to the left atrium via pulmonary veins
 
 ### Increase Left Atrial and Left Ventricular Filling
 
-- **During diastole**, extra blood in the left atrium flows into the left ventricule
-- **Effect**: Increase blood flow through the mitral value during systole (low-pitched and rumbling `Mid-diastolic murmur` at the apex of the heart)
+- **During diastole**, extra blood in the left atrium flows into the left ventricule >>> Increase blood flow through the mitral value **during systole** (low-pitched and rumbling `Mid-diastolic murmur` at the apex of the heart)
 
 ## Clinical Features
 
@@ -57,11 +56,10 @@ Usually present in early infant (around 6-10 weeks of age)
 - Prominence of precordium (common)
 - Cardiomegaly (down and out displacement of apex beat)
 - Heaving apical impulse (left ventricular hypertrophy)
-- Pansystolic murmur
-- Best heard at lower left sternal border
+- `Pansystolic murmur`best heard at lower left sternal border
 - Second heart sound may be increased due to pulmonary hypertension
 - Thrill present
-- Mid-diastolic murmur at the apex due to increase mitral valve flow
+- `Mid-diastolic murmur` at the apex due to increase mitral valve flow
 
 ![Apex Beat](/cvs/apex-beat.webp)
 
