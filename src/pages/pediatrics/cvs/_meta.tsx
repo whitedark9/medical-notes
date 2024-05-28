@@ -1,7 +1,9 @@
 export default {
   index: "Congenital Heart Diseases",
-  vsd: "Ventricular Septal Defect",
-  tof: "Tetralogy of Fallot",
-  pda: "Patent Ductus Arteriosus",
-  rf: "Rheumatic Fever",
+  "ventricular-septal-defect": "Ventricular Septal Defect",
+  "tetralogy-of-fallot": "Tetralogy of Fallot",
+  "patent-ductus-arteriosus": "Patent Ductus Arteriosus",
+  "rheumatic-fever": "Rheumatic Fever",
+  "rheumatic-heart-diseases": "Rheumatic Heart Diseases",
+  "infective-endocarditis": "Infective Endocarditis",
 };

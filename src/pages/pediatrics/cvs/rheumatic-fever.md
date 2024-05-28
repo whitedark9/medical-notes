@@ -27,8 +27,15 @@
   1. `Mitral Regurgitation`: Apical pansystolic murmur radiating to axilla
   1. `Mitral Stenosis`
   1. `Aortic Insufficiency`: High pitched early diastolic murmur at the upper left sternal border
-- **Myocarditis**: Cardiomegaly, soft first heart sound, tachycardia, gallop rhythm [^1], congestive heart failure
-- **Pericarditis**: Precordial pain, friction rub [^2] (superficial scratchy sound)
+- **Myocarditis**
+  - Cardiomegaly
+  - Soft first heart sound
+  - Tachycardia
+  - Gallop rhythm [^1]
+  - Congestive heart failure
+- **Pericarditis**
+  - Precordial pain
+  - Friction rub [^2] (superficial scratchy sound)
 
 [^1]: Gallop rhythm: Additional heart sound (S3 or S4), Rapid ventricular filling (S3), Atrial contraction against a stiff ventricle (S4)
 [^2]: Friction rub: Abnormal heart sound characterized by a grating, scratching, or rubbing noise, caused by inflammation of pericardium
@@ -149,15 +156,15 @@ After this, long term secondary prevention should be started
   - Have good nutrition
 - Antibiotic treatment of GAS, URTI to prevent initial attack
 - Acute rheumatic fever
-  - `IM Procaine Penicillin 0.5 L Unit/kg 12 hourly for 7-10 days` or
-  - `Oral Penicillin V 250 mg 6 hourly for 10 days` or
+  - `IM Procaine Penicillin 0.5 L Unit/kg BD for 10 days` or
+  - `Oral Penicillin V 250 mg QID for 10 days` or
   - `Oral Erythromycin 40 mg/kg/day 3 divided dose for 10 days` (for Penicillin hypersensitivity)
 
 ### Secondary Prevention
 
-- Long term antibiotic prophylaxis to prevent recurrences
+- Long term antibiotic prophylaxis `to prevent recurrences`
 - Prevent colonization of URT with GAS, in those who have had an attack of acute rheumatic fever
-  - `IM Benzathine Penicillin 1.2 Mega Units once every 3-4 weeks` (< 2 years - 0.6 MU) or
+  - `IM Benzathine Penicillin 1.2 Mega Units once per month` (< 2 years - 0.6 MU) or
   - `Oral Penicillin V 250 mg BD` or
   - `Oral Sulphadiazine 500 mg BD` or
   - `Oral Erythromycin 250 mg BD` (for Penicillin or Sulphur hypersensitivity)
@@ -165,12 +172,12 @@ After this, long term secondary prevention should be started
 | Category                                                            | Duration                                       |
 | :------------------------------------------------------------------ | :--------------------------------------------- |
 | ARF without carditis                                                | 5 years or Until 21 years, whichever is longer |
-| ARF with carditis without residual valvular disease (clinical/echo) | 10 years or adulthood, whicher is longer       |
+| ARF with carditis without residual valvular disease (clinical/echo) | 10 years or adulthood, whichever is longer     |
 | ARF with carditis and residual valvular disease (clinical/echo)     | Life long prophylaxis                          |
 
 ### Tertiary Prevention
 
-Prevention of infective endocarditis
+> Prevention of infective endocarditis
 
 - **Tooth extraction**: `Amoxycillin 50 mg/kg 1 hour before, 25 mg/kg 6 hours after 1st dose`
 - **Genitourinary procedures**: `Injection Ampicillin 50 mg/kg 1/2 hour before precedure, then 8 hours later`, `Injection Gentamycin 2 mg/kg 1/2 hour before procedure, then 8 hours later`
