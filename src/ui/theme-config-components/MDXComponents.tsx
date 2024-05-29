@@ -1,5 +1,6 @@
+import { Callout } from "nextra/components";
 import React from "react";
-import Alert from "../alert/Alert";
+import Icon from "../icon/Icon";
 
 export const Bold = ({ children }: { children?: React.ReactNode }) => (
   <strong className={`text-primary font-bold`}>{children}</strong>
@@ -14,7 +15,9 @@ export const Strikethrough = ({ children }: { children?: React.ReactNode }) => (
 );
 
 export const Blockquote = ({ children }: { children?: React.ReactNode }) => (
-  <Alert className="mt-3">{children}</Alert>
+  <Callout type="info" emoji={<Icon name="info-circle" />}>
+    <span className="font-medium">{children}</span>
+  </Callout>
 );
 
 const MDXComponents = {
