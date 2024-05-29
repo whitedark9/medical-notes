@@ -50,6 +50,8 @@
 
 ## Laryngeal Stridor
 
+> Nosiy and difficult breathing due to partial obstruction of upper airway
+
 ### Causes [#Stridor]
 
 1. Congenital
@@ -75,9 +77,10 @@
 
 ### Emergency Management
 
-- Relief of stridor is more important than knowing causes of stridor
-- Oxygen inhalation
-- ~~Tracheostomy~~ (Don't wait for obvious cyanosis)
+> Relief of stridor is more important than knowing causes of stridor
+
+1. Oxygen inhalation
+1. ~~Tracheostomy~~ (Don't wait for obvious cyanosis)
 
 ## Tracheostomy
 

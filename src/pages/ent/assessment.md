@@ -364,20 +364,233 @@
 
 ### Stridor
 
+> Nosiy and difficult breathing due to partial obstruction of upper airway
+
+#### Causes [#Stridor]
+
+1. Congenital
+   - Laryngeal stenosis
+   - Laryngomalacia (Congenital softness of larynx)
+   - Laryngeal web
+1. Traumatic
+   - External: Blunt trauma on larynx
+   - Internal: Foreign bodies, Corrosive substances, Fumes
+1. Infection
+   - Acute laryngotracheobronchitis
+   - Acute epiglottitis
+   - Ludwig's angina
+   - Diphtheria
+1. Tumor
+   - Benign - Papillomas (JRRP)
+   - Malignant - Ca larynx
+1. Neurological
+   - Bilateral recurrent laryngeal nerve palsy
+   - Bulbar palsy
+1. Miscellaneous
+   - Angioneurotic edema
+
+#### Emergency Management
+
+> Relief of stridor is more important than knowing causes of stridor
+
+1. Oxygen inhalation
+1. ~~Tracheostomy~~ (Don't wait for obvious cyanosis)
+
+---
+
 ### Tonsilitis
 
-### Peritonsilar Abscess
+> Inflammation of the tonsils, especially the palatine tonsils
+
+#### Causes [#tonsilitis]
+
+- Infections: Viral and bacterial
+- Commonest: _Streptococcus pyogenes_
+
+#### Symptoms [#tonsilitis]
+
+- Severe sore throat
+- Difficulty swallowing
+- Red and swollen tonsils (often with white patches or pus)
+- Fever and headache
+- Swollen cervical lymph nodes
+
+#### Management [#tonsilitis]
+
+- Symptomatic treatment
+- Antibiotics
+- Tonsillectomy in recurrent or chronic cases
+
+---
+
+### Peritonsillar Abscess
+
+> A complication of tonsillitis where pus collects in the tissues around the tonsils
+
+#### Causes [#peri]
+
+- Usually followed by untreated or severe tonsillitis
+
+#### Symptoms [#peri]
+
+- More severe symptoms
+- Difficulty opening the mouth
+
+#### Management [#peri]
+
+- Drainage of the abscess
+- Pain management
+- Tonsillectomy to prevent recurrence
+
+---
 
 ### Ca Larynx
 
+- **Prevalence**: Common in males
+
+#### Risk Factors [#CaLarynx]
+
+1. Tobacco Smoking
+1. Alcohol Consumption
+1. Human Papillomavirus (HPV)
+1. Occupational Exposures: Asbestos, wood dust, paint fumes.
+1. Chronic Laryngitis
+1. Family History
+
+#### Symptoms [#CaLarynx]
+
+- Hoarseness
+- Dysphagia (Difficulty in swallowing) (often with supraglottis tumors)
+- Odynophagia (Painful swallowing)
+- Chronic Cough
+- Stridor
+- Neck Mass: Enlarged lymph nodes.
+- Weight Loss: Unintended weight loss and fatigue
+- Ear Pain
+
+---
+
 ### Retropharyngeal Abscess
 
+> An abscess in the fascial space behind the pharyngeal muscles
+
+#### Causes [#retro]
+
+- Suppuration of retropharyngeal lymph nodes
+- Penetration of pharyngeal wall by sharp foreign bodies (fish bones)
+- Caries of bodies of cervical vertebra
+
+#### Signs and Symptoms
+
+- Breathing difficulty
+- Torticollis (Twist neck to one side)
+- Pyrexia (Fever)
+- Swelling of posterior pharynx
+- Airway obstruction
+
+#### Management [#retro]
+
+- **Medical**: Antibiotics
+- **Surgical**: Incision and drainage through open mouth
+
+---
+
 ### Foreign Body in Throat
+
+#### Symptoms [#FBT]
+
+- Sudden onset of coughing or choking
+- Dysphagia
+- Pain in the throat or chest
+- Drooling or inability to swallow saliva
+- Hoarseness or change in voice
+- Respiratory distress or wheezing (if airway is compromised).
+
+#### Complications [#FBT]
+
+1. **Airway Obstruction**
+1. **Perforation**: Injury to the pharyngeal, laryngeal, or esophageal walls leading to infection or mediastinitis.
+1. **Infection**: Localized abscess, retropharyngeal abscess, or aspiration pneumonia.
+1. **Granuloma Formation**: Chronic inflammation around a foreign body that remains undetected.
+1. **Stricture Formation**
 
 ## Head & Neck
 
 ### Lateral Neck Swelling in Children
 
+#### Causes [#LN]
+
+1. Infective
+   - Cervical lymphadenitis
+   - Mumps
+   - Tuberculosis
+1. Congenital
+   - Branchial cysts
+   - Chemodectoma
+   - Cystic hygroma
+   - Haemangioma
+1. Neoplastic (Primary)
+   - Lymphoma
+   - Neuroblastoma
+   - Parotid malignancy
+   - Rhabdomyosarcomas
+1. Neoplastic (Secondary)
+   - Metastases - nasopharyngeal
+
+#### Brachial Cysts
+
+> Due to a developmental defect of usually, the second brachial apperatus
+
+- Present as a lump in upper 1/3 of sternomastoid muscles, a few year after puberty
+- Cystic being covered by anterior part of muscle
+- Confirmed by aspiration and demonstration of cholestrol crystal
+- Srugical excision of cyst and tract being traced between external and internal carotid arteries to the lateral pharyngeal wall
+
+#### Cystic Hygroma
+
+> Due to failure of proper canalization of foetal lymphovenous channel of cervical mediastinal and axillary chains
+
+- May present at birth or later in upper/lower part of the neck
+- Trans-illumination, partial emptying sign (+)
+- Chest X-ray to exclude the medial sternal involvement
+- Surgical excision, Recurrence is common
+
+---
+
 ### Ludwig's Angina
 
+> Cellulitis of the floor of mouth and submandibular space of neck
+
+#### Symptoms [#ludwig]
+
+- Pain in floor of mouth
+- Drolling of saliva
+- Swelling neck
+- Difficulty in breathing
+
+#### Signs [#ludwig]
+
+- Hard tender brawny swelling between the chin and neck
+- Fluctuation may be negative
+- Fever and toxemia present
+- Edema of glottis (~~Sudden death~~)
+
+#### Management [#ludwig]
+
+- Full dose of antibiotics with incision and drainage (Hilton's method)
+
+---
+
 ### Tracheostomy Tube Complication
+
+### Complications
+
+1. Haemorrhage and infection
+1. Dislodgement of tube
+1. Injury to surrounding structures
+1. Surgical emphysema, Pneumothora
+1. Tube blockage (by dry mucous forming crusts)
+1. Subglottic stenosis (1st ring was cut)
+1. Decannulation problem
+
+---
