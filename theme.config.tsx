@@ -1,4 +1,4 @@
-import { ThemeSwitch, type DocsThemeConfig } from "nextra-theme-docs";
+import { type DocsThemeConfig } from "nextra-theme-docs";
 import APP from "~/constants/app.config";
 import Head from "~/ui/theme-config-components/Head";
 import Logo from "~/ui/theme-config-components/Logo";
@@ -10,9 +10,6 @@ const config: DocsThemeConfig = {
     storageKey: APP.themeStorageKey,
   },
   darkMode: true,
-  navbar: {
-    extraContent: <ThemeSwitch />,
-  },
   head: Head,
   logo: Logo,
   components: MDXComponents,
