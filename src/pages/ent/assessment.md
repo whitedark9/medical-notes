@@ -166,6 +166,8 @@
 
 ### Foreign Body in Ear
 
+- If it is insect, kill it first.
+
 #### Clinical Features [#FBE]
 
 - Ear pain (otalgia)

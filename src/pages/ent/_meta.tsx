@@ -6,5 +6,6 @@ export default {
   "pharynx-disorders": "Disorders of Pharynx",
   larynx: "Anatomy of Larynx",
   "larynx-disorders": "Disorders of Larynx",
-  assessment: "Assessment"
+  neck: "Anatomy of Neck",
+  assessment: "Assessment",
 };
