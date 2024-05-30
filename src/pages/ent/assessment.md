@@ -524,7 +524,7 @@
 
 1. Infective
    - Cervical lymphadenitis
-   - Mumps
+   - Mumps virus
    - Tuberculosis
 1. Congenital
    - Branchial cysts
@@ -543,19 +543,21 @@
 
 > Due to a developmental defect of usually, the second brachial apperatus
 
-- Present as a lump in upper 1/3 of sternomastoid muscles, a few year after puberty
+- **Time**: A few year after puberty
+- **Site**: Present as a lump in upper 1/3 of sternomastoid muscles
 - Cystic being covered by anterior part of muscle
 - Confirmed by aspiration and demonstration of cholestrol crystal
-- Srugical excision of cyst and tract being traced between external and internal carotid arteries to the lateral pharyngeal wall
+- **Management**: Srugical excision of cyst and tract being traced between external and internal carotid arteries to the lateral pharyngeal wall
 
 #### Cystic Hygroma
 
 > Due to failure of proper canalization of foetal lymphovenous channel of cervical mediastinal and axillary chains
 
-- May present at birth or later in upper/lower part of the neck
+- **Time**: At birth or later
+- **Site**: Upper/lower part of the neck
 - Trans-illumination, partial emptying sign (+)
 - Chest X-ray to exclude the medial sternal involvement
-- Surgical excision, Recurrence is common
+- **Management**: Surgical excision, Recurrence is common
 
 ---
 
@@ -585,14 +587,30 @@
 
 ### Tracheostomy Tube Complication
 
-### Complications
+#### Immediate
 
-1. Haemorrhage and infection
-1. Dislodgement of tube
-1. Injury to surrounding structures
-1. Surgical emphysema, Pneumothora
+1. Haemorrhage (Bleeding)
+1. Injury to surrounding structures: Tracheal injury
+1. Pneumothorax
+1. Subcutaneous Emphysema: Air leakage into subcutaneous tissues
 1. Tube blockage (by dry mucous forming crusts)
-1. Subglottic stenosis (1st ring was cut)
-1. Decannulation problem
+
+#### Within 1st week
+
+1. Infection
+1. Tube Obstruction
+1. Dislogement
+1. Respiratory distress
+1. Granuloma Formation
+
+#### Late
+
+1. Tracheal stenosis
+1. Tracheo-oesophageal Fistula
+1. Tracheo-malacia
+1. Persistent Infection
+1. Tracheal Erosion
+1. Aspiration
+1. Difficulty in decannulation
 
 ---
