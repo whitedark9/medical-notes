@@ -383,7 +383,7 @@
    - Ludwig's angina
    - Diphtheria
 1. Tumor
-   - Benign - Papillomas (JRRP)
+   - Benign - Papillomas (JRRP - Juvenile Recurrent Respiratory Papilloma)
    - Malignant - Ca larynx
 1. Neurological
    - Bilateral recurrent laryngeal nerve palsy
@@ -577,7 +577,7 @@
 - Hard tender brawny swelling between the chin and neck
 - Fluctuation may be negative
 - Fever and toxemia present
-- Edema of glottis (~~Sudden death~~)
+- Edema of glotitis (~~Sudden death~~)
 
 #### Management [#ludwig]
 
@@ -614,3 +614,12 @@
 1. Difficulty in decannulation
 
 ---
+
+## MCQs
+
+![ENT MCQs](/ent/ent01.jpeg)
+![ENT MCQs](/ent/ent02.jpeg)
+![ENT MCQs](/ent/ent03.jpeg)
+![ENT MCQs](/ent/ent04.jpeg)
+![ENT MCQs](/ent/ent05.jpeg)
+![ENT MCQs](/ent/ent06.jpeg)
