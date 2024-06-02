@@ -13,7 +13,7 @@ export default {
   },
   eye: "Eye",
   ent: "ENT",
-  anaesthetics: "Anaesthetics",
+  anesthesia: "Anesthesia",
   medicine: "Medicine",
   og: "OG",
   pediatrics: "Pediatrics",

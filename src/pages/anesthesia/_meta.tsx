@@ -1,4 +1,4 @@
 export default {
-  index: "_",
+  index: "Anesthesia",
   depolarization: "Depolarization",
 };
