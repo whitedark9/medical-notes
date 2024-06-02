@@ -73,7 +73,7 @@ Retina has 10 layers.
 
 #### Central Retinal Artery Occlusion (CRAO)
 
-- Blockage of central retinal artery >>> Ischemia of the inner retina
+- Blockage of central retinal artery → Ischemia of the inner retina
 - **Symptoms**: Sudden, painless vision loss
 - **Findings**: Pale retina with a cherry-red spot at the fovea
 - **Management**: Ocular massage, hyperbaric oxygen, anterior chamber paracentesis [^1]
@@ -82,7 +82,7 @@ Retina has 10 layers.
 
 #### Central Retinal Vein Occlusion (CRVO)
 
-- Blockage of central retinal vein >>> blood accumulation and retinal haemorrhapes
+- Blockage of central retinal vein → blood accumulation and retinal haemorrhapes
 - **Symptoms**: Sudden vision loss, blurred vision
 - **Findings**: Retinal hamorrhages, dilated tortuous veins, cotton-wool spots
 - **Management**: Anti-VEGF injections [^2], corticosteroids, laser photocoagulation

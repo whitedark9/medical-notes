@@ -6,4 +6,5 @@ export default {
   "rheumatic-fever": "Rheumatic Fever",
   "rheumatic-heart-diseases": "Rheumatic Heart Diseases",
   "infective-endocarditis": "Infective Endocarditis",
+  "heart-failure": "Heart Failure",
 };

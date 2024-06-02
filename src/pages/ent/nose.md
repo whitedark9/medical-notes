@@ -72,5 +72,5 @@ Function of paranasal sinuses is reduction of skull weight.
 
 ### Venouse Drainage
 
-1. Anterior Part >>> **Facial vein**
-1. Posterior Part >>> **Sphenopalatine vein** >>> Pterygoid Plexus and Cavernous sinus
+1. Anterior Part → **Facial vein**
+1. Posterior Part → **Sphenopalatine vein** → Pterygoid Plexus and Cavernous sinus

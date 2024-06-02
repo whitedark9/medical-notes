@@ -16,7 +16,7 @@
 
 > Blood bypasses the lungs and moves directly from the right side of the heart to the left side, or from the pulmonary circulation to the systemic circulation. This results in deoxygenated blood entering the systemic circulation, causing hypoxemia (low blood oxygen levels)
 
-- Right to left shunt through the VSD due to higher resistance caused by pulmonary stenosis >>> Mixed oxygenated and deoxygenated blood are pumped into systemic circulation >>> `Low oxygen signs and symptoms`
+- Right to left shunt through the VSD due to higher resistance caused by pulmonary stenosis → Mixed oxygenated and deoxygenated blood are pumped into systemic circulation → `Low oxygen signs and symptoms`
 
 ## Clinical Features
 
@@ -100,10 +100,10 @@ One or more of the following in sequence
 - IV Sodium bicarbonate (in unusually severe spell) [^3]
 - Vasopressors - IV phenyl-ephrine/methoxamine [^4] (If resistant to above therapy)
 
-[^1]: To decrease heart rate and myocardial oxygen demands >>> Decrease workload of the heart
+[^1]: To decrease heart rate and myocardial oxygen demands → Decrease workload of the heart
 [^2]: To reduce pulmonary effort
-[^3]: Hypoxia >>> Accumulation of lactic acidosis and metabolic acidosis (They worsen the cyanosis) <<< Corrected with Sodium Bicarbonate
-[^4]: Pheynylephrine and Methoxamine are alpha-1 adrenergic receptor agonists >>> Increase systemic vascular resistance through vascoconstriction
+[^3]: Hypoxia → Accumulation of lactic acidosis and metabolic acidosis (They worsen the cyanosis) ← Corrected with Sodium Bicarbonate
+[^4]: Pheynylephrine and Methoxamine are alpha-1 adrenergic receptor agonists → Increase systemic vascular resistance through vascoconstriction
 
 #### General
 
@@ -167,8 +167,8 @@ Corrective open heart surgery and repair
 
 > The amount of energy and oxygen the heart muscle (myocardium) requires to function effectively
 
-1. **Heart Rate (Chronotropy)**: Higher heart rates >>> Higher metabolic demand (the myocardium requires more energy and oxygen to sustain frequent contraction)
-1. **Myocardial Contractility (Inotropy)**: Increased contractility >>> Increase the metabolic demand (the myocardium works harder and requires more energy to generate stronger contractions)
+1. **Heart Rate (Chronotropy)**: Higher heart rates → Higher metabolic demand (the myocardium requires more energy and oxygen to sustain frequent contraction)
+1. **Myocardial Contractility (Inotropy)**: Increased contractility → Increase the metabolic demand (the myocardium works harder and requires more energy to generate stronger contractions)
 1. **Wall Stress**: The tension within the myocardial walls during contraction and relaxation.
 
 Wall stress is influenced by:
@@ -181,6 +181,6 @@ Wall stress is influenced by:
 
 > The combined effect of heart rate, contractility, preload, and afterload.
 
-Greater cardiac workload >>> Higher metabolic demands
+Greater cardiac workload → Higher metabolic demands
 
 ---

@@ -208,6 +208,6 @@ Factors which increase the risks to relatives are:
 - **More sever forms of disorder** (e.g. the risk of recurrence to siblings is greater in bilateral cleft lip and palate than in unilateral cleft lip alone)
 - **Close relation to the affected person** (e.g. the risk to siblings is greater than to distant relatives)
 - **Multiple affected family members** (e.g. the more siblings already affected, the greater the risk of recurrence)
-- **Sex difference in prevlaence** (e.g. In Hirschsprung's disease, male to feamle rate is 3:1; In SLE, female to male is 3:1)
+- **Sex difference in prevlaence** (e.g. In Hirschsprung's disease, male to feamle rate is 3:1; In SLE, female to male is 9:1)
 
 When an affected female has greater genetic predisposition than an affected male, the risk to siblings is also greater.

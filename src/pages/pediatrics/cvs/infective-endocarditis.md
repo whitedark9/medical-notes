@@ -12,22 +12,22 @@
 
 ### Endothelial Damage
 
-- **Damage to endothelium of heart valves or endocardium of heart** >>> Exposure of underlying layers >>> Platelet adhesion and fibrin deposition at the site of injury >>> Formation of sterile (non-bacterial) thrombotic vegetation >>> A place for bacterial colonization >>> Bacteria causes more growth of vegetation >>> Dense layer of fibrin and platelet protects the bacteria from host immune system and antibiotic penetration >>> Inflammation of the heart valve
+- **Damage to endothelium of heart valves or endocardium of heart** → Exposure of underlying layers → Platelet adhesion and fibrin deposition at the site of injury → Formation of sterile (non-bacterial) thrombotic vegetation → A place for bacterial colonization → Bacteria causes more growth of vegetation → Dense layer of fibrin and platelet protects the bacteria from host immune system and antibiotic penetration → Inflammation of the heart valve
 
 ### Heart
 
-- Damage to heart valves >>> Acute or chronic valvular insufficiency >>> `Heart failure`
-- (1) Vegetation growth, (2) Valve damage, (3) Embolization, (4) New valve involvement >>> `Changing murmur`
+- Damage to heart valves → Acute or chronic valvular insufficiency → `Heart failure`
+- (1) Vegetation growth, (2) Valve damage, (3) Embolization, (4) New valve involvement → `Changing murmur`
 
 ### Deposition of Immune Complexes
 
-- Presence of bacteria in the bloodstream >>> Formation of circulating immune complexes >>> Deposition of immune complexes in other tissues (`Glomerulonephritis`, `Vasculitis lesion`)
+- Presence of bacteria in the bloodstream → Formation of circulating immune complexes → Deposition of immune complexes in other tissues (`Glomerulonephritis`, `Vasculitis lesion`)
 
 ### Distant Organs Involvements
 
-- Spread of bacteria into other organs >>> `Secondary infection` (Osteomyelitis, Septic arthritis, Psoas abscess)
+- Spread of bacteria into other organs → `Secondary infection` (Osteomyelitis, Septic arthritis, Psoas abscess)
 - Pieces of vegetation can break off and embolize distant organs (`Cerebral emboli`, `Pulmonary emboli`, `Systemic emboli`)
-- Presence of bacteria toxins and cytokines in the bloodstream >>> `Fever`, `Chills & Rigor`, `Night sweats`, `Malaise`
+- Presence of bacteria toxins and cytokines in the bloodstream → `Fever`, `Chills & Rigor`, `Night sweats`, `Malaise`
 
 ## Clinical Features
 
@@ -52,7 +52,7 @@
 
 [^1]: **Enlargement of Spleen**: (1) Immune Response, (2) Septic Emboli, (3) Chronic Infection
 [^2]: **Anaemia**: (1) Destruction of RBCs by bacterial toxins, (2) Inhibition of erythropoiesis in bone marrow by inflammatory cytokines and glomerunephritis
-[^3]: **Jaundice**: Increase unconjugated bilirubin in the blood <<< Metabolized from hemoglobin <<< Breakdown of RBCs
+[^3]: **Jaundice**: Increase unconjugated bilirubin in the blood ← Metabolized from hemoglobin ← Breakdown of RBCs
 [^4]: **Myalgia, Arthralgia**: (1) Due to immune complex deposition, (2) Inflammatory cytokines, (3) Septic arthritis
 
 ### Haemodynamic Changes (Due to underlying heart disease)

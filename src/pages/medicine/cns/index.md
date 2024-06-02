@@ -23,13 +23,13 @@ Sensory, Motor, or Both ???
 
 - Sensory
 - Sense of smell
-- Olfactory epithelium in the `nasal cavity` >>> Olfactory bulbs
+- Olfactory epithelium in the `nasal cavity` → Olfactory bulbs
 
 ## Optic Nerve
 
 - Sensory
 - Vision
-- `Retina` >>> Optic chiasm >>> Optic tracts >>> Visual cortex
+- `Retina` → Optic chiasm → Optic tracts → Visual cortex
 
 ## Oculomotor Nerve
 
@@ -43,7 +43,7 @@ Sensory, Motor, or Both ???
 
 - Motor
 - Eye movement (superior oblique muscle)
-- Trochlear nucleus in the midbrain >>> `Superior oblique muscle`
+- Trochlear nucleus in the midbrain → `Superior oblique muscle`
 
 ## Trigeminal Nerve
 
@@ -56,45 +56,45 @@ Sensory, Motor, or Both ???
 
 - Motor
 - Eye movement (lateral rectus muscle)
-- Abducens nucleus in the pons >>> `Lateral rectus muscle`
+- Abducens nucleus in the pons → `Lateral rectus muscle`
 
 ## Facial Nerve
 
 - Both (Sensory and Motor)
 - Sensory: Taste (anterior 2/3 of tongue)
 - Motor: Facial expression
-- Facial nucleus in the pons >>> `Facial muscles`, `Lacrimal and salivary glands`
+- Facial nucleus in the pons → `Facial muscles`, `Lacrimal and salivary glands`
 
 ## Vestibulocochlear Nerve
 
 - Sensory
 - Hearing and balance
-- Cochlea and vestibular apparatus of `inner ear` >>> Brainstem
+- Cochlea and vestibular apparatus of `inner ear` → Brainstem
 
 ## Glossopharyngeal Nerve
 
 - Both (Sensory and Motor)
 - Sensory: Taste (posterior 1/3 of tongue), Baroreception and chemoreception (carotid body)
 - Motor: Swallowing (pharyngeal muscles), Salivation (parotid glands)
-- Medulla oblongata >>> `Pharynx`, `Tongue`, `Carotid body`
+- Medulla oblongata → `Pharynx`, `Tongue`, `Carotid body`
 
 ## Vagus Nerve
 
 - Both (Sensory and Motor)
 - Sensory: Sensation from thoracic and abdominal organs, Taste (epiglottis region)
 - Motor: Parasympathetic control of the heart, lungs and digestive tract
-- Medulla oblongata >>> `Organs of thorax and abdomen`
+- Medulla oblongata → `Organs of thorax and abdomen`
 
 ## Accessory Nerve
 
 - Motor
 - Shoulder and neck movement (`Sternocleidomastoid` and `trapezius muscles`)
-- Spinal cord >>> Muscles of the neck and shoulder
+- Spinal cord → Muscles of the neck and shoulder
 
 ## Hypoglossal Nerve
 
 - Motor
 - Tongue movement (`Intrinsic and extrinsic muscles of the tongue`)
-- Medulla oblongata >>> Tongue muscles
+- Medulla oblongata → Tongue muscles
 
 ---

@@ -56,8 +56,8 @@
 
 > Surgery is the best and only treatment for cataract to regain normal vision.
 
-- If left untreated >>> Lazy eyes [^2] (children), Lens induced glaucoma (adult)
-- If left longer without treatment >>> More complication during surgery
+- If left untreated → Lazy eyes [^2] (children), Lens induced glaucoma (adult)
+- If left longer without treatment → More complication during surgery
 - Remove the lens, vision is corrected with contact lens or intraocular lens (IOL) implants
 
 [^2]: Lazy Eyes (Amblyopia) - Happens in childhood, Brain cannot recognize the sight from the eye after that eye has had blurry vision or blindness for a long time
@@ -143,7 +143,7 @@
 
 1. Chronic cystoid macular oedema
 1. Retinal detachment
-1. Displacement of IOL implants >>> Pupillary capture/sunset syndrome
+1. Displacement of IOL implants → Pupillary capture/sunset syndrome
 1. Posterior capsule opacity (Elschnig's pearls)
 
 ---

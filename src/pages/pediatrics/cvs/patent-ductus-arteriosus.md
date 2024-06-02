@@ -11,17 +11,17 @@
 
 ### Left-to-right Shunt
 
-- Blood flows from the high-pressure aorta to the low-pressure pulmonary artery during **both systole and diastole** (`Continuous Machinery Murmur`) >>> Increase pulmonary blood flow >>> Increase blood return to left atrium and left ventricle
+- Blood flows from the high-pressure aorta to the low-pressure pulmonary artery during **both systole and diastole** (`Continuous Machinery Murmur`) → Increase pulmonary blood flow → Increase blood return to left atrium and left ventricle
 
 ### Volume Overload
 
-- Increase blood return to left atrium and left ventricle >>> Left atrium and ventricular dilation and hypertrophy (`Left ventricular hypertrophy`, `Cardiomegaly`)
-- Increase blood flow to pulmonary artery >>> Pulmonary circulation overload and congestion (`Pulmonary congestion`) >>> `Increase pulmonary vascular markings` in CXR
+- Increase blood return to left atrium and left ventricle → Left atrium and ventricular dilation and hypertrophy (`Left ventricular hypertrophy`, `Cardiomegaly`)
+- Increase blood flow to pulmonary artery → Pulmonary circulation overload and congestion (`Pulmonary congestion`) → `Increase pulmonary vascular markings` in CXR
 
 ### Wide Pulse Pressure
 
-- **Increase systolic pressure**: Blood flow from the aorta to pulmonary artery >>> Increase pulmonary blood flow >>> Increase blood flow from pulmonary vein into left artium >>> More blood from left artium into left ventricle >>> More work for left ventricle >>> Increase stroke volume >>> Increase systolic blood pressure
-- **Decrease diastolic pressure**: Blood flow from the aorta to pulmonary artery during diastole >>> Decrease diastolic blood pressure >>> `Wide pulse pressure`
+- **Increase systolic pressure**: Blood flow from the aorta to pulmonary artery → Increase pulmonary blood flow → Increase blood flow from pulmonary vein into left artium → More blood from left artium into left ventricle → More work for left ventricle → Increase stroke volume → Increase systolic blood pressure
+- **Decrease diastolic pressure**: Blood flow from the aorta to pulmonary artery during diastole → Decrease diastolic blood pressure → `Wide pulse pressure`
 
 ## Clinical Features
 
@@ -44,7 +44,7 @@
   - `Thrill` (usually systolic): Maximal at 2nd left intercostal space and radiate toward the left clavicle, left sternal border or apex
   - `Continuous machinery murmur (classic)`: Best heard at the 2nd left intercostal space, radiating to the left clavicle and back
 
-[^1]: More blood in left ventricle >>> More forciful ejection of left ventricle during systole >>> Carotid pulsation with each systole
+[^1]: More blood in left ventricle → More forciful ejection of left ventricle during systole → Carotid pulsation with each systole
 
 ## Investigation
 

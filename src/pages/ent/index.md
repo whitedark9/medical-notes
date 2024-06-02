@@ -89,7 +89,7 @@
 
 #### Eustachian Tube Dysfunction
 
-- Blockage or dysfunction of eustachian tube >>> Pressure imbalance
+- Blockage or dysfunction of eustachian tube → Pressure imbalance
 - **Symptoms**: Ear fullness, Hear loss, Discomfort
 
 #### Tympanic Membrane Perforation
@@ -99,7 +99,7 @@
 
 #### Otosclerosis
 
-- Abnormal bone growth around the stapes >>> Conductive hearing loss
+- Abnormal bone growth around the stapes → Conductive hearing loss
 - **Symptoms**: Progressive hearing loss, Possible tinnitus (Buzzing or ringing sound)
 
 ---

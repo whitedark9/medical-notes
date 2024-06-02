@@ -87,14 +87,14 @@
 
 #### Valvular Heart Diseases
 
-1. `Aortic Stenosis`: Narrowing of the aortic valve >>> Turbulent blood flow >>> Causes a crescendo-decrescendo systolic murmurs
-1. `Mitral Regurgitation`: Backflow of blood from the left ventricule into the left atrium >>> Causes a holosystolic murmur
-1. `Aortic Regurgitation`: Backflow of blood from the aorta into the left ventricle >>> Causes an early diastolic murmur
-1. `Mitral Stenosis`: Narrowing of the mitral valve >>> Obstructing blood flow from the left atrium to the left ventricle >>> Causes a mid-to-late diastolic murmur with an opening snap
+1. `Aortic Stenosis`: Narrowing of the aortic valve → Turbulent blood flow → Causes a crescendo-decrescendo systolic murmurs
+1. `Mitral Regurgitation`: Backflow of blood from the left ventricule into the left atrium → Causes a holosystolic murmur
+1. `Aortic Regurgitation`: Backflow of blood from the aorta into the left ventricle → Causes an early diastolic murmur
+1. `Mitral Stenosis`: Narrowing of the mitral valve → Obstructing blood flow from the left atrium to the left ventricle → Causes a mid-to-late diastolic murmur with an opening snap
 
 #### Congenital Heart Defects
 
-1. `Ventricular Septal Defect (VSD)`: Hole in the septum between the ventricles >>> Blood flow from left ventricle into right ventricle >>> Causes a holoscopic murmur
+1. `Ventricular Septal Defect (VSD)`: Hole in the septum between the ventricles → Blood flow from left ventricle into right ventricle → Causes a holoscopic murmur
 1. `Atrial Septal Defect (ASD)`: May cause a systolic murmur with fixed splitting of S2
 1. `Patend Ductus Arteriosus (PDA)`: Causes a continuous machinery-like murmur
 

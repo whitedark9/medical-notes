@@ -81,7 +81,7 @@ Cornea has 5 layers, from front to back,
 
 ### Dry Eye
 
-- Tears gland and eyelids abnomalitites >>> Dry eyes >>> Damage to corneal epithelium
+- Tears gland and eyelids abnomalitites → Dry eyes → Damage to corneal epithelium
 
 #### Signs & Symtoms [#DE]
 

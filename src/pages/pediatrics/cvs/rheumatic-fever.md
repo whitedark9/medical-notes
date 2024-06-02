@@ -93,7 +93,7 @@
 1. **CXR**: Cardiomegaly in significant carditis
 1. **Echocardiogram**: Valvular regurgitation in Doppler, mitral and aortic valves may be affected
 
-[^3]: Carditis >>> Inflammation around the AV node and other conduction pathway >>> Slow down the electrical impulse transmission >>> Prolonged PR interval
+[^3]: Carditis → Inflammation around the AV node and other conduction pathway → Slow down the electrical impulse transmission → Prolonged PR interval
 
 ## Complications
 
