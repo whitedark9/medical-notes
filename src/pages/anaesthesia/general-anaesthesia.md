@@ -1,6 +1,6 @@
 # General Anaesthesia (GA)
 
-> A state of controlled unconsciousness induced by medications to perform surgery or other procedures without pain
+> A state of controlled unconsciousness induced by medications to allow surgery or other procedures to be performed without pain
 
 ## Triads of GA
 
