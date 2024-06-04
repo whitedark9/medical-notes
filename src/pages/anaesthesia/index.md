@@ -1,13 +1,13 @@
-# Anesthesia
+# Anaesthesia
 
-## Types of Anesthesia
+## Types of Anaesthesia
 
-1. Local Anesthesia (LA)
-1. Regional Anesthesia (RA)
-1. General Anesthesia (GA)
+1. Local Anaesthesia (LA)
+1. Regional Anaesthesia (RA)
+1. General Anaesthesia (GA)
 1. Sedation
 
-## 1. Local Anesthesia (LA)
+## 1. Local Anaesthesia (LA)
 
 > Administration of anesthetic agents to a specific part of the body to block sensation, especially pain, in that localized area.
 
@@ -39,19 +39,19 @@
 1. Bleeding disorders (e.g. Haemophilia, Thrombocytopenia)
 1. Neurological disorders (e.g. Multiple sclerosis, Peripheral neuropathies)
 
-## 2. Regional Anesthesia (RA)
+## 2. Regional Anaesthesia (RA)
 
 > Blocks sensation in a larger part of the body by targeting specific nerves or spinal segments, without affecting consciousness
 
 ### Types of RA
 
-1. **Spinal(Intrathecal) Anesthesia**: Injection into the subarachnoid space in the lumbar region, affecting lower body areas.
-1. **Epidural Anesthesia**: Injection into the epidural space, often used during childbirth and lower limb surgeries.
+1. **Spinal(Intrathecal) Anaesthesia**: Injection into the subarachnoid space in the lumbar region, affecting lower body areas.
+1. **Epidural Anaesthesia**: Injection into the epidural space, often used during childbirth and lower limb surgeries.
 1. **Peripheral Nerve Blocks**: Targeting specific nerve clusters to anesthetize a limb or specific area.
 
 ### Mechanism of Action [#RA]
 
-- Similar to local anesthesia, regional anesthesia involves the blockade of sodium channels in nerve fibers.
+- Similar to local anaesthesia, regional anaesthesia involves the blockade of sodium channels in nerve fibers.
 
 ### Uses [#RA]
 
@@ -60,7 +60,7 @@
 
 ### Routes [#RA]
 
-![Epidural Space](/anesthesia/epidural.jpg)
+![Epidural Space](/anaesthesia/epidural.jpg)
 
 1. Epidural: Injection into the epidural space
 1. Spinal: Injection into the intrathecal space
@@ -81,15 +81,15 @@
 
 - Tailored to patient's weight, age and specific procedure
 
-## 3. General Anesthesia (GA)
+## 3. General Anaesthesia (GA)
 
-> Induces a reversible state of unconsciousness, amnesia, analgesia, and muscle relaxation for the duration of a surgical procedure.
+> Induces a reversible state of unconsciousness (amnesia), analgesia, and muscle relaxation for the duration of a surgical procedure.
 
 ### Mechanism of Action [#GA]
 
 - **Central Nervous System Depression**: A combination of intravenous and inhaled agents depress the central nervous system to achieve unconsciousness and analgesia.
-- **Inhalation Agents**: Such as `sevoflurane`, `isoflurane`, and `desflurane`.
-- **Intravenous Agents**: Such as `propofol`, `etomidate`, and `ketamine`.
+  - **Inhalation Agents**: Such as `sevoflurane`, `isoflurane`, and `desflurane`.
+  - **Intravenous Agents**: Such as `propofol`, `etomidate`, and `ketamine`.
 
 ### Phases [#GA]
 
@@ -124,7 +124,7 @@
 
 ## 4. Sedation
 
-> A state of calm or sleepiness that reduces anxiety and discomfort, often used in combination with local or regional anesthesia.
+> A state of calm or sleepiness that reduces anxiety and discomfort, often used in combination with local or regional anaesthesia.
 
 ### Levels
 
