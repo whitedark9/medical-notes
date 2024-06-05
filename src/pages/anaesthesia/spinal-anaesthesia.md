@@ -2,7 +2,9 @@
 
 > Type of regional block in which local anaesthesia is injected into the subarachnoid space in the lumbar region, affecting lower body areas.
 
-- Cause major conduction block which refers to blockade of major nerve routes providing surgical anaesthesia
+- Spinal anesthetics **block voltage-gated sodium channels** in the neuronal membrane, preventing the initiation and propagation of **nerve impulses**.
+- The effect is **reversible**, allowing normal sensation to return after the drug wears off
+- e.g., Lidocaine, Bupivacaine
 
 ## Types of Regional Anaesthesia
 
@@ -44,10 +46,12 @@ Surgeries above umbilicus
 - Uncooperative patient
 - Sepsis
 - Pre-existing neurological deficits
-- Demyelinating lesions
-- Stenotic valvular heart lesions
-- Left ventricular outflow obstruction
+- Demyelinating lesions [^1]
 - Severe spinal deformity
+- Stenotic valvular heart lesions (One of the heart valves is narrow)
+- Left ventricular outflow obstruction
+
+[^1]: Myelin sheath sorrounds and protects the nerve fibers in the CNS. It is destroyed in **Demyelinating lesions**.
 
 ### Controversial
 
@@ -88,8 +92,10 @@ Surgeries above umbilicus
 - High block
 - Total spinal block
 - Anaphylaxis
-- Local anaesthetic systemic toxicity (LAST)
 - Urinary retension
+- ~~Local anaesthetic systemic toxicity (LAST)~~ [^2]
+
+[^2]: **LAST**: Life-threatening condition when LA is absorbed into the systemic circulation in excessive amounts.
 
 ### Late
 
@@ -99,3 +105,5 @@ Surgeries above umbilicus
 - Meningitis
 - Spinal cord or nerve root injury
 - Vertebral canal haematoma
+
+---

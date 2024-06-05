@@ -31,7 +31,7 @@ or
 - **Pre-operative preparation**
   - Administer premedication (if indicated) to alleviate anxiety, induce sedation, or reduce secretions.
   - Establish intravenous access for fluid and medication administration.
-- **Administer induction agents** such as propofol, etomidate, thiiopental, or ketamine via IV route
+- **Administer induction agents** such as `propofol`, `etomidate`, `thiopental`, or `ketamine` via IV route
 - **Assist ventilation** to maintain oxygen and carbon dioxide levels
 - **Secure airway** with endotracheal intubation or supraglottis airway device placement
 - **Adjuvant medications**
@@ -60,7 +60,7 @@ or
 
 #### Sequence of Induction Drugs
 
-1. Pre-oxygenation or denitrogenation to fill lungs with 100% oxygen to permit a longer period of apnea during intubation without affecting blood oxygen levels
+1. Pre-oxygenation or denitrogenation to `fill lungs with 100% oxygen` to permit a longer period of apnea during intubation without affecting blood oxygen levels
 1. `Fentanyl` for systemic analgesia during intubation
 1. `Propofol` for sedation for intubation
 1. Switching from `oxygen` to `a mixture of oxygen and inhalational anaesthetic` once intubation is complete
@@ -77,17 +77,18 @@ or
 
 1. Induction
    - The period between the administration of induction agents and loss of consciousness
-   - The patient progresses from analgesia without amnesia to analgesia with amnesia
+   - The patient progresses from `analgesia without amnesia` to `analgesia with amnesia`
 1. Excitement or Delirium
    - The period following loss of consciousness and marked by excited and delirious activity
-   - Respiratory and heart rate may become irregular, there may be uncontrolled movements, vomiting
+   - **Respiratory and heart rate may become irregular**
+   - There may be **uncontrolled movements**, **vomiting**
 1. Surgical Anaesthesia
    - The skeletal muscles relax
    - Vomiting stops
-   - Hallmarks of this stage are respiratory depression and cessation of eye movements
+   - Hallmarks of this stage are **respiratory depression** and **cessation of eye movements**
 1. Medullary Stimulation (Overdose)
    - Occurs when too much anaesthetic medication is given relative to the amount of surgical stimulation
-   - Results in cessation of respiration and potential cardiovascular collapse
+   - Results in **cessation of respiration** and **potential cardiovascular collapse**
    - Lethal without cardiovascular and respiratory support
 
 #### Essential Monitoring During GA
