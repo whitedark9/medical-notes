@@ -3,5 +3,6 @@ export default {
   "general-anaesthesia": "General Anaesthesia",
   "local-anaesthesia": "Local Anaesthesia",
   "spinal-anaesthesia": "Spinal Anaesthesia",
+  "inhalational-anaesthesia": "Inhalational Anaesthesia",
   depolarization: "Depolarization",
 };
