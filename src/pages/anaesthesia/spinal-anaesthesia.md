@@ -4,7 +4,7 @@
 
 - Spinal anesthetics **block voltage-gated sodium channels** in the neuronal membrane, preventing the initiation and propagation of **nerve impulses**.
 - The effect is **reversible**, allowing normal sensation to return after the drug wears off
-- e.g., Lidocaine, Bupivacaine
+- e.g., `Lidocaine`, `Bupivacaine`
 
 ## Types of Regional Anaesthesia
 
