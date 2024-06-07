@@ -2,64 +2,69 @@
 
 ## Properties of the Ideal Anaesthetic Agent
 
+> ထားကြာမီးဝေး၊ တည်ငြိမ်စျေးပေါ၊ နံ့မွှေးသုံးလွယ်၊ လေပြွန်ကျယ်ကောင်း၊ မပြောင်းCBF၊ မတက်ICP၊ မညီcofficeint၊ မကြန့်မကြာ၊ မနာမအန်၊ မသန်မလျော့၊ မပျော့သားအိမ်၊ မိုးတိမ်ဝက်ရူး၊ အဆိပ်မလူး၊ ရောနှောမရှိ၊ ကလေးမထိ။
+
 ### Physical
 
-- Stable compound ( unaffected by light or heat )
-- Non-flammable (Does not support combustion)
-- SVP high enough to allow easy vaporization and production of a clinically relevant concentration
-- Inert when in contact with regularly used equipment e.g rubber, plastic, glass ,soda lime
-- Cheap to manufacture
+- Long shelf life without need for preservatives (**ထားကြာ**)
+- Non-flammable (Does not support combustion) (**မီးဝေး**)
+- Stable compound ( unaffected by light or heat ) (**တည်ငြိမ်**)
+- Cheap to manufacture (**စျေးပေါ**)
+- Non-irritant and non-pungent (**နံ့မွှေး**)
+- Easy to administer (**သုံးလွယ်**)
 - Environmentally friendly
-- Easy to administer
-- Long shelf life without need for preservatives
-- Non-irritant and non-pungent
+- Saturated vapour pressure (SVP) high enough to allow easy vaporization and production of a clinically relevant concentration (**မိုးတိမ်**)
+- Inert when in contact with regularly used equipment e.g rubber, plastic, glass ,soda lime
 
 ### Pharmacology
 
-- Low blood gas coefficient ( to allow rapid onset / recovery)
-- High oil/gas coefficient ( Low MAC, high potency ; allows delivery with a high FiO2)
-- Minimal metabolism with pulmonary excretion ( i.e unaffected by renal / hepatic impairment )
-- Non-toxic, non-allergic, with no trigger for malignant hyperthermia
-- No interaction with other drugs
-- No teratogenic or carcinogenic
+- Rapid onset/offset (**မကြန့်မကြာ**)
+- Low blood gas coefficient ( to allow rapid onset/recovery) (**မညီcoefficient**)
+- High oil gas coefficient ( Low MAC, high potency; allows delivery with a high FiO2)(**မညီcoefficient**)
+- Minimal metabolism with pulmonary excretion ( i.e unaffected by renal/hepatic impairment )
+- Non-toxic, non-allergic, with no trigger for malignant hyperthermia (**အဆိပ်မလူး**)
+- No interaction with other drugs (**ရောနှောမရှိ**)
+- No teratogenic or carcinogenic (**ကလေးမထိ**)
 
 ### CVS
 
-- No cardiovascular depression
-- No decrease in coronary blood flow
+- No cardiovascular depression (**မပျော့**)
+- No decrease in coronary blood flow (**မပြောင်းCBF**)
 - No sensitization of myocardial tissue to catecholamines
 
 ### Respiratory
 
-- No respiratory depression
-- Bronchodilation
+- No respiratory depression (**မပျော့**)
+- Bronchodilation (**လေပြွန်ကျယ်ကောင်း**)
 
 ### CNS
 
-- Analgesic properties
-- Non-epileptogenic
-- No increase in CBF or ICP
+- Analgesic properties (**မနာ**)
+- Non-epileptogenic (**ဝက်ရူး**)
+- No increase in CBF or ICP (**မတက်ICP**)
 - No effect on cerebral autoregulation
-- Muscle relaxation
+- Muscle relaxation (**မသန်**)
 
 ### GI
 
-- Antiemetic properties
-- No effect on uterine tone
+- Antiemetic properties (**မအန်**)
+- No effect on uterine tone (**မပျော့သားအိမ်**)
 
 ## Isoflurane
 
 ### Advantages [#Iso]
 
-- Low Cost:cheaper than sevoflurane
+- Low Cost: cheaper than sevoflurane
 - Bronchodilator
 - No significant toxic metabolites
 - Non-arrhythmogenic
 
 ### Disadvantages [#Iso]
 
-- Concerns about coronary steal syndrome
+- Concerns about coronary steal syndrome [^1]
 - Irritant to airways
+
+[^1]: **Coronary steal syndrome**: blood flow is diverted away from the partially blocked coronary artery → reduction in blood supply to a specific area of heart muscle
 
 ## Desoflurane
 
@@ -73,14 +78,18 @@
 ### Disadvantages [#Deso]
 
 - Expensive
-- Metabolised to toxic metabolites
-- Formation of potentially toxic compounds on interaction with soda lime/baralyyme
+- Metabolized to toxic metabolites
+- Formation of potentially toxic compounds on interaction with soda lime/baralyme [^2]
+
+[^2]: **baralyme**: a mixture of 80% calcium hydroxide and 20% barium hydroixde compounds that is used as an alternative to soda lime
 
 ## Isoflurane, Desoflurane
 
 - All volatile agents
 - May trigger malignant pyrexia in susceptible individuals
-- Higher incidents of PONV compare with total intravenous anesthesia
+- Higher incidents of post-operative nausea and vomiting (PONV) compare with total intravenous anesthesia
 - Possible association with post operative cognitive dysfunction
 - Environmental green house gases
 - Dose dependent CVS/RS depression
+
+---
