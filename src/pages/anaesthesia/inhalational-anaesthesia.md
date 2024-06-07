@@ -85,11 +85,11 @@
 
 ## Isoflurane, Desoflurane
 
-- All volatile agents
-- May trigger malignant pyrexia in susceptible individuals
-- Higher incidents of post-operative nausea and vomiting (PONV) compare with total intravenous anesthesia
-- Possible association with post operative cognitive dysfunction
-- Environmental green house gases
-- Dose dependent CVS/RS depression
+- All **volatile agents**
+- May trigger **malignant pyrexia** in susceptible individuals
+- Higher incidents of **post-operative nausea and vomiting (PONV)** compare with total intravenous anesthesia
+- Possible association with **post operative cognitive dysfunction**
+- Environmental **green house gases**
+- Dose dependent **CVS/RS depression**
 
 ---

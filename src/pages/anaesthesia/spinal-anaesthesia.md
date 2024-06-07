@@ -17,49 +17,50 @@
    - Lower limbs
    - Trunk
 1. Field blocks
+   - Small localized area
 
 ## Indications
 
 Surgeries below umbilicus
 
-1. General
-1. Urology
-1. Obsteric and Gynaecology
-1. Orthopaedics
+1. **General**: Appendicitis, Hernia, Hydrocele
+1. **Urology**: Renal stones, Genital warts & genital ulcer surgeries
+1. **Obsteric and Gynaecology**: Cesarean Section, Ovarian cysts, Sterilization
+1. **Orthopaedics**: Lower limb orthosurgery
 
 Surgeries above umbilicus
 
-- In combination with general anaesthesia or epidural
+- In combination with `general anaesthesia` or `epidural`
 
 ## Contraindications
 
 ### Absolute
 
 - Lack of consent
-- Infection at the site of injection
-- Coagulopathy
-- Severe hypovolemia
-- Increase ICP
+- Infection at the site of injection (Risk of infection spread into brain, meningitis)
+- Coagulopathy (Risk of vertebral hematoma, nerve injury)
+- Severe hypovolemia (Risk hypovolemic shock)
+- Increase intracranial pressure (Risk of brain hernia)
 
 ### Relative
 
 - Uncooperative patient
-- Sepsis
-- Pre-existing neurological deficits
-- Demyelinating lesions [^1]
-- Severe spinal deformity
-- Stenotic valvular heart lesions (One of the heart valves is narrow)
+- Sepsis (e.g., DM foot, compartment syndrome)
+- Pre-existing neurological deficits (e.g., numbness, paraplegia)
+- Demyelinating lesions [^1] (Need more time to reach the usual anaesthetic effect)
+- Severe spinal deformity (e.g, scoliosis, kyphosis, lordosis)
+- Stenotic valvular heart lesions (One of the heart valves is narrow and decrease relative systemic hypovoleaemia)
 - Left ventricular outflow obstruction
 
 [^1]: Myelin sheath sorrounds and protects the nerve fibers in the CNS. It is destroyed in **Demyelinating lesions**.
 
 ### Controversial
 
-- Prior back surgery at the site of injection
+- Previous back surgery at the site of injection
 - Complicated surgery
 - Prolonged operation
 - Major blood loss
-- Maneuvers that compromise respiration
+- Maneuvers that compromise respiration (e.g, prone position, jackknife position)
 
 ## Performing SAB
 
@@ -72,10 +73,12 @@ Surgeries above umbilicus
    - Sitting
    - Jackknife
 
+![Surgery Positions](/anaesthesia/surgery-positions.jpeg)
+
 ## Drugs Used in SAB
 
 - Only preservative free agents should be used
-- Hyperberic, isoberic, hypoberic solutions such as `bupivacaine`, `levobupivacaine`, `prilocaine` and `chloroprocaine`
+- Hyperbaric [^2], isobaric, hypobaric solutions such as `bupivacaine`, `levobupivacaine`, `prilocaine` and `chloroprocaine`
 - Adjuvant medications
   - `Clonidine`: Decrease post-op shivering, post-op nausea and vomiting, emergence delirium
   - `Benzodiazipine`: Decrease pre-op anxiety, mild sedation, emergence phenomenon
@@ -83,24 +86,26 @@ Surgeries above umbilicus
   - `Antiemetic agents`: Prevent nausea and vomiting
   - `NSAIDs`: Analgesics
 
+[^2]: **Hyerbaric solution**: A solution that is higher than atomospheric pressure; **Isobaric**: The same; **Hypobaric**: Lower than;
+
 ## Complications
 
 ### Immediate
 
 - Hypotension
 - Bradycardia
-- High block
+- High block (Higher than the expected level)
 - Total spinal block
-- Anaphylaxis
+- Anaphylaxis (Due to hypersensitivity)
 - Urinary retension
-- ~~Local anaesthetic systemic toxicity (LAST)~~ [^2]
+- ~~Local anaesthetic systemic toxicity (LAST)~~ [^3]
 
-[^2]: **LAST**: Life-threatening condition when LA is absorbed into the systemic circulation in excessive amounts.
+[^3]: **LAST**: Life-threatening condition when LA is absorbed into the systemic circulation in excessive amounts.
 
 ### Late
 
 - Backache
-- PDPD
+- Post-Dural Puncture Headache (PDPH)
 - Cranial nerve palsy
 - Meningitis
 - Spinal cord or nerve root injury
