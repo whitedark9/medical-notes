@@ -2,7 +2,7 @@
 
 ## Pre-Operative Assessment
 
-> A comprehensive evaluation of a patient’s health status before surgery to identify and mitigate potential risks. This process involves gathering medical history, conducting physical examinations, and performing necessary diagnostic tests.
+> A comprehensive evaluation of a patient’s health status before surgery to identify and mitigate potential risks.
 
 ### Components of Preoperative Assessment
 
