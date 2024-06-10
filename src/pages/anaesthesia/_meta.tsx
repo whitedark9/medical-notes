@@ -6,5 +6,6 @@ export default {
   "inhalational-anaesthesia": "Inhalational Anaesthesia",
   "life-support": "Life Support",
   "pre-operative": "Pre-Operative",
+  "oxygen-therapy": "Oxygen Therapy",
   depolarization: "Depolarization",
 };
