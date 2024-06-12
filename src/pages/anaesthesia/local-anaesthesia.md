@@ -8,8 +8,8 @@
 
 ## Maximum Safe Dose
 
-- `Lidocaine`: 3 mg/kg - 7 mg/kg (with epinephrine)
-- `Bupivacaine`: 2 mg/kg - 3 mg/kg (with epinephrine)
+- `Lidocaine`: 3 mg/kg, 7 mg/kg (with epinephrine)
+- `Bupivacaine`: 2 mg/kg, 3 mg/kg (with epinephrine)
 
 ## Local Anaesthetic Toxicity
 
@@ -46,6 +46,7 @@
 - Drownsiness
 - Respiratory depression
 - Convulsions
+- Coma
 
 ### Cardiovascular System (CVS)
 
@@ -78,3 +79,25 @@
 - Use of high-concentration compound local anaesthetic mixtures
 - Inappropriate use of medical devices
 - Administration at greater than recomended dose
+
+### Prevention
+
+1. **Availability of resuscitation equipment**
+   - Regional blocks should always be performed in an area equipped to deal with cardiorespiratory collapse, such as an anaesthetic room or block room within the theatre suite
+1. **Proper dosing**
+   - Dosages should be adjusted according to the patient's age, weight and physical conditions
+1. **Avoid drug mistakening**
+   - Syringes of local anaeasthetic and perineural and epidural infusion should be labelled clearly.
+1. **Reduce infection**
+   - Use of premixed sterile solutions is encourged
+1. **Incremental dosing**
+   - Administer the local anaesthetic in small incremental doses rather than a single large dose
+1. **Test Dose**
+   - An appropriate test dose should be given depending on the situation
+1. **Aspiration before injection**
+   - Gentle aspiration of syringe before injection to avoid injection into the bloodstream
+   - If there is blood in the syringe, withdraw and reposition the needle
+1. **Monitoring**
+   - Verbal contact with the patient must be maintained both during and after drug administration
+1. **Ultrasound guidance**
+   - Ultrasound can help visualize the needle placement and reduce risk of vascular puncture

@@ -113,4 +113,4 @@ or
 #### Neuromuscular Blockade
 
 - `Succinylcholine`, `Pancuronium`: Muscle relaxation, facilitates endotracheal intubation
-- `Neostigmine`, `Sugammadex`: Reversal of neuromuscular blockade
+- `Neostigmine + Atropine`, `Sugammadex`: Reversal of neuromuscular blockade
