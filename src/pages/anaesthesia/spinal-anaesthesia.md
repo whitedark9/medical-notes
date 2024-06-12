@@ -11,7 +11,7 @@
 1. Neuraxial blocks (central nerve blocks)
    - Spinal (Intrathecal) :Inject into subarachnoid space
    - Epidural: Inject into epidural space
-   - Caudal
+   - Caudal: Inject into caudal space
 1. Peripheral blocks
    - Upper limbs
    - Lower limbs
@@ -25,7 +25,7 @@ Surgeries below umbilicus
 
 1. **General**: Appendicitis, Hernia, Hydrocele
 1. **Urology**: Renal stones, Genital warts & genital ulcer surgeries
-1. **Obsteric and Gynaecology**: Cesarean Section, Ovarian cysts, Sterilization
+1. **Obstetric and Gynaecology**: Cesarean Section, Ovarian cysts, Sterilization
 1. **Orthopaedics**: Lower limb orthosurgery
 
 Surgeries above umbilicus

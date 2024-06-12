@@ -34,7 +34,15 @@
 
 ![Oxygen Delivery Devices](/anaesthesia/oxygen-delivery-devices.jpg)
 
-### Nasal Cannula
+### Selecting appropriate oxygen delivery devices
+
+- Patient's comfort and acceptance
+- Level of FiO2 needed
+- Level of humidification
+- Minimal resistance to breathing
+- Efficient and economical use of oxygen
+
+#### Nasal Cannula
 
 - Flow Rate: 1-6 L/min
 - FiO₂: 24-40%
@@ -47,7 +55,7 @@
   - Allows for eating, drinking, and talking
   - Suitable for stable patients with mild oxygen requirements
 
-### Simple Face Mask
+#### Simple Face Mask
 
 - Flow Rate: 6-10 L/min
 - FiO₂: 40-60%
@@ -59,7 +67,7 @@
   - Higher FiO₂ than nasal cannula
   - Simple and easy to apply
 
-### Venturi Mask
+#### Venturi Mask
 
 - Flow Rate: Varies with adapter (usually 4-12 L/min)
 - FiO₂: 24-50% (precise control)
@@ -70,7 +78,7 @@
   - Accurate control of oxygen concentration
   - Reduces risk of CO₂ retention in COPD patients
 
-### Non-Rebreather Mask
+#### Non-Rebreather Mask
 
 - Flow Rate: 10-15 L/min
 - FiO₂: 60-100%
@@ -82,7 +90,7 @@
   - Has a reservoir bag to provide a higher FiO₂
   - One-way valves prevent rebreathing of exhaled air
 
-### High-Flow Nasal Cannula (HFNC)
+#### High-Flow Nasal Cannula (HFNC)
 
 - Flow Rate: Up to 60 L/min
 - FiO₂: Up to 100%
@@ -95,7 +103,7 @@
   - Humidified and heated oxygen, improving comfort and mucociliary function
   - Can provide some degree of positive airway pressure
 
-### Non-Invasive Ventilation (NIV)
+#### Non-Invasive Ventilation (NIV)
 
 - Devices: CPAP (Continuous Positive Airway Pressure) and BiPAP (Bilevel Positive Airway Pressure)
 - Uses:
@@ -108,7 +116,7 @@
   - Supports respiratory effort and improves gas exchange
   - Can reduce the need for intubation and mechanical ventilation
 
-### Mechanical Ventilation
+#### Mechanical Ventilation
 
 - Uses:
   - Severe respiratory failure
