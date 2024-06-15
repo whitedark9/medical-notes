@@ -79,7 +79,7 @@
 
 ## Conjuntiva
 
-![Conjunctiva](/eye/conjunctiva.jpeg)
+![Conjunctiva](/ophthalmology/conjunctiva.jpeg)
 
 ### Allergic Conjunctivitis
 
@@ -179,7 +179,7 @@
 
 > Keratitis is the inflammation of the cornea.
 
-![Keratitis](/eye/keratitis.jpg)
+![Keratitis](/ophthalmology/keratitis.jpg)
 
 #### Signs & Symptoms [#BK]
 
@@ -202,7 +202,7 @@
 
 ### Corneal Ulcers/Abrasions
 
-![Corneal Abrasion](/eye/corneal-abrasion.png)
+![Corneal Abrasion](/ophthalmology/corneal-abrasion.png)
 
 - Injury
 - UV light

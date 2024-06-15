@@ -1,6 +1,6 @@
 # Corneal Diseases
 
-![Cornea](/eye/cornea.jpg)
+![Cornea](/ophthalmology/cornea.jpg)
 
 ## Anatomy
 
@@ -54,7 +54,7 @@ Cornea has 5 layers, from front to back,
 
 ### Arcus Senilis (Corneal arcus)
 
-![Arcus Senilis](/eye/arcus-senilis.jpg)
+![Arcus Senilis](/ophthalmology/arcus-senilis.jpg)
 
 - Most common aging change in the cornea
 - As people get older, a white ring develops in the periphery of the cornea

@@ -28,7 +28,7 @@
 
 ## Primary Glaucoma
 
-![Glaucoma Types](/eye/glaucoma_types.jpg)
+![Glaucoma Types](/ophthalmology/glaucoma_types.jpg)
 
 ### Open Angle Glaucoma
 
@@ -54,7 +54,7 @@
 
 ### Close Angle Glaucoma
 
-![Narrow Angle Glaucoma](/eye/narrow-angle-glaucoma.jpg)
+![Narrow Angle Glaucoma](/ophthalmology/narrow-angle-glaucoma.jpg)
 
 #### Causes [#CAG]
 

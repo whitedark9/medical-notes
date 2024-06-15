@@ -2,14 +2,14 @@
 
 ## Outside the Eyeball
 
-![Eye Muscles](/eye/eye-muscles.webp)
+![Eye Muscles](/ophthalmology/eye-muscles.webp)
 
 - The eye sits in a protective bony socket called `the orbit`
 - [Six extraoccular muscles](/medicine/cns#oculomotor-nerve) in the orbit are attached to the white part of the eye called `the sclera`. They move the eye up and down, side to side, and rotate the eye.
 
 ## Surface of the Eye
 
-![Surface of the Eye](/eye/surface-of-the-eye.webp)
+![Surface of the Eye](/ophthalmology/surface-of-the-eye.webp)
 
 - The surface of the eye and the inner surface of the eyelids are covered with a clear membrane called `conjunctiva`.
 - Tears lubricate the eye and are made up of three layers - mucous layer, watery layer and oil layer. These three layers together are called `tear film`.
@@ -20,22 +20,22 @@
 
 ## Front of the Eye
 
-![Front of the Eye](/eye/anatomy.webp)
+![Front of the Eye](/ophthalmology/anatomy.webp)
 
 - Light enters the eye through the clear, dome-shaped front portion of the eye called the `cornea`.
 - Behind the cornea is a fluid-filled space called the `anterior chamber`. The fluid is called `aqueous humor`. To maintain a constant eye pressure, aqueous humor drains from the eye in an area called the `drainage angle`.
 
-![Drainage Angle](/eye/drainage-angle.webp)
+![Drainage Angle](/ophthalmology/drainage-angle.webp)
 
 - Behind the anterior chamber is `iris`, the colored part of the eye and, `pupil`, the dark hole in the middle. Muscles in the iris dilate or constrict the pupil to control the amount of light reaching the back of the eye, `retina`.
 
-![Anatomy of Eye (3D)](/eye/anatomy-3d.gif)
+![Anatomy of Eye (3D)](/ophthalmology/anatomy-3d.gif)
 
 - Directly behind the pupil is the `lens`. Lens change shape to focus on the object. The lens is surrounded by the `anterior and posterior lens capsules`. Small fibers called `zonules` are attached to the capsule holding the lens, suspending it from the wall.
 
 ## Back of the Eye
 
-![Photoreceptors](/eye/photoreceptors.webp)
+![Photoreceptors](/ophthalmology/photoreceptors.webp)
 
 - The `vitreous cavity`, filled with a jellylike substance called `vitreous humor`, lies between the lens and the back of the eye.
 - Light focused by the cornea and lens passes through the vitreous onto the `retina`, the light-sensitive tissue lining the back of the eye.

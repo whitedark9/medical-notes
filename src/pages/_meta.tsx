@@ -11,10 +11,29 @@ export default {
       pagination: false,
     },
   },
-  eye: "Eye",
-  ent: "ENT",
-  anaesthesia: "Anaesthesia",
+  "pre-block": {
+    title: "Pre-Block",
+    type: "menu",
+    items: {
+      ophthalmology: {
+        title: "Ophthalmology",
+        href: "/pre-block/ophthalmology",
+      },
+      ent: {
+        title: "Ear-Nose-Throat",
+        href: "/pre-block/ent",
+      },
+      anaesthesia: {
+        title: "Anaesthesia",
+        href: "/pre-block/anaesthesia",
+      },
+      radiology: {
+        title: "Radiology",
+        href: "/pre-block/radiology",
+      },
+    },
+  },
   medicine: "Medicine",
-  og: "OG",
+  og: "Obstetric & Gynaecology",
   pediatrics: "Pediatrics",
 };

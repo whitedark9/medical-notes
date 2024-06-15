@@ -89,7 +89,7 @@
 
 > Optic nerve (2nd cranial nerve) transmits visual information from the retina to the brain
 
-![Optic Nerve](/eye/optic-nerve.png)
+![Optic Nerve](/ophthalmology/optic-nerve.png)
 
 - transmit visual signals from the retina to the visual cortex
 
@@ -97,7 +97,7 @@
 
 > Loss of a portion of the visual field due to damage or dysfunction of the optic nerve
 
-![Optic Nerve Field Defect](/eye/field-defect.jpg)
+![Optic Nerve Field Defect](/ophthalmology/field-defect.jpg)
 
 #### Types of Field Defects
 

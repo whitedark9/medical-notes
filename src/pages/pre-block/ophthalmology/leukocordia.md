@@ -4,7 +4,7 @@
 
 > Leukocordia is when the reflected light in the pupil of the eye appears white, gray, silvery or yellow instead of red.
 
-![White reflex](/eye/white-reflex.jpg)
+![White reflex](/ophthalmology/white-reflex.jpg)
 
 ## Causes
 
@@ -54,7 +54,7 @@
 
 ### Cataract
 
-See [cataract](/eye/cataract)
+See [cataract](/ophthalmology/cataract)
 
 ### Retinoblastomia
 
@@ -65,7 +65,7 @@ See [cataract](/eye/cataract)
 
 #### Signs & Symptoms
 
-![Strabismus Types](/eye/strabismus.jpeg)
+![Strabismus Types](/ophthalmology/strabismus.jpeg)
 
 1. Leukocordia (white reflex) - 56%
 1. Strabismus (both eyes do not line up in the same direction) - 20%

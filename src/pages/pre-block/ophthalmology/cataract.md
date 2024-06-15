@@ -4,7 +4,7 @@
 
 ## Anatomy of Lens
 
-![Anatomy of Lens](/eye/cataract-surgery.jpg)
+![Anatomy of Lens](/ophthalmology/cataract-surgery.jpg)
 
 - Lens is a biconvex, avascular transparent structure supsended by zonules behind the iris
 - Parts - Anterior capsule, Posterior capsule, Nucleus, Cortex
@@ -90,7 +90,7 @@
 
 ### ExtraCapsular Cataract Extraction (ECCE)
 
-![Cataract Surgery](/eye/cataract-surgery.jpg)
+![Cataract Surgery](/ophthalmology/cataract-surgery.jpg)
 
 - Incision size is 8-10 mm
 - Open the anterior capsule

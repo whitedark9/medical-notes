@@ -6,7 +6,7 @@
 
 ## Types of Strabismus
 
-![Strabismus Types](/eye/strabismus.jpeg)
+![Strabismus Types](/ophthalmology/strabismus.jpeg)
 
 - Esotropia (Inward Turning)
 - Exotropia (Outward Turning)
