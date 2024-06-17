@@ -1,5 +1,7 @@
 # Soft Tissues of the Chest on X-Ray
 
+![Chest Soft Tissues](/radiology/chest-soft-tissues.jpg)
+
 ## Lungs
 
 ### Structure [#Lung]

@@ -33,7 +33,4 @@ export default {
       },
     },
   },
-  medicine: "Medicine",
-  og: "Obstetric & Gynaecology",
-  pediatrics: "Pediatrics",
 };
