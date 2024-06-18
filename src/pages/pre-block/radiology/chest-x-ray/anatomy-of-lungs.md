@@ -2,16 +2,18 @@
 
 ## Gross Anatomy
 
+![Lung](/radiology/lung.jpg)
+
 ### Right Lung
 
-- **Lobes**: Three lobes (superior, middle, inferior).
-- **Fissures**: Horizontal fissure (between superior and middle lobes), oblique fissure (between middle and inferior lobes).
+- **Lobes**: Three lobes (upper, middle, lower).
+- **Fissures**: Horizontal fissure (between upper and middle lobes), oblique fissure (between middle and lower lobes).
 
 ### Left Lung
 
-- **Lobes**: Two lobes (superior and inferior).
-- **Fissures**: Oblique fissure (separates superior and inferior lobes).
-- **Lingula**: Tongue-like projection of the superior lobe, analogous to the middle lobe of the right lung.
+- **Lobes**: Two lobes (upper and lower).
+- **Fissures**: Oblique fissure (separates upper and lower lobes).
+- **Lingula**: Tongue-like projection of the upper lobe, analogous to the middle lobe of the right lung.
 
 ## Bronchial Tree
 
