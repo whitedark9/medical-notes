@@ -11,26 +11,45 @@ export default {
       pagination: false,
     },
   },
-  "pre-block": {
-    title: "Pre-Block",
-    type: "menu",
-    items: {
-      ophthalmology: {
-        title: "Ophthalmology",
-        href: "/pre-block/ophthalmology",
-      },
-      ent: {
-        title: "Ear-Nose-Throat",
-        href: "/pre-block/ent",
-      },
-      anaesthesia: {
-        title: "Anaesthesia",
-        href: "/pre-block/anaesthesia",
-      },
-      radiology: {
-        title: "Radiology",
-        href: "/pre-block/radiology",
-      },
-    },
+  "pre-bloc": {
+    type: "hidden",
   },
+  ophthalmology: {
+    title: "Ophthalmology",
+    href: "/pre-bloc/ophthalmology",
+  },
+  ent: {
+    title: "Ear-Nose-Throat",
+    href: "/pre-bloc/ent",
+  },
+  anaesthesia: {
+    title: "Anaesthesia",
+    href: "/pre-bloc/anaesthesia",
+  },
+  radiology: {
+    title: "Radiology",
+    href: "/pre-bloc/radiology",
+  },
+  // "pre-bloc": {
+  //   title: "Pre-Bloc",
+  //   type: "menu",
+  //   items: {
+  //     ophthalmology: {
+  //       title: "Ophthalmology",
+  //       href: "/pre-bloc/ophthalmology",
+  //     },
+  //     ent: {
+  //       title: "Ear-Nose-Throat",
+  //       href: "/pre-bloc/ent",
+  //     },
+  //     anaesthesia: {
+  //       title: "Anaesthesia",
+  //       href: "/pre-bloc/anaesthesia",
+  //     },
+  //     radiology: {
+  //       title: "Radiology",
+  //       href: "/pre-bloc/radiology",
+  //     },
+  //   },
+  // },
 };
