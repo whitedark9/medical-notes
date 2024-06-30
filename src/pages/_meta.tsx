@@ -31,6 +31,10 @@ export default {
         title: "Radiology",
         href: "/pre-bloc/radiology",
       },
+      psychiatry: {
+        title: "Psychiatry",
+        href: "/pre-bloc/psychiatry",
+      },
     },
   },
 };

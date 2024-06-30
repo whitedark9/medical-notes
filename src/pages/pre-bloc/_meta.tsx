@@ -4,4 +4,5 @@ export default {
   ent: "Ear-Nose-Throat",
   anaesthesia: "Anaesthesia",
   radiology: "Radiology",
+  psychiatry: "Psychiatry",
 };
