@@ -1,5 +1,6 @@
 # Medical Psychiatry
 
+<<<<<<< HEAD
 ## Aetiology
 
 ### Biological Factors
@@ -50,6 +51,8 @@
   - Certain genetic predispositions may be activated or exacerbated by environmental factors.
   - Examples include the interaction between genetic vulnerability to depression and exposure to stressful life events.
 
+=======
+>>>>>>> b81c63854d14bfc3ebecd7ad3a151a9322e92138
 ## Presenting Problems
 
 1. Delirium
