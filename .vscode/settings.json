@@ -1,0 +1,8 @@
+{
+  "editor.fontSize": 18,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 4,
+  "editor.fontFamily": "Fira Code, Consolas, Source Code Pro, Monaco, JetBrains Mono, Courier New, Menlo, Roboto Mono, Anonymous Pro, Inconsolata"
+}
