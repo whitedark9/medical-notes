@@ -8,5 +8,5 @@ export default {
   "larynx-disorders": "Disorders of Larynx",
   neck: "Anatomy of Neck",
   assessment: "Assessment",
-  mcq: "MCQs",
+  mcqs: "MCQs",
 };

@@ -8,4 +8,5 @@ export default {
   "retinal-diseases": "Retinal Diseases",
   squint: "Squint",
   revision: "Revision",
+  mcqs: "MCQs",
 };
