@@ -37,7 +37,6 @@ export default {
       },
     },
   },
-<<<<<<< HEAD
   bloc: {
     title: "Bloc",
     type: "menu",
@@ -60,6 +59,4 @@ export default {
       },
     },
   },
-=======
->>>>>>> b81c63854d14bfc3ebecd7ad3a151a9322e92138
 };
