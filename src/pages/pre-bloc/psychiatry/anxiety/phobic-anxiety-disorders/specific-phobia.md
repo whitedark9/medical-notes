@@ -1,6 +1,8 @@
-# Specific Phobias 
+# Specific Phobias
 
-> It involve intense, irrational fear of a specific object, situation, or activity that is generally not harmful. This fear leads to avoidance behaviors and significant distress.
+> It involve intense, irrational fear of a specific object, situation, or activity that is generally not harmful.
+
+This fear leads to avoidance behaviors and significant distress.
 
 ## Clinical Features
 
@@ -22,4 +24,3 @@
 
 - **Cognitive Behavioral Therapy (CBT)**: Exposure therapy is particularly effective.
 - **Pharmacotherapy**: Medications are not typically first-line but may include SSRIs or benzodiazepines in severe cases.
-

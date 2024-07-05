@@ -1,6 +1,8 @@
 # Social Phobias (Social Anxiety Disorder)
 
-> It involves an intense fear of social situations where the individual may be exposed to scrutiny by others. This fear often leads to significant avoidance behaviors.
+> It involves an intense fear of social situations where the individual may be exposed to scrutiny by others.
+
+This fear often leads to significant avoidance behaviors.
 
 ## Clinical Features
 

@@ -1,6 +1,8 @@
 # Generalized Anxiety Disorder (GAD)
 
-> A chronic mental health condition characterized by excessive, uncontrollable worry about various aspects of life, such as personal health, work, social interactions, and everyday routine life circumstances. This worry is persistent and often disproportionate to the actual situation.
+> A chronic mental health condition characterized by excessive, uncontrollable worry about various aspects of life, such as personal health, work, social interactions, and everyday routine life circumstances.
+
+This worry is persistent and often disproportionate to the actual situation.
 
 ## Clinical Features
 
