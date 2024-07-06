@@ -67,22 +67,22 @@ Periods of hypomanic symptoms and periods of depressive symptoms lasting for at 
 
 ### Mood Stabilizers
 
-- **Lithium**
+- **`Lithium`**
   - **Mechanism**: Modulates neurotransmission, neuroprotective effects.
   - **Uses**: Acute mania, maintenance therapy.
   - ~~Side Effects~~: Tremor, hypothyroidism, nephrogenic diabetes insipidus, weight gain, renal impairment.
   - ~~Contraindications~~: Severe renal disease, dehydration, cardiovascular disease.
-- **Valproate (Valproic Acid)**
+- **`Valproate` (Valproic Acid)**
   - **Mechanism**: Increases GABA levels, stabilizes mood.
   - **Uses**: Acute mania, maintenance therapy.
   - ~~Side Effects~~: Weight gain, tremor, hair loss, liver toxicity, teratogenicity.
   - ~~Contraindications~~: Liver disease, pregnancy.
-- **Carbamazepine**
+- **`Carbamazepine`**
   - **Mechanism**: Blocks sodium channels, reduces neuron firing.
   - **Uses**: Acute mania, maintenance therapy.
   - ~~Side Effects~~: Drowsiness, dizziness, ataxia, blood dyscrasias.
   - ~~Contraindications~~: Bone marrow suppression, MAOI use.
-- **Lamotrigine**
+- **`Lamotrigine`**
   - **Mechanism**: Inhibits glutamate release, stabilizes mood.
   - **Uses**: Maintenance therapy, bipolar depression.
   - ~~Side Effects~~: Rash, Stevens-Johnson syndrome, dizziness, headache.
@@ -90,7 +90,7 @@ Periods of hypomanic symptoms and periods of depressive symptoms lasting for at 
 
 ### Antipsychotics
 
-- **Atypical Antipsychotics (e.g., Olanzapine, Risperidone, Quetiapine)**
+- **Atypical Antipsychotics (e.g., `Olanzapine`, `Risperidone`, `Quetiapine`)**
   - **Mechanism**: Dopamine and serotonin receptor antagonists.
   - **Uses**: Acute mania, maintenance therapy, bipolar depression (quetiapine).
   - ~~Side Effects~~: Weight gain, metabolic syndrome, sedation, extrapyramidal symptoms.

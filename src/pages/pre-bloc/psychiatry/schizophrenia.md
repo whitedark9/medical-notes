@@ -79,12 +79,12 @@ If there is a history of autism spectrum disorder or a communication disorder of
 
 - **First-Generation Antipsychotics (Typical)**:
   - Examples: `Haloperidol`, `Chlorpromazine`
-  - Mechanism: Dopamine D2 receptor antagonism
-  - Side Effects: Extrapyramidal symptoms (EPS) [^3], tardive dyskinesia [^4], sedation, anticholinergic effects
+  - **Mechanism**: Dopamine D2 receptor antagonism
+  - ~~Side Effects~~: Extrapyramidal symptoms (EPS) [^3], tardive dyskinesia [^4], sedation, anticholinergic effects
 - **Second-Generation Antipsychotics (Atypical)**:
   - Examples: `Risperidone`, `Olanzapine`, `Clozapine`, `Quetiapine`, `Aripiprazole`
-  - Mechanism: Dopamine D2 and serotonin 5-HT2A receptor antagonism
-  - Side Effects: Metabolic syndrome, weight gain, diabetes, dyslipidemia, lower risk of EPS
+  - **Mechanism**: Dopamine D2 and serotonin 5-HT2A receptor antagonism
+  - ~~Side Effects~~: Metabolic syndrome, weight gain, diabetes, dyslipidemia, lower risk of EPS
 
 [^3]: **EPS**: drug-induced movement disorders
 [^4]: **Tardive Dyskinesia**: A late-onset EPS characterized by involuntary, repetitive movements, often of the face, lips, tongue, and extremities.
