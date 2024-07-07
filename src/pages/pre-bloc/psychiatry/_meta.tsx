@@ -3,5 +3,8 @@ export default {
   anxiety: "Anxiety",
   schizophrenia: "Schizophrenia",
   depression: "Depression",
-  bipolar: "Bipolar"
+  bipolar: "Bipolar",
+  alcohol: "Alcohol",
+  substance: "Substance",
+  stress: "Stress",
 };
