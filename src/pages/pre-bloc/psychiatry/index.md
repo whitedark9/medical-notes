@@ -93,3 +93,38 @@
    - Post-partum depression
    - Puerperal psychosis
    - Psychiatric disorders during pregnancy
+
+## Terminology
+
+### Delirium
+
+> Delirium is an acute, fluctuating state of confusion characterized by disturbances in attention, awareness, and cognition. It often develops rapidly and is typically a temporary condition.
+
+### Hallucination
+
+> A hallucination is a false sensory perception that occurs without an external stimulus. It is a vivid perception that seems real but is created by the mind.
+
+#### Examples:
+
+- **Auditory Hallucination**: Hearing voices when no one is speaking.
+- **Visual Hallucination**: Seeing objects or people that are not present.
+- **Tactile Hallucination**: Feeling sensations on the skin (e.g., bugs crawling) without any physical cause.
+
+### Illusion
+
+> An illusion is a distorted or misleading perception of a real external stimulus. Unlike hallucinations, illusions are based on real external stimuli but are misinterpreted by the brain.
+
+#### Examples:
+
+- **Optical Illusion**: Misinterpreting a stick submerged in water as bent due to light refraction.
+- **Auditory Illusion**: Hearing a sound and misinterpreting its source or nature, like mistaking the rustling of leaves for whispering voices.
+
+### Delusion
+
+> A delusion is a firmly held false belief that is resistant to reason or confrontation with actual facts. It is a fixed, false belief that does not change even when presented with evidence to the contrary.
+
+#### Examples:
+
+- **Paranoid Delusion**: Believing that one is being persecuted or conspired against without any proof.
+- **Grandiose Delusion**: Believing that one has exceptional abilities, wealth, or fame despite clear evidence to the contrary.
+- **Somatic Delusion**: Believing that one has a physical illness or defect when no medical condition is present.
