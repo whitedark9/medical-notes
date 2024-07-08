@@ -93,7 +93,7 @@ If there is a history of autism spectrum disorder or a communication disorder of
 
 - Used for **treatment-resistant schizophrenia**
 - Requires regular monitoring of white blood cell count due to risk of agranulocytosis
-- Other side effects: Seizures, myocarditis, sialorrhea
+- Other side effects: Seizures, myocarditis, sialorrhea (hypersalivation)
 
 #### Long-Acting Injectable Antipsychotics
 

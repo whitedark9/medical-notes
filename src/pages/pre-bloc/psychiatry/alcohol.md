@@ -28,10 +28,12 @@ It encompasses a range of behaviors and physical symptoms, including dependence 
 
 ### Alcohol-Related Problems
 
-- **Health Problems**: Liver disease (cirrhosis), pancreatitis, gastrointestinal bleeding, cardiomyopathy, neuropathy, Wernicke-Korsakoff syndrome, and increased risk of cancer.
+- **Health Problems**: Liver disease (cirrhosis), pancreatitis, gastrointestinal bleeding, cardiomyopathy, neuropathy, Wernicke-Korsakoff syndrome [^1], and increased risk of cancer.
 - **Psychiatric Problems**: Depression, anxiety, suicidal ideation, and other mental health disorders.
 - **Social Problems**: Family conflicts, job loss, legal issues, financial difficulties, and impaired relationships.
 - **Risky Behaviors**: Drunk driving, unprotected sex, and violence.
+
+[^1]: **Wernicke-Korsakoff syndrome**: caused by thiamine(B1) deficiency which is abosorbed by GI mucosa which is damaged by alcohol
 
 ## Diagnostic Criteria
 
@@ -109,9 +111,9 @@ A problematic pattern of alcohol use leading to significant impairment or distre
 
 - **Pharmacotherapy**
 
-  - **Disulfiram**: Causes unpleasant reactions when alcohol is consumed, acting as a deterrent.
-  - **Naltrexone**: Reduces cravings and the rewarding effects of alcohol.
-  - **Acamprosate**: Helps maintain abstinence by reducing withdrawal symptoms.
+  - **`Disulfiram`**: Causes unpleasant reactions when alcohol is consumed, acting as a deterrent.
+  - **`Naltrexone`**: Reduces cravings and the rewarding effects of alcohol.
+  - **`Acamprosate`**: Helps maintain abstinence by reducing withdrawal symptoms.
 
 - **Lifestyle Modifications**
   - **Healthy Diet**: Ensures adequate nutrition and addresses deficiencies.
@@ -123,3 +125,5 @@ A problematic pattern of alcohol use leading to significant impairment or distre
 - **Regular Assessments**: Monitor liver function tests, electrolytes, and overall health.
 - **Continued Support**: Ongoing therapy and support groups to maintain sobriety.
 - **Relapse Prevention**: Identify triggers and develop coping strategies to prevent relapse.
+
+---

@@ -80,13 +80,16 @@ Periods of hypomanic symptoms and periods of depressive symptoms lasting for at 
 - **`Carbamazepine`**
   - **Mechanism**: Blocks sodium channels, reduces neuron firing.
   - **Uses**: Acute mania, maintenance therapy.
-  - ~~Side Effects~~: Drowsiness, dizziness, ataxia, blood dyscrasias.
+  - ~~Side Effects~~: Drowsiness, dizziness, ataxia [^1], blood dyscrasias [^2].
   - ~~Contraindications~~: Bone marrow suppression, MAOI use.
 - **`Lamotrigine`**
   - **Mechanism**: Inhibits glutamate release, stabilizes mood.
   - **Uses**: Maintenance therapy, bipolar depression.
   - ~~Side Effects~~: Rash, Stevens-Johnson syndrome, dizziness, headache.
   - ~~Contraindications~~: History of rash with antiepileptic drugs.
+
+[^1]: **Ataxia**: Lack of voluntary coordination of muscle movements (e.g, cerebellar ataxia, sensory ataxia, vestibular ataxia)
+[^2]: **blood dyscrasias**: blood disorders such as anaemia, leukopenia, thrombocytopenia
 
 ### Antipsychotics
 
@@ -134,3 +137,5 @@ Periods of hypomanic symptoms and periods of depressive symptoms lasting for at 
 
 - **Acute Mania**: Hospitalization may be required for severe cases or risk of harm.
 - **Suicidal Ideation**: Immediate intervention and possible hospitalization.
+
+---
