@@ -4,8 +4,8 @@
 
 ## Mechanism of Action
 
-- **Therapeutic Use**: Paracetamol is an analgesic and antipyretic drug, commonly used for pain relief and fever reduction.
-- **Toxic Metabolite**: In overdose, the liver's normal conjugation pathways (sulfation and glucuronidation) become saturated, leading to increased metabolism via the cytochrome P450 system. This produces N-acetyl-p-benzoquinone imine (NAPQI), a toxic metabolite.
+- **Therapeutic Use**: `Paracetamol` is an analgesic and antipyretic drug, commonly used for pain relief and fever reduction.
+- **Toxic Metabolite**: In overdose, the liver's normal conjugation pathways (sulfation and glucuronidation) become saturated, leading to increased metabolism via the cytochrome P450 system. This produces `N-acetyl-p-benzoquinone imine (NAPQI)`, a toxic metabolite.
 - **Glutathione Depletion**: Normally, NAPQI is detoxified by conjugation with glutathione. In overdose, glutathione stores are depleted, and NAPQI accumulates, causing hepatocellular injury.
 
 ## Clinical Features
@@ -14,8 +14,11 @@
 
 1. **Stage I (0-24 hours)**: Nonspecific symptoms such as nausea, vomiting, diaphoresis, pallor.
 2. **Stage II (24-72 hours)**: Right upper quadrant pain, elevated liver enzymes (ALT, AST), and bilirubin levels.
-3. **Stage III (72-96 hours)**: Peak hepatotoxicity with jaundice, coagulopathy, hypoglycemia, hepatic encephalopathy, acute renal failure.
-4. **Stage IV (4 days to 2 weeks)**: Recovery phase or progression to multi-organ failure and death.
+3. **Stage III (72-96 hours)**: Peak hepatotoxicity with jaundice, coagulopathy, hypoglycemia [^1], hepatic encephalopathy, acute renal failure [^2].
+4. **Stage IV (4 days to 2 weeks)**: Recovery phase or progression to multi-organ failure and ~~death~~.
+
+[^1]: Liver damage → Decrease glycogenosis & gluconeogensis → **Hypoglycaemia**
+[^2]: Liver damage → Collected toxic metabolities → **Renal failure**
 
 ## Diagnosis
 
@@ -28,11 +31,11 @@
 
 ### Initial Management
 
-- **Activated Charcoal**: Administer within 1-2 hours of ingestion to reduce absorption.
+- **`Activated Charcoal`**: Administer within 1-2 hours of ingestion to reduce absorption.
 
 ### Antidote
 
-- **N-Acetylcysteine (NAC)**: Replenishes glutathione stores and enhances non-toxic metabolism of paracetamol. Effective if given within 8 hours of ingestion.
+- **`N-Acetylcysteine (NAC)`**: Replenishes glutathione stores and enhances non-toxic metabolism of paracetamol. Effective if given within 8 hours of ingestion.
   - **Oral NAC**: Loading dose of 140 mg/kg, followed by 70 mg/kg every 4 hours for 17 doses.
   - **Intravenous NAC**: Loading dose of 150 mg/kg over 1 hour, followed by 50 mg/kg over 4 hours, then 100 mg/kg over 16 hours.
 
@@ -47,5 +50,5 @@
 
 ## Prognosis
 
-- **Early Intervention**: Good prognosis if NAC is administered within 8 hours.
-- **Delayed Treatment**: Increased risk of severe hepatotoxicity, acute liver failure, and death.
+- **Early Intervention**: Good prognosis if `NAC` is administered within 8 hours.
+- **Delayed Treatment**: Increased risk of severe hepatotoxicity, acute liver failure, and ~~death~~.
