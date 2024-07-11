@@ -147,3 +147,5 @@
 
 - Petechial hemorrhages in a 16-year-old girl have a broad differential diagnosis that includes hematologic, infectious, autoimmune, and drug-related causes.
 - A thorough history, physical examination, and targeted diagnostic testing are essential for identifying the underlying cause and guiding appropriate management.
+
+---

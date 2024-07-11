@@ -15,30 +15,40 @@
 
 ## Differential Diagnoses
 
-1. **Acute Myocardial Infarction (AMI):**
+1. **Acute Myocardial Infarction (AMI) [^1]:**
 
    - Severe, sudden onset chest pain
    - Hypertension as a risk factor
    - Prostration suggests significant cardiovascular compromise
 
-2. **Unstable Angina:**
+[^1]: **AMI**: Plaques formation in coronary arteries → Stress, Inflammation cause plaque rupture → Release of thrombogenic materials into bloodstream → Formation of thrombus by platelets ahesion and aggregation → Increase growth → Partial or total occlusion of coronary artery → Decrease oxygen and blood supply to heart muscle (myocardium) → Ischemia of heart (`Myocardial ischemia`) → If duration is longer, necrosis
+
+2. **Unstable Angina [^2]:**
 
    - Similar presentation to AMI but without myocardial necrosis
    - Requires immediate attention as it can progress to AMI
 
-3. **Aortic Dissection:**
+[^2]: **Angina**: Similar to AMI without necrosis, only `Myocardial ischemia`
+
+3. **Aortic Dissection [^3]:**
 
    - Severe, tearing chest pain that can radiate to the back
    - Hypertension is a significant risk factor
 
-4. **Pulmonary Embolism:**
+[^3]: **Aortic dissection**: Tear in intima layer of aorta → Blood enters the media layer through the tear → Create false lumen → Aortic wall becomes thinner → Risk of rupture (~~Medical Emergency~~)
+
+4. **Pulmonary Embolism [^4]:**
 
    - Sudden onset of chest pain and possible dyspnea
    - Prostration due to compromised hemodynamics
 
-5. **Pericarditis:**
+[^4]: **Pulmonary Embolism**: Thrombus formation (e.g, in `Deep Vein Thrombosis`) → Thrombus breaks loose and travel through the venous system → Reach pulmonary arteries → Occlusion of pulmonary arteries → No perfusion → Hypoxemia → Worsen by bronchoconstriction of inflammatory mediators → `Secondary pulmonary hypertension`; Occlusion of pulmonary arteries → Right ventricular failure → Decrease cardiac output;
+
+5. **Pericarditis [^5]:**
    - Sharp chest pain that may be relieved by sitting up and leaning forward
    - Can present with systemic symptoms like prostration
+
+[^5]: **Pericarditis**: Inflammation of pericardial layers → Increase vascular permeability → Accumulation of fluid in pericardial space (`Pericardial effusion`); Inflammation → Deposits of fibrin on the pericardial surfaces → Rough, thickened pericardial surfaces → Sharp chest pain (relieved by leaning forwards and sitting up, worsen by lying down and deep breath)
 
 ## Immediate Management Plan
 
@@ -127,3 +137,7 @@
 - This patient likely has an acute myocardial infarction, given the presentation of severe retrosternal chest pain, history of hypertension, and signs of cardiovascular compromise.
 - Immediate steps include confirming the diagnosis with ECG and cardiac biomarkers, initiating the MONA protocol, and preparing for possible reperfusion therapy.
 - Regular monitoring, supportive care, and long-term management with lifestyle modifications and medication adjustments are essential.
+
+---
+
+![Layers of Aorta](/cvs/layers-of-aorta.webp)
