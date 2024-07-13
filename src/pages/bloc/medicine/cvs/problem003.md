@@ -16,26 +16,27 @@
 
 ## Differential Diagnoses
 
-1. **Congestive Heart Failure (CHF):**
+### 1. Congestive Heart Failure (CHF) [^1]
 
-   - Breathlessness on exertion
-   - Bilateral lower extremity edema
-   - History of hypertension
+- Breathlessness on exertion
+- Bilateral lower extremity edema
+- History of hypertension
 
-2. **Chronic Obstructive Pulmonary Disease (COPD):**
+### 2. Chronic Obstructive Pulmonary Disease (COPD)
 
-   - Breathlessness, though usually accompanied by a history of smoking or respiratory infections
+- Breathlessness, though usually accompanied by a history of smoking or respiratory infections
 
-3. **Pulmonary Embolism:**
+### 3. Pulmonary Embolism
 
-   - Acute onset of breathlessness, but swelling of both feet is less common
+- Acute onset of breathlessness, but swelling of both feet is less common
 
-4. **Renal Insufficiency:**
+### 4. Renal Insufficiency
 
-   - Can cause fluid retention and lower extremity edema
+- Can cause fluid retention and lower extremity edema
 
-5. **Medication Side Effect:**
-   - `Atenolol`, though less likely, could potentially contribute to heart failure or exacerbate symptoms
+### 5. Medication Side Effect
+
+- `Atenolol`, though less likely, could potentially contribute to heart failure or exacerbate symptoms
 
 ## Immediate Management Plan
 
@@ -43,15 +44,15 @@
 
 1. **Blood Tests:**
 
-   - Complete Blood Count (CBC): To rule out anemia or infection.
-   - Basic Metabolic Panel: To check renal function and electrolytes.
-   - B-type Natriuretic Peptide (BNP): Elevated levels can indicate heart failure.
-   - Liver Function Tests: To rule out hepatic congestion.
+   - **Complete Blood Count (CBC)**: To rule out anemia or infection.
+   - **Basic Metabolic Panel**: To check renal function and electrolytes.
+   - **B-type Natriuretic Peptide (BNP)**: Elevated levels can indicate heart failure.
+   - **Liver Function Tests**: To rule out hepatic congestion.
 
 2. **Imaging:**
 
-   - Chest X-ray: To check for pulmonary congestion, cardiomegaly, or other pulmonary causes.
-   - Echocardiogram: To assess cardiac function, ejection fraction, and rule out valvular disease or structural abnormalities.
+   - **Chest X-ray**: To check for pulmonary congestion, cardiomegaly, or other pulmonary causes.
+   - **Echocardiogram**: To assess cardiac function, ejection fraction, and rule out valvular disease or structural abnormalities.
 
 3. **Electrocardiogram (ECG):**
 
@@ -64,7 +65,7 @@
 
 1. **Diuretics:**
 
-   - Loop diuretics (e.g., `Furosemide`) to manage fluid overload and reduce edema.
+   - `Loop diuretics` (e.g., `Furosemide`) to manage fluid overload and reduce edema.
 
 2. **Optimization of Hypertension Management:**
 
@@ -108,3 +109,33 @@
 - This patient likely has congestive heart failure given his presentation of breathlessness, bilateral edema, and history of hypertension.
 - Immediate steps include confirming the diagnosis with appropriate investigations, initiating diuretic therapy, and optimizing his hypertension management.
 - Regular monitoring and supportive care are essential, followed by long-term management and specialist referral as needed.
+
+---
+
+## Congestive Heart Failure
+
+> Heart Failure → Blood in Lungs → Congestion (Congestive Heart Failure)
+
+### Systolic Heart Failure
+
+> Heart cannot pump blood during ventricular contraction (systole)
+
+- **Ischemic Heart Disease** → Coronary Artery occulsion or blockage → Less oxygen to myocardium (heart muscle) → Decrease contraction
+- **Long-standing hypertension** → Increase arterial blood pressure → Heart pumps blood harder → Hypertrophy of ventricle → Increase Oxygen demands → Weaker contraction
+- **Dilated cardiomyopahy** → Big room of ventricle → Increase preload → Heart pumps blood harder
+
+### Diastolic Heart Failure
+
+> Blood filling defect during ventricular relaxation (diastole)
+
+Blood in ventricle before contraction = Preload
+
+- **Long-standing hypertension** → Hypertropy of ventricle → Less preload (Less room for blood)
+- **Hypertrophic cardiomyopathy**, **Aortic Stenosis** → **Concentric Hypertrophy** → Less preload
+- **Restrictive cardiomyopathy** → Heart muscle cannot stretch → Less preload
+
+### Clinical Features
+
+- Heart Failure → Decrease cardiac output (less blood pumping) → Decrease blood to kidneys → Activate Renin-Angiotensin-Aldosterone System (RAAS) → Na+ and water retention → Fluid retention → **Edema**, **Lung congestion**
+
+- Decrease cardiac output → Increase pulmonary pressure due to backward flow → Fluid accumulation in the lung → Decrease O2 and CO2 perfusion → **Dyspnea**, **Orthopnea**, **PND**, **Cracles**

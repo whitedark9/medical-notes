@@ -18,14 +18,32 @@
 
 ## Likely Diagnosis
 
-The combination of fever, irregularly irregular heart rate, pansystolic murmur, and dyspnea suggests the possibility of `infective endocarditis (IE)`.
+The combination of fever, irregularly irregular heart rate, pansystolic murmur, and dyspnea suggests the possibility of `infective endocarditis (IE)` [^1].
 
 ## Differential Diagnoses
 
-- **Infective Endocarditis (IE):** The irregularly irregular heart rate may suggest atrial fibrillation, and the pansystolic murmur could be indicative of valvular involvement (e.g., mitral regurgitation).
-- **Anemia:** Pallor and low energy may suggest anemia, which can coexist with or be secondary to chronic infection or other systemic illnesses.
-- **Other cardiac conditions:** Such as rheumatic heart disease or congenital heart defects.
-- **Non-cardiac conditions:** Such as chronic infections, connective tissue disorders, or malignancies.
+### 1. Infective Endocarditis (IE)
+
+The irregularly irregular heart rate may suggest `atrial fibrillation` [^2], and the pansystolic murmur could be indicative of valvular involvement (e.g., `mitral regurgitation` [^3]).
+
+[^1]: **IE**: Damage to heart endothelium or heart valve → Platelet-Firbrin deposits on the damaged endothelium → Bacteria colonize and multiply → Forming vegetation → Destroy heart valve → Cause `murmurs`; Vegetation breaks off and travels through the bloodstream → `Embolization`; Bacteria in the bloodstream → Immune-complex formation → Deposition of immune-complex in other tissues (e.g., `Glomerular nephritis`, `Roth Spots`, `Osler's nodes`)
+[^2]: **Atrial fibrillation**: A supraventricular tachyarrhythmia characterized by uncoordinated atrial activation → Ineffective atrial contraction → Irregularly irregular heart rate/pulse
+[^3]: **Systolic murmurs** ← `MR. ASS`: (1) **M**itral **R**egurgitation, (2) Tricuspic Regurgitation, (3) **A**ortic **S**tenosis, (4) Pulmonary Stenosis
+
+### 2. Anemia
+
+Pallor and low energy may suggest anemia, which can coexist with or be secondary to chronic infection or other systemic illnesses.
+
+### 3. Other cardiac conditions
+
+- Rheumatic heart disease
+- Congenital heart defects
+
+### 4. Non-cardiac conditions
+
+- Chronic infections
+- Connective tissue disorders
+- Malignancies.
 
 ## Immediate Management Plan
 
@@ -33,10 +51,10 @@ The combination of fever, irregularly irregular heart rate, pansystolic murmur, 
 
 1. **Blood Tests:**
 
-   - Complete Blood Count (CBC): To check for anemia, leukocytosis, or thrombocytopenia.
-   - Blood Cultures: At least three sets before starting antibiotics to identify causative organism.
-   - Inflammatory Markers: ESR, CRP.
-   - Renal and Liver Function Tests: To assess end-organ damage.
+   - **Complete Blood Count (CBC)**: To check for anemia, leukocytosis, or thrombocytopenia.
+   - **Blood Cultures**: At least three sets before starting antibiotics to identify causative organism.
+   - **Inflammatory Markers**: ESR, CRP.
+   - **Renal and Liver Function Tests**: To assess end-organ damage.
 
 2. **Imaging:**
 
@@ -53,7 +71,7 @@ The combination of fever, irregularly irregular heart rate, pansystolic murmur, 
 
 ### Supportive Care
 
-- **Antipyretics:** For fever management (e.g., acetaminophen).
+- **Antipyretics:** For fever management (e.g., `paracetamol`).
 - **IV Fluids:** To maintain blood pressure and hydration.
 - **Oxygen Therapy:** If dyspnea is significant.
 
@@ -76,3 +94,5 @@ The combination of fever, irregularly irregular heart rate, pansystolic murmur, 
 - This patient likely has infective endocarditis, given her presentation.
 - Immediate steps include obtaining blood cultures, starting empirical antibiotics, and performing an echocardiogram to assess the extent of cardiac involvement.
 - Monitoring and supportive care are essential, followed by long-term management based on culture results and clinical response.
+
+---
