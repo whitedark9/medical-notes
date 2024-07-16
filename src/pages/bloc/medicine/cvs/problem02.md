@@ -15,7 +15,7 @@
 
 1. **Acute Coronary Syndrome (ACS):**
 
-   - Includes unstable angina, non-ST elevation myocardial infarction (NSTEMI), and ST elevation myocardial infarction (STEMI).
+   - Includes `unstable angina`, `non-ST elevation myocardial infarction (NSTEMI)`, and `ST elevation myocardial infarction (STEMI)`.
    - Risk factors: hypertension and diabetes mellitus.
 
 2. **Aortic Dissection:**
@@ -46,9 +46,9 @@
    - Oxygen saturation
 
 2. **Physical Examination:**
-   - Cardiovascular examination: heart sounds, murmurs, gallops.
-   - Respiratory examination: breath sounds, crackles, wheezing.
-   - Peripheral pulses: symmetry, strength.
+   - **Cardiovascular examination**: heart sounds, murmurs, gallops.
+   - **Respiratory examination**: breath sounds, crackles, wheezing.
+   - **Peripheral pulses**: symmetry, strength.
 
 ### Immediate Treatment
 
@@ -85,20 +85,20 @@
 
 1. **MONA Protocol:**
 
-   - **Morphine:** For pain relief.
-   - **Oxygen:** If hypoxia is present.
-   - **Nitroglycerin:** Sublingual or IV for chest pain, unless contraindicated.
-   - **Aspirin:** 325 mg chewable, to inhibit platelet aggregation.
+   - **`Morphine`:** For pain relief.
+   - **`Oxygen`:** If hypoxia is present.
+   - **`Nitroglycerin`:** Sublingual or IV for chest pain, unless contraindicated.
+   - **`Aspirin`:** 325 mg chewable, to inhibit platelet aggregation.
 
 2. **Antithrombotic Therapy:**
 
-   - **Clopidogrel:** Loading dose for antiplatelet effect.
+   - **`Clopidogrel`:** Loading dose for antiplatelet effect.
 
 3. **Anticoagulation:**
 
-   - **Heparin:** IV bolus followed by continuous infusion if ACS is confirmed.
+   - **`Heparin`:** IV bolus followed by continuous infusion if ACS is confirmed.
 
-4. **Beta-blockers:**
+4. **`Beta-blockers`:**
 
    - To reduce myocardial oxygen demand, unless contraindicated.
 
@@ -110,7 +110,7 @@
 
 1. **Blood Pressure Control:**
 
-   - IV antihypertensives (e.g., Labetalol) to rapidly lower BP.
+   - `IV antihypertensives` (e.g., `Labetalol`) to rapidly lower BP.
 
 2. **Surgical Consultation:**
    - Emergency surgery or endovascular repair.
@@ -119,7 +119,7 @@
 
 1. **Anticoagulation:**
 
-   - IV Heparin followed by oral anticoagulants.
+   - `IV Heparin` followed by `oral anticoagulants`.
 
 2. **Supportive Care:**
    - Oxygen therapy, analgesia.
@@ -145,7 +145,7 @@
 
 3. **Cardiology Follow-up:**
    - Regular monitoring and management of cardiac health.
-   - Consideration of long-term medications (e.g., ACE inhibitors, statins).
+   - Consideration of long-term medications (e.g., `ACE inhibitors`, `statins`).
 
 ## Conclusion
 

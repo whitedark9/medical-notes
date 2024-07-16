@@ -102,10 +102,12 @@
 
    - For further evaluation and management, including possible percutaneous coronary intervention (PCI).
 
-2. **Reperfusion Therapy:**
+2. **Reperfusion Therapy [^1]:**
 
    - **Primary PCI:** Preferred method if available within 90 minutes of first medical contact.
    - **Thrombolysis:** If PCI is not available within the recommended time frame.
+
+[^1]: **Reperfusion Therapy**: A procedure to restore blood flow, either through or around the blocked arteries; It includes both drugs and surgeries.
 
 3. **Management of Complications:**
    - **Heart Failure:** If present, manage with `diuretics`, `ACE inhibitors`, and other appropriate medications.

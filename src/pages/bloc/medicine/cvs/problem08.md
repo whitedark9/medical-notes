@@ -1,6 +1,8 @@
-# Rheumatic Heart Disease with Dyspnoea, Orthopnoea, Blood Stained Sputum
+# Rheumatic Heart Disease with Dyspnoea, Orthopnoea
 
 > A 55 year old lady with rheumatic heart disease was admitted with acute dyspnoea, orthopnoea and cough with frothy blood stained sputum. How would you manage her?
+
+> A 30 year old lady with history of rheumatic mitral stenosis was admitted for acute breathlessness associated with cough and frothy expectoration. Outline the management plan.
 
 ## Clinical Presentation
 
@@ -13,7 +15,7 @@
 
 ## Likely Diagnosis
 
-The presentation suggests acute pulmonary edema, likely secondary to decompensated heart failure due to rheumatic heart disease. Mitral stenosis or mitral regurgitation, common complications of rheumatic heart disease, could precipitate this condition.
+The presentation suggests `acute pulmonary edema`, likely secondary to decompensated `heart failure` due to rheumatic heart disease. `Mitral stenosis` or `mitral regurgitation`, common complications of rheumatic heart disease, could precipitate this condition.
 
 ## Immediate Management Plan
 
@@ -24,34 +26,38 @@ The presentation suggests acute pulmonary edema, likely secondary to decompensat
    - Blood pressure
    - Heart rate
    - Respiratory rate
-   - Oxygen saturation
+   - Oxygen saturation.
 
 2. **Physical Examination:**
-   - Auscultation for crackles/rales in the lungs
-   - Presence of S3 or S4 heart sounds
-   - Signs of peripheral edema
+   - Crackles/rales in the lungs
+   - Heart murmurs
+   - Jugular venous distension
+   - Peripheral edema.
+
+> Acute condition starts with treatment before investigation.
 
 ### Immediate Treatment
 
 1. **Oxygen Therapy:**
 
-   - High-flow oxygen via face mask or non-rebreather mask to maintain oxygen saturation > 94%.
+   - `High-flow oxygen` via face mask or non-rebreather mask to maintain oxygen saturation > 94%.
    - Consider non-invasive ventilation (CPAP or BiPAP) if severe respiratory distress or hypoxia persists.
 
 2. **Positioning:**
 
-   - Keep the patient in an upright position to reduce pulmonary congestion.
+   - Keep the patient in an `upright position` to reduce pulmonary congestion.
 
 3. **Diuretics:**
 
-   - IV Furosemide to reduce fluid overload and alleviate pulmonary congestion.
+   - `IV Furosemide` to reduce fluid overload and alleviate pulmonary congestion.
 
 4. **Vasodilators:**
 
-   - IV Nitroglycerin to reduce preload and afterload (if blood pressure allows).
+   - `IV Nitroglycerin` to reduce preload and afterload, provided blood pressure is adequate.
 
-5. **Morphine:**
-   - For symptom relief and to reduce anxiety and dyspnea.
+5. **`Morphine`:**
+
+   - For symptom relief, to reduce anxiety and dyspnea.
 
 ### Monitoring
 
@@ -75,10 +81,16 @@ The presentation suggests acute pulmonary edema, likely secondary to decompensat
    - To evaluate the severity of valvular disease and assess left ventricular function.
 
 4. **Blood Tests:**
+
    - Complete Blood Count (CBC)
    - Basic Metabolic Panel
    - B-type Natriuretic Peptide (BNP) or N-terminal pro BNP (NT-proBNP)
    - Arterial Blood Gas (ABG) if severe respiratory distress or hypoxia persists.
+
+5. **Physical Examination:**
+   - Auscultation for crackles/rales in the lungs
+   - Presence of S3 or S4 heart sounds
+   - Signs of peripheral edema
 
 ### Advanced Management
 
@@ -91,12 +103,13 @@ The presentation suggests acute pulmonary edema, likely secondary to decompensat
    - Management of the underlying rheumatic heart disease:
      - Consideration of surgical or percutaneous intervention for mitral stenosis or regurgitation.
      - Long-term anticoagulation if atrial fibrillation is present.
-     - Management of heart failure with ACE inhibitors, beta-blockers, and diuretics as needed.
+     - Management of heart failure with `ACE inhibitors`, `beta-blockers`, and `diuretics` as needed.
 
 3. **Antibiotic Prophylaxis:**
+   - `Penicillin V`, `Amoxillin`, `Benzathine Pencillin G`, `Erythromycin`
    - For rheumatic fever prophylaxis to prevent recurrence of rheumatic heart disease.
 
-### Patient Education and Follow-up
+### Follow-up and Long-term Management
 
 1. **Education:**
 
