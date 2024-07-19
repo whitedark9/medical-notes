@@ -35,6 +35,10 @@ export default {
         title: "Psychiatry",
         href: "/pre-bloc/psychiatry",
       },
+      hiv: {
+        title: "HIV",
+        href: "/pre-bloc/hiv"
+      }
     },
   },
   bloc: {

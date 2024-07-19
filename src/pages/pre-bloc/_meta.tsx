@@ -5,4 +5,5 @@ export default {
   anaesthesia: "Anaesthesia",
   radiology: "Radiology",
   psychiatry: "Psychiatry",
+  hiv: "HIV"
 };
