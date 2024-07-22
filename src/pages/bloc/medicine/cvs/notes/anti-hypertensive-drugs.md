@@ -165,3 +165,5 @@
   - Vasodilation → reduced systemic vascular resistance → blood pressure.
 - ~~Side Effects~~: Reflex tachycardia, fluid retention, lupus-like syndrome (hydralazine)
 - ~~Contraindications~~: Severe coronary artery disease, mitral valve rheumatic heart disease (hydralazine)
+
+---
