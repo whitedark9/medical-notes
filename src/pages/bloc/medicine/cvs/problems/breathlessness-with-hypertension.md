@@ -107,8 +107,8 @@
 
 #### Acute Coronary Syndrome (ACS)
 
-1. **Antiplatelet Therapy**: Aspirin 300 mg chewable.
-2. **Anticoagulation Therapy**: Unfractionated heparin or enoxaparin.
+1. **Antiplatelet Therapy**: `Aspirin` 300 mg chewable.
+2. **Anticoagulation Therapy**: Unfractionated `heparin` (60 U/kg bolus, then 12 U/kg/hr) or `enoxaparin` (1 mg/kg SC every 12 hours).
 3. **Beta-Blockers**: To reduce myocardial oxygen demand (if not contraindicated).
 4. **Reperfusion Therapy**: Consider primary PCI or thrombolysis if STEMI is confirmed.
 5. **Nitroglycerin**: Sublingual or IV for chest pain and to reduce cardiac workload.
@@ -123,8 +123,8 @@
 
 #### Chronic Obstructive Pulmonary Disease (COPD) Exacerbation
 
-1. **Bronchodilators**: Short-acting beta-agonists (e.g., albuterol) or anticholinergics (e.g., ipratropium).
-2. **Systemic Corticosteroids**: Prednisone or IV methylprednisolone.
+1. **Bronchodilators**: Short-acting beta-agonists (e.g., `albuterol`) or anticholinergics (e.g., `ipratropium`).
+2. **Systemic Corticosteroids**: `Prednisone` or IV methylprednisolone.
 3. **Antibiotics**: If a bacterial infection is suspected.
 4. **Non-invasive Ventilation**: CPAP or BiPAP if the patient is in respiratory distress.
 5. **Smoking Cessation**: Strongly advise cessation if the patient is a smoker.
