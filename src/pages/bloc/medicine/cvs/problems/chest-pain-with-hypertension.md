@@ -165,7 +165,7 @@
 
 ### Follow-up and Long-term Management
 
-1. **Lifestyle Changes**: Diet, exercise, smoking cessation.
+1. **Lifestyle Modification**: Diet, exercise, smoking cessation.
 2. **Medications**: Adherence to prescribed medications for hypertension, hyperlipidemia, and other comorbid conditions.
 3. **Regular Follow-Up & Monitoring**: Regular appointments with primary care and relevant specialists, and monitor chronic conditions
 4. **Patient Education**: Importance of medication adherence, lifestyle modifications, and recognition of symptoms.
