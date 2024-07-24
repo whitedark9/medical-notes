@@ -97,12 +97,17 @@
 
 ### Investigation
 
-1. **ECG**: Obtain 12-lead ECG to assess for ST-segment changes, ischemic changes, arrhythmias, or signs of pericarditis.
-2. **Cardiac Biomarkers**: Measure troponins to confirm or rule out AMI.
-3. **Chest X-ray**: To rule out aortic dissection, pulmonary pathology
-4. **Echocardiography**: If aortic dissection or other structural heart disease is suspected.
+1. **Electrocardiogram (ECG)**: To assess for any ischemic changes or arrhythmias.
+2. **Chest X-ray**: To evaluate heart size, pulmonary congestion, and other lung pathology.
+3. **Blood Tests**:
+   - **Complete Blood Count (CBC)**: To check for anemia or infection.
+   - **Serum Electrolytes, BUN, and Creatinine**: To assess kidney function.
+   - **Liver Function Tests (LFTs)**: To evaluate liver function.
+   - **Natriuretic Peptides (BNP or NT-proBNP)**: To help diagnose heart failure.
+   - **Cardiac Enzymes (Troponins)**: To assess for myocardial infarction.
+   - **D-dimer [^3]**: If pulmonary embolism is suspected.
+4. **Echocardiography**: To assess cardiac function and structure.
 5. **CT Angiography**: If aortic dissection is suspected.
-6. **D-dimer [^3]**: If pulmonary embolism is suspected.
 
 [^3]: **D-Dimer**: It is produced when fibrin, a protein involved in blood clotting, is broken down by plasmin. Elevated levels of D-Dimer indicate the presence of an abnormal blood clotting process in the body.
 
@@ -111,7 +116,7 @@
 #### Acute Coronary Syndrome (ACS)
 
 1. **Beta-Blockers**: Administer if not contraindicated (e.g., IV `metoprolol` 5 mg every 5 minutes up to 15 mg).
-2. **Statins**: High-intensity statin therapy (e.g., `atorvastatin` 80 mg).
+2. **Statins (Lipid-lowering agents)**: High-intensity statin therapy (e.g., `atorvastatin` 80 mg).
 
 #### Aortic Dissection
 
@@ -124,17 +129,16 @@
 
 #### Pulmonary Embolism
 
-1. **Anticoagulation**:
-   - **Initial**: IV `heparin` bolus followed by continuous infusion or enoxaparin.
-2. **Supportive Care**:
-   - **Oxygen Therapy**: Maintain SpO2 > 90%.
+1. **Anticoagulation**: IV `heparin` bolus followed by continuous infusion or low molecular weight heparin (e.g., `enoxaparin`).
+2. **Oxygen Therapy**: To maintain SpO2 > 90%.
 3. **Thrombolytic Therapy**: Consider in cases of massive PE with hemodynamic instability.
+4. **Supportive Care**: Pain management and fluid balance.
 
 #### Pericarditis
 
 1. **Anti-inflammatory Therapy**:
    - **NSAIDs**: `Ibuprofen` or `aspirin` for pain and inflammation.
-   - **Colchicine**: To reduce symptoms and recurrence.
+   - **`Colchicine`**: To reduce symptoms and recurrence.
 2. **Supportive Care**:
    - **Analgesics**: For pain relief.
    - **Positioning**: Encourage the patient to sit up and lean forward to relieve pain.
@@ -142,10 +146,10 @@
 #### Gastroesophageal Reflux Disease (GERD)
 
 1. **Symptomatic Relief**:
-   - **Antacids**: For immediate relief.
+   - **`Antacids`**: For immediate relief.
    - **Proton Pump Inhibitors (PPIs)**: `Omeprazole` or `pantoprazole`.
 2. **Diet and Lifestyle Modifications**:
-   - Avoid trigger foods, elevate head of bed, weight loss if indicated.
+   - Avoid trigger foods, elevate head of bed, reduce weight if indicated.
 
 ### Monitoring and Reassessment
 

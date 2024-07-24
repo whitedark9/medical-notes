@@ -162,7 +162,7 @@
 - **Usage**: Directly dilate blood vessels, reducing blood pressure
 - **Mechanism of Action**:
   - Act directly on vascular smooth muscle to cause relaxation.
-  - Vasodilation → reduced systemic vascular resistance → blood pressure.
+  - Vasodilation → reduced systemic vascular resistance → Decrease blood pressure.
 - ~~Side Effects~~: Reflex tachycardia, fluid retention, lupus-like syndrome (hydralazine)
 - ~~Contraindications~~: Severe coronary artery disease, mitral valve rheumatic heart disease (hydralazine)
 

@@ -6,7 +6,7 @@
 
 - **Patient:** 65-year-old woman
 - **History:**
-  - Sudden onset of shortness of breath for one hour
+  - `Sudden onset` of shortness of breath for one hour
   - Intermittent breathlessness on exertion for one month
   - Paroxysmal nocturnal dyspnea (PND) for a few days
   - Blood pressure: 180/100 mmHg at admission
@@ -16,24 +16,29 @@
 
 ### 1. **Acute Heart Failure / Acute Pulmonary Edema**
 
+> Acute heart failure oftens leads to acute pulmonary edema.
+
 - **Clinical Features**:
   - Sudden onset of shortness of breath
   - Orthopnea (needing to sit up at night due to breathlessness)
   - Hypertension (180/100 mmHg)
   - History of breathlessness on exertion
 - **Pathophysiology**:
-  - Elevated blood pressure and diabetes can lead to left ventricular dysfunction.
-  - Fluid backs up into the lungs, causing pulmonary congestion and edema.
+  - Acute myocardial infarction (MI) or ischemia → `Impaired left ventricular function` → Decreased cardiac output → Increase left ventricular end-diastolic volume (LVEDV) → Increased left atrial pressure → Increased pulmonary venous pressure → Fluid transudation into the pulmonary interstitium and alveoli → `Pulmonary edema`
+  - Fluid in alveoli → Impaired gas exchange → Hypoxia (`Breathlessness`)
+  - Fluid backs up into the lungs, causing pulmonary congestion and `edema`.
 
 ### 2. **Acute Coronary Syndrome (ACS)**
+
+> Conditions where coronary blood supply to heart muscles was blocked, Includes **unstable angina**, **Non-ST elevation myocardial infarction (NSTEMI)**, and **ST elevation myocardial infarction (STEMI)**.
 
 - **Clinical Features**:
   - Sudden onset of shortness of breath (can be an anginal equivalent)
   - History of hypertension and diabetes (risk factors for coronary artery disease)
   - Orthopnea and exertional breathlessness can indicate cardiac ischemia.
 - **Pathophysiology**:
-  - Plaque rupture or thrombosis in coronary arteries leading to myocardial ischemia or infarction.
-  - Reduced cardiac output and pulmonary congestion can result.
+  - Plaques formation in coronary arteries → Stress, Inflammation cause plaque rupture → Release of thrombogenic materials into bloodstream → Formation of thrombus by platelets ahesion and aggregation → Increase growth → Total occlusion of coronary artery → No oxygen and blood supply to heart muscle (myocardium) → Necrosis (in `Acute Myocardial Infarction`)
+  - Partial ooclusion → Reduced oxygen and blood supply → Myocardial ischemia (in `Unstable Angina`)
 
 ### 3. **Pulmonary Embolism (PE)**
 
@@ -42,28 +47,33 @@
   - History of immobility or other risk factors (diabetes can be a risk factor)
   - Possible chest pain or hemoptysis.
 - **Pathophysiology**:
-  - Thrombus lodges in pulmonary arteries, obstructing blood flow.
-  - Increased pulmonary artery pressure and strain on the right heart.
+  - Thrombus formation (e.g, in `Deep Vein Thrombosis`) → Thrombus breaks loose and travel through the venous system → Reach pulmonary arteries → Occlusion of pulmonary arteries → No perfusion → Hypoxemia → Worsen by bronchoconstriction of inflammatory mediators → `Secondary pulmonary hypertension`
+  - Occlusion of pulmonary arteries → Right ventricular failure → Decrease cardiac output
 
 ### 4. **Chronic Obstructive Pulmonary Disease (COPD) Exacerbation**
+
+> COPD is a chronic inflammatory lung disease that causes obstructed airflow from the lungs.
 
 - **Clinical Features**:
   - Sudden worsening of shortness of breath.
   - History of chronic breathlessness on exertion.
   - Orthopnea can occur due to diaphragmatic impairment.
 - **Pathophysiology**:
-  - Chronic inflammation and narrowing of the airways.
-  - Acute exacerbation can be triggered by infection or other factors, leading to increased airway resistance and gas trapping.
+  - **Airway remodeling**: Chronic inflammation in the airways, lung parenchyma, and pulmonary vasculature → Structural changes in the airways → Narrowing and fibrosis
+  - Excessive mucus production → Airway obstruction
+  - `Emphysema`: Destruction of alveolar walls (protease-antiprotease imbalance) → Loss of elastic recoil and alveolar attachments → Air trapping and hyperinflation
+  - Thickening of pulmonary vessels → `Pulmonary hypertension`
 
 ### 5. **Pneumonia**
+
+> Pneumonia is an infection that inflames the air sacs in one or both lungs, which may fill with fluid or pus.
 
 - **Clinical Features**:
   - Sudden onset of shortness of breath.
   - History of breathlessness on exertion could be indicative of underlying lung pathology.
   - Fever, cough, and sputum production might be present.
 - **Pathophysiology**:
-  - Infection of the lung parenchyma.
-  - Inflammatory response causes alveolar filling and impaired gas exchange.
+  - Infection in respiratory tract → Release Neutrophils and inflammatory mediators → Damage to alveolar-capillary membrane → Increased permeability → Formation of exudate → Consolidation and impaired gas exchange
 
 ## Management
 
@@ -99,34 +109,46 @@
 
 #### Acute Heart Failure / Acute Pulmonary Edema
 
-1. **Diuretics**: IV furosemide to reduce fluid overload.
-2. **Vasodilators**: Nitroglycerin to reduce preload and afterload (if blood pressure allows).
+1. **Diuretics**: IV `furosemide` to reduce fluid overload.
+2. **Vasodilators**: `Nitroglycerin` to reduce preload and afterload (if blood pressure allows).
 3. **Morphine**: For pain relief and to reduce preload (if not contraindicated).
 4. **Continuous Monitoring**: Vital signs, urine output, and response to treatment.
 5. **ACE Inhibitors/ARBs**: To manage hypertension and reduce cardiac workload.
 
 #### Acute Coronary Syndrome (ACS)
 
-1. **Antiplatelet Therapy**: `Aspirin` 300 mg chewable.
-2. **Anticoagulation Therapy**: Unfractionated `heparin` (60 U/kg bolus, then 12 U/kg/hr) or `enoxaparin` (1 mg/kg SC every 12 hours).
-3. **Beta-Blockers**: To reduce myocardial oxygen demand (if not contraindicated).
-4. **Reperfusion Therapy**: Consider primary PCI or thrombolysis if STEMI is confirmed.
-5. **Nitroglycerin**: Sublingual or IV for chest pain and to reduce cardiac workload.
-6. **Continuous Monitoring**: ECG, cardiac enzymes, and vital signs.
+1. **Administer MONA Protocol for Suspected ACS**:
+
+   - **`Morphine`**: 2-4 mg IV for severe pain not relieved by nitrates.
+   - **`Oxygen`**: 2-4 L/min via nasal cannula if SpO2 < 94%.
+   - **`Nitrates`**: Sublingual `nitroglycerin` 0.4 mg every 5 minutes, up to 3 doses.
+   - **`Aspirin`**: 300 mg chewable.
+
+2. **Evaluate for Reperfusion Therapy** (if ACS is suspected):
+
+   - **Primary Percutaneous Coronary Intervention (PCI) [^1]**: If available within 90 minutes, transfer to a facility capable of PCI.
+   - **Thrombolysis**: If PCI not available, administer fibrinolytic therapy [^2] (e.g., alteplase).
+
+[^1]: **Primary PCI**: A non-surgical procedure using a catheter to place a stent to open up blood vessels in the heart that have been narrowed by plaque buildup
+[^2]: **Fibrinolytic (Thrombolytic) Therapy**: Administration of medication to dissolve blood clots obstructing the coronary arteries
+
+3. **Administer Antiplatelet and Anticoagulation Therapy**:
+   - **Dual Antiplatelet Therapy (DAPT)**: `Aspirin` + `P2Y12 inhibitor` (`clopidogrel` 300 mg or `ticagrelor` 180 mg).
+   - **Anticoagulants**: Unfractionated `heparin` (60 U/kg bolus, then 12 U/kg/hr) or `enoxaparin` (1 mg/kg SC every 12 hours).
 
 #### Pulmonary Embolism (PE)
 
-1. **Anticoagulation**: IV heparin bolus followed by continuous infusion or low molecular weight heparin (e.g., enoxaparin).
-2. **Oxygen Therapy**: To maintain SpO2 > 90%.
+1. **Anticoagulation**: IV `heparin` bolus followed by continuous infusion or low molecular weight heparin (e.g., `enoxaparin`).
+2. **Oxygen Therapy**: To maintain SpO2 > 90%. CPAP or BiPAP if the patient is in respiratory distress.
 3. **Thrombolytic Therapy**: Consider in cases of massive PE with hemodynamic instability.
 4. **Supportive Care**: Pain management and fluid balance.
 
 #### Chronic Obstructive Pulmonary Disease (COPD) Exacerbation
 
 1. **Bronchodilators**: Short-acting beta-agonists (e.g., `albuterol`) or anticholinergics (e.g., `ipratropium`).
-2. **Systemic Corticosteroids**: `Prednisone` or IV methylprednisolone.
+2. **Systemic Corticosteroids**: `Prednisone` or IV `methylprednisolone`.
 3. **Antibiotics**: If a bacterial infection is suspected.
-4. **Non-invasive Ventilation**: CPAP or BiPAP if the patient is in respiratory distress.
+4. **Oxygen Therapy**: To maintain SpO2 > 90%. CPAP or BiPAP if the patient is in respiratory distress.
 5. **Smoking Cessation**: Strongly advise cessation if the patient is a smoker.
 
 #### Pneumonia
@@ -147,3 +169,5 @@
 2. **Medications**: Adherence to prescribed medications for hypertension, hyperlipidemia, and other comorbid conditions.
 3. **Regular Follow-Up & Monitoring**: Regular appointments with primary care and relevant specialists, and monitor chronic conditions
 4. **Patient Education**: Importance of medication adherence, lifestyle modifications, and recognition of symptoms.
+
+---
