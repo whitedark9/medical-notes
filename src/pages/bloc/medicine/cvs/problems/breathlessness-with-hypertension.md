@@ -110,10 +110,10 @@
 #### Acute Heart Failure / Acute Pulmonary Edema
 
 1. **Diuretics**: IV `furosemide` to reduce fluid overload.
-2. **Vasodilators**: `Nitroglycerin` to reduce preload and afterload (if blood pressure allows).
-3. **Morphine**: For pain relief and to reduce preload (if not contraindicated).
-4. **Continuous Monitoring**: Vital signs, urine output, and response to treatment.
-5. **ACE Inhibitors/ARBs**: To manage hypertension and reduce cardiac workload.
+2. **ACE Inhibitors/ARBs**: To manage hypertension and reduce cardiac workload. (e.g., `enalapril`, `losartan`).
+3. **Vasodilators**: `Nitroglycerin` to reduce preload and afterload (if blood pressure allows).
+4. **Morphine**: For pain relief and to reduce preload (if not contraindicated).
+5. **Continuous Monitoring**: Vital signs, urine output, and response to treatment.
 
 #### Acute Coronary Syndrome (ACS)
 
@@ -145,7 +145,7 @@
 
 #### Chronic Obstructive Pulmonary Disease (COPD) Exacerbation
 
-1. **Bronchodilators**: Short-acting beta-agonists (e.g., `albuterol`) or anticholinergics (e.g., `ipratropium`).
+1. **Bronchodilators**: Short-acting beta-agonists (e.g., `albuterol`) or anticholinergics (e.g., `ipratropium`). Long-acting bronchodilators for maintanace therapy.
 2. **Systemic Corticosteroids**: `Prednisone` or IV `methylprednisolone`.
 3. **Antibiotics**: If a bacterial infection is suspected.
 4. **Oxygen Therapy**: To maintain SpO2 > 90%. CPAP or BiPAP if the patient is in respiratory distress.
