@@ -1,6 +1,6 @@
 # Heat Stroke
 
-> Heat stroke is a life-threatening condition characterized by a body temperature of 40°C (104°F) or higher, along with central nervous system dysfunction. It is a medical emergency requiring immediate intervention.
+> Heat stroke is a ~~life-threatening condition~~ characterized by a body temperature of 40°C (104°F) or higher, along with central nervous system dysfunction. It is a ~~medical emergency~~ requiring immediate intervention.
 
 ## Types of Heat Stroke
 
@@ -68,6 +68,8 @@
 
 ## Treatment
 
+> **HEAT**: _**T**emperature Control_, _**A**irway_, _**E**lectrolyte_, _**H**ydration_
+
 ### Immediate Cooling
 
 - **Rapid Cooling**: Priority to lower core temperature to below 39°C (102.2°F).
@@ -79,8 +81,8 @@
 ### Supportive Care
 
 - **Airway Management**: Ensure patent airway and support breathing as needed.
-- **Hydration**: Intravenous fluids (normal saline or Ringer’s lactate).
 - **Electrolyte Management**: Correct imbalances.
+- **Hydration**: Intravenous fluids (normal saline or Ringer’s lactate).
 - **Monitoring and Management of Complications**:
   - **Renal Failure**: Monitor urine output, consider dialysis if needed.
   - **Rhabdomyolysis**: Aggressive hydration, monitor CK levels.
@@ -97,4 +99,4 @@
 ## Prognosis
 
 - **Early Intervention**: Critical to reducing mortality and morbidity.
-- **Complications**: Can include multi-organ failure, permanent neurological damage, and death if not promptly treated.
+- **Complications**: Can include multi-organ failure, permanent neurological damage, and ~~death~~ if not promptly treated.

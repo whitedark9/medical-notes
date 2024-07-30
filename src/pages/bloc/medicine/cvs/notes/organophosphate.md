@@ -12,7 +12,7 @@
 
 ## Clinical Features
 
-### Nicotinic Effects
+### Nicotinic Effects (Man PoWer)
 
 - **Muscle Fasciculations**: Involuntary muscle twitches.
 - **Weakness**: Generalized muscle weakness.
@@ -67,3 +67,5 @@
 
 - **Early Intervention**: Prompt recognition and treatment improve prognosis.
 - **Delayed Treatment**: Can lead to severe complications, including prolonged ventilatory support, neurologic deficits, or ~~death~~.
+
+---

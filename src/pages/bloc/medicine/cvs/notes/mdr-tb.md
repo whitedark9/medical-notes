@@ -18,31 +18,55 @@
   - Rapid molecular tests (e.g., Xpert MTB/RIF) to detect rifampicin resistance.
 - **Radiological Evaluation**: Chest X-rays or CT scans to assess lung involvement.
 
-## Treatment Regimens
+## Treatment Principles
 
-### Conventional MDR-TB Treatment
+- **Combination Therapy**: Use of multiple drugs to prevent resistance development.
+- **Longer Duration**: Treatment typically lasts 18-24 months.
+- **Individualized Regimens**: Based on drug susceptibility testing (DST).
 
-- **Duration**: Typically 18-24 months.
-- **Drugs**: Includes second-line anti-TB drugs such as:
-  - **Fluoroquinolones**: Levofloxacin, moxifloxacin.
-  - **Injectable Agents**: Amikacin, capreomycin, kanamycin.
-  - **Other Agents**: Ethionamide, cycloserine, linezolid, clofazimine, bedaquiline, delamanid.
+## WHO Recommended Treatment Regimens
 
-### Shorter MDR-TB Regimen
+### Standard Regimen (Longer Treatment)
 
-- **Duration**: 9-12 months.
-- **Components**: Standardized shorter regimen recommended by WHO in selected patients without resistance to fluoroquinolones or second-line injectable drugs.
+1. **Intensive Phase (8 months)**:
 
-## Side Effects of MDR-TB Drugs
+   - `Kanamycin` (or `Amikacin`, `Capreomycin`, `Streptomycin`)
+   - `Levofloxacin` (or `Moxifloxacin`)
+   - `Ethionamide` (or `Prothionamide`)
+   - `Cycloserine` (or `Terizidone`)
+   - `Pyrazinamide` (Z)
+   - `Ethambutol` (E)
+   - High-dose `Isoniazid` (H)
 
-- **Fluoroquinolones**: Tendonitis, QT prolongation.
-- **Injectables**: Ototoxicity, nephrotoxicity.
-- **Ethionamide/Prothionamide**: Gastrointestinal disturbances, hypothyroidism.
-- **Cycloserine**: Neuropsychiatric symptoms, seizures.
-- **Linezolid**: Bone marrow suppression, peripheral neuropathy.
-- **Clofazimine**: Skin discoloration, gastrointestinal disturbances.
-- **Bedaquiline**: QT prolongation, hepatotoxicity.
-- **Delamanid**: QT prolongation.
+2. **Continuation Phase (12-16 months)**:
+   - `Levofloxacin` (or `Moxifloxacin`)
+   - `Ethionamide` (or `Prothionamide`)
+   - `Cycloserine` (or `Terizidone`)
+   - `Ethambutol` (E)
+
+### Shorter Regimen (9-12 months)
+
+> For selected patients who have not been previously treated with second-line drugs and who do not have resistance to `fluoroquinolones` or second-line injectable drugs.
+
+1. **Intensive Phase (4-6 months):**
+   - `Kanamycin` (or `Amikacin`)
+   - `Moxifloxacin`
+   - `Prothionamide`
+   - `Clofazimine`
+   - `Pyrazinamide` (Z)
+   - `Ethambutol` (E)
+   - High-dose `Isoniazid` (H)
+2. **Continuation Phase (5 months)**:
+   - `Moxifloxacin`
+   - `Clofazimine`
+   - `Pyrazinamide` (Z)
+   - `Ethambutol` (E)
+
+## Newer Medications and Regimens
+
+- **`Bedaquiline`**: A diarylquinoline used in combination with other drugs, particularly for patients with limited options due to resistance.
+- **`Delamanid`**: A nitro-dihydro-imidazooxazole derivative used in combination with other drugs for treating MDR TB.
+- **All-Oral Regimens**: WHO now recommends all-oral regimens whenever possible to avoid injectable drugs.
 
 ## Monitoring and Follow-Up
 

@@ -12,24 +12,36 @@
 
 ### Glucocorticoids
 
-- **Examples**: Prednisone, prednisolone, dexamethasone, hydrocortisone, methylprednisolone.
+- **Examples**: `Prednisone`, `prednisolone`, `dexamethasone`, `hydrocortisone`, `methylprednisolone`.
 - **Primary Actions**: Anti-inflammatory and immunosuppressive.
 
 ### Mineralocorticoids
 
-- **Examples**: Fludrocortisone.
+- **Examples**: `Fludrocortisone`.
 - **Primary Actions**: Regulation of sodium and water balance.
 
 ## Indications
 
 ### Anti-Inflammatory and Immunosuppressive Uses
 
-- **Autoimmune Diseases**: Rheumatoid arthritis, systemic lupus erythematosus (SLE), inflammatory bowel disease (IBD).
-- **Allergic Reactions**: Severe asthma, allergic rhinitis, anaphylaxis.
-- **Dermatologic Conditions**: Eczema, psoriasis.
-- **Respiratory Conditions**: Chronic obstructive pulmonary disease (COPD), acute respiratory distress syndrome (ARDS).
+- **Autoimmune Diseases**:
+  - Rheumatoid arthritis
+  - Systemic lupus erythematosus (SLE)
+  - Inflammatory bowel disease (IBD).
+- **Allergic Reactions**:
+  - Severe asthma
+  - Allergic rhinitis
+  - Anaphylaxis.
+- **Dermatologic Conditions**:
+  - Eczema
+  - Psoriasis.
+- **Respiratory Conditions**:
+  - Chronic obstructive pulmonary disease (COPD)
+  - Acute respiratory distress syndrome (ARDS).
 - **Transplantation**: Prevention and treatment of organ rejection.
-- **Hematologic Conditions**: Immune thrombocytopenia, hemolytic anemia.
+- **Hematologic Conditions**:
+  - Immune thrombocytopenia
+  - Hemolytic anemia.
 - **Cancer**: Part of chemotherapy regimens for certain cancers (e.g., lymphomas, leukemias).
 
 ### Replacement Therapy

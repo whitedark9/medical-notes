@@ -163,7 +163,9 @@
 - **Mechanism of Action**:
   - Act directly on vascular smooth muscle to cause relaxation.
   - Vasodilation → reduced systemic vascular resistance → Decrease blood pressure.
-- ~~Side Effects~~: Reflex tachycardia, fluid retention, lupus-like syndrome (hydralazine)
+- ~~Side Effects~~: Reflex tachycardia, fluid retention, lupus-like syndrome [^2] (hydralazine)
 - ~~Contraindications~~: Severe coronary artery disease, mitral valve rheumatic heart disease (hydralazine)
+
+[^2]: **Lupus-like syndrome**: Condition that mimic **`Systemic lupus erythematosus (SLE)`** characterized by similar clinical features: `Arthralgia` (joint pain), `Myalgia` (muscle pain), `Fever`, `Serositis` (inflammation of serous membranes, e.g., pleuritis, pericarditis), `Malar rash` (butterfly-shaped rash on the face), `Photosensitivity`, `Fatigue`
 
 ---

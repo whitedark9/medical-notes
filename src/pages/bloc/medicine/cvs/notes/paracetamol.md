@@ -12,7 +12,7 @@
 
 ### Stages of Poisoning
 
-1. **Stage I (0-24 hours)**: Nonspecific symptoms such as nausea, vomiting, diaphoresis, pallor.
+1. **Stage I (0-24 hours)**: Nonspecific symptoms such as nausea, vomiting, diaphoresis (sweating), pallor.
 2. **Stage II (24-72 hours)**: Right upper quadrant pain, elevated liver enzymes (ALT, AST), and bilirubin levels.
 3. **Stage III (72-96 hours)**: Peak hepatotoxicity with jaundice, coagulopathy, hypoglycemia [^1], hepatic encephalopathy, acute renal failure [^2].
 4. **Stage IV (4 days to 2 weeks)**: Recovery phase or progression to multi-organ failure and ~~death~~.
@@ -52,3 +52,5 @@
 
 - **Early Intervention**: Good prognosis if `NAC` is administered within 8 hours.
 - **Delayed Treatment**: Increased risk of severe hepatotoxicity, acute liver failure, and ~~death~~.
+
+---
