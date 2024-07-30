@@ -18,16 +18,18 @@
 
 ## Likely Diagnosis
 
-25 year old woman most likely has `infective endocarditis (IE)`.
+The presentation suggests `infective endocarditis (IE)` with atrial fibrillation and mitral or tricuspid valve involement.
 
 - **Clinical Features**:
   - Low grade fever for a week.
   - Loss of energy and fatigue.
-  - Pallor, indicating possible anemia.
+  - Pallor, indicating possible anemia [^1].
   - Slight dyspnea (shortness of breath).
   - Blood pressure of 100/80 mmHg.
   - Heart rate of 100/min, irregularly irregular (suggestive of atrial fibrillation).
   - Pansystolic murmur, which may indicate valve involvement.
+
+[^1]: **Anemia**: (1) Destruction of RBCs by bacterial toxins, (2) Inhibition of erythropoiesis in bone marrow by inflammatory cytokines and glomerunephritis
 
 ## Management Plan
 
@@ -59,12 +61,12 @@
    - Adjust based on culture results and antibiotic sensitivity.
 2. **Management of Atrial Fibrillation**:
    - Rate control with `beta-blockers` (e.g., `metoprolol`) or `calcium channel blockers` (e.g., `diltiazem`).
-   - Anticoagulation if there are no contraindications, to prevent thromboembolism.
+   - `Anticoagulation` if there are no contraindications, to prevent thromboembolism.
 3. **Supportive Care**:
    - Blood transfusion if significant anemia is present.
    - Fluid management to maintain hemodynamic stability.
 4. **Consultation with Cardiology**:
-   - For potential surgical intervention if there is severe valvular dysfunction, heart failure, or persistent infection despite antibiotics.
+   - For potential surgical intervention (e.g., valve repair or replacement, removal of infective material) if there is severe valvular dysfunction, heart failure, or persistent infection despite antibiotics.
 
 ### Monitoring and Reassessment
 
@@ -117,3 +119,5 @@
 - Spread of bacteria into other organs → `Secondary infection` (Osteomyelitis, Septic arthritis, Psoas abscess)
 - Pieces of vegetation can break off and embolize distant organs (`Cerebral emboli`, `Pulmonary emboli`, `Systemic emboli`)
 - Presence of bacteria toxins and cytokines in the bloodstream → `Fever`, `Chills & Rigor`, `Night sweats`, `Malaise`
+
+---
