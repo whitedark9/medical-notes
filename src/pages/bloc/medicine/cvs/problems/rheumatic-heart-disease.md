@@ -9,7 +9,7 @@
 - **Patient:** 55-year-old woman
 - **History:**
   - Rheumatic heart disease
-  - Acute dyspnea
+  - `Acute` dyspnea
   - Orthopnea
   - Cough with frothy blood-stained sputum
 
@@ -36,9 +36,10 @@ The presentation suggests `acute pulmonary edema`, likely secondary to decompens
 1. **Oxygen Therapy**: Administer high-flow oxygen to maintain SpO2 > 94%.
 2. **Positioning**: Sit the patient upright to help with breathing and reduce venous return to the heart.
 3. **IV Access**: Establish IV access for potential medication administration.
-4. **Diuretics**: Administer intravenous `furosemide` to reduce fluid overload.
-5. **Vasodilators**: `Nitroglycerin` to reduce preload and afterload if blood pressure is adequate (monitor closely).
-6. **`Morphine`**: For pain relief, anxiety reduction, and preload reduction (use cautiously).
+4. **Diuretics**: IV `furosemide` to reduce fluid overload.
+5. **ACE Inhibitors/ARBs**: To manage hypertension and reduce cardiac workload. (e.g., `enalapril`, `losartan`).
+6. **Vasodilators**: `Nitroglycerin` to reduce preload and afterload (if blood pressure allows).
+7. **Morphine**: For pain relief and to reduce preload (if not contraindicated).
 
 ### Investigation
 
@@ -55,10 +56,12 @@ The presentation suggests `acute pulmonary edema`, likely secondary to decompens
 ### Further Management on Confirmed Diagnosis of Acute Pulmonary Edema
 
 1. **Ongoing Diuretics**: Continue diuretics based on response and renal function.
-2. **Inotropes**: If there is evidence of reduced cardiac output and hypotension, consider inotropic support (e.g., `dobutamine`).
+2. **Inotropes**: If there is evidence of reduced cardiac output and hypotension, consider inotropic support [^1] (e.g., `dobutamine`).
 3. **Mechanical Ventilation**: Non-invasive positive pressure ventilation (NIPPV) such as CPAP or BiPAP may be necessary if the patient is in severe respiratory distress. Intubation and mechanical ventilation may be required in refractory cases.
 4. **Address Underlying Cause**:
    - For mitral valve disease secondary to rheumatic heart disease, consider surgical or percutaneous intervention (e.g., mitral valve repair or replacement).
+
+[^1]: **Inotropic Support**: Medical therapy aimed at increasing the contractility of the heart muscle to improve cardiac output and support circulatory function
 
 ### Monitoring and Reassessment
 
@@ -86,6 +89,10 @@ The presentation suggests `acute pulmonary edema`, likely secondary to decompens
 
 > Acute pulmonary edema is a rapid accumulation of fluid in the alveoli and interstitial spaces of the lungs, leading to severe respiratory distress.
 
-## Pathophysiology
+### Pathophysiology
 
-- Rheumatic heart disease → mitral valve stenosis or regurgitation → Increase pressures in the left atrium → Increase backward pressure of pulmonary veins and capillaries → Fluid accumulation in the alveoli (`Pulmonary edema`) → Impaired gas exchange → Hypoxia → `Dyspnea` (Breathlessness)
+- Rheumatic heart disease → mitral valve stenosis or regurgitation → Increase pressures in the left atrium → `Impaired left ventricular function` → Decreased cardiac output → Increase left ventricular end-diastolic volume (LVEDV) → Increased left atrial pressure → Increased pulmonary venous pressure → Fluid transudation into the pulmonary interstitium and alveoli → `Pulmonary edema`
+- Fluid in alveoli → Impaired gas exchange → Hypoxia (`Breathlessness`)
+- Fluid backs up into the lungs, causing pulmonary congestion and `edema`.
+
+---
