@@ -4,25 +4,25 @@
 
 ## Clinical Manifestations
 
-### Chest Pain (_SOCRATES_)
+### Chest Pain (**SOCRATES**)
 
-1. **Site**:
+1. **S**ite:
 
    - Typically retrosternal (behind the breastbone).
 
-2. **Onset**:
+2. **O**nset:
 
    - Often gradual, occurring during physical exertion, emotional stress, exposure to cold weather, or after heavy meals.
 
-3. **Character**:
+3. **C**haracter:
 
    - Described as a pressure, squeezing, tightness, or heaviness.
 
-4. **Radiation**:
+4. **R**adiation:
 
    - May radiate to the left arm, neck, jaw, or back.
 
-5. **Associated Symptoms**:
+5. **A**ssociated Symptoms:
 
    - Dyspnea (shortness of breath)
    - Nausea
@@ -30,19 +30,19 @@
    - Fatigue
    - Light-headedness or dizziness
 
-6. **Timing**:
+6. **T**iming:
 
    - Typically lasts for a few minutes (1-5 minutes), rarely more than 15 minutes.
    - Predictable and reproducible with similar levels of exertion or stress.
 
-7. **Exacerbating Factors**:
+7. **E**xacerbating Factors:
 
    - Physical exertion
    - Emotional stress
    - Cold weather
    - Heavy meals
 
-8. **Relieving Factors**:
+8. Relieving Factors:
    - Rest
    - Sublingual nitroglycerin typically relieves the pain within a few minutes.
 

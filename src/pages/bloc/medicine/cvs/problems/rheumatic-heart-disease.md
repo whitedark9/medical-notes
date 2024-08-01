@@ -71,17 +71,25 @@ The presentation suggests `acute pulmonary edema`, likely secondary to decompens
 
 ### Follow-up and Long-term Management
 
-1. **Valvular Heart Disease Management**:
-   - Regular follow-up with a cardiologist.
-   - Consider surgical evaluation for mitral valve repair or replacement.
-2. **Medications**:
-   - Long-term use of `diuretics`, `ACE inhibitors`, or `beta-blockers` as indicated.
-   - `Anticoagulation` if there is atrial fibrillation or other indications.
-3. **Lifestyle Modifications**:
+1. **Lifestyle Modifications**:
    - Dietary sodium restriction.
    - Fluid management.
    - Weight monitoring.
-4. **Patient Education**: Importance of medication adherence, recognizing symptoms of heart failure exacerbation, and seeking early medical attention.
+1. **Prevention of Recurrent Acute Rheumatic Fever (ARF)**
+   - **Primary Prophylaxis**: To prevent the initial episode of ARF after a streptococcal throat infection.
+   - **Secondary Prophylaxis**: Long-term antibiotic prophylaxis to prevent recurrent ARF.
+   - **Preferred Regimen**:
+     - `Benzathine Penicillin G`: 1.2 million units IM every 3-4 weeks.
+   - **Alternatives**:
+     - `Penicillin V`: 250 mg orally twice daily.
+     - `Sulfadiazine`: 1 g orally daily (if penicillin-allergic).
+     - `Erythromycin`: 250 mg orally twice daily (if penicillin-allergic).
+   - **Duration of Prophylaxis**:
+     - **Without Carditis**: Continue for at least 5 years or until age 21, whichever is longer.
+     - **With Carditis but No Residual Heart Disease**: Continue for 10 years or until age 21, whichever is longer.
+     - **With Residual Heart Disease**: Continue for 10 years or until at least age 40; may be lifelong.
+1. **Regular Follow-Up & Monitoring**: Regular appointments with cardiologist, and monitor chronic conditions
+1. **Patient Education**: Importance of medication adherence, recognizing symptoms of heart failure exacerbation, and seeking early medical attention.
 
 ---
 

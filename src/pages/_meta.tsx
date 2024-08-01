@@ -37,8 +37,12 @@ export default {
       },
       hiv: {
         title: "HIV",
-        href: "/pre-bloc/hiv"
-      }
+        href: "/pre-bloc/hiv",
+      },
+      tb: {
+        title: "TB",
+        href: "/pre-bloc/tb",
+      },
     },
   },
   bloc: {
