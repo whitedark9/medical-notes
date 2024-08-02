@@ -1,5 +1,6 @@
 export default {
   index: "-",
   cvs: "Cardiovascular System",
-  haematology: "Haematology"
+  haematology: "Haematology",
+  notes: "Add Notes",
 };

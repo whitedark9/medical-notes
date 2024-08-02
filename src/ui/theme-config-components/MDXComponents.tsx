@@ -15,7 +15,7 @@ export const Strikethrough = ({ children }: { children?: React.ReactNode }) => (
 );
 
 export const Blockquote = ({ children }: { children?: React.ReactNode }) => (
-  <Callout type="info" emoji={<Icon name="info-circle" />}>
+  <Callout type="info" emoji={<Icon name="info-circle-fill" />}>
     <span className="font-medium">{children}</span>
   </Callout>
 );
