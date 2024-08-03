@@ -1,6 +1,6 @@
 # Petechial Haemorrhage
 
-> A 16 year old girl presented with petechial haemorrhage over both lowr extremities for 2 days. Discuss the differential diagnosis.
+> A 16 year old girl presented with petechial haemorrhage over both lower extremities for 2 days. Discuss the differential diagnosis.
 
 ## Differential Diagnosis
 
@@ -104,5 +104,11 @@
   - Renal dysfunction
   - Hemolytic anemia
   - Petechiae
+
+---
+
+### Similar Question
+
+> A 16 year old student present with petichial haemorrhage over body and gum bleeding. Discuss the differential diagnosis.
 
 ---
