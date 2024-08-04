@@ -11,9 +11,48 @@
 - **Hematopoiesis**: Decreased production of blood cells in the bone marrow
 - **Hemolysis, Leukolysis, Thrombocytolysis**: Increased destruction of blood cells in the peripheral circulation
 
-## Question
+## Questions
 
-> A 25 year old woman came to medical OPD with giddiness, easily tiredness, loss of appetite and loss of energy for one month. His blood test showed Hb: 8 g/dl, MCV: 60 fl, MCH: 25pg, WBC: 2000/mm3, Platelet: 90x10e9/l. How would you manage her?
+> A 25 year old male presented with pallor, bleeding gums and fever. Discuss the differential diagnosis.
+
+> A 25 year old woman came to medical OPD with giddiness, easily tiredness, loss of appetite and loss of energy for one month. Her blood test showed Hb: 8 g/dl, MCV: 60 fl, MCH: 25pg, WBC: 2000/mm3, Platelet: 90x10e9/l. How would you manage her?
+
+## Differential Diagnosis
+
+### 1. Acute Leukemia
+
+- **Pathophysiology**: Malignant transformation of hematopoietic stem cells → uncontrolled proliferation of abnormal white blood cells → marrow failure → anemia, thrombocytopenia, neutropenia.
+- **Clinical Features**: Fatigue, fever, easy bruising, bleeding gums, infections, pallor.
+
+### 2. Aplastic Anemia
+
+- **Pathophysiology**: Bone marrow failure → pancytopenia → anemia, thrombocytopenia, leukopenia.
+- **Clinical Features**: Fatigue, pallor, bleeding gums, recurrent infections, fever.
+
+### 3. Myelodysplastic Syndromes (MDS)
+
+- **Pathophysiology**: Ineffective hematopoiesis → cytopenias → anemia, thrombocytopenia, neutropenia.
+- **Clinical Features**: Fatigue, pallor, easy bruising, bleeding gums, infections, fever.
+
+### 4. Sepsis
+
+- **Pathophysiology**: Infection → systemic inflammatory response → multi-organ dysfunction → disseminated intravascular coagulation (DIC) → bleeding.
+- **Clinical Features**: Fever, chills, rapid breathing, confusion, pallor, bleeding gums, petechiae.
+
+### 5. Vitamin B12 Deficiency
+
+- **Pathophysiology**: Inadequate B12 intake or absorption → megaloblastic anemia → ineffective erythropoiesis → pancytopenia.
+- **Clinical Features**: Fatigue, pallor, glossitis, neurologic symptoms, bleeding gums, fever (if secondary infection occurs).
+
+### 6. Systemic Lupus Erythematosus (SLE)
+
+- **Pathophysiology**: Autoimmune disorder → immune complex deposition → cytopenias, bleeding.
+- **Clinical Features**: Fatigue, fever, weight loss, mucosal ulcers, arthritis, pallor, bleeding gums.
+
+### 7. Drug-Induced Bone Marrow Suppression
+
+- **Pathophysiology**: Certain medications (e.g., chemotherapy, antiepileptics) → toxic effect on bone marrow → pancytopenia.
+- **Clinical Features**: Fatigue, pallor, bleeding gums, infections, fever.
 
 ## Management
 
