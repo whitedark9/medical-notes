@@ -32,7 +32,7 @@
 [^3]: **Ferritin**: A protein that stores iron. Low levels indicate iron deficiency; high levels can indicate anemia of chronic disease or sideroblastic anemia.
 [^4]: **TIBC (Total Iron-Binding Capacity)**: Measures the blood's capacity to bind iron with transferrin. High TIBC indicates iron deficiency.
 
-### **2. Anemia of Chronic Disease (ACD)**:
+### 2. Anemia of Chronic Disease (ACD)
 
 #### Pathophysiology [#ACD]
 
