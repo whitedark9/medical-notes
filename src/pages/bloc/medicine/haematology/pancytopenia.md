@@ -6,7 +6,7 @@
 2. **White Blood Cells (WBCs)**: Leading to `leukopenia`, which can result in an increased risk of infections.
 3. **Platelets**: Leading to `thrombocytopenia`, which can cause bleeding tendencies, bruising, and petechiae.
 
-### Causes
+## Causes
 
 - **Hematopoiesis**: Decreased production of blood cells in the bone marrow
 - **Hemolysis, Leukolysis, Thrombocytolysis**: Increased destruction of blood cells in the peripheral circulation
@@ -21,17 +21,23 @@
 
 ### 1. Acute Leukemia
 
-- **Pathophysiology**: Malignant transformation of hematopoietic stem cells → uncontrolled proliferation of abnormal white blood cells → marrow failure → anemia, thrombocytopenia, neutropenia.
+> A rapidly progressing cancer of the blood and bone marrow characterized by the overproduction of immature white blood cells (blasts) that interfere with normal blood cell production.
+
+- **Pathophysiology**: Genetic mutations in hematopoietic stem cells → Uncontrolled proliferation of immature blast cells → Accumulation of blasts in the bone marrow → Suppression of normal hematopoiesis → `Cytopenias` (anemia, thrombocytopenia, neutropenia)
 - **Clinical Features**: Fatigue, fever, easy bruising, bleeding gums, infections, pallor.
 
 ### 2. Aplastic Anemia
 
-- **Pathophysiology**: Bone marrow failure → pancytopenia → anemia, thrombocytopenia, leukopenia.
+> A rare and serious blood disorder where the bone marrow fails to produce enough blood cells due to damage or suppression of hematopoietic stem cells.
+
+- **Pathophysiology**: Bone marrow failure → `pancytopenia` (anemia, thrombocytopenia, leukopenia)
 - **Clinical Features**: Fatigue, pallor, bleeding gums, recurrent infections, fever.
 
 ### 3. Myelodysplastic Syndromes (MDS)
 
-- **Pathophysiology**: Ineffective hematopoiesis → cytopenias → anemia, thrombocytopenia, neutropenia.
+> A group of clonal hematopoietic stem cell disorders characterized by ineffective hematopoiesis (blood cell production) leading to dysplastic (abnormally formed) blood cells and various degrees of cytopenias, with a risk of progression to `acute myeloid leukemia (AML)`.
+
+- **Pathophysiology**: Clonal mutations in hematopoietic stem cells → Ineffective hematopoiesis → Accumulation of dysplastic blood cells in the bone marrow → `Cytopenias` (anemia, thrombocytopenia, neutropenia) in peripheral blood → Increased risk of transformation to AML
 - **Clinical Features**: Fatigue, pallor, easy bruising, bleeding gums, infections, fever.
 
 ### 4. Sepsis
@@ -41,17 +47,19 @@
 
 ### 5. Vitamin B12 Deficiency
 
-- **Pathophysiology**: Inadequate B12 intake or absorption → megaloblastic anemia → ineffective erythropoiesis → pancytopenia.
+- **Pathophysiology**: Vitamin B12 Deficiency → Impaired DNA synthesis in rapidly dividing cells (including hematopoietic stem cells in the bone marrow) → Ineffective hematopoiesis and production of abnormally large, immature red blood cells (megaloblasts) → Bone marrow suppression and apoptosis of developing blood cells → `Pancytopenia`
 - **Clinical Features**: Fatigue, pallor, glossitis, neurologic symptoms, bleeding gums, fever (if secondary infection occurs).
 
 ### 6. Systemic Lupus Erythematosus (SLE)
 
-- **Pathophysiology**: Autoimmune disorder → immune complex deposition → cytopenias, bleeding.
+- **Pathophysiology**:
+  - Autoantibodies (e.g., anti-RBC, anti-WBC, and anti-platelet antibodies) → Destruction of blood cells in the peripheral blood (peripheral cytopenias)
+  - Immune-mediated bone marrow suppression → Impaired hematopoiesis → `pancytopenia`.
 - **Clinical Features**: Fatigue, fever, weight loss, mucosal ulcers, arthritis, pallor, bleeding gums.
 
 ### 7. Drug-Induced Bone Marrow Suppression
 
-- **Pathophysiology**: Certain medications (e.g., chemotherapy, antiepileptics) → toxic effect on bone marrow → pancytopenia.
+- **Pathophysiology**: Certain drugs (e.g., `chemotherapy`, `antiepileptics`, `antibiotics` like `chloramphenicol`) → toxic effect on bone marrow → `pancytopenia`.
 - **Clinical Features**: Fatigue, pallor, bleeding gums, infections, fever.
 
 ## Management

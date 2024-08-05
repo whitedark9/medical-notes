@@ -51,12 +51,12 @@
 #### Investigations [#ACD]
 
 - **Iron Studies**: Normal or increased serum ferritin, low serum iron, low TIBC.
-- **Inflammatory Markers**: Elevated ESR [^5], CRP [^6] to suggest an ongoing inflammatory process.
-- **Renal Function Tests**: To rule out renal anemia [^7] as a cause.
+- **Inflammatory Markers**: Elevated ESR [^6], CRP [^7] to suggest an ongoing inflammatory process.
+- **Renal Function Tests**: To rule out renal anemia [^8] as a cause.
 
-[^5]: **CRP (C-reactive Protein)**: Marker of inflammation. Elevated levels indicate inflammation or infection.
-[^6]: **ESR (Erythrocyte Sedimentation Rate)**: Measures the rate at which red blood cells settle in a tube. Elevated levels indicate inflammation or chronic disease.
-[^7]: **Renal anemia**: Kidneys produce erythropoietin (EPO), a hormone that stimulates red blood cell production in the bone marrow. In CKD, the damaged kidneys produce insufficient EPO → decreased red blood cell production → **Anemia**
+[^6]: **CRP (C-reactive Protein)**: Marker of inflammation. Elevated levels indicate inflammation or infection.
+[^7]: **ESR (Erythrocyte Sedimentation Rate)**: Measures the rate at which red blood cells settle in a tube. Elevated levels indicate inflammation or chronic disease.
+[^8]: **Renal anemia**: Kidneys produce erythropoietin (EPO), a hormone that stimulates red blood cell production in the bone marrow. In CKD, the damaged kidneys produce insufficient EPO → decreased red blood cell production → **Anemia**
 
 ### 3. Thalassemia Trait (Minor)
 
@@ -79,32 +79,5 @@
 - **Hemoglobin Electrophoresis**: Elevated HbA2 or HbF levels in beta-thalassemia minor.
 - **Genetic Testing**: To identify mutations in alpha or beta-globin genes.
 - **Peripheral Blood Smear**: Target cells and basophilic stippling may be seen.
-
-## Investigations to Establish Diagnosis
-
-1. **Complete Blood Count (CBC) with Red Cell Indices**:
-   - **Objective**: Confirm the presence of microcytic hypochromic anemia and rule out other causes of anemia.
-2. **Peripheral Blood Smear**:
-
-   - **Objective**: Evaluate red blood cell morphology, which can suggest specific types of anemia (e.g., target cells in thalassemia, microcytes in IDA).
-
-3. **Iron Studies**:
-
-   - **Objective**: Differentiate between IDA and ACD by assessing serum ferritin, serum iron, and TIBC.
-
-4. **Stool Occult Blood Test**:
-
-   - **Objective**: Identify potential gastrointestinal sources of chronic blood loss in IDA.
-
-5. **Hemoglobin Electrophoresis**:
-
-   - **Objective**: Diagnose thalassemia trait by detecting abnormal hemoglobin variants.
-
-6. **Inflammatory Markers (ESR, CRP)**:
-
-   - **Objective**: Assess for underlying chronic inflammatory or infectious conditions that may cause ACD.
-
-7. **Endoscopy/Colonoscopy (if indicated)**:
-   - **Objective**: Investigate the gastrointestinal tract for sources of bleeding if IDA is suspected and stool occult blood test is positive.
 
 ---
