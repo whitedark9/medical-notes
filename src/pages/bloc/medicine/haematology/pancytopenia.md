@@ -126,12 +126,12 @@
 
 ### 5. Long-Term Management and Follow-Up
 
-- **Management of Underlying Cause:**
+- **Management of Underlying Cause**
   - Treat underlying cause based on confirmed diagnosis (e.g., chronic blood loss, nutritional deficiencies).
-- **Follow-Up:**
+- **Regular Monitoring & Follow-Up**
   - Regular monitoring of blood counts to assess response to treatment.
   - Reevaluate symptoms and adjust management accordingly.
-- **Preventive Measures:**
+- **Patient Education for Prevention**
   - Dietary advice for maintaining adequate iron intake.
   - Regular follow-up to monitor blood counts and prevent recurrence.
 

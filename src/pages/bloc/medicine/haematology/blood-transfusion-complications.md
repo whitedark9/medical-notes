@@ -22,7 +22,7 @@ Blood transfusion, though life-saving, carries potential risks and complications
 ### 1. Acute Hemolytic Reaction
 
 - **Cause**: ABO incompatibility.
-- **Symptoms**: Fever [^1], chills, back pain, hemoglobinuria, hypotension.
+- **Symptoms**: Fever, chills, back pain, hemoglobinuria, hypotension.
 - **Pathophysiology**: Immune-mediated destruction of donor RBCs → hemolysis → release of hemoglobin (`Hemoglobinuria`) and other intracellular contents → systemic inflammatory response → `Fever`, `Chills`, `Back pain`
 - **Management**: ~~Stop transfusion~~ immediately, supportive care, fluids, `diuretics` to prevent renal failure.
 
@@ -87,9 +87,14 @@ Blood transfusion, though life-saving, carries potential risks and complications
 ### 1. Hyperkalemia
 
 - **Cause**: Leakage of potassium from stored RBCs.
-- **Management**: Monitoring of potassium levels, correction with `calcium gluconate` or `insulin`.
+- **Management**: Monitoring of potassium levels, correction with `calcium gluconate` [^1] or `insulin` [^2].
 
 ### 2. Hypocalcemia
 
 - **Cause**: Citrate in transfused blood binds calcium.
 - **Management**: Calcium supplementation if symptomatic.
+
+[^1]: **Calcium gluconate** is used to stabilize the cardiac membranes (cardiac arrhythmias) affected by elevated potassium levels.
+[^2]: **Insulin** helps to lower serum potassium levels by promoting the uptake of potassium into cells.
+
+---

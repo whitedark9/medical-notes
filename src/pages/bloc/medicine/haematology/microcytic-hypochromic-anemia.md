@@ -81,3 +81,28 @@
 - **Peripheral Blood Smear**: Target cells and basophilic stippling may be seen.
 
 ---
+
+## Types of Anemia
+
+### Classification Based on Etiology
+
+1. **Iron-Deficiency Anemia**: Due to insufficient iron for hemoglobin production.
+1. **Vitamin B12 Deficiency Anemia**: Caused by lack of vitamin B12, affecting red blood cell production.
+1. **Folate Deficiency Anemia**: Resulting from a deficiency of folic acid.
+1. **Anemia of Chronic Disease**: Associated with chronic illness or inflammation.
+1. **Hemolytic Anemia**: Due to premature destruction of red blood cells.
+1. **Aplastic Anemia**: Caused by failure of the bone marrow to produce sufficient red blood cells.
+1. **Sickle Cell Anemia**: Genetic disorder causing abnormal hemoglobin that leads to sickle-shaped red blood cells.
+1. **Thalassemia**: Genetic disorder resulting in abnormal hemoglobin production.
+
+### Classification Based on Morphology
+
+1. **Microcytic Anemia**: Characterized by smaller-than-normal red blood cells (e.g., `iron-deficiency anemia`, `thalassemia`).
+1. **Macrocytic Anemia**: Characterized by larger-than-normal red blood cells (e.g., `vitamin B12 deficiency`, `folate deficiency`).
+1. **Normocytic Anemia**: Red blood cells are normal in size but insufficient in number (e.g., anemia of chronic disease, aplastic anemia).
+
+### Classification Based on Mechanism
+
+1. **Decreased Production of Red Blood Cells**: Includes iron-deficiency anemia, vitamin deficiencies, and aplastic anemia.
+1. **Increased Destruction of Red Blood Cells**: Includes hemolytic anemia and sickle cell anemia.
+1. **Blood Loss**: Includes acute or chronic hemorrhage.
