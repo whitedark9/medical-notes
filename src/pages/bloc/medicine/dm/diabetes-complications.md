@@ -9,63 +9,106 @@
 ### Hypoglycemia
 
 - **Pathophysiology**: Excessive insulin administration or inadequate glucose intake → Blood glucose drops too low → Activation of the sympathetic nervous system and neuroglycopenic symptoms.
-- **Manifestations**: Sweating, tremors, palpitations, confusion, seizures, coma.
+- **Clinical Features**:
+  - Sweating
+  - Tremors
+  - Palpitations
+  - Confusion
+  - Seizures
+  - Coma
 
 ### Diabetic Ketoacidosis (DKA)
 
 - **Pathophysiology**: Insulin deficiency → Increased lipolysis → Free fatty acids converted to ketones in the liver → Metabolic acidosis.
-- **Manifestations**: Polyuria, polydipsia, fruity breath odor, Kussmaul respirations, abdominal pain, altered mental status.
+- **Clinical Features**:
+  - Polyuria
+  - Polydipsia (thirst)
+  - Polyphagia (hunger)
+  - Fruity breath odor (due to ketones)
+  - Kussmaul respirations (Deep, labored breathing pattern)
+  - Abdominal pain (due to acidosis & electrolyte imbalances)
+  - Altered mental status (dehydration & acidosis affect cerebral perfusion)
 
 ### Hyperosmolar Hyperglycemic State (HHS)
 
 - **Pathophysiology**: Severe hyperglycemia without significant ketosis → Hyperosmolarity → Dehydration and altered mental status.
-- **Manifestations**: Extreme hyperglycemia, dehydration, weakness, confusion, coma.
+- **Clinical Features**:
+  - Extreme hyperglycemia
+  - Dehydration
+  - Weakness
+  - Confusion
+  - Coma
 
 ## 2. Microvascular Complications
 
 ### Diabetic Retinopathy
 
 - **Pathophysiology**: Chronic hyperglycemia → Damage to retinal blood vessels → Microaneurysms, hemorrhages, retinal ischemia, and neovascularization.
-- **Manifestations**: Vision changes, potential blindness.
+- **Clinical Features**:
+  - Vision changes
+  - Potential blindness
 
 ### Diabetic Nephropathy
 
-- **Pathophysiology**: Hyperglycemia → Glycation of proteins and increased pressure in glomerular capillaries → Glomerular basement membrane thickening and sclerosis → Proteinuria and progressive kidney failure.
-- **Manifestations**: Proteinuria, hypertension, renal failure.
+- **Pathophysiology**: Hyperglycemia → Glomerular hyperfiltration (increased GFR initially) → Glomerular hypertrophy and hyperplasia → Scarring and firbrosis → Reduced GFR → Renal failure → Proteinuria, Hypertension and Edema, Uremia
+- **Clinical Features**:
+  - Proteinuria
+  - Hypertension
+  - Edema
+  - Renal failure.
 
 ### Diabetic Neuropathy
 
 - **Pathophysiology**: Hyperglycemia → Damage to nerve fibers and microvasculature → Oxidative stress and inflammation → Sensory, motor, and autonomic nerve dysfunction.
-- **Manifestations**: Numbness, tingling, pain (peripheral neuropathy), gastroparesis, orthostatic hypotension (autonomic neuropathy).
+- **Clinical Features**:
+  - Numbness
+  - Tingling
+  - Pain (peripheral neuropathy)
+  - Gastroparesis
+  - Orthostatic hypotension (autonomic neuropathy)
 
 ## 3. Macrovascular Complications
 
 ### Coronary Artery Disease (CAD)
 
 - **Pathophysiology**: Hyperglycemia → Endothelial dysfunction, increased atherosclerosis [^1] → Narrowing of coronary arteries → Myocardial ischemia and infarction.
-- **Manifestations**: Angina, myocardial infarction, heart failure.
+- **Clinical Features**:
+  - Angina
+  - Myocardial infarction
+  - Heart failure
 
 ### Cerebrovascular Disease
 
 - **Pathophysiology**: Similar mechanism as CAD → Atherosclerosis of cerebral arteries → Ischemic strokes, transient ischemic attacks (TIAs).
-- **Manifestations**: Stroke symptoms, TIAs.
+- **Clinical Features**:
+  - Stroke symptoms
+  - TIAs
 
 ### Peripheral Artery Disease (PAD)
 
 - **Pathophysiology**: Atherosclerosis of peripheral arteries → Reduced blood flow to the limbs → Ischemia.
-- **Manifestations**: Claudication [^2], non-healing ulcers, gangrene.
+- **Clinical Features**:
+  - Claudication [^2]
+  - Non-healing ulcers
+  - Gangrene
 
 ## 4. Other Complications
 
 ### Infections
 
 - **Pathophysiology**: Hyperglycemia impairs immune function (e.g., neutrophil activity, chemotaxis) → Increased susceptibility to infections.
-- **Manifestations**: Frequent infections, slow wound healing, skin infections, urinary tract infections.
+- **Clinical Features**:
+  - Frequent infections
+  - Slow wound healing
+  - Skin infections
+  - Urinary tract infections
 
 ### Diabetic Foot Ulcers
 
 - **Pathophysiology**: Combination of neuropathy (loss of sensation) and PAD (poor blood flow) → Minor trauma progresses to ulcers → Risk of infection and gangrene.
-- **Manifestations**: Non-healing ulcers, risk of amputation.
+- **Clinical Features**:
+  - Non-healing ulcers
+  - Risk of amputation.
 
 ---
 
