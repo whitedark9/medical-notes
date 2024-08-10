@@ -4,6 +4,14 @@
 
 **Diabetes mellitus** (DM) can lead to a variety of complications due to chronic hyperglycemia, which affects multiple organ systems. These complications are categorized as **acute**, **microvascular**, **macrovascular**, and **other**.
 
+## Questions
+
+> How would you diagnose diabetes mellitus? Describe the microvascular complications of diabetes mellitus.
+
+> What are the acute complications of diabetes mellitus? Discuss the management of diabetes ketoacidosis.
+
+> List the complications of type 2 DM. Describe the management of diabetic ketoacidosis.
+
 ## 1. Acute Complications
 
 ### Hypoglycemia

@@ -18,6 +18,12 @@
 - **Symptoms**: Polyuria, polydipsia, nausea, vomiting, abdominal pain, altered mental status.
 - **Signs**: Dehydration, Kussmaul respirations (deep, rapid breathing), fruity breath odor (due to acetone), hypotension, tachycardia.
 
+## Questions
+
+> What are the acute complications of diabetes mellitus? Discuss the management of diabetes ketoacidosis.
+
+> List the complications of type 2 DM. Describe the management of diabetic ketoacidosis.
+
 ## Management of DKA
 
 ### 1. Initial Assessment
