@@ -1,5 +1,7 @@
 # Febrile Convulsion
 
+## Questions
+
 > Discuss the diagnosis and management of febrile convulsions.
 
 > List the common causes of convulsions in one year old child. Discuss two differential diagnosis and managment of a child with high fever for 3 days and drowsiness.
@@ -42,8 +44,8 @@
 - Clothing must be loosened. Excess clothing removed.
 - Don't put anything into the mouth.
 - To control fits if more than 4 minutes
-    - `PR Diazepam - 0.3-0.5 mg/kg`
-    - `IM Phenobarbitone - 10-20 mg/kg`
+  - `PR Diazepam - 0.3-0.5 mg/kg`
+  - `IM Phenobarbitone - 10-20 mg/kg`
 
 ### 2. Control fever
 
@@ -55,6 +57,7 @@
 > Not all children need to be admitted.
 
 The main reasons for admission are:
+
 - To exclude intracranial pathology especially infection
 - Fear of recurrent fits.
 - To investigate and treat the cause of fever
@@ -67,6 +70,7 @@ The main reasons for admission are:
 - **Cerebral malaria**: Came from or travelled to malaria endemic area, change in sensorium (check malaria parasites)
 
 Lumber puncture should be considered in the following conditions:
+
 - Any signs suspicious of meningitis
 - <12 months old with first febrile seizure
 
@@ -81,4 +85,4 @@ Parents should also be advised on first aid measures during a consulsion.
 ### 7. Prophylaxis
 
 - ~~Not recommended~~: Long term prophylaxis with daily anticonvulsants even if episodes are frequent.
-- **Recommend**: Intermittent prophylaxis (e.g., `oral diazepam at the start of temperature and every 8 hours for 24 hours only`) can be considered for such children with frequent episodes. 
+- **Recommend**: Intermittent prophylaxis (e.g., `oral diazepam at the start of temperature and every 8 hours for 24 hours only`) can be considered for such children with frequent episodes.
