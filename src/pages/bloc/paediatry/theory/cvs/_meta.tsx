@@ -7,4 +7,5 @@ export default {
   "rheumatic-heart-diseases": "Rheumatic Heart Diseases",
   "infective-endocarditis": "Infective Endocarditis",
   "heart-failure": "Heart Failure",
+  "murmurs" : "Type of Murmurs"
 };
