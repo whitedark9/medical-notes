@@ -1,0 +1,154 @@
+# Nephrotic Syndrome
+
+> Discuss clinical features, complications, investigations and management of nephrotic
+> syndrome? (UMMG)
+
+> A 4-year-old previously healthy child was admitted to the hospital for generalized oedema for 1 week duration. On examination he was generally well, afebrile and not dyspneic. His blood pressure was 100/60 mmHg.What investigations will you do in this child? What is the most likely diagnosis? Discuss briefly the management of this child. (UMTG)
+
+## Diagnostic Criteria
+
+> Nephrotic syndrome is a kidney disorder that causes the body excrete too much protein in the urine.
+
+Characterized by :
+
+1. **Massive proteinuria** (Increase protein in the urine)
+2. **Hypoalbuminaemia** (Decrease protein in the blood)
+3. **Generalized pitting edema**
+4. **Hypercholesterolaemia** (Hyperlipidaemia)
+
+## Clinical Features
+
+- **Age**: Peak incidence in preschool children
+- **Sex**: Male > Female (2:1)
+- **Timing**: Initial episode and subsequent relapses may occur after a viral infection (URTI)
+- **Onset**: Generalized edema develops over several weeks
+  - Initially noted around the eyes
+  - Lower extremities (pitting edema)
+  - Associated with weight gain
+  - Ascites
+  - Pleural effusion
+
+## Complications
+
+1. Infection
+   - Pneumococcal infection: Peritonitis and pneumonia
+   - Flare up of TB
+   - Urinary tract infection (UTI)
+2. Thrombosis [^1]
+3. Hypovolemic shock [^2]
+   - Abdominal pain
+   - Cold and clammy extremities
+   - Weak pulse pressure
+   - Hypotension
+4. Complications of steroid therapy such as:
+   - Hypertension
+   - Growth retardation
+   - Cataract
+
+[^1]: **Thrombosis**: Anticoagulant protein loss in urine → Liver produces more proteins → Increase clotting factors | Dehydration → Increase packed cell volume → Thrombosis
+[^2]: **Hypovolemic shock**: Massive proteinuria → Decrease protein (albumin) in blood → Decrease oncotic pressure → Fluid shifts from intravascular space (vessels) to interstitial space (between cells and vessels) → `Intravascular hypovolemic shock`
+
+## Investigation
+
+### Urine RE
+
+- Macroscopic: Clear and colorless
+- Microsopci: Heavy proteinuria, Hyaline casts
+- Urine for culture and sensitivity
+
+### Blood Tests
+
+- Blood total and differential protein: Low serum albumin
+- Blood urea and electrolyte: Usually normal
+- Blood cholesterol: Increase
+- Complement level: normal
+- Renal biopsy
+
+#### Indications for Renal Biopsy
+
+- **Age of onset**: < 6 months or > 12 years
+- Persistent microscopic **haematuria**
+- Initial macroscopic **haematuria** at any age
+- Persistent **hypertension**
+- Persistent low serum **complement C3**
+- **Proteinuria** despite 4 weeks daily steroid therapy (Steroid resistance)
+
+---
+
+### Monitoring
+
+- Daily intake-ouput chart
+- Daily urine albumin chart
+- Daily body weight chart
+- Blood pressure chart (BD/4 hourly/6 hourly)
+
+## Management
+
+### Management of Steroid Responsive Nephrotic Syndrome
+
+#### 1. Initial Episode
+
+##### Diet
+
+- Restriction of sodium
+- Restriction of fluid - Output of previous day + Insensible loss
+- Normal protein diet with adequate calories for age
+
+##### Steroid
+
+- `60 mg/m2/day single dose or 4 divided doses for at least 4 consecutive weeks` followed by
+- `40 mg/m2/day single morning dose alternative day for 28 days` and then slowly tapered and discontinued over the next 2-3 months
+
+##### Albumin
+
+- Low serum albumin alone is not an indication.
+- **Indications**:
+  - Clinical hypovolemia
+  - Symptomatic edema
+- `20% albumin 1 g/kg over 4-6 hours`
+
+##### Diuretic
+
+- **Indications**: Severe edema
+- `Furosemide 1 mg/kg/day in 2 divided dose`
+
+##### Penicillin
+
+- **Indications**: To prevent pneumococcal infection
+- `Pencillin V 125 mg BD (< 5 years) and 250 mg BD (> 5 years)` until remission occurs
+
+---
+
+#### 2. Relapse
+
+- Relapse may be triggered by infection, allergic events
+- Relapse rate - 60%
+- **For first 2 relapses**:
+  - `Prednisolone 60 mg/m2/day divided dose` until remission followed by
+  - `40 mg/m2 alternate day` and tapered over 1-2 months
+- **Frequent relapses**:
+  - `Prednisolone maintenance 0.5 mg/kg alternate day` for up to 12 months
+
+---
+
+#### 3. Steroid Dependent
+
+Use other immunosuppressive drugs
+
+1. `Levamisole` 2.5 mg/kg alternate day for 4-12 months
+2. Oral `cyclophosphamide` 2-3 mg/kg/day single dose for 2-3 months
+3. High dose pulse `methylprednisolone`
+4. `Cyclosporin`
+5. `Mycophenol-atemofitil` (MMF)
+
+##### Indication for Immunosuppressive Therapy
+
+- Steroid dependent patients
+- Frequent relapsers
+- The children who suffers severe corticosteroid toxicity
+
+##### Immunization in Children with Nephrotic Syndrome
+
+- ~~Live vaccine can be administered 6 weeks after cessation of steroid therapy~~
+
+---

@@ -58,10 +58,10 @@ History of **upper respiratory tract infection** or **skin infection** approxima
 
 #### Monitoring
 
-- Intake and output chart (OD)
-- BP chart depend on severity (BD/4 hourly/6 hourly)
-- Weight chart daily
-- Urine albumin chart daily
+- Daily intake-ouput chart
+- Daily urine albumin chart
+- Daily body weight chart
+- Blood pressure chart (BD/4 hourly/6 hourly)
 
 #### Diatery management
 
@@ -99,3 +99,5 @@ To reduce BP to upper limit of normal range over 48-72 hours
 
 - Excellent - Complete recovery > 95%
 - Recurrence - Extremely rare
+
+---
