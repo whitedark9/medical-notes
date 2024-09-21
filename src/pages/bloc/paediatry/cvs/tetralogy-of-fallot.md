@@ -1,5 +1,9 @@
 # Tetralogy of Fallot
 
+> How can you diagnose Tetralogy of Fallot (TOF)? Discuss about complications of TOF and treatment of hypercyanotic attack. (UMTG)
+
+## Definition
+
 > **Ventricular Septal Defect (VSD)** : A hole between the right and left ventricles
 
 > **Overriding Aorta**: The aorta is positioned directly over the VSD, receiving blood from both the right and left ventricles
@@ -20,27 +24,20 @@
 
 ## Clinical Features
 
-### Cyanosis
-
-- Bluish discoloration of the lips, mouth and nail beds (due to low oxygen)
-- Occur later in the 1st year of life
-
-### Paroxysmal Hypercyanotic Attacks / Blue Spells
-
-- Crying, dyspnoeic, restless, worse cyanosis, convulsion and loss of consciousness (severe cyanosis due to right-to-left shunting)
-- Occur during the first two years of life
-- Occur after waking up or exertion
-
-### Dyspnoea
-
-- Shortness of breath
-- Occur on exertion
-- Young children play for a short time and then sit or lie down
-- Older children rest in a squatting position for the relief of dyspnoea
-
-### Clubbing
-
-- Bulbous swelling of the fingers and toes (due to chronic hypoxia)
+- **Cyanosis**:
+  - Bluish discoloration of the lips, mouth and nail beds (due to low oxygen)
+  - Occur later in the 1st year of life
+- **Paroxysmal Hypercyanotic Attacks / Blue Spells**:
+  - Crying, dyspnoeic, restless, worse cyanosis, convulsion and loss of consciousness (severe cyanosis due to right-to-left shunting)
+  - Occur during the first two years of life
+  - Occur after waking up or exertion
+- **Dyspnoea**:
+  - Shortness of breath
+  - Occur on exertion
+  - Young children play for a short time and then sit or lie down
+  - Older children rest in a squatting position for the relief of dyspnoea
+- **Clubbing**:
+  - Bulbous swelling of the fingers and toes (due to chronic hypoxia)
 
 ## Examination
 
@@ -94,11 +91,11 @@
 One or more of the following in sequence
 
 - Calming and placement of infant on the abdomen in knee-chest position
-- 100% oxygen (mask)
-- IV Propranolol 0.1-0.2 mg/kg and then prophylactic dose 0.5-1 mg/kg 2-3 times a day orally [^1]
-- SC morphine 0.1 mg/kg (not more than 0.2 mg/kg) [^2]
-- IV Sodium bicarbonate (in unusually severe spell) [^3]
-- Vasopressors - IV phenyl-ephrine/methoxamine [^4] (If resistant to above therapy)
+- `100% oxygen` (mask)
+- `IV Propranolol 0.1-0.2 mg/kg` and then `prophylactic dose 0.5-1 mg/kg 2-3 times a day orally` [^1]
+- `SC morphine 0.1 mg/kg` (not more than 0.2 mg/kg) [^2]
+- `IV Sodium bicarbonate` (in unusually severe spell) [^3]
+- `Vasopressors - IV phenyl-ephrine/methoxamine` [^4] (If resistant to above therapy)
 
 [^1]: To decrease heart rate and myocardial oxygen demands → Decrease workload of the heart
 [^2]: To reduce pulmonary effort
@@ -121,17 +118,15 @@ One or more of the following in sequence
 
 #### Palliative
 
-Systemic to pulmonary artery shunt
-
-- Blalock-Taussig shunt (modified): Between subclavian artery and pulmonary artery (most commonly used)
-- Waterson shunt: Between ascending aorta and right pulmonary artery
-- Potts: Between descending aorta and left pulmonary artery
+- **Systemic to pulmonary artery shunt**:
+  - `Blalock-Taussig shunt (modified)`: Between subclavian artery and pulmonary artery (most commonly used)
+  - `Waterson shunt`: Between ascending aorta and right pulmonary artery
+  - `Potts`: Between descending aorta and left pulmonary artery
 
 #### Curative
 
-Corrective open heart surgery and repair
-
-- Relieve right ventricular outflow obstruction and closure of VSD
+- **Corrective open heart surgery and repair**:
+  - Relieve right ventricular outflow obstruction and closure of VSD
 
 ## Complications
 

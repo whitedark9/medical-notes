@@ -56,7 +56,7 @@
 - **Bone Marrow Aspiration**
   - For diagnosis
   - Increase cell numbers
-  - > 20 % Blasts: Confirm ALL diagnosis
+  - `> 20 % Blasts`: Confirm ALL diagnosis
 - **Cytogenetic Analysis**
 - **Immunophenotyping** (Flow cytometry)
 - **Biochemistry**

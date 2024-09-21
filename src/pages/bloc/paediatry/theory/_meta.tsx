@@ -1,8 +1,0 @@
-export default {
-  neonatology: "Neonatology",
-  cvs: "Cardiovascular System",
-  cns: "Central Nervous System",
-  gi: "Gastrointestinal System",
-  renal: "Renal System",
-  hematology: "Hematology",
-};

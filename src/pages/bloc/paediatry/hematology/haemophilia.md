@@ -55,11 +55,11 @@
 
 ### Drug Therapy
 
-- DDAVP
+- `Desmopressin (DDAVP)`
   - For mild case
   - Increase factor VIII from endothelial cells
-- Anti-fibrinolytics
-  - Tranexamic acid
+- `Anti-fibrinolytics`
+  - `Tranexamic acid`
   - Promote haemostatis in oral bleeds
   - ~~Contraindicate in haematuria~~
 

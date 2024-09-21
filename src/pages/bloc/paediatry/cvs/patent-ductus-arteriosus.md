@@ -1,5 +1,9 @@
 # Patent Ductus Arteriosus (PDA)
 
+> Discuss the diagnosis and management of PDA. (UMMG)
+
+## Definition
+
 > Communication between aorta, distal to the origin of the left subclavian artery and the pulmonary at its bifurcation fails to close after birth
 
 ![PDA](/cvs/pda.jpg)
@@ -71,20 +75,6 @@
 - Increase oxygen and pressure in the pulmonary artery
 - The catheter can be passed from the pulmonary artery across the ductus into the descending aorta
 
-## Complication
-
-- Heart failure most often in early infancy (large PDA)
-- Infective endocarditis
-- Pulmonary/Systemic embolism [^2]
-- Eisenmenger syndrome (Rare)
-- Non-infective thrombosis of the ductus with embolization and paradoxical emboli [^3]
-- Ductus calcification
-- Ductus/Pulmonary artery aneurysm [^4]
-
-[^2]: Vegetations from the right side of the heart or PDA can travel to the lungs, causing `pulmonary embolism`. If there is a right-to-left shunt or if the vegetations are located on the left side of the heart, emboli can enter the systemic circulation, causing `systemic embolism`.
-[^3]: Paradoxical emboli occurs when a thrombus (blood clot) travels from the venous system to the arterial system (through ductus)
-[^4]: Abnormal dilation of pulmonary artery
-
 ## Treatment
 
 ### Medical Treatment
@@ -104,5 +94,19 @@
 - Method
   - Surgical closure (ligation and division of the ductus by a standard left thoracotomy)
   - Transcatheter closure using umbrella-like devices
+
+## Complication
+
+- Heart failure most often in early infancy (large PDA)
+- Infective endocarditis
+- Pulmonary/Systemic embolism [^2]
+- Eisenmenger syndrome (Rare)
+- Non-infective thrombosis of the ductus with embolization and paradoxical emboli [^3]
+- Ductus calcification
+- Ductus/Pulmonary artery aneurysm [^4]
+
+[^2]: Vegetations from the right side of the heart or PDA can travel to the lungs, causing `pulmonary embolism`. If there is a right-to-left shunt or if the vegetations are located on the left side of the heart, emboli can enter the systemic circulation, causing `systemic embolism`.
+[^3]: Paradoxical emboli occurs when a thrombus (blood clot) travels from the venous system to the arterial system (through ductus)
+[^4]: Abnormal dilation of pulmonary artery
 
 ---
