@@ -1,5 +1,26 @@
 # Rheumatic Fever
 
+> List causes of heart failure in children. Discuss management of heart failure caused by rheumatic carditis. (UM1)
+
+> Discuss the diagnosis of rheumatic fever and describe the management of rheumatic carditis. (UM1)
+
+## Causes of Heart Failure
+
+> Con Com Rheu Rheu Beri Beri အပေါ် အပေါ် My Car အနီး(Anae)
+
+1. **Con**genital heart diseases
+1. **Com**plication of pneumonia
+1. Acute **rheu**matic carditis
+1. Established **rheu**matic heart diseases
+1. **Beri beri**
+1. Acute **hyper**tension due to acute glomerulonephritis
+1. Supraventricular **tachy**cardia (SVT)
+1. Viral **my**ocarditis
+1. **Car**diomyopathies
+1. Severe **anae**mia
+
+## Definition
+
 > Immunological disorder initiated by Group A beta-haemolytic Streptococcal (GAS) pharyngitis/tonsillitis
 
 ## Causes
