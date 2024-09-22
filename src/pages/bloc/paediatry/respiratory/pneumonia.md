@@ -8,7 +8,9 @@
 
 #### 1. No Pneumonia
 
-- Cough and cold
+- Cough or cold symptoms without fast breathing
+- No chest indrawing
+- No danger signs
 
 #### 2. Pneumonia
 
@@ -16,6 +18,7 @@
   - < 2 months age: > 60/min
   - 2-12 months age: > 50/min
   - 1-5 years age: > 40/min
+- No danger signs
 
 #### 3. Severe Pneumonia or Very Severe Pneumonia
 
@@ -31,9 +34,16 @@
 
 ## Management
 
-- **No Pneumonia**: Home care advice
-- **Pneumonia**: Oral treatment & Home care advice
-- **Severe Pneumonia or Very Severe Pneumonia**: Admit to hospital & IV treatment
+- **No Pneumonia**
+  - No antibiotics needed
+  - Symptomatic reliefs
+  - Supportive treatment
+- **Pneumonia**:
+  - Oral antibiotics
+  - Home care advice
+- **Severe Pneumonia or Very Severe Pneumonia**
+  - Admit to hospital
+  - IV/IM antibiotics
 
 ### General Management
 
