@@ -4,122 +4,104 @@
 
 ## Assess the Severity of Pneumonia
 
-### In Children (2 months - 5 years) with Cough or Difficult Breathing
+### In Children (2 months - 5 years)
 
-#### 1. Very Severe Pneumonia
+#### 1. No Pneumonia
 
-- **Any general danger signs (မှိန်း၊ ပြာ၊ တက်၊ နို့မစို့၊ အန်၊ ညည်း)**:
-  - Drowsiness or lethargy or unconsciousness.
-  - Convulsions.
-  - Inability to drink or breastfeed.
-  - Persistent vomiting.
-- **Or** central cyanosis (bluish discoloration of lips or face).
-- Severe respiratory distress (e.g., grunting, head nodding).
+- Cough and cold
 
-#### 2. Severe Pneumonia
+#### 2. Pneumonia
 
-- Cough or difficult breathing **plus** one of the following:
-  - Lower chest wall indrawing (subcostal or intercostal).
-  - Nasal flaring.
-  - Oxygen saturation (SpO₂) < 90%.
+- Fast breathing **and/or** chest indrawing
+  - < 2 months age: > 60/min
+  - 2-12 months age: > 50/min
+  - 1-5 years age: > 40/min
 
-#### 3. Pneumonia
+#### 3. Severe Pneumonia or Very Severe Pneumonia
 
-- Cough or difficult breathing **plus** one of the following:
-  - Fast breathing:
-    - Age < 2 months: >= 60/min
-    - Age 2-10 months: >= 50/min
-    - Age 1-5 years: >= 40/min
-  - Chest ausculation signs of pneumonia:
-    - Decreased breath sounds
-    - Bronchial breath sounds
-    - Crackles
-    - Abnormal vocal resonance
-    - Pleural rub
-
-#### 4. No Pneumonia (Cough or Cold)
-
-- Cough or difficult breathing **without** fast breathing or lower chest wall indrawing.
-
----
-
-### In Children < 2 months with Cough or Difficult Breathing
-
-#### 1. Very Severe Pneumonia (or Disease)
-
-- **Any general danger signs (မှိန်း၊ ပြာ၊ တက်၊ နို့မစို့၊ အန်၊ ညည်း)**:
-  - Drowsiness or lethargy or unconsciousness.
-  - Convulsions.
-  - Inability to drink or breastfeed.
-  - Persistent vomiting.
-- **Or** central cyanosis (bluish discoloration of lips or face).
-- Severe respiratory distress (grunting, severe chest indrawing).
-
-#### 2. Severe Pneumonia
-
-- Cough or difficulty breathing **plus** lower chest wall indrawing.
-
-#### 3. Pneumonia
-
-- No above danger signs
-
-#### 4. No Pneumonia (Cough or Cold)
-
-- Cough or cold **without** any general danger signs, fast breathing, or chest indrawing.
-
----
+- Presence of general danger signs (မှိန်း၊ ပြာ၊ တက်၊ နို့မစို့၊ အန်၊ ညည်း)
+  - Drowsiness or lethargy or unconsciousness
+  - Cyanosis
+  - Convulsions
+  - Poor feeding or breastmilk
+  - Persistent vomiting
+  - Severe malnurition
+  - Severe respiratory distress (e.g., grunting, nasal flaring)
+  - Stridor in a calm child
 
 ## Management
 
-### 1. Very Severe Pneumonia (or Disease)
+- **No Pneumonia**: Home care advice
+- **Pneumonia**: Oral treatment & Home care advice
+- **Severe Pneumonia or Very Severe Pneumonia**: Admit to hospital & IV treatment
 
-1. **Hospital Admission**: Immediate.
-2. **Oxygen Therapy**: To maintain SpO₂ ≥ 92%.
-3. **Antibiotics:**
-   - First-line: `IV Ampicillin + Gentamicin`
-   - Alternative: `Ceftriaxone` or `other broad-spectrum antibiotics` if no response to first-line or based on local resistance patterns.
-4. **Supportive Care:**
-   - Ensure `IV fluids` or nasogastric feeding if unable to feed.
-   - `Antipyretics` for fever.
-   - Monitor for complications like sepsis or pleural effusion.
-5. **Treat Complications**:
-   - Manage shock, convulsions, or severe dehydration if present.
+### General Management
 
-### 2. Severe Pneumonia
+- Management of **fever**:
+  - Antipyretics
+  - Avoid tepid sponging
+- Prevention of dehydration
+- Identify signs of deterioration
+- Identify other serious illness
 
-1. **Hospital Admission**: Required.
-2. **Oxygen Therapy**: If SpO₂ < 90% or signs of respiratory distress.
-3. **Antibiotics:**
-   - First-line: `IV Ampicillin` or `IV Penicillin`
-   - Add `Gentamicin` if no improvement.
-   - Alternative: `Ceftriaxone` if higher resistance or no response.
-4. **Supportive Care:**
-   - Continue breastfeeding or feeding if possible.
-   - `IV fluids` if oral intake is inadequate.
-   - `Antipyretics` for fever control.
+### Antibiotic Therapy
 
-### 3. Pneumonia
+#### 1. Pneumonia (Out-patient)
 
-1. **Outpatient Treatment**: Home management unless complications arise.
-2. **Antibiotics:**
-   - First-line: `Oral Amoxicillin for 5 days`
-   - Alternative: `Co-trimoxazole` or `Azithromycin` if allergic to `penicillin`.
-3. **Follow-up**:
-   - Reassess in **2 days** to check for improvement.
-   - Advise caregivers on signs of deterioration (difficulty breathing, inability to feed).
-4. **Supportive Care:**
-   - Continue feeding and hydration.
-   - `Antipyretics` (e.g., `Paracetamol`) for fever.
+- Duration: 5-7 days (except Azithromycin 3 days)
 
-### 4. No Pneumonia (Cough or Cold)
+##### Children < 5 years
 
-1. **No Antibiotics**: Not required.
-2. **Supportive Care**:
-   - **Home care** with advice on fluids and feeding.
-   - Use of **saline nasal drops** for nasal congestion.
-   - Ensure **adequate hydration** and nutrition.
-   - `Paracetamol` if fever is present.
-3. **Follow-up**:
-   - Advise caregiver to return if symptoms worsen (fast breathing, difficulty feeding).
+- **First line**: `PO Amoxicillin (40 mg/kg/dose twice daily for 5 days)`
+- **Second line**: `Co-amoxiclav (30 mg Amoxicillin/kg/dose 8 hourly)` **OR** `Cephalosporin (2nd or 3rd generation - Cefpodoxime, Cefuroxime, Cefprozil)`
+- `Macrolide (Azithromycin OD for 3 days)` if _Mycoplasma pneumoniae_ or _Chlamydia pneumoniae_ is suspected
+- `Flucloxacillin (50 mg/kg/day in 4 divided doses)` if _Staph aureus_ is suspected
 
----
+##### Children > 5 years
+
+- **First line**: `Amoxicillin`
+- **Second line**: if atypical bacterial cause is suspected, `Azithromycin (6 months - 17 years: 10 mg/kg OD, maximum 500 mg) for 3 days`
+
+#### 2. Severe Pneumonia/HIV infeced child with Pneumonia (In-patient)
+
+- Duration: **7 days for mild to moderate** & **minimum 10 days for more severe cases**
+- **First line**: `IV/IM Ampicillin (or Penicillin) and Gentamicin`
+  - `Ampicillin`: 50 mg/kg **OR** `Benzyl penicillin` 50,000 units/kg IV/IM every 6 hours for at least 5 days
+  - `Gentamicin` 7.5 mg/kg IV/IM OD for at least 5 days
+- **Second line**:
+  - Consideration:
+    - No signs of recovery after 48-72 hours of first line antibiotics
+    - Toxic and ill with spiking temperature for 48-72 hours
+  - Drugs
+    - `Ceftriaxone (50mg/kg OD)`
+    - `Coamoxiclav (30 mg of Amoxycillin/kg/dose 8 hourly)` **or**
+    - `Cefotaxime (200 mg/kg/day IV in 3 divided doses)` **or**
+    - `Cefuroxime (150 mg/kg/day IV in 3 divided doses)`
+- **Third line**:
+  - `Cetazidime (30 mg/kg/dose 8 hourly)`
+  - Other: `Aminoglycosides (Amikacin 7.5 mg/kg/dose 12 hourly)` if sepsis is suspected
+
+### Supportive Therapy
+
+#### Fluids
+
+- IV fluids for patients who are vomiting or severely ill
+- 80% of maintenance level
+- Monitor serum electrolytes
+
+#### Oxygen
+
+- Maintain SpO2 > 92% via nasal cannlae, face mask or head box
+- For children who are restless, tachypnoeic with severe chest indrawing, cyanosed or not tolerating feeds
+
+#### Temperature Control
+
+- `Paracetamol 15 mg/kg/dose every 4-6 hours`
+
+### Prevention
+
+- Frequent handwashing
+- Avoid tobacco smoking
+- Promote breastfeeding
+- Reduce exposure to other children
+- Complete immunization
