@@ -13,6 +13,6 @@
 
 ## Established Valvular Heart Disease
 
-1. [Mitral Stenosis](/pediatrics/cvs/rheumatic-heart-diseases/mitral-stenosis)
-1. [Mitral insufficiency (Regurgitation)](/pediatrics/cvs/rheumatic-heart-diseases/mitral-insufficiency)
-1. [Aortic Insufficieny](/pediatrics/cvs/rheumatic-heart-diseases/aortic-insufficiency)
+1. [Mitral Stenosis](/paediatrics/cvs/rheumatic-heart-diseases/mitral-stenosis)
+1. [Mitral insufficiency (Regurgitation)](/paediatrics/cvs/rheumatic-heart-diseases/mitral-insufficiency)
+1. [Aortic Insufficieny](/paediatrics/cvs/rheumatic-heart-diseases/aortic-insufficiency)
