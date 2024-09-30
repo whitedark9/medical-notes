@@ -56,15 +56,15 @@
 
    - **Rapid IV bolus of isotonic fluids**:
      - **Crystalloids** (`Ringer's lactate` or `0.9% normal saline`) are preferred.
-     - Initial bolus: 10–20 mL/kg over 15–30 minutes.
+     - Initial bolus: `10–20 mL/kg over 15–30 minutes`.
      - Assess the patient for clinical improvement (improved pulse, BP, capillary refill, warm extremities).
      - If no improvement after the first bolus:
        - Repeat bolus of crystalloids.
-       - If the shock persists after two fluid boluses, shift to **colloids** (e.g., `Dextran-40` or `Albumin 5%`) at 10 mL/kg over 1 hour.
+       - If the shock persists after two fluid boluses, shift to **colloids** (e.g., `Dextran-40` or `Albumin 5%`) at `10 mL/kg over 1 hour`.
 
 2. **Colloid Solution** (If crystalloid therapy fails):
 
-   - Administer **colloids** (e.g., `Dextran-40` or `Albumin`) at 10–20 mL/kg over 1 hour.
+   - Administer **colloids** (e.g., `Dextran-40` or `Albumin`) at `10–20 mL/kg over 1 hour`.
    - If shock continues despite colloids:
      - Increase infusion rate and consider **inotropic agents** (e.g., `dopamine`, `norepinephrine`).
 
@@ -87,7 +87,7 @@
 3. **Urine Output**:
 
    - Monitor **hourly urine output**:
-     - Target: ≥0.5–1 mL/kg/hour for adults and ≥1 mL/kg/hour for children.
+     - Target: `≥0.5–1 mL/kg/hour for adults` and `≥1 mL/kg/hour for children`.
    - Use a **urinary catheter** if necessary to ensure accurate measurement.
 
 4. **Hematocrit Monitoring**:
