@@ -10,4 +10,4 @@ const APP = {
 
 export default APP;
 
-// ← → ↑ ↓ ° μ
+// ← → ↑↑ ↓ ° μ

@@ -112,7 +112,7 @@ Consider:
 ##### Choice
 
 - **Preterm mother's milk**
-  - It has higher electroyte and protent for rapid growth of the baby
+  - It has higher electroyte and protein for rapid growth of the baby
   - It has anti-bodies and anti-infective factors for survival of a preterm baby
 
 ##### Route
@@ -183,5 +183,5 @@ Feeding should be scheduled because preterms rarely demand for feeds.
 ### 6. Prevention and Management of Hypoglycaemia
 
 - Prevention of hypoglycaemia is essential
-- Close monitoring of blood glucse levels with early initiation of feeding
+- Close monitoring of blood glucose levels with early initiation of feeding
 - Breastfed babies needs prefed blood glucose check for the first 48 hours

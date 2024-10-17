@@ -16,6 +16,12 @@
       "~/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "src/pages/bloc/paediatry/bedside/ari.mdx",
+    "src/pages/bloc/paediatry/bedside/oedematous-child.mdx"
+  ],
   "exclude": ["node_modules"]
 }
