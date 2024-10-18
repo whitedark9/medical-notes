@@ -6,4 +6,6 @@ export default {
   "oedematous-child": "Oedematous Child",
   ari: "Acute Respiratory Infection",
   cvs: "Cardiovascular System",
+  re: "Reticulo-Endothelium System",
+  "fever-with-fits": "Fever with fits",
 };
