@@ -32,14 +32,14 @@
 
 ## Jones Criteria
 
-> To make diagnosis, patient must have `2 major criteria` or `1 major and 2 minor criteria` and `evidence of Group A Streptococcal (GAS) recent infection`
+> To make diagnosis, patient must have `2 major criteria` **OR** `1 major and 2 minor criteria` **AND** `evidence of Group A Streptococcal (GAS) recent infection`
 
 ### Major Criteria
 
 #### Migratory Polyarthritis (about 70%)
 
 - Large joints (elblows, wrists, knees, ankles) - Does not result in chronic joint disease
-- Inflammatory signs (warmth, redness, swelling, pain, exquisitely tenderness)
+- Inflammatory signs (_ရောင်, နီ, နာ, ပူ_) (swelling, redness, pain, warmth, exquisitely tenderness)
 
 #### Carditis
 
@@ -63,14 +63,16 @@
 
 #### Chorea
 
-- Sydenham's chorea: Purposeless, non-repetitive, jerky involuntary movements of proximal part of limbs
-- Occurs much later than other manifestations
+- `Sydenham's chorea`: Purposeless, non-repetitive, jerky involuntary movements of proximal part of limbs
+- **Concidence**:
+  - 3-4 times more common in females
+  - Occurs much later than other manifestations
 - Emotional liability, Incoordination, Poor school performance, Uncontrollable movements and facial grimacing
-- Exacerbated by stress
-- Disappear with sleep
-- 3-4 times more common in females
-- Self limiting course of 2-6 weeks
-- Rarely leads to permanent neurological sequalae
+- **Exacerbation factor**: Stress
+- **Reliefing factor**: Disappear with sleep
+- **Progress**:
+  - Self limiting course of 2-6 weeks
+  - Rarely leads to permanent neurological sequalae
 
 #### Erythema Marginatum (rare < 3%)
 
@@ -118,8 +120,8 @@
 
 ## Complications
 
-- Chronic valvular heart disease
 - Acute heart failure
+- Chronic valvular heart disease
 
 ## Treatment
 
@@ -200,7 +202,9 @@ After this, long term secondary prevention should be started
 
 > Prevention of infective endocarditis
 
-- **Tooth extraction**: `Amoxycillin 50 mg/kg 1 hour before, 25 mg/kg 6 hours after 1st dose`
-- **Genitourinary procedures**: `Injection Ampicillin 50 mg/kg 1/2 hour before precedure, then 8 hours later`, `Injection Gentamycin 2 mg/kg 1/2 hour before procedure, then 8 hours later`
+- **Tooth extraction**: `Amoxycillin 50 mg/kg` 1 hour before, `25 mg/kg` 6 hours after 1st dose
+- **Genitourinary procedures**:
+  - Injection `Ampicillin 50 mg/kg` 1/2 hour before precedure, then 8 hours later
+  - Injection `Gentamycin 2 mg/kg` 1/2 hour before procedure, then 8 hours later
 
 ---
