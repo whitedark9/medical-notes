@@ -6,63 +6,85 @@
 
 ### History
 
-1. **Cough characteristics**:
-   - Timing: Nocturnal cough (suggestive of asthma).
-   - Trigger factors: Cold air, exercise, smoke, allergens.
-   - Response to bronchodilators.
-2. **Wheezing**:
-   - Frequency, severity, and duration of episodes.
-   - Wheezing during viral infections.
-3. **Family history**:
-   - Asthma, allergies, eczema.
-4. **Allergic symptoms**:
-   - Rhinorrhea, sneezing, atopic dermatitis.
-5. **Environmental factors**:
-   - Exposure to allergens (dust, pets, pollen).
-   - Second-hand smoke exposure.
-6. **Growth and development**:
-   - Any failure to thrive or developmental delay.
-7. **Medication history**:
-   - Previous use of bronchodilators or corticosteroids.
-   - Recent medication use (e.g., `antibiotics`, `OTC meds`).
+#### Cough characteristics
+
+- Timing: `Nocturnal cough` (suggestive of asthma).
+- Trigger factors: Cold air, exercise, smoke, allergens.
+- Response to bronchodilators.
+
+#### Wheezing
+
+- Frequency, severity, and duration of episodes.
+- Wheezing during viral infections.
+
+#### Allergic symptoms
+
+- Rhinorrhea, sneezing, atopic dermatitis.
+
+#### Family history
+
+- Asthma, allergies, eczema.
+
+#### Environmental factors
+
+- Exposure to `allergens` (dust, pets, pollen).
+- Second-hand smoke exposure.
+
+#### Developmental History
+
+- Any failure to thrive or developmental delay.
+
+#### Medication history
+
+- Previous use of `bronchodilators` or `corticosteroids`.
+- Recent medication use (e.g., `antibiotics`, `OTC meds`).
 
 ### Physical Examination
 
-1. **Inspection**:
+#### General
+
+- Dyspnoea
+- Nasal flaring
+- Cyanosis (in severe case)
+- Wheezing
+
+#### Extremities
+
+- Peripheral cyanosis
+
+#### Chest
+
+1. Inspection
+   - **Shape**: Pectus excavatum or Harrison's sulcus in uncontrolled asthama
    - Use of accessory muscles of respiration.
-   - Tachypnea, nasal flaring.
-   - Cyanosis in severe cases.
-2. **Auscultation**:
-   - Widespread wheezing, decreased breath sounds in severe obstruction.
-3. **Vitals**:
-   - Assess respiratory rate, heart rate, and oxygen saturation.
-
-### Investigations
-
-1. **Peak Expiratory Flow Rate (PEFR)**:
-   - To assess airway obstruction.
-2. **Chest X-ray**:
-   - Rule out other causes of wheezing (e.g., foreign body, pneumonia).
-   - Hyperinflation in asthma.
-3. **Spirometry (if feasible)**:
-   - Demonstrates reversible airway obstruction.
-4. **Allergy Testing**:
-   - To identify potential allergens (optional).
-
----
-
-## Management of Acute Severe Bronchial Asthma
+   - Tachypnea
+1. Palpation
+   - Chest wall movement is decreased on both sides
+1. Percussion
+   - Normal or hyper-resonant
+1. Auscultation
+   - Breath sound is reduced
+   - Wide spread rhonchi
 
 ### Investigations
 
 - **Pulse oximetry**:
   - To monitor oxygen saturation.
+- **Peak Expiratory Flow Rate (PEFR)**:
+  - To assess airway obstruction.
+- **Chest X-ray**:
+  - Rule out other causes of wheezing (e.g., foreign body, pneumonia).
+  - Hyperinflation in asthma.
+- **Spirometry (if feasible)**:
+  - Demonstrates reversible airway obstruction.
+- **Allergy Testing**:
+  - To identify potential allergens (optional).
 - **Arterial Blood Gas (ABG)**:
   - In very severe cases to assess respiratory acidosis and hypercapnia.
-- **Chest X-ray** (if needed):
-  - To exclude complications like pneumothorax or pneumonia.
 
-### Treatment
+---
+
+## Management of Acute Severe Bronchial Asthma
 
 ### Initial management (in clinic or emergency department):
 

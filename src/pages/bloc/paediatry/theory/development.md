@@ -10,11 +10,11 @@
 
 ## Principles of Growth
 
-1. Growth is the continuous process starting from conception.
-1. Depends on maturation and myelination of the nervous system.
-1. Sequence of growth and development is the same for all children but rate of growth is not always uniform.
-1. Certain primitive reflexes have to be lost before voluntary control development.
-1. The direction of growth and development is cephalo-caudal.
+1. Growth is the **continuous process** starting from conception.
+1. Depends on maturation and myelination of the **nervous system**.
+1. **Sequence** of growth and development is the same for all children but **rate** of growth is not always uniform.
+1. Certain **primitive reflexes** have to be lost before voluntary control development.
+1. The **direction** of growth and development is cephalo-caudal.
 1. General mass activity given may be replaced by specific individual response.
 
 ## Pattern of Growth
@@ -112,6 +112,17 @@
    - Children of multiple pregnancies
 
 ## Development Milestone in One Year Old Child
+
+> 3 လမှာ Head Control, Social Smile နဲ့ Eye Follow<br>
+> Six Six Sit, Support Sit<br>
+> ဆန့်ဆန့်ဆန့်, With both hands<br>
+> Sound Sound Sound, Turn around<br>
+> Solid food နဲ့ ပါးဖောင်းဖောင်း<br>
+> And now, he crawls and creeps<br>
+> သူ့နာမည်သူ မှတ်မိ<br>
+> လိုချင်တာတွေ ထိုးပြ, အဲ့တာ ကိုးလ<br>
+> ဖေဖေမေမေ ဝယ်ပေးပါ, လိုချင်တာ မရရင်တော့ တာ့တာ<br>
+> ကိုယ့်ခြေထောက်ပေါ်ရပ်ကာ, ထွက်သွားတော့မယ် တစ်နှစ်မှာ ...<br>
 
 | Age (months) | Gross motor                                                        | Fine motor/vision                                                                      | Hearing and speech                                                          | Social behaviour                                                                     |
 | :----------- | :----------------------------------------------------------------- | :------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------- | :----------------------------------------------------------------------------------- |

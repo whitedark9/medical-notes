@@ -36,6 +36,8 @@
 
 ### Major Criteria
 
+> **CANCER**: C-**C**arditis, A-Migratory Poly**a**rthritis, N-Subcutaneous **N**odule, C-**C**horea, Er-**Er**ythema Marginatum
+
 #### Migratory Polyarthritis (about 70%)
 
 - Large joints (elblows, wrists, knees, ankles) - Does not result in chronic joint disease
@@ -90,6 +92,8 @@
 - **Site**: Extensor surfaces of the tendons near bony prominences such as elbows, knees, shins, occiput and spine
 
 ### Minor Criteria
+
+> **FACE**: F-**F**ever, A-**A**rthralgia, C-**C**-reactive protein, E-**ESR**, **ECG**
 
 #### Two Clinical Manifestations
 
