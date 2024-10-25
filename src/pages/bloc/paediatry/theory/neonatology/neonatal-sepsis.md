@@ -49,6 +49,8 @@
 
 ### Early Onset Sepsis (within 72 hours of life)
 
+> **G**irls **L**ove **E**ating
+
 - **Caused by**: _GBS_, _E.Coli_, and _Listeria_
 - **Drug of Choice**: Injection `Penicillin or Ampicillin` **AND** injection `Aminoglycoside` for 7-10 days
 

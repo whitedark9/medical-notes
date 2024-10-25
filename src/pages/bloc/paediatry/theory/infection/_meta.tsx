@@ -4,4 +4,5 @@ export default {
   measles: "Measles",
   meningococcemia: "Meningococcemia",
   pertussis: "Pertussis",
+  immunization: "Immunization"
 };

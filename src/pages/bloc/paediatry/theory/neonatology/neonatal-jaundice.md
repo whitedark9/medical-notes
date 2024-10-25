@@ -62,12 +62,14 @@ Extra fluid - `20-30 ml/kg/24hour` is given by more frequent breastfeeding.
 
 ### Complications
 
-1. **Retinal damage** - Retinopathy - Blindness
-1. **Hyperthermia/Hypothermia**
-1. **Fluid loss** - Dehydration
-1. **Diarrhoea** due to isomers which are hygroscopic
-1. **Skin rashes** due to histamine release
-1. **Bronze baby syndrome** if phototherapy is given to the patient with conjugated hyperbilirubinaemia.
+> HR BD x2
+
+1. **`R`etinal damage** - Retinopathy - `B`lindness
+1. **`H`yperthermia/`H`ypothermia**
+1. **Fluid loss** - `D`ehydration
+1. **`D`iarrhoea** due to isomers which are hygroscopic
+1. **Skin `r`ashes** due to histamine release
+1. **`B`ronze baby syndrome** if phototherapy is given to the patient with conjugated hyperbilirubinaemia.
 
 ## Exchange Transfusion
 
@@ -75,21 +77,21 @@ Extra fluid - `20-30 ml/kg/24hour` is given by more frequent breastfeeding.
 
 ### Indications
 
-1. Rule of thumb: `Term > 20 mg%`
-2. Use bilirubin charts according to birth weight, gestational age, age of the baby
-3. Consider exchange at lower serum bilirubin level if the baby has `hypoxia`, `hypoglycaemia`, `hypothermia`, `asphyxia`, `septicaemia`
-4. Rate of rise of serum bilirubin is `> 1 mg%/hour` or `> 5 mg%/day`
-5. Severe clinical jaundice associated with `imparied Moro's reflex`, `refusal to feed` and `lethargy` (impending bilirubin encephalopathy)
+1. **Rule** of thumb: `Term > 20 mg%`
+2. Use bilirubin **charts** according to birth weight, gestational age, age of the baby
+3. Consider exchange at **lower** serum bilirubin level if the baby has `hypoxia`, `hypoglycaemia`, `hypothermia`, `asphyxia`, `septicaemia`
+4. **Rate** of rise of serum bilirubin is `> 1 mg%/hour` or `> 5 mg%/day`
+5. **Severe** clinical jaundice associated with `imparied Moro's reflex`, `refusal to feed` and `lethargy` (impending bilirubin encephalopathy)
 
 ### Method
 
-1. `Double volume exchange transfusion` (85ml/kg x 2 = 170 ml/kg). Topping up transfusion for correction of anaemia - 10 ml/kg - 20ml/kg
-2. For safe blood transfusion, `fresh whole blood or < 3 days old blood` free from malaria, syphilis, hepatitis B/C, HIV
-3. For ABO incompatibility, use `blood group O`. For Rh incompatibility, use `O(-ve)`. Other disease - Exchange with child's blood group
-4. Route of exchange - `umbilical vein`
-5. A sample portion of 5 ml for preterm & 10 ml for term
-6. After 100 ml, `1 ml of 10% Calcium Gluconate` [^1] is given to correct hypcalcaemia.
-7. Before and after exchange transfusion, `omit one feed each`.
+1. **Amount**: `Double volume exchange transfusion` (85ml/kg x 2 = 170 ml/kg). Topping up transfusion for correction of anaemia - 10 ml/kg - 20ml/kg
+2. **Blood Product**: For safe blood transfusion, `fresh whole blood or < 3 days old blood` free from malaria, syphilis, hepatitis B/C, HIV
+3. **Blood Type**: For ABO incompatibility, use `blood group O`. For Rh incompatibility, use `O(-ve)`. Other disease - Exchange with child's blood group
+4. **Route** of exchange - `umbilical vein`
+5. A **sample** portion of 5 ml for preterm & 10 ml for term
+6. **`C`omplication**: After 100 ml, `1 ml of 10% Calcium Gluconate` [^1] is given to correct hypcalcaemia.
+7. **C`om`plication**: Before and after exchange transfusion, `omit one feed each`.
 
 [^1]: **Citrate** is used in blood bag to prevent coagulation. Citrate binds to calcium → Hypocalcaemia. To correct hypocalcaemia, `Calcium gluconate` is given.
 
@@ -114,3 +116,5 @@ Extra fluid - `20-30 ml/kg/24hour` is given by more frequent breastfeeding.
    - HIV
    - Hepatits B, C
    - Malaria infections
+
+---

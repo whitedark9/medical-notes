@@ -14,9 +14,7 @@
 
 > Preterm are infants born less than 37 weeks of gestation.
 
-> Low birth weight are infants whose birth weight is < 2.5kg (5 lbs 8 ounces)
-> Very low birth weight (VLBW) are < 1.5 kg
-> Extreme low birth weight (ELBW) are < 1 kg
+> Low birth weight: < 2.5kg (5 lbs 8 ounces)<br> Very low birth weight (VLBW): < 1.5 kg (3 lbs 4 ounces)<br>Extreme low birth weight (ELBW): < 1 kg (2 lbs 4 ounces)
 
 ## Complications of Preterm, Low Birth Weight
 
