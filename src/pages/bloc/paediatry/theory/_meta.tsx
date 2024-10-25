@@ -10,4 +10,5 @@ export default {
   gi: "Gastrointestinal System",
   renal: "Renal System",
   hematology: "Hematology",
+  prescribing: "Pediatric Prescribing",
 };

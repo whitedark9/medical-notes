@@ -40,7 +40,7 @@
 
 - Three distinct phases of somatic growth in children
 
-|     | Phase     | Growth Pattern                                                                 | Dterminant                     |
+|     | Phase     | Growth Pattern                                                                 | Determinant                    |
 | :-- | :-------- | :----------------------------------------------------------------------------- | :----------------------------- |
 | 1   | Infancy   | Rapid growth of infancy but is less than foetal growth rate                    | Nutrition                      |
 | 2   | Childhood | Slow deceleration from 1 year old, except for the mild childhood adrenal spurt | Growth Hormone                 |
@@ -61,20 +61,19 @@
 
 #### Prenatal Period
 
-1. `Maternal nutrition`
+1. **Maternal nutrition**
    - Maternal malnutrition
    - Smoking
    - Alcohol
-1. `Maternal illnesses`
+1. **Maternal illnesses**
    - Hypertension, toxemia, irradiation (X-rays)
    - Infection (TORCH)
    - Chronic medical disease (CRF)
-1. `Hormones`
-   - Principle hormones influencing early growth are **growth hormone** and **thyroid hormone**
-   - Thyroid does not affect linear growth, it affects skeletal maturation
-   - Insulin stimulates the foetal growth, Baby of diabetes mother is usually big
-   - Somatomedin (Insulin like growth factor) deficiency: Small length of baby
-   - Growth hormone: Not essential for foetal growth in utero
+1. **Hormones**
+   - `Thyroid hormones` does not affect linear growth, it affects skeletal maturation
+   - `Insulin` stimulates the foetal growth, Baby of diabetes mother is usually big
+   - `Somatomedin` (Insulin like growth factor) deficiency: Small length of baby
+   - `Growth hormone`: Not essential for foetal growth in utero
 
 #### Natal Period
 
@@ -82,47 +81,34 @@
 
 #### Postnatal Period
 
-1. `Nutrition`
+1. **Nutrition**
    - PEM
    - Anaemia
    - Vitamin deficiencies
-1. `Hormone`
-   - Androgen
-1. `Iatrogenic`
-   - Steroid
-1. `Trauma`
-   - Fracture of ends of long bones
-1. `Infections and infestations`
+1. **Hormone**: Androgen
+1. **Iatrogenic**: Steroid
+1. **Trauma**: Fracture of ends of long bones
+1. **Infections and infestations**
    - Whooping cough
    - Measles
    - Diarrhoea
    - TB
    - Malaria
    - Various worm infestations
-1. `Major organ diseases`
+1. **Major organ diseases**
    - CNS
    - Respiratory
    - CVS
    - GI
    - Musculo-skeletal disorder
-1. `Socio-pyschological factors`
+1. **Socio-pyschological factors**
    - Anxiety, Insecurity, Lack of support and care
    - Children from broken families do not have optimal growth and development
-1. `Others`
-   - Children of multiple pregnancies
+1. **Others**: Children of multiple pregnancies
 
 ## Development Milestone in One Year Old Child
 
-> 3 လမှာ Head Control, Social Smile နဲ့ Eye Follow<br>
-> Six Six Sit, Support Sit<br>
-> ဆန့်ဆန့်ဆန့်, With both hands<br>
-> Sound Sound Sound, Turn around<br>
-> Solid food နဲ့ ပါးဖောင်းဖောင်း<br>
-> And now, he crawls and creeps<br>
-> သူ့နာမည်သူ မှတ်မိ<br>
-> လိုချင်တာတွေ ထိုးပြ, အဲ့တာ ကိုးလ<br>
-> ဖေဖေမေမေ ဝယ်ပေးပါ, လိုချင်တာ မရရင်တော့ တာ့တာ<br>
-> ကိုယ့်ခြေထောက်ပေါ်ရပ်ကာ, ထွက်သွားတော့မယ် တစ်နှစ်မှာ ...<br>
+> 3 လမှာ Head Control, Social Smile နဲ့ Eye Follow<br>Roll Sup' Sit at Six Months, Solid Sound ဆန့် with both hands
 
 | Age (months) | Gross motor                                                        | Fine motor/vision                                                                      | Hearing and speech                                                          | Social behaviour                                                                     |
 | :----------- | :----------------------------------------------------------------- | :------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------- | :----------------------------------------------------------------------------------- |
