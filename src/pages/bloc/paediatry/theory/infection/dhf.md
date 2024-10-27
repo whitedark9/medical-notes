@@ -11,13 +11,13 @@
 ## Features of Shock
 
 1. Abrupt fall in tempterature (usually on or after 3rd day of fever)
-2. Acute abdominal pain
-3. Restlessness or drowsiness
-4. Cold clammny extremities
-5. Sweating
-6. Rapid thready pulse
-7. Capillary refill time > 3 seconds
-8. Narrow pulse pressure (< 20 mmHg) or Hypotension
+1. Sweating
+1. Restlessness or drowsiness
+1. Cold clammny extremities
+1. Rapid thready pulse
+1. Capillary refill time > 3 seconds
+1. Narrow pulse pressure (< 20 mmHg) or Hypotension
+1. Acute abdominal pain
 
 ## Severity Grading (WHO Classification)
 
@@ -60,7 +60,7 @@
      - Assess the patient for clinical improvement (improved pulse, BP, capillary refill, warm extremities).
      - If no improvement after the first bolus:
        - Repeat bolus of crystalloids.
-       - If the shock persists after two fluid boluses, shift to **colloids** (e.g., `Dextran-40` or `Albumin 5%`) at `10 mL/kg over 1 hour`.
+       - If the shock persists after two fluid boluses, shift to **colloids**
 
 2. **Colloid Solution** (If crystalloid therapy fails):
 
@@ -81,8 +81,8 @@
 
 2. **Vital Signs**:
 
-   - Continuous monitoring of **blood pressure (BP)**, **pulse**, and **oxygen saturation**.
-   - Hourly monitoring of vital signs initially, then reduce frequency as the patient stabilizes.
+   - Continuous monitoring :**blood pressure (BP)**, **pulse**, and **oxygen saturation**.
+   - Then, reduce frequency as the patient stabilizes.
 
 3. **Urine Output**:
 
@@ -92,8 +92,8 @@
 
 4. **Hematocrit Monitoring**:
 
-   - Serial **hematocrit measurements** every 4–6 hours initially.
-   - Rising hematocrit indicates ongoing plasma leakage; a decreasing hematocrit may suggest rehydration or internal bleeding.
+   - **Hematocrit measurements** every 4–6 hours initially.
+   - Rising hematocrit indicates ongoing plasma leakage
 
 5. **Electrolyte and Glucose Monitoring**:
    - Monitor **serum sodium**, **potassium**, and **glucose** frequently to prevent and manage electrolyte imbalances or hypoglycemia.
@@ -108,28 +108,28 @@
 2. **Bleeding**:
 
    - Correct coagulopathy by administering:
-     - **Fresh Frozen Plasma (FFP)** if there is active bleeding or significantly deranged coagulation profiles.
-     - **Platelet transfusion** if platelet count <10,000 cells/mm³ or in the presence of bleeding.
+     - **Fresh Frozen Plasma (FFP)** if there is `active bleeding` or significantly deranged coagulation profiles.
+     - **Platelet transfusion** if `platelet count <10,000 cells/mm³` or in the presence of bleeding.
 
 3. **Electrolyte and Acid-Base Correction**:
 
-   - Treat **electrolyte disturbances** (e.g., hyponatremia) with **slow sodium correction**.
-   - Correct **metabolic acidosis** using **bicarbonate** if severe.
+   - **Slow sodium correction**: `hyponatremia`
+   - **Bicarbonate**: `metabolic acidosis`
 
 4. **Oxygen Therapy**:
-   - Provide **supplemental oxygen** via nasal cannula or mask.
-   - In cases of **respiratory failure** or severe pulmonary edema, initiate **mechanical ventilation**.
+   - **Oxygen** via nasal cannula or mask
+   - **Mechanical ventilation**: **Respiratory failure** or severe pulmonary edema
 
 #### Recovery Phase (After 24-48 Hours)
 
 - **Fluid tapering**:
 
-  - As plasma leakage decreases, reduce IV fluid rates to avoid fluid overload.
+  - As plasma leakage decreases, **reduce IV fluid rates** to avoid fluid overload.
   - **Monitor for signs of recovery**:
     - Stable pulse, normalizing BP, good urine output, decreasing hematocrit.
 
 - **Diuretics**:
-  - If there is significant **fluid overload** (e.g., pulmonary edema), administer **diuretics** such as `furosemide`.
+  - **Fluid overload** (e.g., pulmonary edema): **diuretics** such as `furosemide`.
 
 ### Prevention
 

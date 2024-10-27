@@ -4,16 +4,20 @@
 
 ## Differential Diagnosis of Maculopapular Rash
 
-1. Measles
-1. Rubella
-1. Infectious mononucleosis
-1. Enteroviral infection - Coxsackie A, B
-1. Drug eruption
-1. Meningococcaemia
+> MM RIDE
+
+1. **M**easles
+1. **M**eningococcaemia
+1. **R**ubella
+1. **I**nfectious mononucleosis
+1. **D**rug eruption
+1. **E**nteroviral infection - Coxsackie A, B
 
 ## Clinical Features of Measles
 
 ### Prodromal Stage (3-5 days before eruptive stage)
+
+> 3C - **C**onjunctivitis, **C**oryza, **C**ough
 
 - Fever
 - Conjunctivitis, catarrhal or coryza characterized by consistently running nose, and dry cough
@@ -40,33 +44,33 @@
 - Suppurative otitis media
 - Tracheitis
 - Laryngo tracheobronchitis
-- Bronchitis
+- Bronchitis (Bronchietasis)
 - Bronchopneumonia: Secondary to bacteria infection e.g., Staphylococcal pneumonia
 - Giant cell viral pneumonia (especially in immunocompromised child)
 - Suppurative lung disease
 
 ### 2. Non-Respiratory
 
-- Opthalmic complication
-  - Conjunctivitis
-  - Keratitis
-  - Corneal ulcer
-- Gastro-intestinal tract
-  - Stomatitis
-  - Cancrum oris
-  - Gangrenous form of stomatitis due to anaerobic bacteria, Treponema vincenti
-  - Rapidly spread to form sloughing of gums and jaws and perforation of cheek
-  - In extreme case, teeth may be shed
-  - Peculiar foul odour
-  - Gastroenteritis
-  - Persistent diarrhoea
-- Central nervous system
-  - Encephalitis
-  - Subacute sclerosing panencephalitis (SSPE)
-- Others
-  - Malnutrition
-  - Leucopenia
-  - Thrombocytopenia
+1. Opthalmic complication
+   - Conjunctivitis
+   - Keratitis
+   - Corneal ulcer
+1. Gastro-intestinal tract
+   - Stomatitis
+   - Cancrum oris
+     - Gangrenous form of stomatitis due to anaerobic bacteria, Treponema vincenti
+     - Rapidly spread to form sloughing of gums and jaws and perforation of cheek
+     - In extreme case, teeth may be shed
+     - Peculiar foul odour
+   - Gastroenteritis
+   - Persistent diarrhoea
+1. Central nervous system
+   - Encephalitis
+   - Subacute sclerosing panencephalitis (SSPE)
+1. Others
+   - Malnutrition
+   - Leucopenia
+   - Thrombocytopenia
 
 ## Preventions
 

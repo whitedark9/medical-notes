@@ -4,35 +4,37 @@
 
 ## Clinical Features
 
-- Acute Meningoccemia
-  - Influenza like symptom
-  - Morbilliform rash
-  - Petechial or purpuric spots
-  - Hypotension
-  - DIC
-  - Renal failure
-  - Coma
-  - Death if undiagnosed early
-- Meningococal meningitis
-  - Convulsion
-  - Coma
-  - Death
-- Acute endocarditis, myocarditis, pericarditis
-- Chronice meningococcemia
-  - Anorexia
-  - Weight loss
-  - Rash
-  - Arthritis
-  - Erythema nodosum
+1. `Acute Meningoccemia`
+   - Influenza like symptom
+   - Morbilliform rash
+   - Petechial or purpuric spots
+   - Hypotension
+   - DIC
+   - Renal failure
+   - Coma
+   - Death if undiagnosed early
+1. `Meningococal meningitis`
+   - Convulsion
+   - Coma
+   - Death
+1. Acute endocarditis, myocarditis, pericarditis
+1. `Chronice meningococcemia`
+   - Anorexia
+   - Weight loss
+   - Rash
+   - Arthritis
+   - Erythema nodosum
 
 ## Investigation
 
-- Culture and sensitivity
-  - from skin lesion, nasopharynx, blood and CSF
-- Lumbar puncture if meningitis is suspected
-- Complete blood count (CBC)
-  - Neutropil leucocytosis
-- Rapid diagnostic test by Counter current immunoelectrophoresis, immunoassay
+1. Culture and sensitivity
+   - from skin lesion, nasopharynx, blood and CSF
+1. Lumbar puncture
+   - if meningitis is suspected
+1. Complete blood count (CBC)
+   - Neutropil leucocytosis
+1. Rapid diagnostic test
+   - by Counter current immunoelectrophoresis, immunoassay
 
 ## Treatment
 
@@ -41,7 +43,7 @@
   - `3rd generation cephalosporin` (e.g., `Cefotaxime 50 mg/kg/dose 6 hourly for 7-10 days`)
 - Fluids: `Colloids` and `inotropes` in shock
 - Steroid: `IV hydrocortisone` in adrenal haemorrhage
-- DIC: Fresh whole blood, Fresh plasma
+- DIC: `Fresh whole blood`, `Fresh plasma`
 
 ## Prevention
 
