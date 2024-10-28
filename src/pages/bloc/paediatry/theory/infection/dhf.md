@@ -52,25 +52,47 @@
 
 #### Initial Resuscitation (Within the First Hour)
 
-1. **Fluid Resuscitation**:
+##### Rapid IV bolus of isotonic fluids
 
-   - **Rapid IV bolus of isotonic fluids**:
-     - **Crystalloids** (`Ringer's lactate` or `0.9% normal saline`) are preferred.
-     - Initial bolus: `10–20 mL/kg over 15–30 minutes`.
-     - Assess the patient for clinical improvement (improved pulse, BP, capillary refill, warm extremities).
-     - If no improvement after the first bolus:
-       - Repeat bolus of crystalloids.
-       - If the shock persists after two fluid boluses, shift to **colloids**
+- **Crystalloids** (`Ringer's lactate` or `0.9% normal saline`) are preferred.
+- Initial bolus: `10–20 mL/kg over 15–30 minutes`.
+- Assess the patient for clinical improvement (improved pulse, BP, capillary refill, warm extremities).
+- If _improved_:
+  - Reduce the rate to `5-7 ml/kg over 1 hour`.
+  - Then, `3-5 ml/kg over 1 hour`
+  - Then, `2-3 ml/kg over 1 hour`
+  - Continue up to 24-48 hours
+  - Then, stop IV fluid therapy
+- If ~~not improved~~ after the first bolus:
+  - Repeat bolus of crystalloids.
+  - If _improved_, reduce the fluid as above.
+  - If ~~not improved~~, switch to **colloids**
 
-2. **Colloid Solution** (If crystalloid therapy fails):
+##### Colloid Solution
 
-   - Administer **colloids** (e.g., `Dextran-40` or `Albumin`) at `10–20 mL/kg over 1 hour`.
-   - If shock continues despite colloids:
-     - Increase infusion rate and consider **inotropic agents** (e.g., `dopamine`, `norepinephrine`).
+- Administer **colloids** (e.g., `Dextran-40` or `Albumin`) at `10–20 mL/kg over 1 hour`.
+- If _improved_, reduce the fluid as above.
+- If ~~not improved~~ and high PCV:
+  - Increase infusion rate up to `30 ml/kg`
+  - Consider **inotropic agents** (e.g., `dopamine`, `norepinephrine`).
+- If ~~not improved~~ and low PCV:
+  - Give **fresh whole blood transfusion**
 
-3. **Blood Transfusion**:
-   - Indicated if there is **significant bleeding** or **hemoglobin drops <7 g/dL**.
-   - Transfuse **whole blood** or **packed red cells** to maintain adequate hemoglobin and oxygen delivery.
+##### Blood Transfusion
+
+- Indicated if there is **significant bleeding** or **hemoglobin drops <7 g/dL**.
+- Transfuse **whole blood** or **packed red cells** to maintain adequate hemoglobin and oxygen delivery.
+- If _improved_, **IV crystalloid** infusion and gradually reduce as above.
+
+#### General Management
+
+1. **Fever**:
+
+   - Tepid sponging
+   - Anti-pyretics
+
+1. **Food**:
+   - Adequate nutritional supplement
 
 #### Ongoing Management and Monitoring
 
