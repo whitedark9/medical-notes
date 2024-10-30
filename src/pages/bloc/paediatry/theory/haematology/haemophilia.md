@@ -39,6 +39,7 @@
 - **Activated partial thromboplastin time (ATPP)**: Prolong
 - Factor VIII/IX assay
 - **Platelet count**: Normal or Elevated
+- **Peripherial Smear**: Anaemia proportional to the bleeding
 
 ## Treatment
 
@@ -65,12 +66,14 @@
 
 ### Treatment of Haemarthrosis
 
-- Rest
-- Ice compression
-- Compression
-- Elevation of dependent joint to a comfortable position
-- ~~Never aspirate the haemarthrosis~~
-- Analgesis
-- Physiotherapy as soon as pain is relieved
+> RICE NAP
+
+- **R**est
+- **I**ce compression
+- **C**ompression
+- **E**levation of dependent joint to a comfortable position
+- ~~**N**ever aspirate the haemarthrosis~~
+- **A**nalgesis
+- **P**hysiotherapy as soon as pain is relieved
 
 ---
