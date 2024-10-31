@@ -48,7 +48,7 @@
 For the diagnosis of IDA and to find out the underlying causes.
 
 - Blood for complete picture
-  - **Bllod film**: Hypochromic microcytic anaemia
+  - **Blood film**: Hypochromic microcytic anaemia
   - **Total and differential count**: Normal
   - **MCV, MCH and MCHC**: Reduced
 - **Serum iron level**: < 30 ug/dl

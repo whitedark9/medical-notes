@@ -58,3 +58,14 @@
 
 - **Caused by**: _Staphylococcus aureus_, _Staphycus albus_, _Proteus_, _Klebsiella_ and _Pseudomonas_
 - **Drug of Choice**: Injection `Cloxacillin` and `Aminoglycoside` for 7-10 days
+
+## Prevention (From preterm low birth weight)
+
+- Keep the cord clean and dry
+- Wash hand and arm before and after handling babies
+- Avoid overcrowding
+- Practice minimal handling of infants
+- Adequate staffing
+- Isolation of infected babies
+- Proper cleaning and maintenance of nursery
+- Encourgae beastfeeding
