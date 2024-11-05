@@ -116,8 +116,8 @@ Consider:
 ##### Route
 
 - Mother express her own milk into a sterile container
-- **< 32 weeks**: are given intragastric feeding (orogastirc or nasogastri)
-- **32-34 weeks**: Babies who can swallow are fed with spoon.
+- **< 32 weeks**: Intragastric feeding (orogastirc or nasogastri)
+- **32-34 weeks**: Spoon feeding for babies who can swallow
 - **34-36 weeks**: Babies can suck well the nipples. If they get tired, fed with spoon or cup.
 
 ##### Schedule
@@ -132,14 +132,8 @@ Feeding should be scheduled because preterms rarely demand for feeds.
 
 - All preterm babies must receive `IM Vit K1` after birth to prevent haemorrhagic disease of the newborn.
 - **Dose**: `0.5 mg` for < 34 weeks of gestation, `1 mg` for > 34 weeks
-
-#### Multivitamins and Folic Acide
-
 - **Multivitamins**: starts from Day 7-14
 - **Folic acid**: `1 mg/day` from Day 7-14 till 3 months of age
-
-#### Iron
-
 - **Iron supplementation**: `2mg/kg` starts ony at 6-8 weeks after birth
 
 ### 3. Fluid and Electrolyte Management

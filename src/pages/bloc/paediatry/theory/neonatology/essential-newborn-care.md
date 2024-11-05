@@ -20,8 +20,9 @@
 
 ### 1. Neonatal Resuscitation
 
-#### A, B, C, D of Resuscitation
+#### T, A, B, C, D of Resuscitation
 
+- **T**: **T**emperature control
 - **A**: **A**nticipation of problem, Clear **A**irway
 - **B**: Initiate **B**reathing
 - **C**: Maintain **C**irculation
@@ -53,7 +54,7 @@
 1. Deliver the baby on a clean surface
 1. Dry the baby immediately
 1. Wrap the baby with clean dry cloth
-1. Keep the baby close to the omther to stimulate early breastfeeding
+1. Keep the baby close to the mother to stimulate early breastfeeding
 1. Postphone bathing for about 6 hours
 
 #### After Delivery

@@ -8,6 +8,10 @@
   }
 }
 
+details > div > div {
+  @apply p-3;
+}
+
 @layer components {
   /*Variant*/
   .text-emphasis {

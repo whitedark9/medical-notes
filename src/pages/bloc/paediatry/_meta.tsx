@@ -1,5 +1,6 @@
 export default {
   index: "Overview",
-  bedside: "Bedside",
   theory: "Theory",
+  bedside: "Bedside",
+  photo: "Photo",
 };
