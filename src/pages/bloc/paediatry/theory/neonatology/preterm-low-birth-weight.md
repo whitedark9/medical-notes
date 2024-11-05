@@ -80,6 +80,8 @@
 
 ## Management of Preterm Infants
 
+> TEN HIJ <br> **T** - **T**emperature, **E** - Fluid & **E**lectrolyte, **N** - **N**utrition, **H** - **H**ypoglycaemia, **I** - **I**nfection, **J** - **J**aundice
+
 ### 1. Temperature Control
 
 - Maintain adequate body temperature. (Skin temperature 36.5-37.5°C)

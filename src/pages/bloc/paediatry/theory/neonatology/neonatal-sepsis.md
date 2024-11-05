@@ -14,29 +14,28 @@
 
 ### Most Frequent Signs and Symptoms
 
-- Poor feeding
 - Lethargy, Irritability
 - Does not look well
 - Temperature instability (hypothermia or hyperthermia)
 - Apnoea and bradycardia
 - Respiratory distress
+- Poor feeding
 - Vomiting
+- Diarrhoea
 - Jaundice
 - Abdominal distension
 - Seizures
-- Diarrhoea
-- Hypoglycaemia/hyperthermia, etc.
+- Hypoglycaemia/hyperglycaemia, etc.
 
 ## Investigation
 
 1. Full blood count, including film
 1. Blood culture
-1. Swab from any site of inflammation
-1. Throat, ear, nose and umbilical swab
+   - Swab from any site of inflammation (throat, ear, nose and umbilical swab)
 1. Urine microscopy and culture
+1. CSF microscopy and culture if indicated
 1. Chest X-ray
 1. C-reactive protein
-1. CSF microscopy and culture if indicated
 
 ## Supportive Care
 

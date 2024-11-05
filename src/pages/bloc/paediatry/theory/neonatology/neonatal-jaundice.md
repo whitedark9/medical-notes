@@ -40,6 +40,16 @@
 |                  | - Urinary tract infection                  |
 |                  | - Conjugated hyperbilirubinaemia           |
 
+## Kramer's Rule
+
+| Zone | Jaundice                     | Serum Bilirubin (unconjugated) in mg/dl |
+| :--- | :--------------------------- | :-------------------------------------- |
+| 1    | Limited to head and neck     | 6                                       |
+| 2    | Over upper trunk             | 9                                       |
+| 3    | Over lower trunk             | 12                                      |
+| 4    | Over arms, legs, below knees | 15                                      |
+| 5    | Hands, feet                  | >15                                     |
+
 ## Phototherapy
 
 > Phototherapy is a treatment with a special type of light (not sunlight)
@@ -57,8 +67,7 @@
 - Photothehrapy should be given continuously except feeding & toileting
 - Expose the whole body. Cover the eyes.
 - Turn the baby every 2-3 hours.
-
-Extra fluid - `20-30 ml/kg/24hour` is given by more frequent breastfeeding.
+- Extra fluid: `20-30 ml/kg/24hour` is given by more frequent breastfeeding.
 
 ### Complications
 

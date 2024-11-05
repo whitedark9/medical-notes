@@ -108,7 +108,7 @@
 
 ## Development Milestone in One Year Old Child
 
-> 3 လမှာ, Head Control, Social Smile နဲ့ Eye Follow<br>Roll Sup' Sit, at Six Months, Solid Sound ဆန့် with both hands<br>Distract test, လက်ညိုးထိုး, တွားသွားနှုတ်ဆက် အသက်က ကိုး<br>And he knows, His own name, Before he turns 'round again<br>A good pincer, One year, သူစိမ်းတွေ ရှောင်ကာ တစ်လှမ်းချင်းသွား<br>Cast and Clap, Drink from cup, Learn more words and Stand no sup'
+> 3 လမှာ, Head Control, Social Smile နဲ့ Eye Follow<br>Roll Sup' Sit, at Six Months, Solid Sound ဆန့် with both hands<br>Papa Mama, လက်ညိုးထိုး, တွားသွားနှုတ်ဆက် အသက်က ကိုး<br>And he knows, His own name, Before he turns 'round again<br>A good pincer, One year, သူစိမ်းတွေ ရှောင်ကာ တစ်လှမ်းချင်းသွား<br>Cast and Clap, Drink from cup, Learn more words and Stand no sup'
 
 | Age (months) | Gross motor                                                        | Fine motor/vision                                                                       | Hearing and speech                                                          | Social behaviour                                                                     |
 | :----------- | :----------------------------------------------------------------- | :-------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------- | :----------------------------------------------------------------------------------- |
