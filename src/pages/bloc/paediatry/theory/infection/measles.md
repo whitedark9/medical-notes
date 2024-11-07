@@ -21,7 +21,7 @@
 
 - Fever
 - Conjunctivitis, catarrhal or coryza characterized by consistently running nose, and dry cough
-- Koplik's spots (pathognomonic sign)
+- **Koplik's spots (pathognomonic sign)**
   - Small grayish white dots as small as grains of sand surrounded by reddish areola appear on the inner side of cheek opposite the lower molar teeth
   - Usually disappear rapidly within 12-18 hour
 
@@ -51,6 +51,9 @@
 
 ### 2. Non-Respiratory
 
+1. Central nervous system
+   - Encephalitis
+   - Subacute sclerosing panencephalitis (SSPE)
 1. Opthalmic complication
    - Conjunctivitis
    - Keratitis
@@ -64,9 +67,6 @@
      - Peculiar foul odour
    - Gastroenteritis
    - Persistent diarrhoea
-1. Central nervous system
-   - Encephalitis
-   - Subacute sclerosing panencephalitis (SSPE)
 1. Others
    - Malnutrition
    - Leucopenia

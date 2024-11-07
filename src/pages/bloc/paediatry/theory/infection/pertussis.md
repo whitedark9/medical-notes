@@ -30,16 +30,16 @@
 
 ## Complications
 
+- Neurological
+  - Encephalopathy
+  - Cerebral haemorrhage
+  - Convulsion
 - Respiratory
   - Air leak syndrome
   - Lung collapse
   - Secondary bacterial infection
   - Bronchiectasis
   - Flaring of pulmonary tuberculosis
-- Neurological
-  - Encephalopathy
-  - Cerebral haemorrhage
-  - Convulsion
 - Gastrointestinal
   - Hernia
   - Rectal prolapse
@@ -53,13 +53,13 @@
 
 ## Investigation
 
-- **Bacterial**:
+- **Culture & Sensitivity**:
   - Per-nasal swab for organism
   - Cough plate culture for organism
-- **Haematological**:
-  - Total and Differential Count shows leucocytosis with absolute lympocyosis
-- **Radiological**:
-  - CXR: Perihilar infiltration, actelectasis emphysema
+- **Total and Differential Count**:
+  - leucocytosis with absolute lympocyosis
+- **Chest X-Ray**:
+  - Perihilar infiltration, actelectasis emphysema
 - **ELISA test**:
   - To detect serum IgM, IgG & IgA, pertussis toxin
 

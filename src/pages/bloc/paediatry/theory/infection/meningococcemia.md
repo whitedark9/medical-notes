@@ -27,19 +27,19 @@
 
 ## Investigation
 
-1. Culture and sensitivity
+1. **Culture and sensitivity**
    - from skin lesion, nasopharynx, blood and CSF
-1. Lumbar puncture
+1. **Lumbar puncture**
    - if meningitis is suspected
-1. Complete blood count (CBC)
+1. **Complete blood count (CBC)**
    - Neutropil leucocytosis
-1. Rapid diagnostic test
+1. **Rapid diagnostic test**
    - by Counter current immunoelectrophoresis, immunoassay
 
 ## Treatment
 
 - Antibiotics
-  - `IV crystalline penicillin 1L/kg/dose 6 hourly` **Or**
+  - `IV crystalline penicillin 1L/kg/dose 6 hourly` **OR**
   - `3rd generation cephalosporin` (e.g., `Cefotaxime 50 mg/kg/dose 6 hourly for 7-10 days`)
 - Fluids: `Colloids` and `inotropes` in shock
 - Steroid: `IV hydrocortisone` in adrenal haemorrhage

@@ -97,28 +97,14 @@
 #### Ongoing Management and Monitoring
 
 1. **Monitor for signs of fluid overload**:
-
-   - As fluid leakage into tissues subsides (usually after 24–48 hours), excess fluid may cause pulmonary edema or pleural effusion.
    - Monitor the patient’s **weight, urine output, respiratory rate**, and **chest auscultation**.
-
 2. **Vital Signs**:
-
    - Continuous monitoring :**blood pressure (BP)**, **pulse**, and **oxygen saturation**.
    - Then, reduce frequency as the patient stabilizes.
-
-3. **Urine Output**:
-
-   - Monitor **hourly urine output**:
-     - Target: `≥0.5–1 mL/kg/hour for adults` and `≥1 mL/kg/hour for children`.
-   - Use a **urinary catheter** if necessary to ensure accurate measurement.
-
-4. **Hematocrit Monitoring**:
-
-   - **Hematocrit measurements** every 4–6 hours initially.
-   - Rising hematocrit indicates ongoing plasma leakage
-
+3. **Urine Output**
+4. **Hematocrit Monitoring**
 5. **Electrolyte and Glucose Monitoring**:
-   - Monitor **serum sodium**, **potassium**, and **glucose** frequently to prevent and manage electrolyte imbalances or hypoglycemia.
+   - Monitor **serum sodium**, **potassium**, and **glucose**
 
 #### Management of Complications
 
