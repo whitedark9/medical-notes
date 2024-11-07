@@ -1,5 +1,9 @@
 # Heart Failure
 
+> List causes of heart failure in children. Discuss management of heart failure caused by rheumatic carditis. (UM1)
+
+## Definition
+
 > The heart cannot pump sufficient blood to meet the metabolic demands of the body.
 
 1. Systolic Heart Failure (HFrEF - Heart Failure with Reduced Ejection Fraction)
