@@ -49,7 +49,7 @@
 
 ### 2. Control fever
 
-- Take off clothing and give tepid sponging (ရေဘက်တိုက်ပေးခြင်း)
+- Tepid sponging
 - `Antipyretic` e.g. `oral or rectal Paracetamol 15mg/kg 4-6 hourly`
 
 ### 3. Hospitalization

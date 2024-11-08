@@ -45,15 +45,6 @@
   - Admit to hospital
   - IV/IM antibiotics
 
-### General Management
-
-- Management of **fever**:
-  - Antipyretics
-  - Avoid tepid sponging
-- Prevention of dehydration
-- Identify signs of deterioration
-- Identify other serious illness
-
 ### Antibiotic Therapy
 
 #### 1. Pneumonia (Out-patient)
@@ -63,7 +54,9 @@
 ##### Children < 5 years
 
 - **First line**: `PO Amoxicillin (40 mg/kg/dose twice daily for 5 days)`
-- **Second line**: `Co-amoxiclav (30 mg Amoxicillin/kg/dose 8 hourly)` **OR** `Cephalosporin (2nd or 3rd generation - Cefpodoxime, Cefuroxime, Cefprozil)`
+- **Second line**:
+  - `Co-amoxiclav (30 mg Amoxicillin/kg/dose 8 hourly)` **OR**
+  - `Cephalosporin (2nd or 3rd generation - Cefpodoxime, Cefuroxime, Cefprozil)`
 - `Macrolide (Azithromycin OD for 3 days)` if _Mycoplasma pneumoniae_ or _Chlamydia pneumoniae_ is suspected
 - `Flucloxacillin (50 mg/kg/day in 4 divided doses)` if _Staph aureus_ is suspected
 
@@ -79,34 +72,20 @@
   - `Ampicillin`: 50 mg/kg **OR** `Benzyl penicillin` 50,000 units/kg IV/IM every 6 hours for at least 5 days
   - `Gentamicin` 7.5 mg/kg IV/IM OD for at least 5 days
 - **Second line**:
-  - Consideration:
-    - No signs of recovery after 48-72 hours of first line antibiotics
-    - Toxic and ill with spiking temperature for 48-72 hours
-  - Drugs
-    - `Ceftriaxone (50mg/kg OD)`
-    - `Coamoxiclav (30 mg of Amoxycillin/kg/dose 8 hourly)` **or**
-    - `Cefotaxime (200 mg/kg/day IV in 3 divided doses)` **or**
-    - `Cefuroxime (150 mg/kg/day IV in 3 divided doses)`
+  - `Ceftriaxone (50mg/kg OD)`
+  - `Coamoxiclav (30 mg of Amoxycillin/kg/dose 8 hourly)` **or**
+  - `Cefotaxime (200 mg/kg/day IV in 3 divided doses)` **or**
+  - `Cefuroxime (150 mg/kg/day IV in 3 divided doses)`
 - **Third line**:
   - `Cetazidime (30 mg/kg/dose 8 hourly)`
   - Other: `Aminoglycosides (Amikacin 7.5 mg/kg/dose 12 hourly)` if sepsis is suspected
 
 ### Supportive Therapy
 
-#### Fluids
-
-- IV fluids for patients who are vomiting or severely ill
-- 80% of maintenance level
-- Monitor serum electrolytes
-
-#### Oxygen
-
-- Maintain SpO2 > 92% via nasal cannlae, face mask or head box
-- For children who are restless, tachypnoeic with severe chest indrawing, cyanosed or not tolerating feeds
-
-#### Temperature Control
-
-- `Paracetamol 15 mg/kg/dose every 4-6 hours`
+1. Oxygen: SPO2 > 92%
+1. Antipyretics: `Paracetamol 15 mg/kg/dose every 4-6 hours`
+1. Hydration: Fluids
+1. Nutritious food
 
 ### Prevention
 

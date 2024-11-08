@@ -86,7 +86,7 @@
 
 ## Management of Acute Severe Bronchial Asthma
 
-### Initial management (in clinic or emergency department):
+### Initial management:
 
 1. **High Flow Oxygen**:
    - Maintain O₂ saturation > 94%.
@@ -100,11 +100,7 @@
 5. `Magnesium sulfate (IV)`:
    - In life-threatening asthma or if poor response to initial treatment.
 
-### Monitoring:
-
-- **Continuous monitoring** of O₂ saturation, respiratory rate, and heart rate.
-
-### Escalation if poor response:
+### Complication management:
 
 - `IV Aminophylline`:
   - Consider if not improving with nebulized treatments.
