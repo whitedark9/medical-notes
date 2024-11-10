@@ -51,11 +51,6 @@ History of **upper respiratory tract infection** or **skin infection** approxima
 
 ### Non-specific Treatment
 
-#### Anti-microbial therapies to eradicate the streptococci
-
-- `IM Penicillin 25,000-50,000 unit/kg for 7-10 days`
-- Alternative: `Erythromycin 30-50 mg/kg/day in 4 divided doses`
-
 #### Monitoring
 
 - Daily intake-ouput chart
@@ -71,6 +66,13 @@ History of **upper respiratory tract infection** or **skin infection** approxima
 #### Fluid Restriction
 
 - 1/2 or 1/3 of previous day output + insensible loss
+
+#### Anti-microbial therapies to eradicate the streptococci
+
+- `IM Penicillin 25,000-50,000 unit/kg for 7-10 days`
+- Alternative: `Erythromycin 30-50 mg/kg/day in 4 divided doses`
+
+---
 
 ### Treatment of Hypertension
 
@@ -91,9 +93,9 @@ To reduce BP to upper limit of normal range over 48-72 hours
 
 ### Supportive Treatment
 
-- `Dialysis` for **acute renal failure with severe hypertension**
-- Control of **seizures** by `anticonvulsant drugs`
-- Treat **cerebral oedema** with `diuretics or mannitol`
+- **Acute renal failure with severe hypertension**: `Dialysis`
+- **Seizures**: `Anticonvulsant drugs`
+- **Cerebral oedema**: `Diuretics or mannitol`
 
 ## Prognosis
 
