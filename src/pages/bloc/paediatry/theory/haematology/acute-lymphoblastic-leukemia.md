@@ -2,10 +2,6 @@
 
 > What are the 5 common differential diagnosis of anaemia with hepatosplenomegaly and lymphadenopathy of children. Describe diagnosis and management of acute lymphoblastic leukemia? (UM2)
 
-## Definition
-
-> Leukaemias are a group of disorders characterized by the accumulation of malignant white cells in the bone marrow and blood, leading to bone marrow failure and infiltration of organs.
-
 ## Differential Diagnosis of Anaemia with Hepatosplenomegaly and Lymphadenopathy
 
 1. Acute lymphoblastic leukemia (ALL)
@@ -14,6 +10,10 @@
 4. Infectious Mononucleosis (Epstein-Barr Virus)
 5. Cytomegalovirus (CMV)
 6. Hepatitis B or C
+
+## Definition
+
+> Leukaemias are a group of disorders characterized by the accumulation of malignant white cells in the bone marrow and blood, leading to bone marrow failure and infiltration of organs.
 
 ## History
 
