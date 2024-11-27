@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/**For <summary><deatils> Components **/
+details > div > div {
+  @apply p-3;
+}

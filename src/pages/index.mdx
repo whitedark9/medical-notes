@@ -1,0 +1,62 @@
+# Welcome!
+
+import { Cards } from "nextra/components";
+import Stethoscope from "~/ui/icon/Stethoscope";
+import BookReading from "~/ui/icon/BookReading";
+
+## Medicine
+
+<Cards>
+  <Cards.Card
+    title={"Bedside"}
+    icon={<Stethoscope />}
+    href={"/medicine/bedside"}
+  />
+  <Cards.Card
+    title={"Theory"}
+    icon={<BookReading />}
+    href={"/medicine/theory"}
+  />
+</Cards>
+
+## Surgery
+
+<Cards>
+  <Cards.Card
+    title={"Bedside"}
+    icon={<Stethoscope />}
+    href={"/surgery/bedside"}
+  />
+  <Cards.Card
+    title={"Theory"}
+    icon={<BookReading />}
+    href={"/surgery/theory"}
+  />
+</Cards>
+
+## Ob-Gyn
+
+<Cards>
+  <Cards.Card
+    title={"Bedside"}
+    icon={<Stethoscope />}
+    href={"/ob-gyn/bedside"}
+  />
+  <Cards.Card title={"Theory"} icon={<BookReading />} href={"/ob-gyn/theory"} />
+</Cards>
+
+## Pediatrics
+
+<Cards>
+  <Cards.Card
+    title={"Bedside"}
+    icon={<Stethoscope />}
+    href={"/pediatrics/bedside"}
+  />
+  <Cards.Card
+    title={"Theory"}
+    icon={<BookReading />}
+    href={"/pediatrics/theory"}
+  />
+  <Cards.Card title={"Photo"} href={"/pediatrics/photo"} />
+</Cards>
