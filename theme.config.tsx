@@ -8,9 +8,12 @@ export default {
     defaultTheme: APP.defaultTheme,
     storageKey: APP.themeStorageKey,
   },
-  // Currently I found hydration error on light mode reloading
-  // TODO: Switch on later
-  darkMode: false,
+  darkMode: true,
+  color: {
+    hue: { light: 236, dark: 210 },
+    saturation: 96,
+    lightness: 39,
+  },
   head: Head,
   logo: Logo,
   components: MDXComponents,

@@ -4,6 +4,7 @@ const config: Config = {
   content: ["./src/**/*.{js,ts,jsx,tsx,mdx}", "./theme.config.tsx"],
   theme: {},
   plugins: [],
+  important: true,
   darkMode: "class",
 };
 

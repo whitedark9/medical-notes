@@ -1,15 +1,13 @@
 import Blockquote from "./Blockquote";
-import Del from "./Del";
-import Italic from "./Italic";
-import Strong from "./Strong";
 
 const MDXComponents = {
   blockquote: Blockquote,
-  del: Del,
-  strong: Strong,
-  b: Strong,
-  em: Italic,
-  i: Italic,
+  // del: Del,
+  // strong: Strong,
+  // b: Strong,
+  // em: Italic,
+  // i: Italic,
+  // code: Code,
 };
 
 export default MDXComponents;

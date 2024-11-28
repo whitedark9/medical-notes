@@ -1,9 +1,9 @@
 import Image from "next/image";
 
-export default function Stethoscope({ size = 24 }) {
+export default function QuestionMark({ size = 24 }) {
   return (
     <Image
-      src={"/icons/book-reading.png"}
+      src={"/icons/question-mark.png"}
       alt={"book"}
       width={size}
       height={size}
