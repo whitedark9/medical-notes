@@ -16,7 +16,7 @@ summary {
 }
 
 code {
-  @apply rounded-md !bg-neutral-300 !px-1.5 !py-0.5 font-mono font-serif font-bold text-green-600 dark:!bg-neutral-800 dark:text-green-700;
+  @apply text-green-600 dark:text-green-700;
 }
 
 del {

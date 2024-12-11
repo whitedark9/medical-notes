@@ -19,8 +19,8 @@ export default function Logo() {
         alt={"Logo"}
         className="hidden dark:block"
       />
-      <span className="hidden text-2xl font-medium tracking-normal lg:inline-flex">
-        {APP.name}
+      <span className="hidden text-2xl font-bold tracking-tighter lg:inline-flex">
+        PRIMUM <span className="px-1 font-light">NON</span> NOCERE
       </span>
     </div>
   );
