@@ -7,6 +7,11 @@ details > div > div {
   @apply p-3;
 }
 
+li > ul,
+li > ol {
+  @apply !mt-2;
+}
+
 details {
   @apply !bg-fuchsia-300/75 dark:!bg-fuchsia-950/25;
 }
