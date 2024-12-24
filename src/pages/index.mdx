@@ -1,21 +1,19 @@
 # Welcome!
 
 import { Cards } from "nextra/components";
-import Stethoscope from "~/ui/icon/Stethoscope";
-import BookReading from "~/ui/icon/BookReading";
-import Photo from "~/ui/icon/Photo";
+import APP from "~/constants/configs/app";
 
 ## Medicine
 
 <Cards>
   <Cards.Card
     title={"Bedside"}
-    icon={<Stethoscope />}
+    icon={APP.emoji.stethoscope}
     href={"/medicine/bedside"}
   />
   <Cards.Card
     title={"Theory"}
-    icon={<BookReading />}
+    icon={APP.emoji.books}
     href={"/medicine/theory"}
   />
 </Cards>
@@ -25,12 +23,12 @@ import Photo from "~/ui/icon/Photo";
 <Cards>
   <Cards.Card
     title={"Bedside"}
-    icon={<Stethoscope />}
+    icon={APP.emoji.stethoscope}
     href={"/surgery/bedside"}
   />
   <Cards.Card
     title={"Theory"}
-    icon={<BookReading />}
+    icon={APP.emoji.books}
     href={"/surgery/theory"}
   />
 </Cards>
@@ -40,10 +38,10 @@ import Photo from "~/ui/icon/Photo";
 <Cards>
   <Cards.Card
     title={"Bedside"}
-    icon={<Stethoscope />}
+    icon={APP.emoji.stethoscope}
     href={"/ob-gyn/bedside"}
   />
-  <Cards.Card title={"Theory"} icon={<BookReading />} href={"/ob-gyn/theory"} />
+  <Cards.Card title={"Theory"} icon={APP.emoji.books} href={"/ob-gyn/theory"} />
 </Cards>
 
 ## Pediatrics
@@ -51,13 +49,17 @@ import Photo from "~/ui/icon/Photo";
 <Cards>
   <Cards.Card
     title={"Bedside"}
-    icon={<Stethoscope />}
+    icon={APP.emoji.stethoscope}
     href={"/pediatrics/bedside"}
   />
   <Cards.Card
     title={"Theory"}
-    icon={<BookReading />}
+    icon={APP.emoji.books}
     href={"/pediatrics/theory"}
   />
-  <Cards.Card title={"Photo"} icon={<Photo />} href={"/pediatrics/photo"} />
+  <Cards.Card
+    title={"Photo"}
+    icon={APP.emoji.image}
+    href={"/pediatrics/photo"}
+  />
 </Cards>

@@ -21,7 +21,7 @@ summary {
 }
 
 code {
-  @apply text-green-600 dark:text-green-700;
+  @apply text-green-700 dark:text-green-600;
 }
 
 del {

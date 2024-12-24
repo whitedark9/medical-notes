@@ -1,7 +1,7 @@
 import { Callout } from "nextra/components";
 import React from "react";
+import APP from "~/constants/configs/app";
 import type { CalloutType, MDXProps } from "~/constants/types";
-import QuestionMark from "~/ui/icon/QuestionMark";
 
 const getBlockquoteStatus = (children: React.ReactNode): CalloutType => {
   // Helper function to recursively check children
@@ -47,7 +47,7 @@ export default function Blockquote({ children }: MDXProps) {
   // For Old Question
   if (calloutType === "question") {
     return (
-      <Callout type={"warning"} emoji={<QuestionMark />}>
+      <Callout type={"warning"} emoji={APP.emoji.questionMarkRed}>
         {children}
       </Callout>
     );

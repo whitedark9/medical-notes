@@ -1,7 +1,7 @@
 import APP from "~/constants/configs/app";
-import Head from "~/ui/theme-config-components/Head";
-import Logo from "~/ui/theme-config-components/Logo";
-import MDXComponents from "~/ui/theme-config-components/mdx-components";
+import Head from "~/ui/components/Head";
+import Logo from "~/ui/components/Logo";
+import MDXComponents from "~/ui/mdx-components";
 
 export default {
   nextThemes: {
@@ -10,7 +10,7 @@ export default {
   },
   darkMode: true,
   color: {
-    hue: { light: 236, dark: 210 },
+    hue: { light: 226, dark: 210 },
     saturation: 96,
     lightness: 39,
   },
@@ -18,7 +18,7 @@ export default {
   logo: Logo,
   components: MDXComponents,
   toc: {
-    backToTop: true,
+    backToTop: "Scroll to top",
     title: "Table of Contents",
   },
   sidebar: {
@@ -33,6 +33,6 @@ export default {
     link: APP.repository,
     icon: null,
   },
-  docsRepositoryBase: APP.repository + "/tree/main/docs",
   feedback: { content: null },
+  editLink: { component: null },
 };

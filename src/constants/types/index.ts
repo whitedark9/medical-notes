@@ -3,3 +3,8 @@ export interface MDXProps {
 }
 
 export type CalloutType = "default" | "info" | "warning" | "error" | "question";
+
+export interface SectionProps {
+  show?: boolean;
+  children?: React.ReactNode;
+}

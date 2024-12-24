@@ -8,6 +8,19 @@ const APP = {
   themes: ["light", "dark", "system"],
   defaultTheme: "system",
   themeStorageKey: "@theme",
+  emoji: {
+    stethoscope: "🩺",
+    paperPencil: "📝",
+    books: "📚",
+    questionMarkRed: "❓",
+    pill: "💊",
+    brain: "🧠",
+    muscle: "💪",
+    bacteria: "🦠",
+    tooth: "🦷",
+    bone: "🦴",
+    image: "🖼️",
+  },
 };
 
 export default APP;
