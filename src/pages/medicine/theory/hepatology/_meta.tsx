@@ -1,3 +1,3 @@
 export default {
-  col: "Cirrhosis of Liver",
+  "cirrhosis-of-liver": "Cirrhosis of Liver",
 };
