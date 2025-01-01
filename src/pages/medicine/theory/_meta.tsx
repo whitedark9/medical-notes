@@ -3,5 +3,6 @@ export default {
   cardiology: "Cardiology",
   respiration: "Respiratory Medicine",
   hepatology: "Hepatology",
+  neurology: "Neurology",
   endocrinology: "Endocrinology",
 };

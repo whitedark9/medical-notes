@@ -13,11 +13,11 @@ li > ol {
 }
 
 details {
-  @apply !bg-fuchsia-300/75 dark:!bg-fuchsia-950/25;
+  @apply !bg-fuchsia-300/25 dark:!bg-fuchsia-950/25;
 }
 
 summary {
-  @apply font-bold text-fuchsia-700 dark:text-fuchsia-600;
+  @apply font-bold text-fuchsia-600 dark:text-fuchsia-600;
 }
 
 code {
@@ -41,5 +41,5 @@ thead {
 }
 
 tr {
-  @apply even:!bg-blue-700/20 even:dark:!bg-blue-950/25;
+  @apply even:!bg-blue-300/25 even:dark:!bg-blue-950/25;
 }

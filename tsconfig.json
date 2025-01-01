@@ -20,7 +20,8 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
-    "src/ui/section/index.mdx"
+    "src/ui/section/index.mdx",
+    "src/pages/medicine/theory/neurology/stroke.mdx"
   ],
   "exclude": ["node_modules"]
 }
