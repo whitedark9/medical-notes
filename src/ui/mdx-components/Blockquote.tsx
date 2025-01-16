@@ -22,7 +22,7 @@ const getBlockquoteStatus = (children: React.ReactNode): CalloutType => {
           // Info callout must end with . or ။
           if (textContent.endsWith(".") || textContent.endsWith("။"))
             return "info";
-          if (textContent.endsWith(")")) return "question";
+          // if (textContent.endsWith(")")) return "question";
           // Default callout must not end with above characters
           // Default callout is used for 'Indication'
         }
