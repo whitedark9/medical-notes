@@ -13,13 +13,13 @@ The term acute myocardial infarction (MI) should be used when there is
 
 1. Acute myocardial injury
    - with clinical evidence of acute myocardial ischaemia
-   - with detection of a rise and/or fall of cardiac troponin values with at least one value above the 99th centile upper reference limit
+   - with detection of a rise and/or fall of cardiac **troponin** values with **at least one value above the 99th centile upper reference limit**
 1. At least one of the following:
    - Symptoms of myocardial ischaemia
    - New ischaemic ECG changes
-   - Development of pathological Q waves
-   - Imaging evidence of new loss of viable myocardial or new regional wall motion abnormality in a pattern consistent with an ischaemic aetiology
-   - Identification of a coronary thrombus by angiography or autopsy
+   - Development of **pathological Q waves**
+   - **Imaging evidence** of new loss of viable myocardial or new regional wall motion abnormality in a pattern consistent with an ischaemic aetiology
+   - Identification of a **coronary thrombus** by angiography or autopsy
 
 </details>
 
@@ -44,32 +44,30 @@ import { Tabs } from "nextra/components";
 <Tabs items={['Simple', 'Details']}>
 <Tabs.Tab>
 
-### Symptoms
+### Common Features
 
-- Prolonged cardiac pain: chest, throat, arms, epigastrium or back
-- Anxiety and fear of impending death
-- Nausea and vomiting
-- Breathlessness
-- Collapse/syncope
+1. Chest pain at rest
+   - Tightness or heaviness or constriction
+   - At central chest, arms, shoulders, neck, jaw
+   - Not relived by nitrates or resting
+   - Last longer than stable angina
+   - Painless or 'silent' MI in diabetes mellitus or older patients
+1. Breathlessness
+1. Nausea and vomiting
+1. Collapse
 
-### Signs
+### Features of Complications
 
-1. Signs of sympathethic activation
-   - Pallor
-   - Sweating
-   - Tachycardia
-1. Signs of vagal activation
-   - Vomiting
-   - Bradycardia
-1. Signs of impaired myocardial function
-   - Hypotension, oliguria, cold peripheries
-   - Narrow pulse pressure
-   - Raised jugular venous pressure
-   - Third heart sound
-   - Quiet first heart sound
-   - Diffuse apical impulse
-   - Lung crepitations
-1. Low-grade fever
+1. Arrhythmia
+1. Acute heart failure
+1. Embolism
+1. Pericarditis
+1. Dressler syndrome
+1. Papillary muscle rupture
+1. Ventricular septal rupture
+1. Ventricular rupture
+1. Ventricular remodelling
+1. Ventricular aneurysm
 
 </Tabs.Tab>
 
@@ -209,7 +207,7 @@ Ventricular aneurysm
 
 ## Investigation
 
-<Tabs items={["Simple", "Detail"]}>
+<Tabs items={["Simple", "Details"]}>
 <Tabs.Tab>
 
 1. **Repeated Electrocardiogram** (12-lead ECG)
@@ -220,7 +218,7 @@ Ventricular aneurysm
    - Creatine kinase (CK)
    - Lactate dehydrogenase (LDH)
    - aspartate aminotransferase (AST)
-1. **Radiography**
+1. **Chest X-ray**
 1. **Echocardiography**
 1. **Coronary angiography with a veiw to revascularisation**
 1. **Full blood count**: Leucocytosis
@@ -267,12 +265,8 @@ Ventricular aneurysm
 ### Coronary angiography
 
 - Coronary angiography with a view to revascularisation
-- Indications:
-  - In all patients with moderate or high risk of a further event
-  - In patients who fail medical therapy
-  - In patients with extensive ECG changes
-  - In patients with an elevated cardiac troponin
-  - In patients with severe pre-existing stable angina
+
+> In all patients with moderate or high risk of a further event<br/>In patients who fail medical therapy<br/>In patients with extensive ECG changes<br/>In patients with an elevated cardiac troponin<br/>In patients with severe pre-existing stable angina.
 
 </Tabs.Tab>
 </Tabs>
@@ -293,13 +287,13 @@ Ventricular aneurysm
 
 - Presenting < 12 hrs from symptom onset?
   - If _Yes_: **Reperfusion therapy** → Is primary PCI feasible within 120 mins?
-    - If _Yes_: `PCI` + Glycoprotein IIb/IIIa receptor antagonist IV (`tirofiban`, `abciximab`) → **Maintenance in-hospital medication** (`aspirin`, `P2Y12 receptor antagonist`, `Fondaparinux`/`LMW heparin`, `statin`, `β-blocker` and `ACE inhibitor` therapy)
+    - If _Yes_: `PCI` + `Glycoprotein IIb/IIIa receptor antagonist` IV (`tirofiban`, `abciximab`) → **Maintenance in-hospital medication** (`aspirin`, `P2Y12 receptor antagonist`, `Fondaparinux`/`LMW heparin`, `statin`, `β-blocker` and `ACE inhibitor` therapy)
     - If ~~No~~: Eligible for thrombolysis?
       - If _Yes_: **Thrombolysis IV** + `Fondaparinux`/`LMW heparin` IV → Failed?
         - If _Yes_: Reperfusion?
         - If ~~No~~: **Early in-hospital coronary angiography** + consider `GP IIb/IIa receptor antagonist` IV infusion
       - If ~~No~~: Is delayed PCI possible?
-        - If _Yes_: `PCI` + Glycoprotein IIb/IIIa receptor antagonist IV (`tirofiban`, `abciximab`) → **Maintenance in-hospital medication**
+        - If _Yes_: `PCI` + `Glycoprotein IIb/IIIa receptor antagonist` IV (`tirofiban`, `abciximab`) → **Maintenance in-hospital medication**
         - If ~~No~~: **Non-ST segment elevation ACS treatment**
 
 </details>
@@ -312,6 +306,32 @@ Ventricular aneurysm
   - If ~~No~~: Recurrent symptoms?
     - If _Yes_: **Early in-hospital coronary angiography** + consider `GP IIb/IIa receptor antagonist` IV infusion
     - If ~~No~~: **Maintenance in-hospital medication** (`aspirin`, `P2Y12 receptor antagonist`, `Fondaparinux`/`LMW heparin`, `statin`, `β-blocker` and `ACE inhibitor` therapy)
+
+</details>
+
+</details>
+
+<details>
+<summary>Grace Score</summary>
+
+> ASK CHASE
+
+1. `A`ge
+1. `S`T-segment deviation
+1. `K`illip class
+1. `C`reatinine level
+1. `H`eart rate
+1. Cardiac `a`rrest at admission
+1. `S`BP
+1. `E`levated cardiac biomarker concentration
+
+<details>
+<summary>Killip Class</summary>
+
+1. No heart failure
+1. Crackles audible halfway up the chest
+1. Crackles heard in all the lung fields
+1. Cardiogenic shock
 
 </details>
 
@@ -342,6 +362,7 @@ Ventricular aneurysm
    - No benefit in non-ST segment elevation ACS
 1. **Thrombolytic therapy**
    - Alternative for PCI
+   - `streptokinase`, `alteplase`
    - Modern thrombolytic agents (`tenecteplase` (TNK) and `reteplase` (rPA))
 1. **Anti-thrombotic therapy**
    - Oral `aspirin` and `P2Y12 receptor antagonist` (`ticagrelor`, `prasugrel`, `clopidogrel`) + IV Glycoprotein IIb/IIIa receptor antagonists (`tirofiban` and `abciximab`)
