@@ -5,6 +5,7 @@ export default {
   hepatology: "Hepatology",
   neurology: "Neurology",
   nephrology: "Nephrology",
+  haematology: "Haematology",
   rheumatology: "Rheumatology",
   "diabetes-mellitus": "Diabetes Mellitus",
   endocrinology: "Endocrinology",
