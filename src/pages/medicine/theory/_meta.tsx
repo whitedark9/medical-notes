@@ -8,5 +8,6 @@ export default {
   haematology: "Haematology",
   rheumatology: "Rheumatology",
   "diabetes-mellitus": "Diabetes Mellitus",
+  infection: "Infection",
   endocrinology: "Endocrinology",
 };

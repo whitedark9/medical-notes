@@ -26,3 +26,14 @@ const APP = {
 export default APP;
 
 // ← → ↑ ↓ ° μ ≥  ≤ α β ±
+
+// import {Tabs} from 'nextra/components';
+
+// <Tabs items={["Simple", "Details"]}>
+// <Tabs.Tab>
+
+// </Tabs.Tab>
+// <Tabs.Tab>
+
+// </Tabs.Tab>
+// </Tabs>
