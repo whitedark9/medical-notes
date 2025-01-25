@@ -10,12 +10,6 @@
 | _Plasmodium malariae_   | 18-40 days        | Senescent RBCs (older RBCs) |
 | _Plasmodium knowlesi_   | 9-12 days         | All stages of RBCs          |
 
-[^1]: **Hypnozoites**: Dormant liver-stage forms of _P. vivax_ and _P. ovale_ that cause relapses.
-
-[^2]: **Schüffner's dots**: Stippling seen in infected RBCs, indicative of _P. vivax_ and _P. ovale_.
-
-[^3]: **Quotidian Fever**: Fever occurring daily, seen in _P. knowlesi_ due to its rapid cycle.
-
 ## Clinical Features
 
 - Non-specific; Suspect anyone returning from an endemic area
@@ -118,9 +112,88 @@ import { Tabs } from "nextra/components";
 </Tabs.Tab>
 </Tabs>
 
+## Complications
+
+1. Coma (cerebral malaria)
+1. Hyperpyrexia
+1. Convulsion
+1. Hypoglycemia
+1. Severe anaemia (packed cell volume < 15%)
+1. Acute pulmonary oedema
+1. Acute kidney injury
+1. Spontaneous bleeding and coagulopathy
+1. Metabolic acidosis
+1. Shock ('algid malaria')
+1. Aspiration pneumonia
+1. Hyperparasitaemia
+
 ## Management
 
-### Mild _falciparum_ malaria
+### Management of Complications
+
+1. Coma
+   - Maintain airway
+   - Nurse on side
+   - Exclude other treatable causes of coma (e.g. hypoglycaemia, bacterial meningitis)
+   - Avoid harmful ancillary treatments such as `glucorticoids`, `heparin` and `adrenaline`
+   - Intubate if necessary
+1. Hyperpyrexia
+   - Tepid sponging, fanning, cooling blanket
+   - Antipyretic drug (`paracetamol`)
+1. Convulsions
+   - Maintain airway
+   - Treat promptly with `diazepam`
+1. Hypoglycemia
+   - Measure blood glucose
+   - Give `50% dextrose` injection followed by `10% dextrose` infusion (glucagon may be ineffective)
+1. Severe anaemia (packed cell volume < 15%)
+   - Transfuse `fresh whole blood` or `packed cells` if pathogen screening of donor blood is available
+1. Acute pulmonary oedema
+   - Nurse at 45°
+   - Give oxygen, venesect[^1] 250 mL of blood
+   - Give `diuretic`, Stop IV fluids
+   - Intubate and PEEP/CPAP in life-threatening hypoxaemia
+   - Haemofilter
+1. Acute kidney injury
+   - Exclude pre-renal causes
+   - Fluid resuscitaton if appropriate
+   - `Peritoneal dialysis` (`haemofiltration` or `haemodialysis` if available)
+1. Spontaneous bleeding and coagulopathy
+   - Transfuse screened fresh whole blood (`cryoprecipitate`/`fresh frozen plasma` and `platelets` if available)
+   - `Vit K` injection
+1. Metabolic acidosis
+   - Exclude or treat hypoglycaemia, hypovolaemia and Gram-negative spesis
+   - Fluid resuscitaton
+   - Give oxygen
+1. Shock ('algid malaria')
+   - Suspect Gram-negative spesis
+   - Take blood cultures
+   - Give parenteral `antimicrobials`
+   - Correct haemodynamic disturbance
+1. Aspiration pneumonia
+   - Give parenteral `antimicrobials`
+   - Change position
+   - Physiotherapy
+   - Give oxygen
+1. Hyperparasitaemia
+   - Consider exchange transfusion (e.g. > 10% of circulating erythrocytes parasitised in non-immune patient with severe disease)
+
+### Specific Therapy for Severe _falciparum_ malaria
+
+- **Preferred therapy**:
+  - `Artesunate` 2.4 mg/kg IV at 0, 12 and 24 hrs,
+  - Then once daily for 7 days
+  - Once patient can take orally, switch to 2mg/kg orally once daily, to complete a total cumulative dose of 17-18 mg/kg
+- **Alternative**:
+  - `Quinine` loading dose 20 mg/kg IV over 4 hrs, up to a maximum of 1.4 g
+  - Then, maintenance dose of 10 mg/kg `quinine salt` given as 4-hr infusions 3 times daily for the first 48 hrs, then twice a day, up to a maximum of 700 mg per dose or until the patient can take orally
+  - Add `Doxycycline` (Use `Clindamycin` in pregnancy or young child)
+  - ~~Loading dose is contraindicated if `Quinine`, `Quinidine` or `Mefloquine` in previous 24 hrs~~
+  - Monitor ECG
+- Avoid `Mefloquine` due to ↑risk of post-malaria neurological syndrome
+
+<details>
+<summary>Mild _falciparum_ malaria</summary>
 
 - **Preferred therapy**: `Co-artemether` (`Artemether` + `Lumefantrine`)
 - **Alternative**:
@@ -131,18 +204,19 @@ import { Tabs } from "nextra/components";
   - **Alternative**: `Quinine` + `Clindamycin`
 - **Other Regimens**: `Artesunate` + `Mefloquine`
 
-### Severe _falciparum_ malaria
+</details>
 
-- **Preferred therapy**: `Artesunate` 2.4 mg/kg IV, then 2mg/kg oral
-- **Alternative**:
-  - `Quinine` IV loading dose, Infusion maintainance dose, then oral + `Doxycycline` (Use `Clindamycin` in pregnancy or young child)
-  - ~~Loading dose is contraindicated if `Quinine`, `Quinidine` or `Mefloquine` in previous 24 hrs~~
-  - ECG monitoring
-
-### Non-_falciparum_ malaria
+<details>
+<summary>Non-_falciparum_ malaria</summary>
 
 - **Preferred therapy**: `Chloroquine` + `Primaquine`
 - **Chloroquine-resistant _P. vivax_**: `Co-artemether` as for _P. falciparum_
 - **Patients with mild to moderate G6PD deficiency**: `Chloroquine` + `Primaquine` weekly orally for 8 weeks
 
+</details>
+
+## Preventation
+
 ---
+
+[^1]: Venesection: Remove blood from the body; To treat disorders like polycythemia, porphyria cutanea tarda, and hemochromatosis, To analyze a patient's blood
