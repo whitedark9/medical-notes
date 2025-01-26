@@ -1,5 +1,4 @@
 export default {
   thyrotoxicosis: "Thyrotoxicosis",
-  "graves-disease": "Graves' Disease",
-  "thyroid-crisis": "Thyroid Crisis",
+  "hyperthyroid-vs-hypothyroid": "Hyperthyroid vs Hypothyroid",
 };
