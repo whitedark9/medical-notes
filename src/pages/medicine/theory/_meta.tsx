@@ -1,7 +1,7 @@
 export default {
   index: "Introduction",
   cardiology: "Cardiology",
-  respiration: "Respiratory Medicine",
+  respiration: "Respiratory",
   hepatology: "Hepatology",
   neurology: "Neurology",
   nephrology: "Nephrology",
