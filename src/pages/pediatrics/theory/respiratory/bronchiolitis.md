@@ -30,8 +30,6 @@
 - Blood gas analysis
   - Lower arterial O2 and raised CO2 tension in more severe cases
 
-![CXR Bronchiolitits with severe RSV](/pediatrics/cxr-bronchiolitis.png)
-
 ### Treatment
 
 - `Supportive`

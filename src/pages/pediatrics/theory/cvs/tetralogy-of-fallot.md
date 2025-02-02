@@ -12,8 +12,6 @@
 
 > **Right Ventricular Hypertrophy**: Thickening of the right ventricular muscle due to increased workload from pumping blood through the narrow pulmonary valve
 
-![Tetralogy of Fallot](/cvs/tof.png)
-
 ## Pathophysiology
 
 ### Right-to-left Shunt
@@ -61,8 +59,6 @@
 - Heart size normal
 - Boot shape (concavity at the pulmonary conus and rounded titled apex)
 
-![TOF X-rays](/cvs/tof-x-ray.jpeg)
-
 ### ECG
 
 - Right axis deviation
@@ -98,8 +94,11 @@ One or more of the following in sequence
 - `Vasopressors - IV phenyl-ephrine/methoxamine` [^4] (If resistant to above therapy)
 
 [^1]: To decrease heart rate and myocardial oxygen demands → Decrease workload of the heart
+
 [^2]: To reduce pulmonary effort
+
 [^3]: Hypoxia → Accumulation of lactic acidosis and metabolic acidosis (They worsen the cyanosis) ← Corrected with Sodium Bicarbonate
+
 [^4]: Pheynylephrine and Methoxamine are alpha-1 adrenergic receptor agonists → Increase systemic vascular resistance through vascoconstriction
 
 #### General

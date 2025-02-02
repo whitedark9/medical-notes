@@ -17,9 +17,6 @@
 - Increased susceptibility to infection (e.g., ARI, UTI)
 - Retardation of physical and mental growth
 
-![Follicular hyperkeratosis](/pediatrics/follicular-hyperkeratosis.png)
-![Xerophthalmia](/pediatrics/xerophthalmia.jpg)
-
 ### Classification of Xerophthalmia (WHO criteria)
 
 1. **XN**: Night blindness
