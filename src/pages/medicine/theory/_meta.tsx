@@ -10,5 +10,6 @@ export default {
   "diabetes-mellitus": "Diabetes Mellitus",
   infection: "Infection",
   endocrinology: "Endocrinology",
+  "snake-bite": "Snake Bite",
   summary: "Summary",
 };
