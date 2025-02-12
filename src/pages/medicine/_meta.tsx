@@ -7,4 +7,5 @@ export default {
   index: "Introduction",
   bedside: "Bedside",
   theory: "Theory",
+  "chest-x-ray": "Chest X-ray",
 };
