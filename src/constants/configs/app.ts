@@ -20,6 +20,8 @@ const APP = {
     tooth: "🦷",
     bone: "🦴",
     image: "🖼️",
+    error: "❌",
+    success: "✔️",
   },
 };
 
