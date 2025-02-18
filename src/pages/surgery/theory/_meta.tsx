@@ -1,3 +1,6 @@
 export default {
-  index: "Introduction",
+  index: "Content",
+  general: "General",
+  systemic: "Systemic",
+  specialities: "Specialitis",
 };
