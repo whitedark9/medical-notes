@@ -1,4 +1,6 @@
 export default {
-  "post-operative-fever": "Post-Operative Fever",
-  "post-operative-complications": "Post-Operative Complications",
+  "pre-operative-preparation": "Pre-Op Preparation",
+  "who-surgical-safety-checklist": "WHO Surgical Safety Checklist",
+  "post-operative-fever": "Post-Op Fever",
+  "post-operative-complications": "Post-Op Complications",
 };
