@@ -1,6 +1,7 @@
 export default {
   wounds: "Wounds",
   haemorrhage: "Haemorrhage",
+  shock: "Shock",
   "blood-transfusion": "Blood Transfusion",
   nutritions: "Nutritions",
   "pre-operative-preparation": "Pre-Op Preparation",
