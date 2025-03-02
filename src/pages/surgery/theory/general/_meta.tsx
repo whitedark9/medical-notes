@@ -1,9 +1,10 @@
 export default {
   wounds: "Wounds",
-  haemorrhage: "Haemorrhage",
-  shock: "Shock",
-  "blood-transfusion": "Blood Transfusion",
   nutritions: "Nutritions",
+  haemorrhage: "Haemorrhage",
+  "blood-transfusion": "Blood Transfusion",
+  shock: "Shock",
+  "sterilization-disinfection": "Sterilization & Disinfection",
   "pre-operative-preparation": "Pre-Op Preparation",
   "who-surgical-safety-checklist": "WHO Surgical Safety Checklist",
   "post-operative-fever": "Post-Op Fever",
