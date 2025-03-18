@@ -5,4 +5,5 @@ export default {
   solitary: "Solitary Thyroid Nodule",
   goo: "Gastric Outlet Obstruction",
   "gastric-cancer": "Gastric Cancer",
+  "peptic-ulcer": "Peptic Ulcer",
 };
