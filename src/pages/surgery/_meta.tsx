@@ -8,4 +8,5 @@ export default {
   bedside: "Bedside",
   theory: "Theory",
   photo: "Photo",
+  "case-scenario": "Case Scenario",
 };
