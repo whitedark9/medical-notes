@@ -6,4 +6,7 @@ export default {
   goo: "Gastric Outlet Obstruction",
   "gastric-cancer": "Gastric Cancer",
   "peptic-ulcer": "Peptic Ulcer",
+  pancreatitis: "Acute Pancreatitis",
+  "surgical-jaundice": "Surgical Jaundice",
+  "ca-head-of-pancreas": "Ca Head of Pancreas",
 };
