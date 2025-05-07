@@ -12,4 +12,5 @@ export default {
   "surgical-jaundice": "Surgical Jaundice",
   "ca-pancreas": "Ca Head of Pancreas",
   "pseudocyst-of-pancreas": "Psuedocyst of Pancreas",
+  "oesophageal-varices": "Oesophageal Varices",
 };
