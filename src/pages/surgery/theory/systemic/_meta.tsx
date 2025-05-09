@@ -7,4 +7,5 @@ export default {
   "thyroglossal-cyst": "Thyroglossal-cyst",
   "upper-gi": "Upper GI",
   hepatobiliary: "Hepatobiliary",
+  "lower-gi": "Lower GI",
 };
