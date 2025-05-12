@@ -1,0 +1,53 @@
+{
+  "name": "medical-notes",
+  "version": "0.1.1",
+  "description": "medical notes by a final part 2 student, university of medicine, mandalay",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "deploy": "git add . && git commit -m up && git push -u origin main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitedark9/medical-notes.git"
+  },
+  "keywords": [
+    "umm"
+  ],
+  "author": "whitedark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitedark9/medical-notes/issues"
+  },
+  "homepage": "https://github.com/whitedark9/medical-notes#readme",
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "next": "^14.2.3",
+    "next-nprogress-bar": "^2.3.15",
+    "nextra": "^3.3.0",
+    "nextra-theme-docs": "^3.3.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.3",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "eslint": "^9.15.0",
+    "eslint-config-next": "^15.0.3",
+    "postcss": "^8.4.49",
+    "prettier": "^3.3.3",
+    "prettier-plugin-organize-imports": "^4.1.0",
+    "prettier-plugin-tailwindcss": "^0.6.9",
+    "tailwindcss": "^3.4.15",
+    "typescript": "^5.7.2"
+  },
+  "prettier": {
+    "plugins": [
+      "prettier-plugin-organize-imports",
+      "prettier-plugin-tailwindcss"
+    ]
+  }
+}
