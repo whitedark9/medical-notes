@@ -1,6 +1,6 @@
 const APP = {
   name: "PRIMUM NON NOCERE",
-  shortName: "P.N.N.",
+  shortName: "NON NOCERE",
   logoSize: 48,
   repository: "https://github.com/whitedark9/longship",
   description:
