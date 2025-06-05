@@ -3,4 +3,5 @@ export default {
   "diabetic-mellitus": "Diabetic Mellitus",
   "heart-disease": "Heart Disease",
   hypertension: "Hypertension",
+  pmct: "PMCT",
 };
