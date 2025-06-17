@@ -3,4 +3,5 @@ export default {
   "placenta-previa": "Placenta Previa",
   "abruptio-placenta": "Abruptio Placenta",
   "multiple-pregnancy": "Multiple Pregnancy",
+  "prom-pprom": "PROM/PPROM",
 };
