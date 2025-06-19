@@ -5,4 +5,5 @@ export default {
   "multiple-pregnancy": "Multiple Pregnancy",
   "prom-pprom": "PROM/PPROM",
   pph: "PPH",
+  puerperium: "Puerperium",
 };
