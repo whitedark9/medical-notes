@@ -1,7 +1,5 @@
 export default {
-  index: "Introduction",
   "an-care": "Antenatal Care",
-  complications: "Pregnancy Complications",
-  "medical-disorders": "Medical Disorders",
-  labour: "Labour",
+  paper1: "Paper 1",
+  paper2: "Paper 2",
 };

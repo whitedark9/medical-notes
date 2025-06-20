@@ -22,7 +22,7 @@
     "**/*.tsx",
     "src/ui/section/index.mdx",
     "src/pages/medicine/theory/ecg.mdx",
-    "src/pages/surgery/theory/specialities/urology/trauma.mdx"
+    "src/pages/surgery/theory/paper2/specialities/urology/trauma.mdx"
   ],
   "exclude": ["node_modules"]
 }

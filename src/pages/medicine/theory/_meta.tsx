@@ -1,15 +1,5 @@
 export default {
-  index: "Introduction",
-  cardiology: "Cardiology",
-  respiration: "Respiratory",
-  hepatology: "Hepatology",
-  neurology: "Neurology",
-  nephrology: "Nephrology",
-  haematology: "Haematology",
-  rheumatology: "Rheumatology",
-  "diabetes-mellitus": "Diabetes Mellitus",
-  infection: "Infection",
-  endocrinology: "Endocrinology",
-  "snake-bite": "Snake Bite",
+  paper1: "Paper 1",
+  paper2: "Paper 2",
   summary: "Summary",
 };

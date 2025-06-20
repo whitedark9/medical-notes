@@ -1,6 +1,5 @@
 export default {
-  general: "General",
-  systemic: "Systemic",
-  specialities: "Specialitis",
+  paper1: "Paper 1",
+  paper2: "Paper 2",
   extra: "Extra",
 };
