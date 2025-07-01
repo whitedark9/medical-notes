@@ -14,5 +14,5 @@ export default {
   medicine: "Medicine",
   surgery: "Surgery",
   "ob-gyn": "Obstetrics & Gynaecology",
-  pediatrics: "Pediatrics",
+  paediatrics: "Paediatrics",
 };

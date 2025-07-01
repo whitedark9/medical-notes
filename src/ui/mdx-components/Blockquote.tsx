@@ -1,7 +1,7 @@
 import { Callout } from "nextra/components";
 import React from "react";
 import APP from "~/constants/configs/app";
-import type { CalloutType, MDXProps } from "~/constants/types";
+import type { CalloutType } from "~/constants/types";
 
 const getBlockquoteStatus = (children: React.ReactNode): CalloutType => {
   // Helper function to recursively check children
@@ -39,7 +39,11 @@ const getBlockquoteStatus = (children: React.ReactNode): CalloutType => {
   return checkChildren(children);
 };
 
-export default function Blockquote({ children }: MDXProps) {
+export default function Blockquote({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
   if (!children) return;
 
   const calloutType: CalloutType = getBlockquoteStatus(children);

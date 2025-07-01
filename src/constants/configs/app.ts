@@ -27,6 +27,7 @@ const APP = {
 
 export default APP;
 
+//☑️
 // ← → ↑ ↓ ° μ ≥  ≤ α β ± γ
 
 // import {Tabs} from 'nextra/components';
