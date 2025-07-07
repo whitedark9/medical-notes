@@ -1,6 +1,6 @@
 export default {
-  complications: "Pregnancy Complications",
   "medical-disorders": "Medical Disorders",
   labour: "Labour",
+  complications: "Pregnancy Complications",
   "vital-statistics": "Vital Statistics",
 };
