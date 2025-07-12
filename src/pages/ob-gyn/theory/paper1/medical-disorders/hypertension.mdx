@@ -57,12 +57,10 @@
 
 ## Pathophysiology of Pre-eclampsia → Eclampsia
 
-1. Abnormal trophoblastic invasion →
-2. Uteroplacental ischemia →
-3. Endothelial dysfunction →
-4. Vasospasm & ↑ vascular permeability →
-5. Hypertension + Proteinuria + Edema + Multiorgan dysfunction
-6. Cerebral edema, vasospasm → Seizures → **Eclampsia**
+- **Abnormal placentation** → Abnormal trophoblastic invasion → Small spiral arteries → Uteroplacental ischemia → Release of inflammatory cytokines → Systemic endothelial dysfunction
+- Vasospasm & ↑ vascular permeability → Less blood flow to organs (**Multiorgan dysfunction**)
+- Less blood flow to kidney → ↓ GFR → **Proteinuria**
+- Less blood flow to brain → Cerebral edema, vasospasm → Seizures → **Eclampsia**
 
 ## Clinical Features
 
@@ -132,12 +130,12 @@
 - Intrauterine death
 - Low birth weight
 
+## Management
+
 import { Tabs } from "nextra/components";
 
 <Tabs items={['Eclampsia', 'Pre-eclampsia']}>
 <Tabs.Tab>
-
-## Management of Eclampsia
 
 ### 1. Resuscitation (ABCDEF Approach)
 
@@ -154,7 +152,7 @@ import { Tabs } from "nextra/components";
 - **C – Circulation**
 
   - Insert two large-bore IV cannulas
-  - Start isotonic IV fluids (e.g. 0.9% saline) → avoid fluid overload
+  - Start `isotonic` IV fluids (e.g. 0.9% saline) → avoid fluid overload
   - Avoid hypotension
 
 - **D – Disability**
@@ -162,14 +160,9 @@ import { Tabs } from "nextra/components";
   - Assess GCS
   - Protect from injury during seizure (padding, rails)
 
-- **E – Eclampsia-specific steps**
+- **E – Exposure**
 
-  - Start **Magnesium Sulphate**
-
-    - **Loading dose**: 4 g IV over 10–20 mins
-    - **Maintenance**: 1 g/hour IV for 24 hours after last seizure or delivery
-
-  - Monitor for toxicity
+  - Remove objects that can be harmful to the patients during seizure
 
 - **F – Fetus**
 
@@ -179,27 +172,28 @@ import { Tabs } from "nextra/components";
 
 - Indicated if **BP ≥160/110 mmHg**
 - Target BP: 140–150/90–100 mmHg
-- **First-line options**:
 
-  - `Labetalol IV (Non-selective beta-blocker)`:
-    - 20 mg bolus → repeat 40–80 mg every 10 mins (max 300 mg)
-    - Contraindication: asthma, heart failure, pulmonary oedema
-  - `Hydralazine IV`:
-    - 5–10 mg slow IV every 20 mins (max 50 mg qid)
-    -
-  - `Nifedipine oral (CCB)`:
-    - 10 mg capsule (if no IV access)
-    - Side effect: headache
+| Drug          | Route | Dose                          | Side Effects                    | Contraindications         |
+| ------------- | ----- | ----------------------------- | ------------------------------- | ------------------------- |
+| `Labetalol`   | IV/PO | 20 mg IV bolus, 100–200 mg PO | Bradycardia, bronchospasm       | Asthma, heart block       |
+| `Hydralazine` | IV/IM | 5–10 mg IV q20min             | Reflex tachycardia, hypotension | CAD, valvular disease     |
+| `Nifedipine`  | PO    | 10–20 mg PO                   | Headache, flushing              | Hypotension, MgSO₄ use    |
+| `Methyldopa`  | PO    | 250–500 mg TID                | Sedation, liver issues          | Liver disease, depression |
 
 ### 3. Control of Seizures
 
-- **Magnesium Sulphate** is drug of choice
+- `Magnesium Sulphate` is drug of choice
+
+  - **Loading dose**: 4 g IV over 10–20 mins
+  - **Maintenance**: 1 g/hour IV for 24 hours after last seizure or delivery
+  - Monitor for toxicity
+
 - If seizures recur despite MgSO₄:
 
   - Repeat 2 g IV bolus over 5–10 mins
-  - If still uncontrolled: consider **diazepam** or **thiopental** in ICU setting
+  - If still uncontrolled: consider `diazepam` or `thiopental` in ICU setting
 
-- **Antidote for toxicity**: 10% Calcium gluconate IV 10 mL over 10 mins
+- **Antidote for toxicity**: `10% Calcium gluconate` IV 10 mL over 10 mins
 - Monitor:
 
   - Patellar reflex (absent = early toxicity)
@@ -230,30 +224,6 @@ import { Tabs } from "nextra/components";
 
 ### 6. Delivery of the Baby
 
-<details>
-<summary>Bishop Score</summary>
-
-|             | 0         | 1      | 2        | 3     |
-| :---------- | :-------- | :----- | :------- | ----- |
-| Position    | Posterior | Middle | Anterior | -     |
-| Consistency | Firm      | Medium | Soft     | -     |
-| Effacement  | 0-30%     | 40-50% | 60-70%   | 80%+  |
-| Dilation    | Closed    | 1-2 cm | 3-4 cm   | 5+ cm |
-| Station     | -3        | -2     | -1/0     | +1/+2 |
-
-Additional factors:
-
-- +1 point for each previous vaginal birth
-- -1 point for first time birth givers
-
-Scores
-
-- \<3 : An induction will not be successful
-- \<5 : Labour will not begin without induction
-- 9+ : Labour will likely begin spontaneously
-
-</details>
-
 - **Timing**: After mother stabilized, ideally within 12 hours
 - **Mode**:
 
@@ -262,8 +232,8 @@ Scores
 
 - **Labour Management**:
 
-  - Avoid ergometrine (can raise BP)
-  - Use **oxytocin** for uterotonic effect
+  - Avoid `ergometrine` (can raise BP)
+  - Use `oxytocin` for uterotonic effect
   - Epidural contraindicated if low platelets
 
 ### 7. Postpartum Care
@@ -279,8 +249,6 @@ Scores
 
 <Tabs.Tab>
 
-## Management of Pre-eclampsia
-
 ## Goals of Management
 
 - Prevent progression to eclampsia
@@ -290,31 +258,22 @@ Scores
 
 ## A. Antenatal Management Based on Severity
 
-### 1. Non-Severe Pre-eclampsia
+<Tabs items={['Non-Severe', 'Severe']}>
+
+<Tabs.Tab>
+
+### Non-Severe Pre-eclampsia
 
 - **BP 140–159/90–109 mmHg**, no severe features
 
-#### Investigations:
+#### Antihypertensives
 
-- CBC, LFT, RFT, urinalysis, 24h urine protein or spot PCR
-- Fetal: growth scan, umbilical artery Doppler, CTG
-
-#### Treatment:
-
-- **Antihypertensives** (if BP persistently ≥140/90):
-
-  1. **Labetalol PO**:
-
-     - Start: 100 mg **oral** twice daily
-     - Max: up to 400 mg TID
-
-  2. **Nifedipine SR PO**:
-
-     - 20 mg **oral** once or twice daily
-
-  3. **Methyldopa PO**:
-
-     - 250–500 mg **oral** 2–3 times daily
+| Drug          | Route | Dose                          | Side Effects                    | Contraindications         |
+| ------------- | ----- | ----------------------------- | ------------------------------- | ------------------------- |
+| `Labetalol`   | IV/PO | 20 mg IV bolus, 100–200 mg PO | Bradycardia, bronchospasm       | Asthma, heart block       |
+| `Hydralazine` | IV/IM | 5–10 mg IV q20min             | Reflex tachycardia, hypotension | CAD, valvular disease     |
+| `Nifedipine`  | PO    | 10–20 mg PO                   | Headache, flushing              | Hypotension, MgSO₄ use    |
+| `Methyldopa`  | PO    | 250–500 mg TID                | Sedation, liver issues          | Liver disease, depression |
 
 - **Monitor**:
 
@@ -322,11 +281,22 @@ Scores
   - Bloods: twice weekly or as needed
   - Fetal well-being: weekly CTG + serial scans
 
-- **Delivery**:
+#### Corticosteroids (if \<34 weeks):
 
-  - **At 37 weeks** or earlier if clinical deterioration
+> To enhance fetal lung maturity in preterm (\<34 weeks) gestation:
 
-### 2. Severe Pre-eclampsia
+- `Betamethasone` 12 mg IM every 24 hr × 2 doses **OR**
+- `Dexamethasone` 6 mg IM every 12 hr × 4 doses
+
+#### Delivery
+
+- **At 37 weeks** or earlier if clinical deterioration
+
+</Tabs.Tab>
+
+<Tabs.Tab>
+
+### Severe Pre-eclampsia
 
 - **BP ≥160/110 mmHg** or
 - Evidence of organ dysfunction (CNS, liver, kidney, platelets) or fetal compromise
@@ -334,43 +304,47 @@ Scores
 #### Immediate Management (admit to tertiary care):
 
 - Bed rest (not strict), continuous monitoring
-- Start antihypertensives and magnesium sulphate (for seizure prophylaxis)
+- Start `antihypertensives` and `magnesium sulphate` (for seizure prophylaxis)
 
 #### Antihypertensives:
 
-1. `Labetalol IV`:
-
-   - 20 mg IV bolus over 2 mins
-   - Repeat: 40–80 mg every 10 mins until target BP
-   - Max: 300 mg
-   - Or start infusion at 1–2 mg/min
-
-2. `Hydralazine IV`:
-
-   - 5–10 mg slow IV every 20–30 mins
-   - Max 30 mg
-
-3. `Nifedipine immediate-release PO`:
-
-   - 10–20 mg capsule orally
-   - Repeat after 30 mins if needed
+| Drug          | Route | Dose                          | Side Effects                    | Contraindications         |
+| ------------- | ----- | ----------------------------- | ------------------------------- | ------------------------- |
+| `Labetalol`   | IV/PO | 20 mg IV bolus, 100–200 mg PO | Bradycardia, bronchospasm       | Asthma, heart block       |
+| `Hydralazine` | IV/IM | 5–10 mg IV q20min             | Reflex tachycardia, hypotension | CAD, valvular disease     |
+| `Nifedipine`  | PO    | 10–20 mg PO                   | Headache, flushing              | Hypotension, MgSO₄ use    |
+| `Methyldopa`  | PO    | 250–500 mg TID                | Sedation, liver issues          | Liver disease, depression |
 
 #### Seizure Prophylaxis:
 
-- **Magnesium Sulphate (MgSO₄)**:
+- `Magnesium Sulphate (MgSO₄)`:
 
   - **Loading**: 4 g IV over 10–20 mins
   - **Maintenance**: 1 g/hour IV infusion for 24 hours
-  - Monitor reflexes, respiration (>12/min), urine output (>25–30 mL/hr)
+  - Monitor toxicity
+  - **Antidote for toxicity**: `10% Calcium gluconate` IV 10 mL over 10 mins
+
+- Monitor:
+
+  - Patellar reflex (absent = early toxicity)
+  - Respiratory rate (>12/min)
+  - Urine output (>25–30 mL/hr)
 
 #### Corticosteroids (if \<34 weeks):
 
-- **Betamethasone** 12 mg IM q24h × 2 doses for fetal lung maturity
+> To enhance fetal lung maturity in preterm (\<34 weeks) gestation:
+
+- `Betamethasone` 12 mg IM every 24 hr × 2 doses **OR**
+- `Dexamethasone` 6 mg IM every 12 hr × 4 doses
 
 #### Fluid Management:
 
 - Restrict to 80–100 mL/hour unless bleeding
 - Avoid pulmonary edema
+
+</Tabs.Tab>
+
+</Tabs>
 
 ## B. Monitoring
 
