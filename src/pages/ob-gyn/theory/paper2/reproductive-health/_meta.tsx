@@ -1,3 +1,3 @@
 export default {
-  infertilty: "Infertility",
+  infertility: "Infertility",
 };
