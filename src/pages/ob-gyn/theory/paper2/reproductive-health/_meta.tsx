@@ -3,4 +3,5 @@ export default {
   "oc-pills": "OC Pills",
   implants: "Implants",
   iud: "Intrauterien Devices",
+  emergency: "Emergency Contraception",
 };
