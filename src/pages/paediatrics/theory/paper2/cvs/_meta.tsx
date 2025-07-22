@@ -4,5 +4,4 @@ export default {
   "tetralogy-of-fallot": "Tetralogy of Fallot",
   "rheumatic-fever": "Rheumatic Fever",
   "heart-failure": "Heart Failure",
-  murmurs: "Type of Murmurs",
 };
