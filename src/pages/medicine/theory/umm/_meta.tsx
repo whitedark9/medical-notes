@@ -1,0 +1,12 @@
+export default {
+  anaemia: "Anaemia",
+  "hiv-tb": "HIV-TB",
+  "pulmonary-oedema": "Pulmonary Oedema",
+  dka: "Diabetic Ketoacidosis",
+  "portal-hypertension": "Portal Hypertension",
+  anaphylaxis: "Anaphylaxis",
+  "heat-stroke": "Heat Stroke",
+  stroke: "Ischaemic Stroke",
+  aki: "Acute Kidney Injury",
+  "pleural-effusion": "Pleural Effusion",
+};
