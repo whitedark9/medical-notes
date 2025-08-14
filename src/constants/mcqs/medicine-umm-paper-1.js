@@ -1,4 +1,4 @@
-const MEDICINE_UMM_PAPER_1_MCQs = [
+const MEDICINE_UMM_PAPER_1 = [
   {
     id: 1,
     statement: "Causes of sudden cardiac death include",
@@ -1907,4 +1907,4 @@ const MEDICINE_UMM_PAPER_1_MCQs = [
   },
 ];
 
-export default MEDICINE_UMM_PAPER_1_MCQs;
+export default MEDICINE_UMM_PAPER_1;

@@ -15,4 +15,5 @@ export default {
   surgery: "Surgery",
   "ob-gyn": "Obstetrics & Gynaecology",
   paediatrics: "Paediatrics",
+  mcqs: "MCQs",
 };
