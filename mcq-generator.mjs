@@ -8,6 +8,8 @@ import SURGERY_UMM_GROUP_4 from "./src/constants/mcqs/surgery-umm-group-4.js";
 
 const MCQs_PATH = path.join(process.cwd(), "src", "pages", "mcqs");
 
+const ABCDE = ["A", "B", "C", "D", "E"];
+
 function createMDXFile(title, data) {
   let text = `# ${title}\n\n\n`;
 
@@ -15,7 +17,7 @@ function createMDXFile(title, data) {
     text += `**${idx + 1}. ${mcq.statement}**\n\n`;
 
     mcq.choices.map((choice, index) => {
-      text += `<details>\n<summary>${index + 1}. ${choice.answer}</summary>\n${choice.answerKey ? "`True`" : "~~False~~"} - ${choice.reason}\n</details>\n\n`;
+      text += `<details>\n<summary>${ABCDE[index]}. ${choice.answer}</summary>\n${choice.answerKey ? "`True`" : "~~False~~"} - ${choice.reason}\n</details>\n\n`;
     });
 
     text += `---\n\n`;

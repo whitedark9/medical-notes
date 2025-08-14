@@ -31,7 +31,7 @@ const SURGERY_UMM_GROUP_3 = [
           "Suffer joint stiffness and pain that is often worse in the morning",
         answerKey: false,
         reason:
-          "OA stiffness usually improves with activity; morning stiffness is brief (<30 min) compared to inflammatory arthritis.",
+          "OA stiffness usually improves with activity; morning stiffness is brief (\\<30 min) compared to inflammatory arthritis.",
       },
     ],
   },
