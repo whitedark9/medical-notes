@@ -9,12 +9,18 @@ export interface SectionProps {
   children?: React.ReactNode;
 }
 
-// export interface MCQType {
-//   statement: string;
-//   choices: string[];
-//   answer: number[];
-//   notes?: string[];
-// }
+export interface MCQType {
+  id: number;
+  statement: string;
+  choices: ChoiceType[];
+}
+
+export interface ChoiceType {
+  index?: number;
+  answer: string;
+  answerKey: boolean;
+  reason: string;
+}
 
 // export interface ButtonProps extends HTMLAttributes<HTMLButtonElement> {
 //   mode?: "contain" | "outline";

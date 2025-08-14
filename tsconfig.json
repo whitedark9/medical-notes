@@ -22,7 +22,11 @@
     "**/*.tsx",
     "src/ui/section/index.mdx",
     "src/pages/medicine/theory/ecg.mdx",
-    "src/pages/surgery/theory/paper2/specialities/urology/trauma.mdx"
+    "src/pages/surgery/theory/paper2/specialities/urology/trauma.mdx",
+    "src/pages/medicine/theory/mcqs/umm-paper1.mdx",
+    "src/constants/mcqs/medicine-umm-paper1.js",
+    "src/constants/mcqs/medicine-umm-paper1.js",
+    "src/constants/mcqs/medicine-umm-paper1.js"
   ],
   "exclude": ["node_modules"]
 }
