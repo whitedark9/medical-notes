@@ -1,1002 +1,962 @@
 const SURGERY_UMM_GROUP_4 = [
   {
     id: 1,
-    statement:
-      "75-year-old female presents with displaced intracapsular fracture of the femoral neck.",
+    statement: "In Cholangiohepatitis",
     choices: [
       {
-        answer: "Hemiarthroplasty is the preferred treatment for this patient.",
+        answer: "Jaundice is deep and progressive",
         answerKey: true,
         reason:
-          "Elderly patients with displaced intracapsular femoral neck fractures usually benefit from hemiarthroplasty to allow early mobilization and reduce complications.",
+          "Cholangiohepatitis often causes progressive jaundice due to bile duct obstruction.",
       },
       {
-        answer:
-          "Total hip replacement is indicated for active, healthy elderly patients.",
+        answer: "High temperature is usually associated with chills and rigor",
+        answerKey: true,
+        reason: "Fever with rigors is a hallmark of ascending cholangitis.",
+      },
+      {
+        answer: "RHC pain is recurrent",
         answerKey: true,
         reason:
-          "Active, medically fit elderly patients may benefit from total hip replacement for better function and lower risk of acetabular erosion.",
+          "Right hypochondrial pain is common and may recur with episodes.",
       },
       {
-        answer: "Non-surgical management is appropriate for this fracture.",
+        answer: "Gallbladder may be enlarged and tender",
+        answerKey: true,
+        reason:
+          "Inflammation can cause a palpable tender gallbladder (Courvoisier sign).",
+      },
+      {
+        answer: "Skin itchiness is uncommon",
         answerKey: false,
-        reason:
-          "Non-surgical management is usually reserved for non-ambulatory or extremely frail patients; most displaced fractures require surgery.",
-      },
-      {
-        answer:
-          "Internal fixation with screws is the best option for displaced fractures.",
-        answerKey: false,
-        reason:
-          "Internal fixation has high failure rates in elderly with displaced intracapsular fractures due to poor bone quality.",
-      },
-      {
-        answer: "Deep vein thrombosis (DVT) is a potential complication.",
-        answerKey: true,
-        reason:
-          "DVT is a common complication post-hip fracture, especially if immobilized.",
+        reason: "Pruritus is common due to cholestasis.",
       },
     ],
   },
   {
     id: 2,
-    statement:
-      "10-year-old boy with fever, thigh swelling, tenderness, periosteal elevation on X-ray.",
+    statement: "In acute pyogenic osteomyelitis",
     choices: [
       {
-        answer: "The most likely diagnosis is osteomyelitis.",
+        answer: "Life threatening septicaemia is a presentation in neonates",
         answerKey: true,
-        reason:
-          "Fever, localized pain, swelling, elevated WBC/CRP, and periosteal elevation on X-ray indicate acute hematogenous osteomyelitis.",
+        reason: "Neonates may present with systemic sepsis.",
       },
       {
-        answer: "Staphylococcus aureus is the most common causative organism.",
+        answer:
+          "Organisms settle near the metaphysic at the growing end of a long bone",
         answerKey: true,
-        reason:
-          "S. aureus is the predominant pathogen in pediatric acute osteomyelitis.",
+        reason: "Vascular anatomy favors metaphyseal infection.",
       },
       {
-        answer: "Oral antibiotics are sufficient for treatment.",
+        answer: "Plain X-ray shows no abnormality for 3 weeks",
+        answerKey: true,
+        reason: "Early osteomyelitis may not be visible on X-ray.",
+      },
+      {
+        answer:
+          "The sequestrum appears radiolucent compared to surrounding bone",
         answerKey: false,
-        reason:
-          "Severe or acute cases usually require IV antibiotics; oral antibiotics alone are often insufficient initially.",
+        reason: "Sequestrum is dense (radiopaque), not radiolucent.",
       },
       {
-        answer: "Surgical debridement may be required.",
+        answer: "Staph. aureus is the commonest infecting agent",
         answerKey: true,
-        reason:
-          "Surgical intervention is needed if there is abscess, sequestrum, or failure to respond to antibiotics.",
-      },
-      {
-        answer: "Both life and limb are in danger with this infection.",
-        answerKey: true,
-        reason:
-          "Severe osteomyelitis can threaten limb function; systemic spread may risk life.",
+        reason: "Staphylococcus aureus is the most frequent cause.",
       },
     ],
   },
   {
     id: 3,
-    statement: "Regarding peptic ulceration",
-    choices: [
-      {
-        answer: "Most peptic ulcers are caused by H.pylori or NSAID",
-        answerKey: true,
-        reason:
-          "H. pylori infection and NSAID use account for the majority of peptic ulcers.",
-      },
-      {
-        answer: "Gastric ulcers are more common than duodenal ulcers",
-        answerKey: false,
-        reason: "Duodenal ulcers are more common than gastric ulcers.",
-      },
-      {
-        answer: "Gastric ulcers may become malignant",
-        answerKey: true,
-        reason:
-          "Some gastric ulcers carry a risk of malignancy, unlike duodenal ulcers.",
-      },
-      {
-        answer: "Elective surgery is commonly performed now",
-        answerKey: false,
-        reason:
-          "Elective surgery is now rare due to effective medical management with PPIs and eradication therapy.",
-      },
-      {
-        answer:
-          "The treatment of the perforated peptic ulcer is primarily surgical",
-        answerKey: true,
-        reason:
-          "Perforated peptic ulcer is a surgical emergency requiring repair.",
-      },
-    ],
-  },
-  {
-    id: 4,
-    statement: "Septic shock",
-    choices: [
-      {
-        answer: "Is only caused by gram negative organisms",
-        answerKey: false,
-        reason:
-          "Septic shock can be caused by gram positive, gram negative, and fungal infections.",
-      },
-      {
-        answer: "Carries a favourable prognosis",
-        answerKey: false,
-        reason: "Septic shock has high mortality despite treatment.",
-      },
-      {
-        answer: "Produce a cellular defect that inhibits oxygen utilization",
-        answerKey: true,
-        reason:
-          "Septic shock leads to cellular dysfunction including impaired oxygen utilization (cytopathic hypoxia).",
-      },
-      {
-        answer:
-          "Is particularly associated with infective complications of gastrointestinal and genitourinary systems",
-        answerKey: true,
-        reason: "These are common sources of sepsis leading to septic shock.",
-      },
-      {
-        answer: "Can be most effectively treated by antibiotics",
-        answerKey: false,
-        reason:
-          "Antibiotics are essential but fluid resuscitation, vasopressors, and supportive care are equally important.",
-      },
-    ],
-  },
-  {
-    id: 5,
-    statement: "Most common histological type of carcinoma of the tongue",
-    choices: [
-      {
-        answer: "Adenocarcinoma",
-        answerKey: false,
-        reason: "Adenocarcinoma is rare in the tongue.",
-      },
-      {
-        answer: "Squamous cell carcinoma",
-        answerKey: true,
-        reason: "Over 90% of tongue cancers are squamous cell carcinoma.",
-      },
-      {
-        answer: "Basal cell carcinoma",
-        answerKey: false,
-        reason: "Basal cell carcinoma occurs mainly in skin, not tongue.",
-      },
-      {
-        answer: "Melanoma",
-        answerKey: false,
-        reason: "Oral melanoma is very rare.",
-      },
-      {
-        answer: "Teratoma",
-        answerKey: false,
-        reason: "Teratomas are congenital tumors, not common in the tongue.",
-      },
-    ],
-  },
-  {
-    id: 6,
-    statement: "Basal cell carcinoma",
-    choices: [
-      {
-        answer: "Common site is face and neck",
-        answerKey: true,
-        reason:
-          "BCC commonly occurs in sun-exposed areas, especially face and neck.",
-      },
-      {
-        answer: "Pearly nodule with central ulceration and telangiectasia",
-        answerKey: true,
-        reason:
-          "Classic presentation of BCC includes pearly nodule with central ulcer and telangiectasia.",
-      },
-      {
-        answer: "Is diagnosed by imaging",
-        answerKey: false,
-        reason:
-          "Diagnosis is primarily clinical and confirmed by histopathology, not imaging.",
-      },
-      {
-        answer:
-          "Histological feature is 'Palisading' arrangement of tumor cells",
-        answerKey: true,
-        reason: "BCC histology shows peripheral palisading of tumor cells.",
-      },
-      {
-        answer: "Treatment of choice is Surgery",
-        answerKey: true,
-        reason: "Surgical excision is standard treatment for BCC.",
-      },
-    ],
-  },
-  {
-    id: 7,
     statement: "Regarding parenteral fluid therapy",
     choices: [
       {
-        answer: "Plasma albumin is 20%",
-        answerKey: false,
+        answer: "plasma albumin is 20%",
+        answerKey: true,
         reason:
-          "Normal human plasma albumin is 4–5%; 20% albumin is a hyperoncotic solution used therapeutically.",
+          "20% albumin is a hyperoncotic preparation used in fluid therapy.",
       },
       {
         answer: "5% dextrose in saline is hypotonic",
         answerKey: true,
         reason:
-          "Dextrose 5% in 0.9% saline initially isotonic, but metabolized dextrose makes it effectively hypotonic.",
+          "5% dextrose in 0.9% saline is slightly hypotonic after metabolism of glucose.",
       },
       {
         answer:
           "Ringer's lactate contains sodium, potassium and chloride in about the same concentration as in plasma",
         answerKey: true,
-        reason:
-          "Ringer's lactate is isotonic and electrolyte composition resembles plasma.",
+        reason: "Composition is designed to approximate plasma electrolytes.",
       },
       {
         answer: "Isotonic saline solution is 4.3% solution",
         answerKey: false,
-        reason: "Normal isotonic saline is 0.9% NaCl, not 4.3%.",
+        reason: "Normal saline is 0.9% NaCl.",
       },
       {
         answer:
-          "Prolonged administration of 5% dextrose can cause hyponatremia",
+          "Prolonged administration of 5% dextrose can cause hyponatraemia",
         answerKey: true,
         reason:
-          "Metabolism of dextrose leaves free water, potentially causing dilutional hyponatremia.",
+          "Water load without electrolytes can lead to dilutional hyponatremia.",
+      },
+    ],
+  },
+  {
+    id: 4,
+    statement: "Indications for surgery for solitary thyroid nodule include",
+    choices: [
+      {
+        answer: "Cosmetics",
+        answerKey: true,
+        reason: "Patient may request surgery for cosmetic reasons.",
+      },
+      {
+        answer: "Patient wishes",
+        answerKey: true,
+        reason: "Patient preference is an accepted indication.",
+      },
+      {
+        answer: "Malignancy",
+        answerKey: true,
+        reason: "Suspicion or confirmation of cancer mandates surgery.",
+      },
+      {
+        answer: "Toxic adenoma",
+        answerKey: true,
+        reason: "Autonomously functioning nodules may need excision.",
+      },
+      {
+        answer: "Pressure symptom",
+        answerKey: true,
+        reason: "Compression of trachea or esophagus warrants surgery.",
+      },
+    ],
+  },
+  {
+    id: 5,
+    statement: "Factors which predispose to wound infection include",
+    choices: [
+      {
+        answer: "Development of a wound haematoma",
+        answerKey: true,
+        reason: "Hematoma promotes bacterial growth.",
+      },
+      {
+        answer: "The presence of devitalized tissue in the wound",
+        answerKey: true,
+        reason: "Necrotic tissue increases infection risk.",
+      },
+      {
+        answer: "Antibiotic administration during surgery",
+        answerKey: false,
+        reason: "Prophylactic antibiotics reduce infection risk.",
+      },
+      {
+        answer: "Foreign material in the wound",
+        answerKey: true,
+        reason: "Foreign bodies can serve as a nidus for infection.",
+      },
+      {
+        answer: "Impaired blood supply",
+        answerKey: true,
+        reason:
+          "Poor perfusion decreases host defenses, increasing infection risk.",
+      },
+    ],
+  },
+  {
+    id: 6,
+    statement: "Which are true for appendicular mass",
+    choices: [
+      {
+        answer: "Usually present with a several day history",
+        answerKey: true,
+        reason: "Mass forms after few days of untreated appendicitis.",
+      },
+      {
+        answer: "Inflammation localized to RIF by the Omentum",
+        answerKey: true,
+        reason: "Omentum walls off inflammation to form phlegmon.",
+      },
+      {
+        answer: "Patient is usually pyrexial",
+        answerKey: true,
+        reason: "Low-grade fever is common.",
+      },
+      {
+        answer: "Initial treatment should be conservative",
+        answerKey: true,
+        reason: "Ochsner-Sherren regimen is preferred initially.",
+      },
+      {
+        answer: "Observe the patient and mass",
+        answerKey: true,
+        reason: "Observation is part of conservative management.",
+      },
+    ],
+  },
+  {
+    id: 7,
+    statement: "Carcinoma of the stomach",
+    choices: [
+      {
+        answer: "Is associated with low acidity",
+        answerKey: true,
+        reason: "Gastric carcinoma often occurs in achlorhydric stomachs.",
+      },
+      {
+        answer: "Is common in blood group ‘o’",
+        answerKey: false,
+        reason: "More common in blood group A.",
+      },
+      {
+        answer: "Can present with mass in epigastrium",
+        answerKey: true,
+        reason: "Advanced tumors may form palpable epigastric mass.",
+      },
+      {
+        answer: "Can present with anaemia",
+        answerKey: true,
+        reason: "Chronic bleeding leads to iron deficiency anemia.",
+      },
+      {
+        answer: "Is more common in women",
+        answerKey: false,
+        reason: "Gastric cancer is more common in men.",
       },
     ],
   },
   {
     id: 8,
-    statement: "Regarding enteral feeding",
+    statement: "Carcinoma penis",
     choices: [
       {
-        answer:
-          "Means delivery of nutrition into GI tract by means of tube feeding only",
+        answer: "Is more common in circumcised",
         answerKey: false,
-        reason:
-          "Enteral feeding includes oral, nasogastric, or PEG tube feeding.",
+        reason: "More common in **uncircumcised** males.",
       },
       {
-        answer: "Is indicated in short bowel syndrome",
-        answerKey: true,
-        reason:
-          "Enteral feeding supports nutrition when oral intake is insufficient, e.g., short bowel syndrome.",
-      },
-      {
-        answer: "Elemental feed contains free amino acid",
-        answerKey: true,
-        reason:
-          "Elemental feeds are predigested with free amino acids, glucose, and minimal fat.",
-      },
-      {
-        answer:
-          "Nasogastric tube feeding is suitable for prolong enteral feeding more than six weeks",
+        answer: "Is usually adenocarcinoma",
         answerKey: false,
-        reason:
-          "NG tubes are suitable short-term; PEG or surgical gastrostomy is preferred for >6 weeks.",
+        reason: "Usually squamous cell carcinoma.",
       },
       {
-        answer: "Mineral and trace elements deficiency is common complication",
+        answer: "Was first described in chimney sweeps",
         answerKey: true,
-        reason:
-          "Deficiencies can occur if elemental or incomplete feeds are used long-term.",
+        reason: "Early occupational exposure described by Percival Pott.",
+      },
+      {
+        answer: "Rarely metastasize",
+        answerKey: false,
+        reason: "May metastasize to inguinal lymph nodes.",
+      },
+      {
+        answer: "Commonly arises from the corona of glans penis",
+        answerKey: true,
+        reason: "Typical site of lesion.",
       },
     ],
   },
   {
     id: 9,
-    statement:
-      "Which phase of wound healing is characterized by the formation of granulation tissue?",
+    statement: "Clinical features of shock include",
     choices: [
       {
-        answer: "Haemostasis",
-        answerKey: false,
-        reason: "Haemostasis involves clot formation, not granulation tissue.",
-      },
-      {
-        answer: "Inflammatory phase",
-        answerKey: false,
-        reason:
-          "Inflammation clears debris and pathogens; granulation forms later.",
-      },
-      {
-        answer: "Proliferative phase",
+        answer: "Low cardiac output",
         answerKey: true,
-        reason:
-          "Granulation tissue forms during the proliferative phase of healing.",
+        reason: "Cardiogenic or hypovolemic shock reduces output.",
       },
       {
-        answer: "Maturation phase",
-        answerKey: false,
-        reason:
-          "Maturation/remodeling phase strengthens and remodels tissue; granulation already formed.",
+        answer: "A rapid thready pulse",
+        answerKey: true,
+        reason: "Peripheral vasoconstriction produces weak, fast pulse.",
       },
       {
-        answer: "Remodeling phase",
+        answer: "Decreased respiratory rate",
         answerKey: false,
-        reason: "Same as above; granulation tissue precedes remodeling.",
+        reason: "Respiratory rate is usually increased (tachypnea).",
+      },
+      {
+        answer: "Fall in urine output",
+        answerKey: true,
+        reason: "Renal perfusion is compromised in shock.",
+      },
+      {
+        answer: "Warm clammy extremities",
+        answerKey: true,
+        reason: "Cold shock produces clammy skin.",
       },
     ],
   },
   {
     id: 10,
-    statement:
-      "Which of the following statements about inguinal hernia is TRUE?",
+    statement: "With a rectal carcinoma at 7 cms",
     choices: [
       {
-        answer: "Inguinal hernias are more common in females than in males",
-        answerKey: false,
-        reason: "Inguinal hernias are more common in males.",
-      },
-      {
-        answer: "Direct inguinal hernias pass through the deep inguinal ring",
-        answerKey: false,
-        reason:
-          "Direct hernias pass through Hesselbach's triangle, not the deep inguinal ring.",
+        answer: "Diagnosed by sigmoidoscopy and biopsy",
+        answerKey: true,
+        reason: "Endoscopic visualization with biopsy confirms diagnosis.",
       },
       {
         answer:
-          "Indirect inguinal hernias are congenital and often present at birth",
-        answerKey: true,
-        reason:
-          "Indirect hernias result from a patent processus vaginalis and may present in childhood or later.",
+          "Presence of liver secondaries would not preclude surgical resection",
+        answerKey: false,
+        reason: "Liver metastasis usually contraindicates curative resection.",
       },
       {
-        answer: "The inguinal canal is located above the inguinal ligament",
-        answerKey: true,
-        reason:
-          "Correct anatomical location; inguinal canal runs obliquely above the ligament.",
+        answer: "Survival is better following APR than ARR",
+        answerKey: false,
+        reason: "Survival depends on stage; APR not universally superior.",
       },
       {
-        answer:
-          "Inguinal hernias are more common than femoral hernias in females",
+        answer: "Impotence can be a complication of APR",
+        answerKey: true,
+        reason: "Pelvic nerve injury during APR may cause impotence.",
+      },
+      {
+        answer: "Postoperative radiotherapy is of no value",
         answerKey: false,
         reason:
-          "Femoral hernias are more common in females than inguinal hernias.",
+          "Post-op radiotherapy may improve local control in selected cases.",
       },
     ],
   },
   {
     id: 11,
-    statement: "Hepatocellular Carcinoma",
-    choices: [
-      {
-        answer: "Is due to chronic hepatitis C infection",
-        answerKey: true,
-        reason:
-          "Chronic hepatitis B or C infection is a major risk factor for HCC.",
-      },
-      {
-        answer: "Alpha fetoprotein more than 10 ng/ml is diagnostic",
-        answerKey: false,
-        reason:
-          "AFP >400 ng/ml is more specific; 10 ng/ml is too low to be diagnostic.",
-      },
-      {
-        answer: "Liver biopsy in necessary for tissue diagnosis",
-        answerKey: false,
-        reason:
-          "Imaging and AFP can be diagnostic; biopsy is risky and not always needed.",
-      },
-      {
-        answer:
-          "Transarterial chemoembolization is one of palliative treatment",
-        answerKey: true,
-        reason: "TACE is used for unresectable HCC for palliation.",
-      },
-      {
-        answer:
-          "Liver transplant is contraindicated for tumour with distant metastasis",
-        answerKey: true,
-        reason: "Extrahepatic spread is a contraindication for transplant.",
-      },
-    ],
-  },
-  {
-    id: 12,
-    statement: "Regarding gall stones",
-    choices: [
-      {
-        answer: "Most are visible on plain X Ray",
-        answerKey: false,
-        reason:
-          "Only 10–20% of gallstones are radiopaque; most are radiolucent.",
-      },
-      {
-        answer: "Pure cholesterol stones comprise less than 10% of gall stones",
-        answerKey: false,
-        reason: "Cholesterol stones are the most common type (about 75%).",
-      },
-      {
-        answer: "Oestrogen facilitates the chance of stone formation",
-        answerKey: true,
-        reason:
-          "Oestrogen increases cholesterol secretion in bile, promoting stones.",
-      },
-      {
-        answer:
-          "Clofibrate, a cholesterol-lowering agent inhibit stone formation",
-        answerKey: false,
-        reason: "Clofibrate may actually increase gallstone formation.",
-      },
-      {
-        answer: "Bile pigment stones are formed from conjugated bilirubin",
-        answerKey: false,
-        reason: "Pigment stones form from unconjugated bilirubin.",
-      },
-    ],
-  },
-  {
-    id: 13,
-    statement: "Post-operative hypotension may be due to",
-    choices: [
-      {
-        answer: "Sepsis",
-        answerKey: true,
-        reason:
-          "Sepsis causes vasodilation and hypovolemia leading to hypotension.",
-      },
-      {
-        answer: "Dopamine",
-        answerKey: false,
-        reason:
-          "Dopamine is a vasopressor; it raises BP rather than causing hypotension.",
-      },
-      {
-        answer: "Hypervolemia",
-        answerKey: false,
-        reason: "Excess fluid usually increases BP.",
-      },
-      {
-        answer: "Hypoxia",
-        answerKey: true,
-        reason: "Severe hypoxia can cause cardiac depression and hypotension.",
-      },
-      {
-        answer: "Pain",
-        answerKey: false,
-        reason: "Pain usually raises sympathetic tone, increasing BP.",
-      },
-    ],
-  },
-  {
-    id: 14,
-    statement: "Aseptic techniques include",
-    choices: [
-      {
-        answer: "Hand washing",
-        answerKey: true,
-        reason: "Hand hygiene is fundamental to asepsis.",
-      },
-      {
-        answer: "Wearing caps and mask",
-        answerKey: true,
-        reason: "Prevents microbial contamination in sterile field.",
-      },
-      {
-        answer: "Broad spectrum antibiotics",
-        answerKey: false,
-        reason: "Antibiotics are therapeutic, not part of aseptic technique.",
-      },
-      {
-        answer: "Control of air quality in operation theatre",
-        answerKey: true,
-        reason: "Air filtration reduces airborne contamination.",
-      },
-      {
-        answer: "Appropriate operation",
-        answerKey: false,
-        reason:
-          "Correct surgery choice is clinical decision; not an aseptic measure.",
-      },
-    ],
-  },
-  {
-    id: 15,
-    statement: "The causes of acute retention of urine are",
-    choices: [
-      {
-        answer: "Urethral stricture",
-        answerKey: true,
-        reason: "Obstructs urine flow causing retention.",
-      },
-      {
-        answer: "Anal pain",
-        answerKey: false,
-        reason: "Anal pain may cause hesitancy but rarely acute retention.",
-      },
-      {
-        answer: "Spinal anaesthesia",
-        answerKey: true,
-        reason: "Can temporarily block bladder innervation, causing retention.",
-      },
-      {
-        answer: "Acute orchitis",
-        answerKey: false,
-        reason: "May cause pain but rarely causes complete retention.",
-      },
-      {
-        answer: "Retroverted gravid uterus",
-        answerKey: true,
-        reason: "Can compress urethra in early pregnancy, causing retention.",
-      },
-    ],
-  },
-  {
-    id: 16,
-    statement:
-      "Essential investigations of men with lower urinary tract symptoms",
-    choices: [
-      {
-        answer: "Urine analysis",
-        answerKey: true,
-        reason: "Detects infection, hematuria, or crystals causing LUTS.",
-      },
-      {
-        answer: "Urine culture",
-        answerKey: true,
-        reason: "Identifies bacterial infection contributing to symptoms.",
-      },
-      {
-        answer: "Prostate specific antigen",
-        answerKey: true,
-        reason: "Screening for prostate malignancy in men with LUTS.",
-      },
-      {
-        answer: "Serum creatinine",
-        answerKey: true,
-        reason: "Assesses renal function, can be affected by obstruction.",
-      },
-      {
-        answer: "Urinary flow rate and residual volume measurement",
-        answerKey: true,
-        reason: "Functional assessment of bladder emptying.",
-      },
-    ],
-  },
-  {
-    id: 17,
-    statement: "Indications for surgery of solitary thyroid nodule",
-    choices: [
-      {
-        answer: "Cosmetics",
-        answerKey: false,
-        reason: "Cosmetic concerns alone are not strong surgical indications.",
-      },
-      {
-        answer: "Patient wishes",
-        answerKey: false,
-        reason:
-          "Patient preference alone is insufficient without clinical indication.",
-      },
-      {
-        answer: "Malignancy",
-        answerKey: true,
-        reason:
-          "Confirmed or suspected malignancy is an absolute indication for surgery.",
-      },
-      {
-        answer: "Toxic adenoma",
-        answerKey: true,
-        reason:
-          "Toxic adenomas are surgically removed if causing hyperthyroidism.",
-      },
-      {
-        answer: "None of the above all else",
-        answerKey: false,
-        reason: "Some options are valid indications, so this is false.",
-      },
-    ],
-  },
-  {
-    id: 18,
     statement: "Dysphagia",
     choices: [
       {
         answer: "Is meant by painful swallowing",
         answerKey: false,
-        reason: "Dysphagia = difficulty swallowing, not necessarily painful.",
+        reason:
+          "Dysphagia = difficulty swallowing; odynophagia = painful swallowing.",
       },
       {
         answer: "Is usually associated with vomiting",
         answerKey: false,
-        reason: "Vomiting is not a defining feature of dysphagia.",
+        reason: "Vomiting may occur with obstruction but not always.",
       },
       {
         answer: "Is associated with chest infection",
         answerKey: true,
-        reason: "Aspiration due to dysphagia can cause chest infection.",
+        reason: "Aspiration due to dysphagia can lead to chest infection.",
       },
       {
         answer: "Is caused by esophageal varices",
         answerKey: false,
-        reason: "Varices cause hematemesis, not dysphagia.",
+        reason: "Varices cause bleeding or odynophagia, not typical dysphagia.",
       },
       {
         answer: "Can follow corrosive poisoning",
         answerKey: true,
-        reason: "Corrosive injury to esophagus can cause long-term dysphagia.",
+        reason: "Strictures from caustic injury cause dysphagia.",
+      },
+    ],
+  },
+  {
+    id: 12,
+    statement: "Keloid scar",
+    choices: [
+      {
+        answer: "May be familial",
+        answerKey: true,
+        reason: "Genetic predisposition exists.",
+      },
+      {
+        answer: "More common in female",
+        answerKey: false,
+        reason: "Slight male predominance reported.",
+      },
+      {
+        answer: "May respond to pressure dressing",
+        answerKey: true,
+        reason: "Pressure therapy can reduce hypertrophy.",
+      },
+      {
+        answer: "Grows beyond the limit of original wound",
+        answerKey: true,
+        reason: "Characteristic of keloid.",
+      },
+      {
+        answer: "Can be prevented by subcuticular sutures",
+        answerKey: false,
+        reason: "Suture type does not reliably prevent keloid formation.",
+      },
+    ],
+  },
+  {
+    id: 13,
+    statement: "Regarding stones in the gallbladder",
+    choices: [
+      {
+        answer: "Cholesterol stones are most common stones in Asia",
+        answerKey: false,
+        reason: "Pigment stones are more common in Asia.",
+      },
+      {
+        answer: "Pigment stones are associated with haemolytic anaemia",
+        answerKey: true,
+        reason: "Chronic hemolysis increases pigment stone formation.",
+      },
+      {
+        answer:
+          "Are a risk factor for the development of gallbladder carcinoma",
+        answerKey: true,
+        reason: "Chronic cholelithiasis increases cancer risk.",
+      },
+      {
+        answer: "10% of gallstones are radio-opaque",
+        answerKey: true,
+        reason: "Most stones are radiolucent; small proportion are opaque.",
+      },
+      {
+        answer:
+          "A mucocoele of gall bladder is caused by a stone impacted in Hartmann's pouch",
+        answerKey: true,
+        reason: "Obstruction at Hartmann's pouch causes mucocoele.",
+      },
+    ],
+  },
+  {
+    id: 14,
+    statement: "A fistula will persist if",
+    choices: [
+      {
+        answer: "A foreign body is present",
+        answerKey: true,
+        reason: "Persistent irritation prevents closure.",
+      },
+      {
+        answer: "Tuberculosis is present",
+        answerKey: true,
+        reason: "Infective etiology may prevent healing.",
+      },
+      {
+        answer: "The wall becomes lined with epithelium",
+        answerKey: true,
+        reason: "Epithelialization maintains the fistula tract.",
+      },
+      {
+        answer: "There is unrelieved obstruction proximal to the fistula",
+        answerKey: true,
+        reason: "Persistent obstruction prevents closure.",
+      },
+      {
+        answer: "Intervening abscess cavity present",
+        answerKey: true,
+        reason: "Abscess cavity maintains fistula patency.",
+      },
+    ],
+  },
+  {
+    id: 15,
+    statement: "Mid-line swellings of the neck include",
+    choices: [
+      {
+        answer: "Thyroglossal cyst",
+        answerKey: true,
+        reason: "Common midline congenital cyst.",
+      },
+      {
+        answer: "Laryngocoele",
+        answerKey: false,
+        reason: "Usually lateral or anterior-lateral.",
+      },
+      {
+        answer: "Cervical rib",
+        answerKey: false,
+        reason: "Bone anomaly, lateral location.",
+      },
+      {
+        answer: "Branchial cyst",
+        answerKey: false,
+        reason: "Typically lateral neck swelling.",
+      },
+      {
+        answer: "Subhyoid bursa",
+        answerKey: true,
+        reason: "Midline subhyoid swelling may occur from bursa.",
+      },
+    ],
+  },
+  {
+    id: 16,
+    statement: "Complications of peptic ulcer include",
+    choices: [
+      {
+        answer: "Bleeding",
+        answerKey: true,
+        reason: "Erosion of ulcer into vessels can cause hemorrhage.",
+      },
+      {
+        answer: "Perforation",
+        answerKey: true,
+        reason: "Full-thickness ulceration leads to perforation.",
+      },
+      {
+        answer: "Carcinoma of duodenum",
+        answerKey: false,
+        reason: "Duodenal ulcers rarely become malignant.",
+      },
+      {
+        answer: "Gastric outlet obstruction",
+        answerKey: true,
+        reason: "Chronic ulcers can cause pyloric stenosis.",
+      },
+      {
+        answer: "Intestinal obstruction",
+        answerKey: false,
+        reason: "Obstruction is uncommon except in rare cases.",
+      },
+    ],
+  },
+  {
+    id: 17,
+    statement:
+      "In assessing severity of acute pancreatitis, which of the following is part of the Glasgow criteria?",
+    choices: [
+      {
+        answer: "ALT",
+        answerKey: true,
+        reason: "Liver enzyme elevation is part of Glasgow score.",
+      },
+      {
+        answer: "Blood glucose",
+        answerKey: true,
+        reason: "Hyperglycemia is a criterion for severity.",
+      },
+      {
+        answer: "INR",
+        answerKey: false,
+        reason: "INR is not part of Glasgow criteria.",
+      },
+      {
+        answer: "WBC count",
+        answerKey: true,
+        reason: "Leukocytosis is included in the score.",
+      },
+      {
+        answer: "pH",
+        answerKey: false,
+        reason: "Blood pH is not a Glasgow criterion.",
+      },
+    ],
+  },
+  {
+    id: 18,
+    statement: "Regarding enteral feeding",
+    choices: [
+      {
+        answer:
+          "Means delivery of nutrition into GI tract by means of tube feeding only",
+        answerKey: true,
+        reason: "Enteral feeding includes tube-based nutrition.",
+      },
+      {
+        answer: "Is indicated in short bowel syndrome",
+        answerKey: true,
+        reason: "Enteral nutrition supports intestinal adaptation.",
+      },
+      {
+        answer: "Elemental feed contain free amino acid",
+        answerKey: true,
+        reason: "Elemental feeds are hydrolyzed for easier absorption.",
+      },
+      {
+        answer:
+          "Nasogastric tube feeding is suitable for prolong enteral feeding more than six week",
+        answerKey: false,
+        reason:
+          "Long-term feeding often uses gastrostomy; NGT not preferred for >6 weeks.",
+      },
+      {
+        answer: "Mineral and trace elements deficiency is common complication",
+        answerKey: true,
+        reason:
+          "Deficiencies may occur with prolonged enteral feeding if not supplemented.",
       },
     ],
   },
   {
     id: 19,
-    statement: "Features associated with blood loss",
+    statement: "Tamoxifen in the treatment of breast cancer",
     choices: [
       {
-        answer: "Palpitation",
+        answer: "20mg per day is as effective as higher doses",
         answerKey: true,
-        reason: "Reflex tachycardia occurs due to hypovolemia.",
+        reason: "Standard dose is 20mg daily; higher doses not more effective.",
       },
       {
-        answer: "Oedema",
-        answerKey: false,
-        reason: "Oedema is not an immediate sign of acute blood loss.",
-      },
-      {
-        answer: "Air-hunger",
+        answer:
+          "Treatment for longer than 5 year has been proven to be beneficial",
         answerKey: true,
-        reason: "Hypoxia from anemia can cause dyspnea and air-hunger.",
+        reason: "Extended therapy reduces recurrence risk.",
       },
       {
-        answer: "Fever",
-        answerKey: false,
-        reason: "Fever is unrelated to acute blood loss.",
+        answer: "Is only of benefit inpatients with oestrogen positive tumours",
+        answerKey: true,
+        reason: "Tamoxifen is effective only in ER-positive breast cancers.",
       },
       {
-        answer: "Polyuria",
-        answerKey: false,
-        reason: "Urine output typically decreases in hypovolemia.",
+        answer: "Reduces the risk of contralateral breast cancer by 40%",
+        answerKey: true,
+        reason: "Tamoxifen decreases contralateral breast cancer incidence.",
+      },
+      {
+        answer: "Is effective in both pre and post menopausal women",
+        answerKey: true,
+        reason: "Tamoxifen works in both groups.",
       },
     ],
   },
   {
     id: 20,
-    statement: "Ischaemic ulcer",
+    statement: "Methods applicable in control of bleeding esophageal varices",
     choices: [
       {
-        answer: "Is caused by an inadequate blood supply",
+        answer: "Pitressin drip",
         answerKey: true,
-        reason:
-          "By definition, ischemic ulcers result from arterial insufficiency.",
+        reason: "Vasopressin reduces portal pressure.",
       },
       {
-        answer: "Is not common in elderly",
+        answer: "Sengstaken Blakemore tube",
+        answerKey: true,
+        reason: "Mechanical tamponade for acute bleeding.",
+      },
+      {
+        answer: "Fogarty catheter to occlude the varices directly",
         answerKey: false,
-        reason:
-          "Common in elderly due to atherosclerosis and peripheral vascular disease.",
+        reason: "Not a standard method.",
       },
       {
-        answer: "Is very painful",
+        answer: "Parenteral infusion of propranolol",
         answerKey: true,
-        reason: "Pain at rest is typical due to tissue ischemia.",
+        reason: "Beta-blockers reduce portal hypertension.",
       },
       {
-        answer: "Often get deeper and larger",
+        answer: "Esophageal transection in the lower 5 cm of the oesophagus",
         answerKey: true,
-        reason: "Poor perfusion causes slow healing and deep ulceration.",
-      },
-      {
-        answer: "Associate with rest pain",
-        answerKey: true,
-        reason:
-          "Critical limb ischemia presents with rest pain and ulceration.",
+        reason: "Surgical procedure for refractory bleeding.",
       },
     ],
   },
   {
     id: 21,
-    statement: "Regarding cystic hygroma",
+    statement: "General effects of burn injury",
     choices: [
       {
-        answer: "They present at puberty",
+        answer: "Are independent of the size of the burn area",
         answerKey: false,
-        reason: "Usually present at birth or in early childhood.",
+        reason: "Severity correlates with burn surface area.",
       },
       {
-        answer: "They are brilliantly translucent",
+        answer: "Include immune suppression",
         answerKey: true,
-        reason: "Cystic hygromas are filled with clear lymphatic fluid.",
+        reason: "Burn injury impairs immune function.",
       },
       {
-        answer: "They are firm on palpation",
+        answer: "Result in decreased urinary nitrogen concentrations",
         answerKey: false,
-        reason: "They are soft and compressible.",
+        reason: "Burns increase catabolism → increased urinary nitrogen.",
       },
       {
-        answer: "Cosmetic concern is the only indication for surgery",
-        answerKey: false,
-        reason:
-          "Indications include cosmetic, airway obstruction, or infection.",
+        answer: "Include hypoalbuminemia",
+        answerKey: true,
+        reason: "Protein loss occurs from plasma leakage.",
       },
       {
-        answer: "They follow a predictable growth pattern",
-        answerKey: false,
-        reason: "Growth can be unpredictable; may enlarge or remain static.",
+        answer: "Include hyponatremia",
+        answerKey: true,
+        reason: "Fluid shifts and resuscitation can cause hyponatremia.",
       },
     ],
   },
   {
     id: 22,
-    statement: "Gas gangrene",
-    choices: [
-      {
-        answer: "Is caused by Clostridium perferingens",
-        answerKey: true,
-        reason: "C. perfringens is the most common causative organism.",
-      },
-      {
-        answer: "Spores are present in the soil",
-        answerKey: true,
-        reason:
-          "Clostridial spores are ubiquitous in soil and can infect wounds.",
-      },
-      {
-        answer: "Thrives in anaerobic conditions and produces endotoxins",
-        answerKey: false,
-        reason: "It produces exotoxins, not endotoxins.",
-      },
-      {
-        answer: "Treatment consists of oxygen and penicillin",
-        answerKey: true,
-        reason:
-          "High-flow oxygen, penicillin, and surgical debridement are standard therapy.",
-      },
-      {
-        answer: "Early amputation may be life-saving in severe cases",
-        answerKey: true,
-        reason:
-          "Severe cases may require amputation to prevent systemic spread.",
-      },
-    ],
-  },
-  {
-    id: 23,
-    statement: "Courvoisier’s law",
-    choices: [
-      {
-        answer: "The length of skin flap in skin grafting",
-        answerKey: false,
-        reason: "Unrelated to Courvoisier’s law.",
-      },
-      {
-        answer: "Ureteric colic",
-        answerKey: false,
-        reason: "Unrelated to Courvoisier’s law.",
-      },
-      {
-        answer: "Obstruction of the CBD",
-        answerKey: true,
-        reason:
-          "Courvoisier’s law: palpable, non-tender gallbladder usually indicates malignant obstruction of CBD rather than stone.",
-      },
-      { answer: "Alveolar gases", answerKey: false, reason: "Unrelated." },
-      {
-        answer: "Fibroblastic response",
-        answerKey: false,
-        reason: "Unrelated.",
-      },
-    ],
-  },
-  {
-    id: 24,
-    statement: "Features of thyrotoxicosis",
-    choices: [
-      {
-        answer: "Weight gain",
-        answerKey: false,
-        reason: "Thyrotoxicosis typically causes weight loss.",
-      },
-      {
-        answer: "Palpitation",
-        answerKey: true,
-        reason: "Common symptom due to increased sympathetic activity.",
-      },
-      {
-        answer: "Proximal myopathy",
-        answerKey: true,
-        reason: "Muscle weakness, especially proximal muscles, is a feature.",
-      },
-      {
-        answer: "Increase skin pigmentation",
-        answerKey: false,
-        reason: "Not a feature; occurs in Addison’s disease.",
-      },
-      {
-        answer: "Pretibial myxedema",
-        answerKey: true,
-        reason: "Occurs in Graves’ disease, a form of thyrotoxicosis.",
-      },
-    ],
-  },
-  {
-    id: 25,
-    statement: "Routine preoperative preparation of colorectal cancer includes",
-    choices: [
-      {
-        answer: "Mechanical bowel preparation",
-        answerKey: true,
-        reason: "Reduces fecal load to lower risk of infection.",
-      },
-      {
-        answer: "Counselling and siting of stoma",
-        answerKey: true,
-        reason: "Essential for patients likely to need a stoma.",
-      },
-      {
-        answer: "Radiotherapy",
-        answerKey: true,
-        reason: "Neoadjuvant radiotherapy may be required for rectal cancer.",
-      },
-      {
-        answer: "Prophylactic antibiotics",
-        answerKey: true,
-        reason: "Reduces postoperative infection risk.",
-      },
-      {
-        answer: "Prophylaxis for deep vein thrombosis",
-        answerKey: true,
-        reason: "Prevents postoperative thromboembolic complications.",
-      },
-    ],
-  },
-  {
-    id: 26,
     statement: "ANDI of breast",
     choices: [
       {
         answer: "May present as an area of lumpiness",
         answerKey: true,
-        reason: "Fibrocystic changes present as diffuse lumpiness.",
+        reason: "Fibrocystic changes cause palpable lumpiness.",
       },
       {
         answer: "Symptoms include mastalgia",
         answerKey: true,
-        reason: "Pain is a common feature.",
+        reason: "Cyclic breast pain is common.",
       },
       {
         answer: "Change may be cyclical",
         answerKey: true,
-        reason: "Fluctuates with menstrual cycle.",
+        reason: "Changes correspond to menstrual cycle.",
       },
       {
         answer:
           "Hyperplasia of epithelium in the linings of duct and acini may occur",
         answerKey: true,
-        reason: "Histological feature of ANDI.",
+        reason: "Hyperplasia is part of fibrocystic changes.",
       },
       {
         answer: "May change into malignancy",
         answerKey: false,
+        reason: "Most ANDI changes are benign; risk of malignancy is low.",
+      },
+    ],
+  },
+  {
+    id: 23,
+    statement: "Indications for circumcision",
+    choices: [
+      {
+        answer: "Repeated balanoposthitis",
+        answerKey: true,
+        reason: "Chronic inflammation indicates circumcision.",
+      },
+      {
+        answer: "Para-phimosis",
+        answerKey: true,
+        reason: "Emergency indication.",
+      },
+      {
+        answer: "Religion",
+        answerKey: true,
+        reason: "Religious or cultural reasons justify circumcision.",
+      },
+      {
+        answer: "Hypospadias",
+        answerKey: false,
         reason:
-          "Most ANDI are benign; only atypical hyperplasia carries slight risk.",
+          "Hypospadias repair may involve foreskin use; circumcision is contraindicated.",
+      },
+      {
+        answer: "Meatal ulcer",
+        answerKey: false,
+        reason: "Not an indication for circumcision.",
+      },
+    ],
+  },
+  {
+    id: 24,
+    statement: "Aseptic techniques include",
+    choices: [
+      {
+        answer: "Hand washing",
+        answerKey: true,
+        reason: "Basic aseptic practice.",
+      },
+      {
+        answer: "Wearing caps and mask",
+        answerKey: true,
+        reason: "Prevents contamination of operative field.",
+      },
+      {
+        answer: "Broad spectrum antibiotics",
+        answerKey: false,
+        reason: "Antibiotics are prophylactic, not aseptic technique.",
+      },
+      {
+        answer: "Control of air quality in operation theatre",
+        answerKey: true,
+        reason: "Reduces airborne contamination.",
+      },
+      {
+        answer: "Appropriate operation theatre design",
+        answerKey: true,
+        reason: "Layout supports aseptic environment.",
+      },
+    ],
+  },
+  {
+    id: 25,
+    statement: "Hepatocellular carcinoma",
+    choices: [
+      {
+        answer: "Is due to chronic hepatitis C infection",
+        answerKey: true,
+        reason: "Chronic HCV is a major etiological factor.",
+      },
+      {
+        answer: "Alpha fetoprotein 10 ng/ml is diagnostic",
+        answerKey: false,
+        reason: "AFP >400 ng/ml suggests HCC; 10 ng/ml is normal.",
+      },
+      {
+        answer: "Liver resection is one of curative treatment",
+        answerKey: true,
+        reason: "Surgical resection can cure localized HCC.",
+      },
+      {
+        answer:
+          "Transarterial chemoembolization is one of palliative treatment",
+        answerKey: true,
+        reason: "TACE controls unresectable tumors.",
+      },
+      {
+        answer:
+          "Liver transplant is contraindicated for tumour with metastasis",
+        answerKey: true,
+        reason: "Extrahepatic spread is a contraindication.",
+      },
+    ],
+  },
+  {
+    id: 26,
+    statement: "Symptoms of anal fissure",
+    choices: [
+      {
+        answer: "Bleeding per rectum",
+        answerKey: true,
+        reason: "Bright red blood streaks on stool are common.",
+      },
+      {
+        answer: "Melaena",
+        answerKey: false,
+        reason: "Usually not associated; bleeding is minimal and fresh.",
+      },
+      {
+        answer: "Diarrhea",
+        answerKey: false,
+        reason: "Not a primary symptom.",
+      },
+      {
+        answer: "Painful defecation",
+        answerKey: true,
+        reason: "Characteristic symptom, often severe.",
+      },
+      {
+        answer: "Mucous discharge",
+        answerKey: false,
+        reason: "Not typically present.",
       },
     ],
   },
   {
     id: 27,
-    statement: "Aspects of Glasgow coma scale",
+    statement: "Wound dehiscence",
     choices: [
-      { answer: "Tongue tremor", answerKey: false, reason: "Not part of GCS." },
       {
-        answer: "Verbal response",
-        answerKey: true,
-        reason: "One of three components of GCS (Eye, Verbal, Motor).",
-      },
-      {
-        answer: "The extensor plantar reflex",
+        answer: "Usually occurs in transverse wounds",
         answerKey: false,
-        reason: "Babinski reflex is not part of GCS.",
+        reason: "More common in vertical midline incisions.",
       },
       {
-        answer: "Motor response",
+        answer: "May occurs because of anastomotic leakage",
         answerKey: true,
-        reason: "Motor component of GCS.",
+        reason: "Leakage leads to wound separation.",
       },
       {
-        answer: "Eye opening",
+        answer: "Happens more in diabetic patient",
         answerKey: true,
-        reason: "Eye opening is the third component of GCS.",
+        reason: "Impaired wound healing in diabetes.",
+      },
+      {
+        answer: "Can develop incisional hernia",
+        answerKey: true,
+        reason: "Dehiscence predisposes to hernia formation.",
+      },
+      {
+        answer: "Occurs more often in smokers",
+        answerKey: true,
+        reason: "Smoking impairs wound healing.",
       },
     ],
   },
   {
     id: 28,
-    statement: "Recognized association with carcinoma stomach",
+    statement: "Carbuncle",
     choices: [
       {
-        answer: "Krukenberg’s tumours",
+        answer: "Commonly occurs in back",
         answerKey: true,
-        reason: "Ovarian metastases from gastric adenocarcinoma.",
+        reason: "Back and nape are common sites.",
       },
       {
-        answer: "Blood group ‘A’",
+        answer: "Is infection of hair follicle",
         answerKey: true,
-        reason: "Higher risk of gastric cancer in blood group A.",
+        reason: "Carbuncle is a cluster of follicular abscesses.",
       },
       {
-        answer: "Troisier’s sign",
+        answer: "Is usually associated with diabetes mellitus",
         answerKey: true,
-        reason:
-          "Left supraclavicular lymph node enlargement indicates gastric malignancy.",
+        reason: "Diabetics are predisposed.",
       },
       {
-        answer: "Linitis plastica",
+        answer: "Needs surgical intervention",
         answerKey: true,
-        reason: "Diffuse infiltrative type of gastric carcinoma.",
+        reason: "Incision and drainage required for healing.",
       },
       {
-        answer: "Volvulus of the stomach",
+        answer: "Is one example of infective gangrene",
         answerKey: false,
-        reason: "Not associated with gastric cancer.",
+        reason: "Carbuncle is not true gangrene.",
       },
     ],
   },
   {
     id: 29,
-    statement: "An anal fissure",
+    statement: "Complications from massive blood transfusion",
     choices: [
       {
-        answer: "Is an ulcer of the anal mucosa",
-        answerKey: true,
-        reason: "Fissure is a tear/ulcer of anoderm or anal mucosa.",
-      },
-      {
-        answer: "Usually lies anteriorly",
+        answer: "Hypercalcaemia",
         answerKey: false,
-        reason: "Most fissures are posterior in adults.",
+        reason: "Citrate in blood binds calcium → hypocalcemia.",
       },
       {
-        answer: "May be associated with hypertrophied skin tag",
+        answer: "Coagulopathy",
         answerKey: true,
-        reason: "Chronic fissures often have sentinel skin tag.",
+        reason: "Dilutional or consumptive coagulopathy can occur.",
       },
       {
-        answer: "Is more common in man",
-        answerKey: true,
-        reason: "Anal fissures are slightly more common in males.",
-      },
-      {
-        answer:
-          "Can always be treated successfully with conservative treatment",
+        answer: "Hypokalaemia",
         answerKey: false,
-        reason: "Some chronic fissures require surgical intervention.",
+        reason: "Usually hyperkalemia from stored blood.",
+      },
+      {
+        answer: "Hyperthermia",
+        answerKey: false,
+        reason: "Usually hypothermia from cold transfusion.",
+      },
+      {
+        answer: "Hyperkalaemia",
+        answerKey: true,
+        reason: "Stored blood releases potassium over time.",
       },
     ],
   },
   {
     id: 30,
-    statement: "Features of obstructed jaundice",
+    statement: "Regarding sterilization",
     choices: [
       {
-        answer: "Marked increase alkaline phosphatase",
-        answerKey: true,
-        reason: "ALP rises significantly in cholestatic obstruction.",
-      },
-      {
-        answer: "Marked increase in liver enzymes such as AST, ALT",
+        answer:
+          "It is the process which destroys micro-organisms except bacterial spore",
         answerKey: false,
-        reason: "AST/ALT elevation is usually mild, not marked.",
+        reason: "Sterilization kills all microbes including spores.",
       },
       {
-        answer: "Clay coloured stool",
+        answer:
+          "Autoclave is medical device which sterilizers instruments by steam under pressure",
         answerKey: true,
-        reason: "Biliary obstruction reduces stercobilin, causing pale stools.",
+        reason: "Standard method for sterilization of instruments.",
       },
       {
-        answer: "Dilated biliary tree on ultrasonic examination",
+        answer:
+          "Sterilization by ethylene oxide is recommended for ventilator or respiratory equipment",
+        answerKey: true,
+        reason: "EO gas used for heat-sensitive equipment.",
+      },
+      {
+        answer:
+          "Sterilization by hot air oven can be used for substances such as rubber and plastics",
+        answerKey: true,
+        reason: "Dry heat sterilization for heat-stable materials.",
+      },
+      {
+        answer: "Sterilization by irradiation is an industrial process",
         answerKey: true,
         reason:
-          "Ultrasound shows dilated intra/extrahepatic ducts in obstruction.",
-      },
-      {
-        answer: "Presence of HBsAg",
-        answerKey: false,
-        reason: "HBsAg indicates hepatitis B, unrelated to obstruction.",
+          "Gamma or electron irradiation used for industrial sterilization.",
       },
     ],
   },
