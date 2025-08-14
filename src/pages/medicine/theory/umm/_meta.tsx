@@ -9,4 +9,8 @@ export default {
   stroke: "Ischaemic Stroke",
   aki: "Acute Kidney Injury",
   "pleural-effusion": "Pleural Effusion",
+  thyrotoxicosis: "Thyrotoxicosis",
+  polyarthritis: "Polyarthritis",
+  "alcohol-withdrawl-syndrome": "Alcohol Withdrawl Syndrome",
+  scabies: "Scabies",
 };
