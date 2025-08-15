@@ -7,7 +7,6 @@ export default {
   burns: "Burns",
   neoplasia: "Neoplasia",
   "pre-op": "Pre-operative Preparations",
-  goo: "Gastric Outlet Obstruction",
   "post-op": "Post-operative Complications",
   "post-op-fever": "Post-op Fever",
   mas: "Minimally Access Surgery",
