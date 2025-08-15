@@ -11,9 +11,9 @@ export default {
       pagination: false,
     },
   },
-  medicine: "Medicine",
+  // medicine: "Medicine",
   surgery: "Surgery",
-  "ob-gyn": "Obstetrics & Gynaecology",
-  paediatrics: "Paediatrics",
+  // "ob-gyn": "Obstetrics & Gynaecology",
+  // paediatrics: "Paediatrics",
   mcqs: "MCQs",
 };

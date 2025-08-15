@@ -1,0 +1,290 @@
+# Shock
+
+> A life-threatening condition of circulatory failure leading to inadequate tissue perfusion and oxygen delivery, resulting in cellular dysfunction and organ failure.
+
+## Classification of Shock
+
+1. **Hypovolemic Shock**
+   - Due to decreased intravascular volume.
+   - Causes: `Haemorrhage` (trauma, GI bleeding), `dehydration` (vomiting, diarrhea, burns).
+1. **Cardiogenic Shock**
+   - Due to pump failure of the heart.
+   - Causes: `Myocardial infarction`, `myocarditis`, `arrhythmias`, `valvular disease`.
+1. **Obstructive Shock**
+   - Due to obstruction in the circulation.
+   - Causes: `Pulmonary embolism`, `cardiac tamponade`, `tension pneumothorax`.
+1. **Distributive Shock**
+   - Due to vasodilation and maldistribution of blood.
+   - Causes:
+     - `Septic Shock`: Infection leading to systemic inflammatory response.
+     - `Anaphylactic Shock`: Severe allergic reaction.
+     - `Neurogenic Shock`: Spinal cord injury disrupting autonomic control.
+1. **Endocrine Shock**
+   - Due to severe endocrine dysfunction leading to circulatory collapse.
+   - Examples:
+     - `Adrenal Crisis` (Acute Adrenal Insufficiency) → Lack of cortisol → Hypotension, hypoglycemia, electrolyte imbalance.
+     - `Myxedema Coma` (Severe hypothyroidism) → Hypothermia, bradycardia, hypotension.
+     - `Thyroid Storm` (Severe hyperthyroidism) → Tachycardia, high-output heart failure.
+
+## Management
+
+import { Tabs } from "nextra/components";
+
+<Tabs items={['Haemorrhagic Shock', 'Septic Shock']}>
+<Tabs.Tab>
+
+### 1. Initial Assessment and Resuscitation
+
+#### Airway
+
+- Ensure **patent airway**.
+- Consider intubation if GCS ≤ 8 or severe respiratory distress.
+
+#### Breathing
+
+- Provide **high-flow oxygen** via non-rebreather mask.
+- Monitor respiratory rate and oxygen saturation.
+
+#### Circulation
+
+- **Control external bleeding**: Direct pressure, tourniquet (if necessary).
+- **Monitor vital signs, urine output, and lactate levels**.
+- Calculate `Shock index`
+- **Two large-bore IV cannulas (14-16G)**:
+  - Start fluid resuscitation with `crystalloids` (`Ringer's lactate` or `normal saline`).
+  - If no response after 1-2 liters or shock index > 1 → Initiate 2 units of `blood transfusion` (O-negative or cross-matched blood).
+  - If ongoing bleeding → **Massive Transfusion Protocol (MTP)** (1:1:1 ratio of `Packed RBCs, Fresh Frozen Plasma, Platelets`)
+
+<details>
+<summary>Shock index calculation</summary>
+
+> HR / SBP
+
+0. Normal: < 0.6
+1. Mild: 0.6-1
+1. Moderate: 1-1.4
+1. Severe: ≥ 1.4
+
+</details>
+
+#### Disability
+
+- Assess Glasgow Coma Scale (GCS).
+- Look for signs of cerebral hypoperfusion (confusion, restlessness).
+
+#### Exposure & Environment Control
+
+- Expose the patient to assess for injuries.
+- Prevent hypothermia (warm fluids, blankets).
+
+#### Fluid Resuscitation & Further Management
+
+- Continue fluids/blood as per response.
+- **Surgical intervention**:
+  - Exploratory laparotomy for intra-abdominal bleeding.
+  - Angiographic embolization if indicated.
+- **Correct coagulopathy**:
+  - If INR > 1.5 → Give `Fresh Frozen Plasma`.
+  - If platelet count < 50,000 → Give `Platelets`.
+
+## 2. Definitive Management
+
+- Identify and treat the source of bleeding:
+  - **Trauma → Damage control surgery** (e.g., splenectomy, liver packing).
+  - **GI bleeding → Endoscopy, embolization, or surgery**.
+  - **Ruptured AAA → Emergency repair**.
+
+### Spleenic Rupture
+
+#### Indications for Surgery
+
+import { Callout } from "nextra/components";
+
+<Callout emoji="">
+
+1. Hemodynamically unstable
+1. AAST Grade IV-V
+1. Ongoing or uncontrollable haemorrhage
+1. Failed non-operative management
+1. Associated intra-abdominal injuries
+1. Peritoneal signs suggesting rupture
+
+</Callout>
+
+<details>
+<summary>American Association for the Surgery of Trauma (AAST) Grading for Splenic Injury</summary>
+
+1. **Grade I**
+   - Subcapsular hematoma < 10% of surface area
+   - Parenchymal laceration < 1 cm depth
+   - Capsular tear
+1. **Grade II**
+   - Subcapsular hematoma 10-50% of surface area
+   - Intraparenchymal hematoma < 5 cm
+   - parenchymal laceration 1-3 cm in depth
+1. **Grade III**
+   - Subcapsular hematoma > 50% of surface area
+   - Intraparenchymal hematoma ≥ 5 cm
+   - Parenchymal laceration > 3 cm in depth
+   - Ruptured subcapsular or intraparenchymal hematoma
+1. **Grade IV**
+   - any injury in the presence of a splenic vascular injury or active bleeding confined within splenic capsule
+   - Parenchymal laceration involving segmental or hilar vessels producing >25% devascularisation
+1. **Grade V**
+   - Shattered spleen
+   - any injury in the presence of splenic vascular injury with active bleeding extending beyond the spleen into the peritoneum
+
+</details>
+
+<details>
+<summary>Peritoneal signs suggesting rupture</summary>
+
+1. Abdominal pain
+1. Kehr's sign (referred pain to left shoulder due to diaphragmatic irritation)
+1. Rebound tenderness
+1. Guarding or rigidity
+1. Abdominal distension
+1. Decreased bowel sounds
+1. Hypotension & Tachycardia
+
+</details>
+
+<details>
+<summary>If none of above indications exists, medical management</summary>
+
+- ICU monitoring with serial hemoglobin checks and repeat imaging
+- Bed rest and restricted activity for 6-8 weeks
+- Embolization (if bleeding persists but patient remains stable)
+
+</details>
+
+#### Surgical Management
+
+1. `Splenorrhaphy (Spleen Repair)`
+   - **Indication**: _Minor lacerations, stable patient_
+   - **Procedure**: Hemostatic sutures, mesh wrapping, or hemostatic agents (e.g., fibrin glue)
+1. `Partial Splenectomy`
+   - **Indication**: _Localized rupture with salvageable spleen tissue_
+1. `Total Splenectomy (Definitive Procedure)`
+   - **Indication**:
+     - _Major rupture with uncontrollable hemorrhage_
+     - _Devitalized spleen_
+     - _Patient unstable despite aggressive resuscitation_
+
+## 3. Complications
+
+- **Disseminated Intravascular Coagulation (DIC)** → Correct coagulopathy with **FFP and platelets**.
+- **Acidosis** → Optimize perfusion and ventilation.
+- **Hypothermia** → Active warming strategies.
+- **Multi-Organ Failure** → ICU care, mechanical ventilation if needed.
+- [Complications of Blood transfusion](/surgery/theory/general/blood-transfusion#complications)
+- Complications of post-splenectomy (Post-splenectomy thrombosis & sepsis management)
+
+</Tabs.Tab>
+
+<Tabs.Tab>
+
+### 1. Resuscitation — _ABCDEF Approach_
+
+#### Airway (A)
+
+- Assess for airway compromise (low GCS, impending respiratory failure) → secure airway with endotracheal intubation if needed.
+
+#### Breathing (B)
+
+- Administer high-flow oxygen → target SpO₂ ≥ 94% (except in COPD).
+- Mechanical ventilation if respiratory distress or PaO₂ < 60 mmHg despite O₂.
+
+#### Circulation (C)
+
+- **IV access**: 2 large-bore cannulas (14–16G) or central line.
+- **Fluid resuscitation**: 30 mL/kg isotonic crystalloids (`Ringer's lactate` or `normal saline`) within first 3 hours.
+- Monitor MAP (target ≥ 65 mmHg).
+- **Vasopressors**: If hypotension persists after fluids → start `norepinephrine` via central line (first-line). Add `vasopressin` or `adrenaline` if refractory.
+
+#### Disability (D)
+
+- Assess GCS, blood glucose (treat hypoglycaemia if < 4 mmol/L).
+
+#### Exposure/Environment (E)
+
+- Fully expose patient to look for signs of peritonitis, abdominal distension, surgical scars, trauma marks.
+- Maintain normothermia (warm blankets, warm fluids).
+
+#### Further Immediate Measures (F)
+
+- **Empirical broad-spectrum antibiotics** within 1 hour of recognition:
+
+  - Perforated appendicitis & perforated duodenal ulcer: `piperacillin–tazobactam` or `meropenem` ± `metronidazole`
+  - Large bowel obstruction with risk of perforation: broader Gram-negative and anaerobic cover — `meropenem` or `piperacillin–tazobactam` + `vancomycin` if MRSA risk.
+
+- Analgesia (`fentanyl` or `morphine` cautiously, avoid NSAIDs in renal injury or perforation).
+- NG tube decompression if vomiting or bowel obstruction suspected.
+- Foley catheter for urine output monitoring (target ≥ 0.5 mL/kg/hr).
+
+### 2. Investigations
+
+#### For Diagnosis & Severity
+
+- CBC (leukocytosis, thrombocytopenia)
+- Renal function, electrolytes
+- LFTs
+- CRP, procalcitonin
+- Arterial blood gases (metabolic acidosis, lactate > 2 mmol/L)
+- Blood cultures (before antibiotics if possible, but don’t delay treatment)
+- Cross-match blood
+
+#### Imaging
+
+- Erect chest X-ray: free gas under diaphragm in perforation
+- Abdominal X-ray: obstruction signs (dilated loops, air-fluid levels)
+- Ultrasound: intra-abdominal fluid, appendicular mass/abscess
+- CT abdomen with contrast: to confirm diagnosis and guide surgical plan if stable enough
+
+### 3. Source Control (Definitive Management)
+
+Performed **as soon as patient is hemodynamically optimized** (ideally within 6–12 hours, but emergent in ongoing peritonitis).
+
+- **Perforated acute appendicitis**:
+
+  - `Emergency appendicectomy` (open or laparoscopic) ± `peritoneal lavage`.
+  - Drain abscess if present.
+
+- **Perforated duodenal ulcer**:
+
+  - `Emergency laparotomy` with primary closure (Graham omental patch) ± `peritoneal lavage`.
+  - In selected stable patients with small perforations and minimal peritonitis: laparoscopic repair.
+
+- **Large intestinal obstruction due to recto-sigmoid tumor**:
+
+  - `Emergency laparotomy` — resection (`Hartmann’s procedure`) or `stoma formation` (loop colostomy) depending on patient stability and contamination.
+  - Decompress colon if massively distended.
+
+### 4. Ongoing Supportive Care (Common)
+
+- Continue IV antibiotics for 5–7 days (longer if contamination severe or residual abscess).
+- Vasopressor support until stable.
+- Early enteral nutrition if feasible.
+- Monitor for complications:
+
+  - Intra-abdominal abscess
+  - Anastomotic leak
+  - Multi-organ failure
+
+- Step-down to ward once off vasopressors and tolerating diet.
+
+---
+
+### Summary Table
+
+| Step               | Common To All                             | Condition-Specific Notes                   |
+| ------------------ | ----------------------------------------- | ------------------------------------------ |
+| Airway & Breathing | Oxygen, airway protection                 | —                                          |
+| Circulation        | Large-bore IV, crystalloids, vasopressors | —                                          |
+| Antibiotics        | Broad-spectrum within 1 hr                | Broader cover in colonic obstruction       |
+| NG Tube            | For vomiting/obstruction                  | Mandatory in obstruction                   |
+| Surgery            | Early source control                      | Appendicectomy / Graham patch / Hartmann’s |
+| Monitoring         | Urine output, MAP, lactate, labs          | —                                          |
+
+</Tabs.Tab>
+</Tabs>
