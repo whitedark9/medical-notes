@@ -13,4 +13,6 @@ export default {
   haemorrhage: "Haemorrhage",
   "tb-lymphadenitis": "TB Lymphadenitis",
   tracheostomy: "Tracheostomy",
+  gangrene: "Gangrene",
+  ulcer: "Ulcer",
 };
