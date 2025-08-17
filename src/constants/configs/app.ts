@@ -10,9 +10,11 @@ const APP = {
   themeStorageKey: "@theme",
   emoji: {
     stethoscope: "🩺",
+    baby: "👶",
     paperPencil: "📝",
     books: "📚",
     questionMarkRed: "❓",
+    swords: "⚔️",
     pill: "💊",
     brain: "🧠",
     muscle: "💪",

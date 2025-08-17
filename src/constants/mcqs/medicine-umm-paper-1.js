@@ -7,31 +7,31 @@ const MEDICINE_UMM_PAPER_1 = [
         answer: "coronary artery disease",
         answerKey: true,
         reason:
-          "Most common cause of sudden cardiac death due to acute myocardial infarction or arrhythmia.",
+          "Atherosclerotic plaque → rupture → coronary thrombosis → acute ischemia → ventricular tachycardia/fibrillation → sudden death.",
       },
       {
         answer: "hypertrophic cardiomyopathy",
         answerKey: true,
         reason:
-          "Common cause in young athletes due to ventricular arrhythmias.",
+          "Sarcomeric gene mutation → hypertrophied disorganized myocytes → diastolic dysfunction + ischemia → ventricular arrhythmia → sudden death (esp. in athletes).",
       },
       {
         answer: "mitral stenosis",
         answerKey: false,
         reason:
-          "Rarely causes sudden death; death is usually due to progressive heart failure.",
+          "Rheumatic scarring → narrowed mitral orifice → ↑ LA pressure → pulmonary hypertension → right heart failure. Death is chronic/progressive, not sudden.",
       },
       {
         answer: "myocarditis",
         answerKey: true,
         reason:
-          "Can cause sudden death due to ventricular arrhythmia or acute pump failure.",
+          "Infection/inflammation → myocyte necrosis + edema → electrical instability → ventricular tachycardia/fibrillation OR pump failure → sudden death.",
       },
       {
         answer: "pericarditis",
         answerKey: false,
         reason:
-          "Usually presents with chest pain and pericardial effusion; sudden death is uncommon.",
+          "Inflammation → pericardial pain ± effusion → tamponade possible but uncommon. Sudden death is rare compared to arrhythmias/myocarditis.",
       },
     ],
   },
@@ -43,29 +43,31 @@ const MEDICINE_UMM_PAPER_1 = [
         answer: "arrhythmia may occur at any stage",
         answerKey: true,
         reason:
-          "Arrhythmias can occur throughout the course due to ventricular dilation and fibrosis.",
+          "Ventricular dilation → myocardial stretch + fibrosis → conduction pathway distortion → ectopic activity → arrhythmias (AF, VT, VF) anytime.",
       },
       {
         answer: "alcohol may be one of the causes",
         answerKey: true,
-        reason: "Alcoholic cardiomyopathy is a well-recognized cause.",
+        reason:
+          "Chronic alcohol → direct cardiotoxicity + thiamine deficiency → myocyte degeneration → ventricular dilation → DCM.",
       },
       {
         answer: "HIV is one of the risk factors for this condition",
         answerKey: true,
         reason:
-          "HIV infection can lead to myocarditis and subsequent dilated cardiomyopathy.",
+          "HIV infection → myocarditis (direct viral + opportunistic infections) → progressive damage → ventricular dilation → systolic dysfunction.",
       },
       {
         answer: "most cases are due to autosomal recessive trait",
         answerKey: false,
-        reason: "Most familial cases are autosomal dominant, not recessive.",
+        reason:
+          "Familial DCM → mostly autosomal dominant mutations (e.g., titin, dystrophin). Autosomal recessive inheritance is rare.",
       },
       {
         answer: "thromboembolism may occur",
         answerKey: true,
         reason:
-          "Blood stasis in dilated chambers predisposes to mural thrombus and embolism.",
+          "Dilated chambers → sluggish flow + mural thrombus → embolization → systemic (stroke) or pulmonary embolism.",
       },
     ],
   },
@@ -77,28 +79,30 @@ const MEDICINE_UMM_PAPER_1 = [
         answer: "associated with Marfan’s syndrome",
         answerKey: false,
         reason:
-          "No strong association; Marfan’s is more linked to aortic root disease.",
+          "Marfan’s → fibrillin-1 defect → aortic root dilatation, MVP. ASD more linked with Holt-Oram syndrome, not Marfan’s.",
       },
       {
         answer: "aortic regurgitation can occur",
         answerKey: false,
         reason:
-          "Not a typical complication; AR is more common in VSD or aortic root disease.",
+          "ASD → left-to-right shunt → RV/RA overload. AR usually arises from aortic root disease or VSD, not ASD.",
       },
       {
         answer: "common in males",
         answerKey: false,
-        reason: "More common in females.",
+        reason: "ASD (esp. secundum type) → 2:1 female predominance.",
       },
       {
         answer: "systolic murmur can be heard",
         answerKey: true,
-        reason: "Due to increased flow across the pulmonary valve.",
+        reason:
+          "ASD → ↑ pulmonary flow → turbulence across pulmonary valve → ejection systolic murmur (L upper sternal border).",
       },
       {
         answer: "wide and fixed splitting of the second heart sound can occur",
         answerKey: true,
-        reason: "Classical auscultatory finding of ASD.",
+        reason:
+          "Constant left-to-right shunt → RV always overloaded → delayed P2 → wide, fixed split S2 regardless of respiration.",
       },
     ],
   },
@@ -109,27 +113,32 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "aortic valve disease",
         answerKey: true,
-        reason: "Can cause LBBB due to involvement of conduction system.",
+        reason:
+          "Chronic AS/AR → LV hypertrophy + fibrosis → conduction system involvement → LBBB.",
       },
       {
         answer: "atrial septal defect",
         answerKey: false,
-        reason: "ASD is more associated with RBBB.",
+        reason:
+          "ASD → right-sided overload → commonly associated with RBBB, not LBBB.",
       },
       {
         answer: "cardiomyopathy",
         answerKey: true,
-        reason: "Fibrosis and dilation can affect conduction pathways.",
+        reason:
+          "Dilated or hypertrophic cardiomyopathy → LV dilation/fibrosis → bundle damage → LBBB.",
       },
       {
         answer: "coronary artery disease",
         answerKey: true,
-        reason: "Myocardial infarction can damage the left bundle branch.",
+        reason:
+          "Ischemia/MI involving interventricular septum → necrosis of conduction tissue → LBBB.",
       },
       {
         answer: "normal variant",
         answerKey: false,
-        reason: "LBBB is almost always pathological.",
+        reason:
+          "LBBB is almost always pathological; unlike RBBB which may be benign.",
       },
     ],
   },
@@ -140,29 +149,32 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "angina",
         answerKey: true,
-        reason: "Due to reduced coronary perfusion during increased demand.",
+        reason:
+          "LV hypertrophy → ↑ O2 demand + ↓ coronary perfusion (due to prolonged systole) → angina.",
       },
       {
         answer: "exertional syncope",
         answerKey: true,
-        reason: "Caused by fixed cardiac output during exertion.",
+        reason:
+          "Fixed LV outflow obstruction → cardiac output fails to rise on exertion → cerebral hypoperfusion → syncope.",
       },
       {
         answer: "early diastolic murmur",
         answerKey: false,
         reason:
-          "AS causes ejection systolic murmur; early diastolic murmur suggests AR.",
+          "AS → ejection systolic murmur. Early diastolic murmur is typical of AR.",
       },
       {
         answer: "thrusting apex beat",
         answerKey: false,
-        reason: "AS produces heaving, not thrusting, apex beat.",
+        reason:
+          "AS → sustained/heaving apex beat (pressure overload). Thrusting is volume overload (AR).",
       },
       {
         answer: "wide pulse pressure",
         answerKey: false,
         reason:
-          "AS causes narrow pulse pressure; wide pulse pressure is seen in AR.",
+          "AS → narrow pulse pressure (low systolic rise). Wide pulse pressure = AR.",
       },
     ],
   },
@@ -173,27 +185,32 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "Adenovirus",
         answerKey: true,
-        reason: "Recognized viral cause of myocarditis.",
+        reason:
+          "Viral infection (adenovirus) → direct myocyte injury + immune response → myocarditis.",
       },
       {
         answer: "Coxsackie virus",
         answerKey: true,
-        reason: "Most common viral cause of myocarditis.",
+        reason:
+          "Coxsackie B virus = most common cause → direct cytotoxicity + immune-mediated necrosis → myocarditis.",
       },
       {
         answer: "Lyme disease",
         answerKey: true,
-        reason: "Borrelia infection can cause myocarditis.",
+        reason:
+          "Borrelia infection → spirochete invasion of myocardium → myocarditis, AV block.",
       },
       {
         answer: "Staphylococcal infection",
         answerKey: true,
-        reason: "Can cause bacterial myocarditis, especially with sepsis.",
+        reason:
+          "Sepsis/endocarditis → bacterial toxins invade myocardium → suppurative/bacterial myocarditis.",
       },
       {
         answer: "Streptococcal infection",
         answerKey: true,
-        reason: "May occur in rheumatic carditis.",
+        reason:
+          "Strep → post-strep immune response (rheumatic carditis) → pancarditis including myocarditis.",
       },
     ],
   },
@@ -205,28 +222,32 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "ascites",
         answerKey: true,
-        reason: "Due to chronic right heart failure from constriction.",
+        reason:
+          "Rigid pericardium → impaired RV filling → systemic venous congestion → ascites.",
       },
       {
         answer: "atrial fibrillation",
         answerKey: true,
-        reason: "Common due to atrial enlargement.",
+        reason:
+          "Chronic atrial stretch due to high filling pressures → atrial arrhythmias (AF).",
       },
       {
         answer: "Kussmaul’s sign",
         answerKey: true,
-        reason: "Rise in JVP on inspiration due to impaired filling.",
+        reason:
+          "Inspiration → impaired RV filling (rigid pericardium) → paradoxical rise in JVP = Kussmaul’s sign.",
       },
       {
         answer: "pulsus bigeminy",
         answerKey: false,
         reason:
-          "Not a characteristic feature; more related to ventricular ectopy.",
+          "Pulsus bigeminy = ventricular ectopy, not typical of constrictive pericarditis.",
       },
       {
         answer: "sudden cardiac death",
         answerKey: false,
-        reason: "Chronic course; sudden death is uncommon.",
+        reason:
+          "Course is chronic; death occurs from chronic failure, not sudden arrhythmia.",
       },
     ],
   },
@@ -237,27 +258,30 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "associated with Marfan’s syndrome",
         answerKey: true,
-        reason: "Connective tissue defect predisposes to dissection.",
+        reason:
+          "Marfan’s → fibrillin-1 defect → cystic medial necrosis → weakened aortic wall → dissection risk.",
       },
       {
         answer: "aortic regurgitation can occur",
         answerKey: true,
-        reason: "Due to involvement of the aortic root and valve.",
+        reason: "Dissection into aortic root → valve ring distortion → AR.",
       },
       {
         answer: "imaging by CT angiogram is the investigation of choice",
         answerKey: true,
-        reason: "Gold standard in stable patients.",
+        reason:
+          "CT angiogram → rapid, sensitive, shows intimal flap & extent → gold standard (stable pts).",
       },
       {
         answer: "systolic murmur can be heard",
         answerKey: false,
-        reason: "AR murmur is diastolic, not systolic.",
+        reason: "AR murmur (from dissection) is early diastolic, not systolic.",
       },
       {
         answer: "type B dissection usually require emergency surgery",
         answerKey: false,
-        reason: "Most managed medically unless complications occur.",
+        reason:
+          "Stanford B (distal to L subclavian) → usually managed medically unless rupture/ischemia.",
       },
     ],
   },
@@ -268,27 +292,29 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "alcoholism",
         answerKey: true,
-        reason: "Binge drinking ('holiday heart') can trigger AF.",
+        reason:
+          "Acute binge (‘holiday heart’) → direct atrial irritability → AF.",
       },
       {
         answer: "chest infection",
         answerKey: true,
-        reason: "Can precipitate AF due to hypoxia and inflammation.",
+        reason: "Hypoxia + catecholamine surge → atrial ectopy → AF.",
       },
       {
         answer: "ischemic heart disease",
         answerKey: true,
-        reason: "Common structural cause.",
+        reason:
+          "Ischemic injury → atrial scar + dilatation → reentrant circuits → AF.",
       },
       {
         answer: "hypertension",
         answerKey: true,
-        reason: "Leads to LV hypertrophy and LA enlargement.",
+        reason: "Chronic HTN → LVH → ↑ LA pressure/dilatation → AF.",
       },
       {
         answer: "rheumatic heart disease",
         answerKey: true,
-        reason: "Mitral stenosis frequently causes AF.",
+        reason: "Mitral stenosis → ↑ LA pressure → atrial dilatation → AF.",
       },
     ],
   },
@@ -299,28 +325,29 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "almost always rheumatic in origin",
         answerKey: true,
-        reason: "Majority of adult MS cases are post-rheumatic fever.",
+        reason:
+          "Post-rheumatic fever scarring accounts for most adult MS cases.",
       },
       {
         answer: "opening snap is loudest when the valve is calcified",
         answerKey: false,
         reason:
-          "Opening snap diminishes with calcification; loud in pliable valves.",
+          "Snap = sudden halt of leaflet opening → louder when valve is pliable. Calcification reduces snap.",
       },
       {
         answer: "physical signs are commonly found after the onset of symptoms",
         answerKey: false,
-        reason: "Often detected before symptoms due to characteristic murmur.",
+        reason: "Murmur often detected before symptoms (latent phase).",
       },
       {
         answer: "thrusting apex beat can be felt",
         answerKey: false,
-        reason: "MS produces tapping apex beat due to loud S1, not thrusting.",
+        reason: "MS → tapping apex (loud S1), not thrusting (seen in AR).",
       },
       {
         answer: "slow rising pulse can be felt",
         answerKey: false,
-        reason: "Characteristic of AS, not MS.",
+        reason: "Slow-rising pulse = AS, not MS.",
       },
     ],
   },
@@ -331,28 +358,31 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "chronic ITP",
         answerKey: false,
-        reason: "ITP usually presents with normal or mildly enlarged spleen.",
+        reason:
+          "ITP → immune platelet destruction. Spleen size usually normal/mildly enlarged, not massive.",
       },
       {
         answer: "chronic myeloid leukemia",
         answerKey: true,
-        reason: "CML commonly causes massive splenomegaly.",
+        reason:
+          "Myeloproliferation → extramedullary hematopoiesis → massive splenomegaly.",
       },
       {
         answer: "Hodgkin’s lymphoma",
         answerKey: true,
-        reason: "Can cause massive splenomegaly in advanced stages.",
+        reason:
+          "Lymphoid infiltration of spleen → massive enlargement in advanced stages.",
       },
       {
         answer: "iron deficiency anaemia",
         answerKey: false,
-        reason: "Not typically associated with splenomegaly.",
+        reason: "IDA → microcytosis, pallor. Splenomegaly is not typical.",
       },
       {
         answer: "thalassaemia minor",
         answerKey: false,
         reason:
-          "Usually asymptomatic; massive splenomegaly occurs in thalassemia major.",
+          "Thalassemia major → massive splenomegaly (extramedullary hematopoiesis). Minor = usually asymptomatic.",
       },
     ],
   },
@@ -363,27 +393,31 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "amyloidosis can occur",
         answerKey: true,
-        reason: "Light chain deposition can cause secondary amyloidosis.",
+        reason:
+          "Excess light chains → amyloid deposition → systemic amyloidosis.",
       },
       {
         answer: "can be presented with carpal tunnel syndrome",
         answerKey: true,
-        reason: "Due to amyloid deposition compressing the median nerve.",
+        reason:
+          "Amyloid deposition in flexor retinaculum → compress median nerve → carpal tunnel.",
       },
       {
         answer: "renal impairment can be seen",
         answerKey: true,
-        reason: "Due to light chain cast nephropathy or hypercalcemia.",
+        reason:
+          "Light chain cast nephropathy + hypercalcemia → chronic kidney disease.",
       },
       {
         answer: "occurs commonly in young adults",
         answerKey: false,
-        reason: "Usually affects older adults (>60 years).",
+        reason: "Typically >60 yrs, very rare in young adults.",
       },
       {
         answer: "serum beta-2 microglobulin level may correlate with prognosis",
         answerKey: true,
-        reason: "Higher levels indicate worse prognosis.",
+        reason:
+          "↑ β2-microglobulin = tumor burden & renal impairment → worse prognosis.",
       },
     ],
   },
@@ -394,29 +428,32 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "DIC",
         answerKey: false,
-        reason: "DIC causes microangiopathic hemolysis, not autoimmune.",
+        reason:
+          "DIC → fibrin strands shear RBC (microangiopathic). Not immune mediated.",
       },
       {
         answer: "G6PD-deficiency",
         answerKey: false,
         reason:
-          "Hemolysis here is due to oxidative stress, not immune-mediated.",
+          "Oxidative stress → hemolysis. Mechanism is enzymatic deficiency, not antibodies.",
       },
       {
         answer: "idiopathic",
         answerKey: true,
-        reason: "Many cases are idiopathic with no secondary cause found.",
+        reason:
+          "Autoantibodies against RBC (warm/cold type) without clear trigger → idiopathic AIHA.",
       },
       {
         answer: "myeloplasma infection",
         answerKey: true,
         reason:
-          "Mycoplasma pneumoniae can trigger cold agglutinin autoimmune hemolysis.",
+          "Mycoplasma pneumoniae → cold agglutinin IgM autoantibodies → complement-mediated hemolysis.",
       },
       {
         answer: "systemic lupus erythematosus",
         answerKey: true,
-        reason: "SLE is a recognized cause of secondary autoimmune hemolysis.",
+        reason:
+          "SLE → autoantibody formation (IgG warm type) → opsonization of RBC → splenic destruction.",
       },
     ],
   },
@@ -428,29 +465,31 @@ const MEDICINE_UMM_PAPER_1 = [
         answer: "Ehlers-Danlos syndrome",
         answerKey: false,
         reason:
-          "A connective tissue disorder causing vascular fragility, not a coagulation factor defect.",
+          "Connective tissue defect → vascular fragility → bleeding, not a clotting factor defect.",
       },
       {
         answer: "hemophilia",
         answerKey: false,
-        reason: "A congenital coagulation disorder, not acquired.",
+        reason:
+          "Inherited factor VIII/IX deficiency → congenital, not acquired.",
       },
       {
         answer: "liver disease",
         answerKey: true,
         reason:
-          "Liver synthesizes clotting factors; disease leads to deficiency.",
+          "Liver → site of clotting factor synthesis. Cirrhosis → ↓ clotting factors → acquired coagulopathy.",
       },
       {
         answer: "SLE",
         answerKey: true,
         reason:
-          "Can cause lupus anticoagulant and acquired coagulation defects.",
+          "SLE → lupus anticoagulant/antiphospholipid antibody → acquired coagulation disorder.",
       },
       {
         answer: "Von Willebrand disease",
         answerKey: false,
-        reason: "Usually inherited, though rare acquired forms exist.",
+        reason:
+          "Inherited deficiency of vWF. Rare acquired form exists, but mainly congenital.",
       },
     ],
   },
@@ -462,23 +501,25 @@ const MEDICINE_UMM_PAPER_1 = [
         answer: "brucellosis",
         answerKey: true,
         reason:
-          "Chronic infection can cause generalized lymph node enlargement.",
+          "Chronic brucella infection → immune stimulation → lymphadenopathy.",
       },
       {
         answer: "histoplasmosis",
         answerKey: true,
-        reason: "Systemic fungal infection causing lymphadenopathy.",
+        reason:
+          "Disseminated fungal infection → RES activation → lymph node enlargement.",
       },
       {
         answer: "lymphoma",
         answerKey: true,
         reason:
-          "Primary lymphoid malignancy causing generalized lymph node enlargement.",
+          "Malignant lymphoid proliferation → generalized lymphadenopathy.",
       },
       {
         answer: "thalassemia",
         answerKey: false,
-        reason: "Does not typically cause generalized lymphadenopathy.",
+        reason:
+          "Hemolytic anemia with marrow expansion → splenomegaly, not lymphadenopathy.",
       },
       {
         answer: "toxoplasmosis",
@@ -489,473 +530,524 @@ const MEDICINE_UMM_PAPER_1 = [
   },
   {
     id: 16,
-    statement: "Splenectomy is likely to be helpful in the management of",
+    statement: "Features of idiopathic thrombocytopenic purpura (ITP) include",
     choices: [
       {
-        answer: "acquired autoimmune hemolytic anemia",
-        answerKey: true,
-        reason: "Removes site of antibody-coated RBC destruction.",
-      },
-      {
-        answer: "chronic ITP",
-        answerKey: true,
-        reason: "Reduces platelet destruction by macrophages in spleen.",
-      },
-      {
-        answer: "hereditary spherocytosis",
-        answerKey: true,
-        reason: "Prevents splenic destruction of abnormal RBCs.",
-      },
-      {
-        answer: "hairy cell leukemia",
-        answerKey: true,
-        reason: "Improves cytopenias by removing sequestration site.",
-      },
-      {
-        answer: "sickle cell anemia",
+        answer: "anaemia is common",
         answerKey: false,
-        reason: "Not indicated; spleen often undergoes autosplenectomy early.",
+        reason:
+          "Autoantibodies → platelet destruction → isolated thrombocytopenia. Anemia occurs only if there is bleeding, not a primary feature.",
+      },
+      {
+        answer: "bone marrow failure is the cause",
+        answerKey: false,
+        reason:
+          "ITP = autoimmune platelet destruction in spleen → marrow usually shows megakaryocytic hyperplasia, not failure.",
+      },
+      {
+        answer: "most common in elderly males",
+        answerKey: false,
+        reason:
+          "ITP → commoner in young women and children post-viral. Elderly males not typical.",
+      },
+      {
+        answer: "petechiae and purpura are characteristic",
+        answerKey: true,
+        reason:
+          "Thrombocytopenia → defective primary hemostasis → mucocutaneous bleeding → petechiae, purpura, gum/nose bleeding.",
+      },
+      {
+        answer: "spleen is usually palpable",
+        answerKey: false,
+        reason:
+          "Unlike leukemia/lymphoma, ITP spleen size is usually normal (only sequestration occurs).",
       },
     ],
   },
   {
     id: 17,
-    statement: "Regarding myelofibrosis",
+    statement: "The following are true about polycythemia vera",
     choices: [
       {
-        answer: "marked enlargement of spleen is rare",
-        answerKey: false,
-        reason: "Massive splenomegaly is a hallmark feature.",
-      },
-      {
-        answer: "marrow is hypercellular initially",
+        answer: "it is a myeloproliferative disorder",
         answerKey: true,
-        reason: "Early disease shows hypercellularity before fibrosis.",
+        reason:
+          "JAK2 mutation → clonal proliferation of RBC (± WBC, platelets) → myeloproliferative neoplasm.",
       },
       {
-        answer: "occurs commonly in young adults",
-        answerKey: false,
-        reason: "Typically affects older adults.",
-      },
-      {
-        answer: "the serum urate level may be high",
+        answer: "leukocytosis may occur",
         answerKey: true,
-        reason: "Due to high cell turnover and purine metabolism.",
+        reason: "Myeloproliferation is pan-cellular → ↑ RBC, WBC, platelets.",
       },
       {
-        answer: "trephine biopsy shows reduced number of megakaryocytes",
+        answer: "patients have low erythropoietin levels",
+        answerKey: true,
+        reason:
+          "Autonomous RBC production → negative feedback → suppressed EPO.",
+      },
+      {
+        answer: "splenomegaly is a common feature",
+        answerKey: true,
+        reason: "Extramedullary hematopoiesis → spleen enlargement in PV.",
+      },
+      {
+        answer: "thrombosis is rare",
         answerKey: false,
-        reason: "Usually shows increased abnormal megakaryocytes.",
+        reason:
+          "Hyperviscosity + high platelets → ↑ arterial and venous thrombosis risk.",
       },
     ],
   },
   {
     id: 18,
-    statement: "Mechanical causes of hemolysis include",
+    statement: "Causes of microcytic anaemia include",
     choices: [
       {
-        answer: "DIC",
-        answerKey: true,
-        reason: "Microangiopathic hemolysis occurs due to fibrin strands.",
-      },
-      {
-        answer: "hemolytic uremic syndrome",
-        answerKey: true,
-        reason: "Causes microangiopathic mechanical RBC destruction.",
-      },
-      {
-        answer: "march hemoglobinuria",
-        answerKey: true,
-        reason:
-          "Repetitive trauma to RBCs in foot capillaries during marching.",
-      },
-      {
-        answer: "severe pre-eclampsia",
-        answerKey: true,
-        reason:
-          "May cause microangiopathic hemolysis similar to HELLP syndrome.",
-      },
-      {
-        answer: "thalassemia",
+        answer: "acute blood loss",
         answerKey: false,
         reason:
-          "Hemolysis is due to intrinsic RBC defect, not mechanical trauma.",
+          "Acute blood loss → normocytic normochromic anemia initially. Microcytosis develops only in chronic loss with iron deficiency.",
+      },
+      {
+        answer: "anaemia of chronic disease",
+        answerKey: true,
+        reason:
+          "Inflammatory cytokines → ↑ hepcidin → impaired iron release → functional iron deficiency → microcytosis.",
+      },
+      {
+        answer: "iron deficiency anaemia",
+        answerKey: true,
+        reason:
+          "Depleted iron → impaired Hb synthesis → small hypochromic RBC → microcytosis.",
+      },
+      {
+        answer: "thalassaemia",
+        answerKey: true,
+        reason:
+          "Globin gene mutation → ↓ Hb chains → small hypochromic RBC despite normal iron stores.",
+      },
+      {
+        answer: "vitamin B12 deficiency",
+        answerKey: false,
+        reason:
+          "B12 deficiency → impaired DNA synthesis → megaloblastic macrocytic anemia.",
       },
     ],
   },
   {
     id: 19,
-    statement: "Vascular cause of bleeding includes",
+    statement: "Causes of neutrophilia include",
     choices: [
       {
-        answer: "DIC",
-        answerKey: false,
-        reason: "A coagulation disorder, not a primary vascular defect.",
-      },
-      {
-        answer: "Ehlers-Danlos syndrome",
+        answer: "acute bacterial infection",
         answerKey: true,
-        reason: "Defective collagen causes fragile blood vessels.",
+        reason:
+          "Infection → IL-1, TNF → bone marrow neutrophil release → neutrophilia.",
       },
       {
-        answer: "liver disease",
-        answerKey: false,
-        reason: "Causes coagulopathy, not a vascular defect.",
-      },
-      {
-        answer: "massive blood transfusion",
-        answerKey: false,
-        reason: "Causes dilutional coagulopathy, not vascular cause.",
-      },
-      {
-        answer: "scurvy",
+        answer: "corticosteroid therapy",
         answerKey: true,
-        reason: "Vitamin C deficiency weakens vessel walls causing bleeding.",
+        reason:
+          "Steroids → demargination of neutrophils from vessel wall → apparent neutrophilia.",
+      },
+      {
+        answer: "hypersplenism",
+        answerKey: false,
+        reason:
+          "Hypersplenism → sequestration & destruction of WBC → neutropenia, not neutrophilia.",
+      },
+      {
+        answer: "myeloproliferative disorders",
+        answerKey: true,
+        reason:
+          "Clonal proliferation of myeloid lineage → chronic neutrophilia.",
+      },
+      {
+        answer: "viral infection",
+        answerKey: false,
+        reason:
+          "Viruses → bone marrow suppression + lymphocytosis. Neutropenia is more typical.",
       },
     ],
   },
   {
     id: 20,
-    statement: "Causes of folate deficiency",
+    statement: "Causes of eosinophilia include",
     choices: [
       {
-        answer: "celiac disease",
+        answer: "allergic disorders",
         answerKey: true,
-        reason: "Malabsorption in small intestine impairs folate uptake.",
+        reason:
+          "Allergen exposure → Th2 response → IL-5 → eosinophil proliferation/activation.",
       },
       {
-        answer: "hemolysis",
+        answer: "helminthic infections",
         answerKey: true,
-        reason: "Increased demand for RBC production depletes folate.",
+        reason:
+          "Parasite antigens → IgE mediated immune response → eosinophilia.",
       },
       {
-        answer: "pernicious anaemia",
+        answer: "Hodgkin’s lymphoma",
+        answerKey: true,
+        reason:
+          "Reed-Sternberg cells → cytokine release (IL-5) → eosinophil proliferation.",
+      },
+      {
+        answer: "iron deficiency anaemia",
         answerKey: false,
-        reason: "Causes vitamin B12, not folate, deficiency.",
+        reason:
+          "Iron deficiency affects RBC size/number, not eosinophil count.",
       },
       {
-        answer: "partial gastrectomy",
-        answerKey: true,
-        reason: "Can cause malabsorption of folate in upper intestine.",
-      },
-      {
-        answer: "strict vegans",
-        answerKey: true,
-        reason: "Low dietary folate intake may cause deficiency.",
+        answer: "steroid therapy",
+        answerKey: false,
+        reason:
+          "Corticosteroids cause eosinopenia (apoptosis, sequestration), not eosinophilia.",
       },
     ],
   },
   {
     id: 21,
-    statement: "Complications of typhoid fever include",
+    statement: "Causes of prolonged PT (prothrombin time) include",
     choices: [
       {
-        answer: "bone and joint infection",
+        answer: "cirrhosis",
         answerKey: true,
-        reason: "Can cause osteomyelitis, especially in sickle cell disease.",
+        reason:
+          "Liver → site of clotting factor synthesis. Cirrhosis → ↓ factors II, VII, IX, X → prolonged PT.",
       },
       {
-        answer: "cholecystitis",
+        answer: "DIC",
         answerKey: true,
-        reason: "Gallbladder involvement may occur.",
+        reason:
+          "Widespread activation of coagulation → factor consumption → prolonged PT & APTT.",
       },
       {
-        answer: "cirrhosis of liver",
+        answer: "factor VII deficiency",
+        answerKey: true,
+        reason:
+          "Extrinsic pathway defect → isolated prolonged PT (normal APTT).",
+      },
+      {
+        answer: "haemophilia",
         answerKey: false,
-        reason: "Not a recognized complication.",
+        reason:
+          "Hemophilia A/B → factor VIII/IX deficiency → intrinsic pathway defect → prolonged APTT, not PT.",
       },
       {
-        answer: "myocarditis",
+        answer: "vitamin K deficiency",
         answerKey: true,
-        reason: "Rare but documented complication.",
-      },
-      {
-        answer: "meningitis",
-        answerKey: true,
-        reason: "Can occur, especially in children.",
+        reason:
+          "Vitamin K needed for γ-carboxylation of II, VII, IX, X. Deficiency → prolonged PT.",
       },
     ],
   },
   {
     id: 22,
-    statement:
-      "The clinical manifestation of extrapulmonary tuberculosis include",
+    statement: "Causes of prolonged APTT include",
     choices: [
       {
-        answer: "anorectal ulceration",
+        answer: "hemophilia",
         answerKey: true,
-        reason: "Rare manifestation of TB infection.",
+        reason:
+          "Factor VIII/IX deficiency → intrinsic pathway defect → prolonged APTT.",
       },
       {
-        answer: "chancre",
+        answer: "heparin therapy",
+        answerKey: true,
+        reason:
+          "Heparin → activates antithrombin → inhibits factors IIa, Xa → prolonged APTT.",
+      },
+      {
+        answer: "liver disease",
+        answerKey: true,
+        reason:
+          "Advanced cirrhosis → ↓ intrinsic & extrinsic factors → prolonged PT & APTT.",
+      },
+      {
+        answer: "factor VII deficiency",
         answerKey: false,
-        reason: "Characteristic of syphilis, not TB.",
+        reason:
+          "Factor VII deficiency → extrinsic pathway defect → prolonged PT only.",
       },
       {
-        answer: "cranial nerve palsy",
+        answer: "von Willebrand’s disease",
         answerKey: true,
-        reason: "Can occur in TB meningitis.",
-      },
-      {
-        answer: "mesenteric adenitis",
-        answerKey: true,
-        reason: "Common in abdominal TB.",
-      },
-      {
-        answer: "pericardial effusion",
-        answerKey: true,
-        reason: "Occurs in tuberculous pericarditis.",
+        reason: "vWF deficiency → ↓ factor VIII stability → prolonged APTT.",
       },
     ],
   },
   {
     id: 23,
-    statement: "In cobra snake bite",
+    statement: "Causes of haemoptysis include",
     choices: [
       {
-        answer: "clotting time is usually prolonged",
-        answerKey: false,
-        reason: "Neurotoxic snakes usually do not affect clotting time.",
-      },
-      {
-        answer: "death usually results from respiratory failure",
+        answer: "bronchiectasis",
         answerKey: true,
-        reason: "Due to paralysis of respiratory muscles from neurotoxin.",
+        reason:
+          "Chronic infection → dilated bronchi with fragile vessels → recurrent bleeding → haemoptysis.",
       },
       {
-        answer: "hemodialysis may prove beneficial",
+        answer: "left ventricular failure",
+        answerKey: true,
+        reason:
+          "LVF → pulmonary venous hypertension → alveolar capillary rupture → haemoptysis (pink frothy sputum).",
+      },
+      {
+        answer: "mitral stenosis",
+        answerKey: true,
+        reason:
+          "↑ LA pressure → pulmonary venous congestion → rupture of bronchial veins → haemoptysis.",
+      },
+      {
+        answer: "pulmonary embolism",
+        answerKey: true,
+        reason:
+          "Embolus → pulmonary infarction → necrosis of tissue → blood-stained sputum.",
+      },
+      {
+        answer: "whooping cough",
         answerKey: false,
         reason:
-          "Not a specific treatment; supportive care and antivenom are mainstay.",
-      },
-      {
-        answer: "neurological symptoms predominate",
-        answerKey: true,
-        reason: "Ptosis, paralysis, and respiratory failure are common.",
-      },
-      {
-        answer: "pituitary and adrenal hemorrhage may occur",
-        answerKey: false,
-        reason: "Seen in viper bites due to coagulopathy, not cobra bites.",
+          "Pertussis → paroxysmal cough. Haemoptysis is not a characteristic feature.",
       },
     ],
   },
   {
     id: 24,
-    statement: "The following are clinical manifestations of leptospirosis",
+    statement: "Causes of clubbing include",
     choices: [
       {
-        answer: "aseptic meningitis",
+        answer: "bronchogenic carcinoma",
         answerKey: true,
-        reason: "Can occur in immune phase of infection.",
+        reason:
+          "Tumor-derived factors → ↑ vascular connective tissue → clubbing.",
       },
       {
-        answer: "acute kidney injury",
-        answerKey: true,
-        reason: "Due to interstitial nephritis and tubular necrosis.",
-      },
-      {
-        answer: "intestinal perforation",
+        answer: "coeliac disease",
         answerKey: false,
-        reason: "Not a recognized complication.",
+        reason: "Coeliac → malabsorption. No recognized link to clubbing.",
       },
       {
-        answer: "orchitis",
-        answerKey: true,
-        reason: "Possible complication of leptospiral infection.",
-      },
-      {
-        answer: "osteomyelitis",
+        answer: "emphysema",
         answerKey: false,
-        reason: "Not a common feature.",
+        reason:
+          "Pure emphysema (COPD) usually lacks clubbing unless coexisting cancer/bronchiectasis.",
+      },
+      {
+        answer: "pulmonary arteriovenous malformation",
+        answerKey: true,
+        reason: "Right-to-left shunt → hypoxemia → clubbing + polycythemia.",
+      },
+      {
+        answer: "ulcerative colitis",
+        answerKey: true,
+        reason:
+          "IBD (UC > Crohn’s) → chronic inflammation → clubbing mechanism unclear.",
       },
     ],
   },
   {
     id: 25,
-    statement: "Presenting features of HIV include",
+    statement: "Causes of exudative pleural effusion include",
     choices: [
       {
-        answer: "candidiasis",
-        answerKey: true,
-        reason: "Oral thrush is common in HIV.",
-      },
-      {
-        answer: "cysticercosis",
+        answer: "congestive cardiac failure",
         answerKey: false,
-        reason: "Not a direct presenting feature.",
+        reason:
+          "CCF → transudate (↑ hydrostatic pressure). Exudate occurs from infection/inflammation.",
       },
       {
-        answer: "hairy cell leukemia",
+        answer: "malignancy",
+        answerKey: true,
+        reason:
+          "Tumor invasion of pleura → ↑ capillary permeability → exudate.",
+      },
+      {
+        answer: "nephrotic syndrome",
         answerKey: false,
-        reason: "A hematological malignancy, not HIV manifestation.",
+        reason: "Hypoalbuminemia → ↓ oncotic pressure → transudate.",
       },
       {
-        answer: "thrombocytopenic purpura",
+        answer: "parapneumonic effusion",
         answerKey: true,
-        reason: "Can occur as an HIV-related autoimmune complication.",
+        reason: "Infection/inflammation → protein-rich fluid → exudate.",
       },
       {
-        answer: "toxoplasmosis",
+        answer: "tuberculosis",
         answerKey: true,
-        reason: "Opportunistic infection seen in advanced HIV.",
+        reason: "Granulomatous pleuritis → capillary leakage → exudate.",
       },
     ],
   },
   {
     id: 26,
-    statement: "Type-2 lepra reactions include",
+    statement: "Causes of transudative pleural effusion include",
     choices: [
       {
-        answer: "fever",
+        answer: "congestive cardiac failure",
         answerKey: true,
-        reason: "Part of systemic inflammatory response.",
+        reason: "↑ hydrostatic pressure in pulmonary veins → transudate.",
       },
       {
-        answer: "iritis",
+        answer: "hypoalbuminemia",
         answerKey: true,
-        reason: "Ocular involvement possible in ENL reaction.",
+        reason:
+          "↓ plasma oncotic pressure (e.g., nephrotic syndrome, cirrhosis) → transudate.",
       },
       {
-        answer: "lymphadenitis",
+        answer: "liver cirrhosis",
         answerKey: true,
-        reason: "Nodes may become tender and enlarged.",
+        reason:
+          "Portal HTN + hypoalbuminemia → hepatic hydrothorax → transudate.",
       },
       {
-        answer: "new skin lesions",
+        answer: "malignancy",
         answerKey: false,
-        reason: "Occurs in Type 1 reaction, not Type 2.",
+        reason: "Pleural tumor involvement → exudate, not transudate.",
       },
       {
-        answer: "swollen skin",
-        answerKey: true,
-        reason: "Painful nodules and edema are characteristic of ENL.",
+        answer: "tuberculosis",
+        answerKey: false,
+        reason: "TB pleuritis → exudative, not transudative.",
       },
     ],
   },
   {
     id: 27,
-    statement: "The clinical manifestation of Epstein-Barr virus include",
+    statement: "Causes of respiratory alkalosis include",
     choices: [
       {
-        answer: "antibiotic induced rash",
+        answer: "anxiety",
         answerKey: true,
-        reason: "Occurs after ampicillin in infectious mononucleosis.",
+        reason: "Hyperventilation → ↓ PaCO2 → respiratory alkalosis.",
       },
       {
-        answer: "Burkitt's lymphoma",
+        answer: "asthma",
         answerKey: true,
-        reason: "EBV is associated with endemic Burkitt’s lymphoma.",
+        reason:
+          "Early asthma attack → hyperventilation due to dyspnea → respiratory alkalosis.",
       },
       {
-        answer: "hemolytic anaemia",
+        answer: "excessive mechanical ventilation",
         answerKey: true,
-        reason: "Can cause autoimmune hemolysis.",
+        reason: "Over-ventilation → CO2 washout → alkalosis.",
       },
       {
-        answer: "dementia",
+        answer: "opioid overdose",
         answerKey: false,
-        reason: "Not a typical manifestation.",
+        reason:
+          "Opiates depress respiratory center → hypoventilation → respiratory acidosis.",
       },
       {
-        answer: "endocarditis",
-        answerKey: false,
-        reason: "Not associated with EBV infection.",
+        answer: "salicylate poisoning",
+        answerKey: true,
+        reason:
+          "Early salicylate → direct medullary stimulation → hyperventilation → alkalosis (later metabolic acidosis).",
       },
     ],
   },
   {
     id: 28,
-    statement: "The following are infections caused by Staphylococcus aureus",
+    statement: "Causes of respiratory acidosis include",
     choices: [
       {
-        answer: "brain abscess",
+        answer: "asthma",
         answerKey: true,
-        reason: "Can occur via hematogenous spread or contiguous infection.",
+        reason: "Severe bronchospasm → CO2 retention → respiratory acidosis.",
       },
       {
-        answer: "carbuncles",
+        answer: "Guillain-Barre syndrome",
         answerKey: true,
-        reason: "Typical skin infection caused by S. aureus.",
+        reason: "Neuromuscular weakness → hypoventilation → CO2 retention.",
       },
       {
-        answer: "endocarditis",
+        answer: "opioid overdose",
         answerKey: true,
-        reason: "Common cause of acute infective endocarditis.",
+        reason:
+          "Respiratory center depression → hypoventilation → hypercapnia.",
       },
       {
-        answer: "erythema nodosum",
+        answer: "pulmonary embolism",
         answerKey: false,
-        reason: "Usually due to TB, sarcoid, or strep infection.",
+        reason: "PE → tachypnea → respiratory alkalosis early, not acidosis.",
       },
       {
-        answer: "Weil's disease",
-        answerKey: false,
-        reason: "Caused by Leptospira, not S. aureus.",
+        answer: "severe emphysema",
+        answerKey: true,
+        reason:
+          "Loss of alveolar surface → impaired CO2 elimination → chronic respiratory acidosis.",
       },
     ],
   },
   {
     id: 29,
-    statement: "Regarding scrub typhus",
+    statement: "Causes of metabolic acidosis include",
     choices: [
       {
-        answer: "caused by Rickettsia typhi",
-        answerKey: false,
-        reason: "Caused by Orientia tsutsugamushi.",
-      },
-      {
-        answer: "erythematous maculopapular rashes can develop",
+        answer: "chronic renal failure",
         answerKey: true,
-        reason: "Rash is a common feature.",
+        reason:
+          "↓ excretion of H+ + ↓ bicarbonate regeneration → metabolic acidosis.",
       },
       {
-        answer: "incubation period is about one month",
-        answerKey: false,
-        reason: "Typically 6–21 days.",
-      },
-      {
-        answer: "can be treated with doxycycline",
+        answer: "diarrhoea",
         answerKey: true,
-        reason: "First-line treatment for scrub typhus.",
+        reason:
+          "Loss of bicarbonate-rich intestinal secretions → metabolic acidosis.",
       },
       {
-        answer: "vector is flea",
+        answer: "diabetic ketoacidosis",
+        answerKey: true,
+        reason:
+          "Insulin deficiency → lipolysis → ketone body accumulation → acidosis.",
+      },
+      {
+        answer: "pyloric obstruction",
         answerKey: false,
-        reason: "Vector is larval mite (chigger), not flea.",
+        reason:
+          "Vomiting/obstruction → loss of gastric HCl → metabolic alkalosis.",
+      },
+      {
+        answer: "salicylate poisoning",
+        answerKey: true,
+        reason:
+          "Late phase → accumulation of organic acids → metabolic acidosis.",
       },
     ],
   },
   {
     id: 30,
-    statement: "Regarding heat stroke",
+    statement: "Causes of metabolic alkalosis include",
     choices: [
       {
-        answer: "anhydrosis",
+        answer: "Conn’s syndrome",
         answerKey: true,
-        reason: "Classical heat stroke features absence of sweating.",
-      },
-      {
-        answer: "antipyretic is beneficial",
-        answerKey: false,
-        reason: "Ineffective as cause is not mediated by hypothalamus.",
-      },
-      {
-        answer: "classical heat stroke is more common in young athletes",
-        answerKey: false,
         reason:
-          "Exertional heat stroke is more common in athletes; classical in elderly.",
+          "↑ aldosterone → Na+ retention, H+ secretion → metabolic alkalosis.",
       },
       {
-        answer:
-          "rapid cooling within one hour is essential to bring down temperature",
+        answer: "corticosteroid therapy",
         answerKey: true,
-        reason: "Early aggressive cooling reduces mortality.",
+        reason:
+          "Glucocorticoid/mineralocorticoid effect → H+ loss, bicarbonate retention → alkalosis.",
       },
       {
-        answer: "temperature is 39℃",
+        answer: "diuretic therapy",
+        answerKey: true,
+        reason:
+          "Loop/thiazide diuretics → volume contraction + H+/K+ loss → alkalosis.",
+      },
+      {
+        answer: "diarrhoea",
         answerKey: false,
-        reason: "Heat stroke is defined by core temperature >40℃.",
+        reason: "Diarrhea → HCO3- loss → metabolic acidosis, not alkalosis.",
+      },
+      {
+        answer: "vomiting",
+        answerKey: true,
+        reason:
+          "Loss of gastric HCl → ↑ bicarbonate relative concentration → metabolic alkalosis.",
       },
     ],
   },
@@ -967,27 +1059,31 @@ const MEDICINE_UMM_PAPER_1 = [
         answer: "brucellosis",
         answerKey: true,
         reason:
-          "Zoonotic bacterial infection from livestock or unpasteurized dairy.",
+          "Livestock (goats/cattle) or unpasteurized dairy → Brucella exposure → intracellular survival in macrophages → reticuloendothelial spread (fever, sweats, arthralgia) → classic zoonosis.",
       },
       {
         answer: "cholera",
         answerKey: false,
-        reason: "Waterborne disease, not zoonotic.",
+        reason:
+          "Human fecal contamination of water/food → Vibrio cholerae ingestion → enterotoxin (↑cAMP) → secretory diarrhea; no animal reservoir → not zoonotic.",
       },
       {
         answer: "hepatitis A",
         answerKey: false,
-        reason: "Fecal-oral transmission, not typically animal-acquired.",
+        reason:
+          "Fecal–oral person-to-person or contaminated food/water → hepatocyte infection → self-limited hepatitis; animal-to-human transmission not typical → not zoonotic.",
       },
       {
         answer: "leptospirosis",
         answerKey: true,
-        reason: "Transmitted via animal urine, especially rodents.",
+        reason:
+          "Rodent/animal urine → leptospires in water/soil → skin/mucosal penetration → bacteremia → vasculitis (fever, myalgia, Weil’s disease) → zoonosis.",
       },
       {
         answer: "rabies",
         answerKey: true,
-        reason: "Acquired through bites from infected mammals.",
+        reason:
+          "Bite from infected mammal (dog/bat) → neurotropic virus enters peripheral nerve → retrograde axonal transport → CNS encephalitis → zoonosis.",
       },
     ],
   },
@@ -998,27 +1094,32 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "aortic aneurysm",
         answerKey: false,
-        reason: "Seen in tertiary syphilis, not secondary.",
+        reason:
+          "Late (tertiary) syphilis → vasa vasorum endarteritis → aortitis → ascending aortic aneurysm; secondary stage does not do this.",
       },
       {
         answer: "chancre",
         answerKey: false,
-        reason: "Primary lesion of syphilis.",
+        reason:
+          "Primary syphilis → inoculation site → painless indurated chancre + regional nodes; secondary stage occurs weeks later after spirochetemia.",
       },
       {
         answer: "condylomata lata",
         answerKey: true,
-        reason: "Moist wart-like lesions of secondary syphilis.",
+        reason:
+          "Disseminated treponemal spread → immune complex reaction in skin/mucosa → broad, moist, highly infectious papules (condylomata lata) in intertriginous areas.",
       },
       {
         answer: "dementia",
         answerKey: false,
-        reason: "Occurs in neurosyphilis (late stage).",
+        reason:
+          "Neurosyphilis (late) → parenchymal invasion (general paresis) → cortical damage → dementia; not a feature of secondary stage.",
       },
       {
         answer: "maculopapular rash",
         answerKey: true,
-        reason: "Typical rash involving palms and soles in secondary syphilis.",
+        reason:
+          "Hematogenous dissemination → immune-mediated dermatitis → symmetrical maculopapular rash including palms/soles + mucous patches.",
       },
     ],
   },
@@ -1029,27 +1130,32 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "brucellosis",
         answerKey: true,
-        reason: "Incubation may last weeks to months.",
+        reason:
+          "Low-dose exposure + intracellular persistence in macrophages → slow multiplication → incubation often weeks–months before undulant fevers appear.",
       },
       {
         answer: "cholera",
         answerKey: false,
-        reason: "Short incubation, usually hours to days.",
+        reason:
+          "High inoculum + rapid enterotoxin action → incubation hours–2 days → acute watery diarrhea; not long incubation.",
       },
       {
         answer: "diphtheria",
         answerKey: false,
-        reason: "Incubation period is 2–5 days.",
+        reason:
+          "Local colonization + toxin production in oropharynx → incubation ~2–5 days → sore throat/pseudomembrane; short, not long.",
       },
       {
         answer: "hepatitis B",
         answerKey: true,
-        reason: "Incubation period averages 1–6 months.",
+        reason:
+          "Parenteral/sexual exposure → hepatocyte infection → prolonged immune-tolerant phase → incubation ~6 weeks–6 months → long.",
       },
       {
         answer: "rabies",
         answerKey: true,
-        reason: "Incubation may be weeks to months depending on site of bite.",
+        reason:
+          "Virus in muscle → entry to peripheral nerves → slow retrograde transport distance-dependent → incubation weeks–months (rarely >1 year).",
       },
     ],
   },
@@ -1060,27 +1166,32 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "congenital infection may occur",
         answerKey: true,
-        reason: "Maternal infection during pregnancy can transmit to fetus.",
+        reason:
+          "Primary maternal infection → transplacental tachyzoite spread → fetal CNS/eye invasion → chorioretinitis + hydrocephalus + intracranial calcifications.",
       },
       {
         answer: "can cause generalized lymphadenopathy",
         answerKey: true,
-        reason: "Common finding in acquired infection.",
+        reason:
+          "Oocyst/tissue cyst ingestion → systemic spread → follicular hyperplasia in nodes (posterior cervical common) → generalized lymphadenopathy ± fever.",
       },
       {
         answer: "is intracellular parasites",
         answerKey: true,
-        reason: "Toxoplasma gondii is an obligate intracellular protozoan.",
+        reason:
+          "Obligate intracellular protozoan → tachyzoites replicate within host cells (macrophages/neural) → tissue cyst (bradyzoites) persistence.",
       },
       {
         answer: "may present with massive splenomegaly",
         answerKey: false,
-        reason: "Splenomegaly is mild if present.",
+        reason:
+          "Mild hepatosplenomegaly can occur → but massive splenomegaly is atypical and suggests hematologic disease (e.g., CML, myelofibrosis).",
       },
       {
         answer: "treated with penicillin",
         answerKey: false,
-        reason: "Treatment is with pyrimethamine and sulfadiazine.",
+        reason:
+          "Parasite (not bacterium) → therapy = pyrimethamine + sulfadiazine + folinic acid (or TMP-SMX) → penicillin ineffective.",
       },
     ],
   },
@@ -1092,28 +1203,31 @@ const MEDICINE_UMM_PAPER_1 = [
         answer: "acute kidney injury can occur",
         answerKey: true,
         reason:
-          "Seen in severe falciparum malaria due to acute tubular necrosis.",
+          "P. falciparum → cytoadherence/sequestration in renal microvasculature → ischemia + hemoglobinuria (blackwater fever) → ATN → AKI.",
       },
       {
         answer: "algid malaria can present with cardiac failure",
         answerKey: true,
-        reason: "Severe malaria can cause shock and multi-organ failure.",
+        reason:
+          "Severe malaria ± Gram-negative sepsis → distributive shock (algid) → ↓ coronary perfusion + cytokine-mediated myocardial depression → acute cardiac failure.",
       },
       {
         answer: "can present with cranial nerve palsies",
         answerKey: false,
         reason:
-          "Neurological signs usually from cerebral malaria, not focal cranial nerve palsies.",
+          "Cerebral malaria → impaired consciousness/seizures/retinopathy; focal cranial nerve palsies are rare/atypical → not characteristic.",
       },
       {
         answer: "malarial retinopathy can be seen",
         answerKey: true,
-        reason: "Specific retinal changes seen in cerebral malaria.",
+        reason:
+          "Microvascular sequestration → retinal whitening, vessel discoloration, hemorrhages with whitening → correlates with cerebral malaria severity.",
       },
       {
         answer: "thrombocytosis may occur",
         answerKey: false,
-        reason: "Malaria usually causes thrombocytopenia, not thrombocytosis.",
+        reason:
+          "Immune destruction + splenic sequestration → thrombocytopenia (low platelets) is typical → thrombocytosis is not expected.",
       },
     ],
   },
@@ -1124,27 +1238,32 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "alcohol abuse",
         answerKey: true,
-        reason: "Increases VLDL and triglycerides.",
+        reason:
+          "Ethanol → ↑ hepatic NADH + ↑ FA synthesis → ↑ VLDL secretion → hypertriglyceridemia ± ↑ LDL.",
       },
       {
         answer: "diabetes mellitus",
         answerKey: true,
-        reason: "Insulin resistance increases triglyceride levels.",
+        reason:
+          "Insulin resistance → ↓ LPL activity + ↑ adipose lipolysis → ↑ VLDL/TG and small dense LDL.",
       },
       {
         answer: "hyperthyroidism",
         answerKey: false,
-        reason: "Typically lowers cholesterol levels.",
+        reason:
+          "↑ Thyroid hormone → ↑ LDL receptor expression + ↑ cholesterol turnover → tends to lower LDL; hypothyroidism raises LDL.",
       },
       {
         answer: "nephrotic syndrome",
         answerKey: true,
-        reason: "Increases hepatic lipoprotein synthesis.",
+        reason:
+          "Proteinuria → ↓ oncotic pressure → hepatic upregulation of apoB lipoproteins → ↑ LDL/VLDL.",
       },
       {
         answer: "thiazide therapy",
         answerKey: true,
-        reason: "Can increase LDL and triglycerides.",
+        reason:
+          "Thiazides → insulin resistance + ↑ hepatic VLDL production → modest ↑ LDL/TG.",
       },
     ],
   },
@@ -1155,28 +1274,32 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "blurring of vision",
         answerKey: true,
-        reason: "Due to osmotic lens swelling.",
+        reason:
+          "Hyperglycemia → sorbitol accumulation in lens + osmotic water influx → refractive index change → transient blurred vision.",
       },
       {
         answer: "genital candidiasis",
         answerKey: true,
-        reason: "Fungal infections are common due to glucosuria.",
+        reason:
+          "Glucosuria → nutrient-rich moist environment → Candida overgrowth → vulvovaginitis/balanitis.",
       },
       {
         answer: "hyperphagia",
         answerKey: false,
         reason:
-          "Polyphagia is typical, but hyperphagia is not a standard term in diabetes symptoms.",
+          "Classic triad is polyuria–polydipsia–polyphagia; item uses “hyperphagia” (non-standard in exam context) → considered incorrect here despite similar meaning.",
       },
       {
         answer: "increased salivation",
         answerKey: false,
-        reason: "Not a recognized symptom.",
+        reason:
+          "Hyperglycemia → dehydration (osmotic diuresis) → dry mouth rather than hypersalivation.",
       },
       {
         answer: "irritability",
         answerKey: true,
-        reason: "Hyperglycemia can affect mood and cognition.",
+        reason:
+          "Rapid glycemic swings → neuroglycopenia/osmotic shifts → fatigue, irritability, poor concentration.",
       },
     ],
   },
@@ -1187,28 +1310,33 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "develops under the age of 25 years in one family member",
         answerKey: true,
-        reason: "MODY is early-onset diabetes with family history.",
+        reason:
+          "MODY genes (e.g., HNF1A, GCK) → early-onset non–insulin-dependent diabetes (<25 yrs) + autosomal dominant family clustering → strong familial pattern.",
       },
       {
         answer: "is autosomal recessive disorder",
         answerKey: false,
-        reason: "Most forms are autosomal dominant.",
+        reason:
+          "Most MODY subtypes → autosomal dominant transmission → multiple generations affected; recessive forms are rare and distinct entities.",
       },
       {
         answer: "is treated with insulin therapy",
         answerKey: false,
-        reason: "Often responds to oral agents like sulfonylureas.",
+        reason:
+          "HNF1A/HNF4A MODY → preserved β-cell responsiveness to sulfonylureas → high sensitivity → oral agents preferred; insulin reserved if control fails/pregnancy.",
       },
       {
         answer: "is treated with sulphonylurea",
         answerKey: true,
-        reason: "Many MODY subtypes respond well to sulfonylureas.",
+        reason:
+          "Sulfonylurea → binds SUR1 → closes KATP channels → ↑ Ca2+ influx → insulin secretion; MODY (esp. HNF1A) shows marked response → excellent control.",
       },
       {
         answer:
           "may present with renal cystic disease and genital tract malformation",
         answerKey: true,
-        reason: "Seen in HNF1B mutations.",
+        reason:
+          "HNF1B (MODY 5) mutation → developmental anomalies → renal cysts, hypomagnesemia, pancreatic atrophy + Müllerian/Wolffian tract malformations.",
       },
     ],
   },
@@ -1219,28 +1347,32 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "Acromegaly",
         answerKey: true,
-        reason: "Excess GH causes insulin resistance.",
+        reason:
+          "↑ GH → ↑ lipolysis & gluconeogenesis + antagonism of insulin → insulin resistance → hyperglycemia.",
       },
       {
         answer: "Addison’s disease",
         answerKey: false,
-        reason: "Causes hypoglycemia due to cortisol deficiency.",
+        reason:
+          "↓ Cortisol → ↓ gluconeogenesis → tendency to hypoglycemia; replacement normalizes, does not cause hyperglycemia.",
       },
       {
         answer: "Cushing’s syndrome",
         answerKey: true,
-        reason: "Excess cortisol causes insulin resistance.",
+        reason:
+          "↑ Cortisol → ↑ hepatic gluconeogenesis + ↓ peripheral glucose uptake → insulin resistance → hyperglycemia.",
       },
       {
         answer: "Down’s syndrome",
         answerKey: false,
         reason:
-          "Not a direct cause, though diabetes risk is increased via autoimmune disease.",
+          "↑ Autoimmune risk (type 1 DM) but syndrome itself is not a direct hyperglycemic state → not a primary cause.",
       },
       {
         answer: "thiazide diuretics",
         answerKey: true,
-        reason: "May impair insulin release and increase glucose.",
+        reason:
+          "Thiazides → hypokalemia + impaired insulin release and sensitivity → mild hyperglycemia.",
       },
     ],
   },
@@ -1251,29 +1383,34 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "is objective measurement of glycemic control over a few days",
         answerKey: false,
-        reason: "Reflects average glucose over 2–3 months.",
+        reason:
+          "Non-enzymatic glycation of HbA → stable HbA1c proportional to mean glucose over RBC lifespan (≈8–12 weeks) → not just days.",
       },
       {
         answer:
           "rate of formation is directly proportional to blood glucose concentration",
         answerKey: true,
-        reason: "Higher glucose increases HbA1c formation.",
+        reason:
+          "Higher ambient glucose → faster Amadori product formation on Hb → higher HbA1c → linear relation within physiologic ranges.",
       },
       {
         answer: "very useful to assess glycemic status in patients with uremia",
         answerKey: true,
-        reason: "Not affected by uremia unlike fructosamine.",
+        reason:
+          "Modern assays minimize carbamylation interference → HbA1c reflects long-term control despite uremia (caveat: anemia/ESA shorten RBC life → falsely low).",
       },
       {
         answer:
           "very useful to assess glycemic status in patients with haemoglobinopathies",
         answerKey: false,
-        reason: "HbA1c may be unreliable in haemoglobinopathies.",
+        reason:
+          "Variant hemoglobins/shortened RBC survival → assay interference/altered kinetics → HbA1c unreliable → use fructosamine/CGM.",
       },
       {
         answer: "glycemic control is good if HbA1c ≤ 7%",
         answerKey: true,
-        reason: "Target for most diabetic patients.",
+        reason:
+          "Most guidelines → general target ≤7% for adults with diabetes (individualize per age/comorbidity/hypoglycemia risk).",
       },
     ],
   },
@@ -1284,30 +1421,32 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "Cushing’s syndrome is one of the causes",
         answerKey: false,
-        reason: "Usually causes hypernatremia due to cortisol excess.",
+        reason:
+          "↑ Cortisol/↑ mineralocorticoid → water loss + Na+ retention → tendency to hypernatremia/alkalosis → not hyponatremia.",
       },
       {
         answer: "can present with arrhythmia",
         answerKey: false,
         reason:
-          "Neurological symptoms predominate; arrhythmia is not a typical presentation.",
+          "↓ Serum Na+ → cerebral edema → headache, confusion, seizures, coma; electrolyte-driven arrhythmias are more typical of K+/Ca2+ derangements.",
       },
       {
         answer: "is caused by diabetes insipidus",
         answerKey: false,
-        reason: "DI causes hypernatremia due to water loss.",
+        reason:
+          "DI → impaired ADH action → free-water loss > Na+ loss → hypernatremia; hyponatremia occurs with excess ADH (e.g., SIADH).",
       },
       {
         answer: "is associated with hypothyroidism",
         answerKey: true,
         reason:
-          "Hypothyroidism can impair water excretion causing dilutional hyponatremia.",
+          "Hypothyroidism → ↓ cardiac output + ↓ GFR → impaired free-water clearance + ↑ ADH → dilutional hyponatremia.",
       },
       {
         answer: "rapid correction can cause myelinolysis",
         answerKey: true,
         reason:
-          "Rapid sodium correction can cause central pontine myelinolysis.",
+          "Chronic hyponatremia → brain osmolyte loss (adaptation) → rapid Na+ rise → osmotic shifts → central pontine/extrapontine myelinolysis.",
       },
     ],
   },
@@ -1318,27 +1457,32 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "bile acid sequestrant",
         answerKey: true,
-        reason: "Binds bile acids in gut reducing LDL.",
+        reason:
+          "BAS bind bile acids in gut → ↑ hepatic conversion of cholesterol to bile acids → upregulate LDL receptors → ↓ LDL-C.",
       },
       {
         answer: "ezetimibe",
         answerKey: true,
-        reason: "Inhibits intestinal cholesterol absorption.",
+        reason:
+          "Blocks NPC1L1 transporter in intestine → ↓ cholesterol absorption → ↓ hepatic cholesterol pool → ↑ LDL receptor activity → ↓ LDL-C.",
       },
       {
         answer: "fenofibrates",
         answerKey: false,
-        reason: "Mainly lowers triglycerides, not LDL.",
+        reason:
+          "PPAR-α activation → ↑ LPL → ↓ TG (VLDL) > modest LDL effect; not primary LDL-lowering therapy for hyper-CHOLesterolemia.",
       },
       {
         answer: "HMG CoA reductase inhibitor",
         answerKey: true,
-        reason: "Statins are first-line LDL lowering drugs.",
+        reason:
+          "Statins inhibit cholesterol synthesis → upregulate LDL receptors → largest LDL-C reduction → first-line.",
       },
       {
         answer: "omega 3 fatty acids",
         answerKey: false,
-        reason: "Primarily lowers triglycerides.",
+        reason:
+          "Ω-3 FA → ↓ hepatic VLDL production → ↓ TG; LDL-C effect variable/minimal → not a primary LDL-lowering drug.",
       },
     ],
   },
@@ -1349,27 +1493,32 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "acute pancreatitis",
         answerKey: true,
-        reason: "Calcium binds to fat during fat necrosis.",
+        reason:
+          "Pancreatic lipase → fat necrosis → Ca2+ saponification (soap formation) → ↓ ionized Ca2+ → hypocalcemia.",
       },
       {
         answer: "chronic kidney disease",
         answerKey: true,
-        reason: "Decreased vitamin D activation and phosphate retention.",
+        reason:
+          "↓ 1α-hydroxylase → ↓ calcitriol → ↓ intestinal Ca2+ absorption + hyperphosphatemia → Ca–P precipitation → hypocalcemia.",
       },
       {
         answer: "hyperparathyroidism",
         answerKey: false,
-        reason: "Usually causes hypercalcemia.",
+        reason:
+          "↑ PTH → ↑ bone resorption + ↑ renal Ca2+ reabsorption + ↑ 1,25(OH)2D → hypercalcemia, not hypo-.",
       },
       {
         answer: "hypothyroidism",
         answerKey: false,
-        reason: "Not a direct cause of hypocalcemia.",
+        reason:
+          "Thyroid hormone deficiency does not directly lower Ca2+; hypocalcemia is classically due to hypoPARAthyroidism/Vit D deficiency/CKD.",
       },
       {
         answer: "vitamin D deficiency",
         answerKey: true,
-        reason: "Leads to decreased calcium absorption.",
+        reason:
+          "↓ Vitamin D → ↓ intestinal Ca2+/phosphate absorption → secondary hyperparathyroidism → low–normal Ca2+ with osteomalacia/rickets.",
       },
     ],
   },
@@ -1380,27 +1529,32 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "central obesity",
         answerKey: true,
-        reason: "Core component of metabolic syndrome.",
+        reason:
+          "Visceral adiposity → adipokines/inflammation (TNF-α, IL-6) → insulin resistance → dyslipidemia/HTN/hyperglycemia.",
       },
       {
         answer: "decreased fibrinogen",
         answerKey: false,
-        reason: "Fibrinogen is increased, not decreased.",
+        reason:
+          "Prothrombotic state → ↑ fibrinogen, ↑ PAI-1 → impaired fibrinolysis → higher CV risk; not decreased.",
       },
       {
         answer: "hyperinsulinemia",
         answerKey: true,
-        reason: "Compensatory response to insulin resistance.",
+        reason:
+          "Insulin resistance → β-cells compensate → ↑ insulin secretion → fasting/postprandial hyperinsulinemia.",
       },
       {
         answer: "increased sympathetic neural activity",
         answerKey: true,
-        reason: "Part of pathophysiology.",
+        reason:
+          "Insulin/leptin resistance + adipokines → ↑ SNS tone → vasoconstriction + sodium retention → hypertension.",
       },
       {
         answer: "macroalbuminuria",
         answerKey: true,
-        reason: "Marker of endothelial dysfunction in metabolic syndrome.",
+        reason:
+          "Endothelial dysfunction + glomerular hyperfiltration → microalbuminuria → progression to macroalbuminuria with persistent insulin resistance.",
       },
     ],
   },
@@ -1411,30 +1565,36 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "apathy",
         answerKey: true,
-        reason: "Common due to protein-energy malnutrition.",
+        reason:
+          "Protein–energy deficiency → neurotransmitter depletion + anemia → fatigue → apathy/low mood.",
       },
       {
         answer: "famine oedema",
         answerKey: true,
-        reason: "Hypoalbuminemia causes edema.",
+        reason:
+          "Low protein intake → hypoalbuminemia → ↓ plasma oncotic pressure → interstitial fluid shift → pitting edema (kwashiorkor-type).",
       },
       {
         answer: "gastroesophageal reflux disease",
         answerKey: false,
-        reason: "Not directly linked to undernutrition.",
+        reason:
+          "GERD relates to LES dysfunction/obesity; under-nutrition more often causes gastroparesis/atony rather than reflux.",
       },
       {
         answer: "osteoarthritis",
         answerKey: false,
-        reason: "Not a feature of undernutrition.",
+        reason:
+          "OA risk correlates with mechanical load/age; under-nutrition predisposes to osteopenia/osteoporosis, not OA.",
       },
       {
         answer: "reduced skin fold thickness",
         answerKey: true,
-        reason: "Indicates loss of subcutaneous fat.",
+        reason:
+          "Negative energy balance → lipolysis → loss of subcutaneous fat → ↓ triceps skinfold/other anthropometric measures.",
       },
     ],
   },
+
   {
     id: 46,
     statement: "Features of portal hypertension in cirrhosis of liver are",
@@ -1442,27 +1602,32 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "ascites",
         answerKey: true,
-        reason: "Due to increased hydrostatic pressure and hypoalbuminemia.",
+        reason:
+          "Cirrhosis → fibrosis + nodular regeneration → ↑ portal venous resistance → ↑ hydrostatic pressure + ↓ albumin synthesis → ↓ plasma oncotic pressure → transudation of fluid into peritoneal cavity → ascites.",
       },
       {
         answer: "bleeding esophageal varices",
         answerKey: true,
-        reason: "Due to portosystemic collaterals.",
+        reason:
+          "Portal hypertension → formation of portosystemic collaterals at gastroesophageal junction → dilated thin-walled veins (varices) → prone to rupture → massive upper GI bleed.",
       },
       {
         answer: "clubbing of fingers",
         answerKey: false,
-        reason: "Not directly due to portal hypertension.",
+        reason:
+          "Digital clubbing → associated with chronic suppurative lung disease, IBD, cyanotic heart disease → not directly a consequence of portal hypertension.",
       },
       {
         answer: "palmar erythema",
         answerKey: false,
-        reason: "Due to hyperestrogenemia, not portal hypertension itself.",
+        reason:
+          "Cirrhosis → impaired hepatic metabolism of estrogen → hyperestrogenemia → vasodilation in palms → palmar erythema. This is a feature of chronic liver disease, not portal hypertension itself.",
       },
       {
         answer: "splennomegaly",
         answerKey: true,
-        reason: "Due to congestive splenomegaly from portal hypertension.",
+        reason:
+          "Portal hypertension → ↑ splenic venous pressure → congestion and sequestration of blood cells → congestive splenomegaly.",
       },
     ],
   },
@@ -1473,28 +1638,32 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "ANA titer",
         answerKey: true,
-        reason: "Detects autoimmune hepatitis.",
+        reason:
+          "Autoimmune hepatitis → autoimmune injury to hepatocytes → ANA positive in many cases → part of CLD screen.",
       },
       {
         answer: "caeruloplasmin",
         answerKey: true,
-        reason: "Low in Wilson's disease.",
+        reason:
+          "Wilson’s disease → defective copper transport → ↓ serum caeruloplasmin → copper deposition in liver/brain/eye → screened in CLD.",
       },
       {
         answer: "ferritin",
         answerKey: true,
-        reason: "High in hemochromatosis.",
+        reason:
+          "Hemochromatosis → ↑ intestinal iron absorption → iron overload → ↑ serum ferritin and transferrin saturation → checked in CLD screen.",
       },
       {
         answer: "HBs antigen",
         answerKey: true,
-        reason: "Detects chronic hepatitis B infection.",
+        reason:
+          "Hepatitis B infection → chronic HBV carrier state → progressive inflammation and fibrosis → cirrhosis → HBsAg used for diagnosis.",
       },
       {
         answer: "Hepatitis A antibody",
         answerKey: false,
         reason:
-          "Indicates past infection or vaccination; not a cause of chronic disease.",
+          "Hepatitis A → acute self-limiting viral infection → does not cause chronic hepatitis → antibody testing not useful in CLD screen.",
       },
     ],
   },
@@ -1505,27 +1674,32 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "anti-TB drugs",
         answerKey: true,
-        reason: "Isoniazid, rifampicin, and pyrazinamide are hepatotoxic.",
+        reason:
+          "Isoniazid, rifampicin, pyrazinamide → hepatotoxic → massive hepatocyte necrosis → acute liver failure.",
       },
       {
         answer: "acute fatty liver of pregnancy",
         answerKey: true,
-        reason: "Rare but serious cause in third trimester.",
+        reason:
+          "Pregnancy (3rd trimester) → mitochondrial fatty acid oxidation defect → microvesicular fatty change in hepatocytes → acute liver failure.",
       },
       {
         answer: "Budd-Chiari syndrome",
         answerKey: true,
-        reason: "Hepatic vein obstruction can cause acute liver failure.",
+        reason:
+          "Hepatic vein thrombosis → hepatic congestion and ischemia → hepatocellular necrosis → acute liver failure.",
       },
       {
         answer: "hepatitis C infection",
         answerKey: false,
-        reason: "Rarely causes acute liver failure.",
+        reason:
+          "HCV → chronic infection with slow progression to cirrhosis → rarely causes fulminant acute liver failure.",
       },
       {
         answer: "iron overload",
         answerKey: false,
-        reason: "Causes chronic liver injury, not acute failure.",
+        reason:
+          "Hemochromatosis → chronic parenchymal damage and cirrhosis → not a cause of acute liver failure.",
       },
     ],
   },
@@ -1536,27 +1710,32 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "constipation",
         answerKey: true,
-        reason: "Increases ammonia absorption.",
+        reason:
+          "Constipation → ↑ colonic bacterial metabolism of nitrogen → ↑ ammonia absorption → worsens encephalopathy.",
       },
       {
         answer: "high dietary protein",
         answerKey: true,
-        reason: "Increases nitrogen load.",
+        reason:
+          "High protein diet → ↑ nitrogen load in gut → more ammonia → worsens encephalopathy in cirrhosis.",
       },
       {
         answer: "hypokalemia",
         answerKey: true,
-        reason: "Promotes ammonia production in kidney.",
+        reason:
+          "Hypokalemia → renal tubular ammoniagenesis ↑ → more ammonia enters systemic circulation → precipitates encephalopathy.",
       },
       {
         answer: "metabolic acidosis",
         answerKey: false,
-        reason: "Not a typical precipitant.",
+        reason:
+          "Acid-base imbalance may worsen general condition but is not a recognized direct precipitant of hepatic encephalopathy.",
       },
       {
         answer: "spontaneous bacterial peritonitis",
         answerKey: true,
-        reason: "Triggers encephalopathy via infection and inflammation.",
+        reason:
+          "SBP → infection → inflammatory cytokines + ↑ catabolism → ↑ ammonia load → precipitates encephalopathy.",
       },
     ],
   },
@@ -1567,27 +1746,31 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "Anti HBs Ab indicate immunity to infection",
         answerKey: true,
-        reason: "Appears after recovery or vaccination.",
+        reason:
+          "Recovery or vaccination → production of anti-HBs antibody → protective immunity.",
       },
       {
         answer: "HBe antigen indicates infectivity",
         answerKey: true,
-        reason: "Marker of active viral replication.",
+        reason:
+          "HBeAg → marker of viral replication → correlates with high infectivity.",
       },
       {
         answer: "It is an important cause of hepatocellular carcinoma",
         answerKey: true,
-        reason: "Chronic HBV infection predisposes to HCC.",
+        reason:
+          "Chronic HBV → integration into host DNA + chronic inflammation → dysplasia → HCC.",
       },
       {
         answer: "it is only transmitted by parenteral route",
         answerKey: false,
-        reason: "Also transmitted via sexual and perinatal routes.",
+        reason:
+          "HBV transmission → parenteral (blood), sexual, and vertical (mother-to-child).",
       },
       {
         answer: "there is no chronic carrier state",
         answerKey: false,
-        reason: "Chronic carriers are common.",
+        reason: "Chronic HBV carriers exist → persistent HBsAg > 6 months.",
       },
     ],
   },
@@ -1599,27 +1782,31 @@ const MEDICINE_UMM_PAPER_1 = [
         answer: "colonic cancer",
         answerKey: true,
         reason:
-          "May cause diarrhea due to tumor secretion or partial obstruction.",
+          "Colorectal carcinoma → partial obstruction → alternating constipation and diarrhea or secretory diarrhea.",
       },
       {
         answer: "chronic pancreatitis",
         answerKey: true,
-        reason: "Causes steatorrhea from pancreatic enzyme deficiency.",
+        reason:
+          "Exocrine pancreatic insufficiency → ↓ enzyme secretion → fat malabsorption → steatorrhea and diarrhea.",
       },
       {
         answer: "inflammatory bowel disease",
         answerKey: true,
-        reason: "Common cause of chronic diarrhea.",
+        reason:
+          "Ulcerative colitis/Crohn’s disease → chronic mucosal inflammation → persistent diarrhea with/without blood.",
       },
       {
         answer: "small bowel bacterial overgrowth",
         answerKey: true,
-        reason: "Causes malabsorption and diarrhea.",
+        reason:
+          "Excess bacteria → deconjugate bile salts + damage mucosa → malabsorption → chronic diarrhea.",
       },
       {
         answer: "VIPoma",
         answerKey: true,
-        reason: "Causes watery diarrhea, hypokalemia, and achlorhydria.",
+        reason:
+          "VIPoma → vasoactive intestinal peptide secretion → secretory watery diarrhea (WDHA syndrome).",
       },
     ],
   },
@@ -1630,27 +1817,32 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "family history of gastric cancer",
         answerKey: true,
-        reason: "Increases gastric cancer risk.",
+        reason:
+          "H. pylori → chronic gastritis → intestinal metaplasia → ↑ gastric cancer risk → eradication recommended.",
       },
       {
         answer: "GERD",
         answerKey: false,
-        reason: "H. pylori eradication not routinely indicated.",
+        reason:
+          "GERD pathogenesis → lower esophageal sphincter incompetence → not directly related to H. pylori.",
       },
       {
         answer: "long-term NSAID users",
         answerKey: true,
-        reason: "Reduces ulcer risk.",
+        reason:
+          "NSAIDs → mucosal injury → combined with H. pylori increases ulcer risk → eradication prevents complications.",
       },
       {
         answer: "peptic ulcer disease",
         answerKey: true,
-        reason: "Definitive indication for eradication.",
+        reason:
+          "Most PUD cases → H. pylori infection → eradication cures ulcer and prevents recurrence.",
       },
       {
         answer: "short-term use of proton pump inhibitors",
         answerKey: false,
-        reason: "Not an indication.",
+        reason:
+          "Short PPI course → does not increase H. pylori complications → eradication not indicated.",
       },
     ],
   },
@@ -1661,27 +1853,32 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "abdominal signs are present in nearly every case",
         answerKey: false,
-        reason: "Often minimal or absent.",
+        reason:
+          "SBP → often clinically silent or mild symptoms → abdominal signs absent in many cases.",
       },
       {
         answer: "can precipitate hepatic encephalopathy",
         answerKey: true,
-        reason: "Due to infection and increased ammonia production.",
+        reason:
+          "Infection → inflammatory response + ↑ nitrogen load → worsens encephalopathy.",
       },
       {
         answer: "commonly caused by Staphylococcus aureus",
         answerKey: false,
-        reason: "Most common organism is E. coli.",
+        reason:
+          "Most common → Gram-negative bacilli (E. coli, Klebsiella). Staph aureus is uncommon.",
       },
       {
         answer: "most causal organisms are from enteric origin",
         answerKey: true,
-        reason: "Usually Gram-negative enteric bacilli.",
+        reason:
+          "Bacterial translocation → enteric Gram-negative organisms → SBP.",
       },
       {
         answer: "recurrence is rare",
         answerKey: false,
-        reason: "Recurrence is common without prophylaxis.",
+        reason:
+          "SBP → recurrence common unless prophylaxis with norfloxacin given.",
       },
     ],
   },
@@ -1693,27 +1890,31 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "decreased intra-abdominal pressure",
         answerKey: false,
-        reason: "GERD is associated with increased intra-abdominal pressure.",
+        reason:
+          "GERD → occurs with ↑ intra-abdominal pressure (e.g. obesity, pregnancy).",
       },
       {
         answer: "delayed gastric emptying",
         answerKey: true,
-        reason: "Promotes reflux by prolonging gastric distension.",
+        reason:
+          "Delayed emptying → prolonged gastric distension → ↑ reflux episodes.",
       },
       {
         answer: "increased lower oesophageal sphincter tone",
         answerKey: false,
-        reason: "GERD occurs with decreased tone.",
+        reason: "GERD → due to ↓ LES tone → incompetence.",
       },
       {
         answer: "prolonged oesophageal transit time",
         answerKey: true,
-        reason: "Increases mucosal exposure to refluxate.",
+        reason:
+          "Slow clearance → longer acid contact with esophagus → worsens GERD.",
       },
       {
         answer: "presence of a hiatus hernia",
         answerKey: true,
-        reason: "Common anatomical risk factor.",
+        reason:
+          "Hiatus hernia → displaces LES into thorax → loss of anti-reflux barrier.",
       },
     ],
   },
@@ -1724,28 +1925,32 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "acute gastritis",
         answerKey: true,
-        reason: "Causes epigastric discomfort and dyspepsia.",
+        reason:
+          "Mucosal inflammation (NSAIDs, alcohol, infection) → epigastric pain and dyspepsia.",
       },
       {
         answer: "gallstones",
         answerKey: true,
-        reason: "Can cause upper abdominal discomfort mimicking dyspepsia.",
+        reason:
+          "Cholelithiasis → biliary colic → may mimic or cause dyspeptic pain.",
       },
       {
         answer: "hypocalcemia",
         answerKey: false,
-        reason: "Not a recognized cause of dyspepsia.",
+        reason:
+          "Hypocalcemia → neuromuscular irritability (tetany) → not dyspepsia.",
       },
       {
         answer: "peptic ulcer disease",
         answerKey: true,
-        reason: "Common organic cause of dyspepsia.",
+        reason:
+          "PUD → H. pylori/NSAID induced ulcer → classic dyspeptic symptoms.",
       },
       {
         answer: "pancreatic diseases",
         answerKey: true,
         reason:
-          "Chronic pancreatitis or cancer can present with dyspepsia-like pain.",
+          "Chronic pancreatitis/pancreatic cancer → upper abdominal pain → mimics dyspepsia.",
       },
     ],
   },
@@ -1756,28 +1961,32 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "Acetaminophen : Methionine",
         answerKey: true,
-        reason: "Methionine replenishes glutathione stores.",
+        reason:
+          "Paracetamol overdose → depleted glutathione → methionine replenishes glutathione → detoxifies NAPQI.",
       },
       {
         answer: "Benzodiazepine : Naloxone",
         answerKey: false,
         reason:
-          "Naloxone is for opioid overdose; flumazenil is for benzodiazepines.",
+          "Naloxone → opioid receptor antagonist. Benzodiazepine overdose → treated with flumazenil.",
       },
       {
         answer: "Digoxin : Beta-blocker",
         answerKey: false,
-        reason: "Digoxin toxicity treated with digoxin-specific antibody.",
+        reason:
+          "Digoxin toxicity → treated with digoxin-specific antibody (Fab), not beta-blockers.",
       },
       {
         answer: "Lead : Sodium calcium acetate",
         answerKey: false,
-        reason: "Lead is treated with EDTA or dimercaprol.",
+        reason:
+          "Lead poisoning → chelation therapy with EDTA, dimercaprol, or DMSA → not sodium calcium acetate.",
       },
       {
         answer: "Organophosphate: Praildoxime",
         answerKey: true,
-        reason: "Pralidoxime reactivates acetylcholinesterase.",
+        reason:
+          "Organophosphate → inhibits acetylcholinesterase → pralidoxime reactivates enzyme.",
       },
     ],
   },
@@ -1788,27 +1997,31 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "abdominal pain and diarrhea",
         answerKey: false,
-        reason: "Opioids cause constipation, not diarrhea.",
+        reason: "Opioids → reduce gut motility → constipation, not diarrhea.",
       },
       {
         answer: "diminished rate and depth of respiration",
         answerKey: true,
-        reason: "Respiratory depression is hallmark of opioid overdose.",
+        reason:
+          "Opioids → act on μ-receptors in medulla → respiratory depression.",
       },
       {
         answer: "hypertension",
         answerKey: false,
-        reason: "Hypotension is more likely.",
+        reason:
+          "Opiate overdose → vasodilation + histamine release → hypotension more likely.",
       },
       {
         answer: "pinpoint pupils",
         answerKey: true,
-        reason: "Miosis is characteristic.",
+        reason:
+          "Opioids → parasympathetic stimulation via Edinger-Westphal nucleus → miosis (pinpoint pupils).",
       },
       {
         answer: "pulmonary oedema",
         answerKey: true,
-        reason: "May occur in severe overdose.",
+        reason:
+          "Opiates → ↑ pulmonary capillary permeability + hypoxia → pulmonary edema in severe cases.",
       },
     ],
   },
@@ -1819,27 +2032,30 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "bronchorrhea",
         answerKey: true,
-        reason: "Excess secretions due to muscarinic stimulation.",
+        reason:
+          "OP → excess ACh at muscarinic receptors → ↑ bronchial gland secretion → bronchorrhea.",
       },
       {
         answer: "fasciculation and paralysis",
         answerKey: false,
-        reason: "These are nicotinic effects.",
+        reason:
+          "These → nicotinic effects at neuromuscular junction, not muscarinic.",
       },
       {
         answer: "mydriasis",
         answerKey: false,
-        reason: "Miosis is typical muscarinic effect.",
+        reason: "OP → muscarinic stimulation → miosis, not mydriasis.",
       },
       {
         answer: "salivation",
         answerKey: true,
-        reason: "Increased salivation due to muscarinic stimulation.",
+        reason: "OP → excess parasympathetic stimulation → profuse salivation.",
       },
       {
         answer: "tachycardia",
         answerKey: false,
-        reason: "Bradycardia is more common in muscarinic excess.",
+        reason:
+          "Muscarinic excess → vagal stimulation → bradycardia, not tachycardia.",
       },
     ],
   },
@@ -1850,27 +2066,31 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "can cause poor wound healing",
         answerKey: true,
-        reason: "Due to defective collagen synthesis.",
+        reason:
+          "Vitamin C → essential cofactor for hydroxylation of proline/lysine in collagen synthesis → deficiency → defective collagen → impaired wound healing.",
       },
       {
         answer: "can present as Korsakoff's psychosis",
         answerKey: false,
-        reason: "Korsakoff's is due to thiamine deficiency.",
+        reason:
+          "Korsakoff’s syndrome → thiamine (vitamin B1) deficiency, not vitamin C deficiency.",
       },
       {
         answer: "can cause swollen gums that bleed",
         answerKey: true,
-        reason: "Scurvy manifests with gingival swelling and bleeding.",
+        reason:
+          "Scurvy → fragile capillaries + defective connective tissue → swollen bleeding gums.",
       },
       {
         answer: "is associated with angular stomatitis",
         answerKey: false,
-        reason: "Usually due to riboflavin deficiency.",
+        reason: "Angular stomatitis → riboflavin (vitamin B2) deficiency.",
       },
       {
         answer: "hemarthrosis can occur",
         answerKey: true,
-        reason: "Bleeding into joints occurs due to capillary fragility.",
+        reason:
+          "Vitamin C deficiency → fragile capillaries → bleeding into joints (hemarthrosis).",
       },
     ],
   },
@@ -1881,27 +2101,32 @@ const MEDICINE_UMM_PAPER_1 = [
       {
         answer: "electrolyte imbalance",
         answerKey: true,
-        reason: "Due to rapid shifts during feeding.",
+        reason:
+          "PN → rapid fluid and electrolyte shifts → hypokalemia, hypophosphatemia, hypomagnesemia.",
       },
       {
         answer: "fluid overload",
         answerKey: true,
-        reason: "From excessive infusion rates.",
+        reason:
+          "Excess infusion volume → ↑ intravascular volume → fluid overload and pulmonary edema.",
       },
       {
         answer: "hypoglycemia",
         answerKey: true,
-        reason: "Occurs if infusion is stopped abruptly.",
+        reason:
+          "Abrupt stoppage of glucose infusion → continued insulin secretion → rebound hypoglycemia.",
       },
       {
         answer: "hepatic steatosis",
         answerKey: true,
-        reason: "Long-term PN can cause fatty liver.",
+        reason:
+          "Long-term PN → excess glucose/lipid delivery → fatty infiltration of liver → hepatic steatosis.",
       },
       {
         answer: "refeeding syndrome",
         answerKey: true,
-        reason: "Rapid feeding after starvation can cause electrolyte shifts.",
+        reason:
+          "Malnourished state → sudden feeding → insulin surge → cellular uptake of phosphate, potassium, magnesium → life-threatening electrolyte shifts (refeeding syndrome).",
       },
     ],
   },

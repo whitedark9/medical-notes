@@ -3,5 +3,5 @@ export default {
   uro: "Urosurgery",
   gi: "GI Surgery",
   hepatobiliary: "Hepatobiliary",
-  //   systemic: "Systemic",
+  systemic: "Systemic",
 };
