@@ -1311,7 +1311,7 @@ const MEDICINE_UMM_PAPER_1 = [
         answer: "develops under the age of 25 years in one family member",
         answerKey: true,
         reason:
-          "MODY genes (e.g., HNF1A, GCK) → early-onset non–insulin-dependent diabetes (<25 yrs) + autosomal dominant family clustering → strong familial pattern.",
+          "MODY genes (e.g., HNF1A, GCK) → early-onset non–insulin-dependent diabetes (\\<25 yrs) + autosomal dominant family clustering → strong familial pattern.",
       },
       {
         answer: "is autosomal recessive disorder",
