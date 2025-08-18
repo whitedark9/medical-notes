@@ -11,6 +11,7 @@ const APP = {
   emoji: {
     stethoscope: "🩺",
     baby: "👶",
+    woman: "🤱",
     paperPencil: "📝",
     books: "📚",
     questionMarkRed: "❓",
