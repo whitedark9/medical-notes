@@ -479,6 +479,470 @@ const PAEDIATRICS_PAPER_1_SET_2 = [
       },
     ],
   },
+  {
+    id: 16,
+    statement: "Leading causes of under 5 mortality in Myanmar are",
+    choices: [
+      {
+        answer: "ARI",
+        answerKey: true,
+        reason: "Acute respiratory infection → major killer in under-5.",
+      },
+      {
+        answer: "Diarrhoea",
+        answerKey: true,
+        reason: "Acute watery diarrhoea & dehydration → common cause.",
+      },
+      {
+        answer: "Primary complex",
+        answerKey: false,
+        reason: "Pulmonary TB → uncommon cause in under-5 mortality.",
+      },
+      {
+        answer: "Dengue Haemorrhagic Fever",
+        answerKey: true,
+        reason: "Seasonal outbreaks → significant cause of child deaths.",
+      },
+      {
+        answer: "Malnutrition",
+        answerKey: true,
+        reason: "Underlying cause in >50% of under-5 deaths.",
+      },
+    ],
+  },
+  {
+    id: 17,
+    statement: "Advantages of breastfeeding are",
+    choices: [
+      {
+        answer: "convenience for mother",
+        answerKey: true,
+        reason: "Always available, no preparation needed.",
+      },
+      {
+        answer: "contraception (lactation amenorrhoea)",
+        answerKey: true,
+        reason: "Exclusive BF → suppresses ovulation up to 6 months.",
+      },
+      {
+        answer: "economical",
+        answerKey: true,
+        reason: "No cost compared to formula feeding.",
+      },
+      {
+        answer: "protection against ARI",
+        answerKey: true,
+        reason: "Breast milk antibodies → reduce respiratory infections.",
+      },
+      {
+        answer: "increased risk of eczema",
+        answerKey: false,
+        reason: "Breastfeeding reduces allergy risk, not increases it.",
+      },
+    ],
+  },
+  {
+    id: 18,
+    statement: "Scabies",
+    choices: [
+      {
+        answer: "does not involve wrist and of elbow",
+        answerKey: false,
+        reason:
+          "Classically involves interdigital spaces, wrist, flexor elbow.",
+      },
+      {
+        answer: "affect axillary folds",
+        answerKey: true,
+        reason: "Common sites: axillae, groin, interdigital folds.",
+      },
+      {
+        answer: "is characterized by presence of burrows",
+        answerKey: true,
+        reason: "Pathognomonic finding = serpiginous burrows.",
+      },
+      {
+        answer: "organism can be demonstrated by skin scraping",
+        answerKey: true,
+        reason: "Mites, eggs or feces → seen on microscopy.",
+      },
+      {
+        answer: "can be treated with 10% benzoate",
+        answerKey: true,
+        reason: "Benzyl benzoate lotion → effective treatment.",
+      },
+    ],
+  },
+  {
+    id: 19,
+    statement: "Important measures in prevention of diarrhea includes",
+    choices: [
+      {
+        answer: "exclusive breastfeeding",
+        answerKey: true,
+        reason: "Protects infant from diarrheal diseases.",
+      },
+      {
+        answer: "growth monitoring",
+        answerKey: false,
+        reason:
+          "Important for nutrition but not direct prevention of diarrhea.",
+      },
+      {
+        answer: "safe water supply",
+        answerKey: true,
+        reason: "Prevents fecal-oral transmission.",
+      },
+      {
+        answer: "birth spacing",
+        answerKey: false,
+        reason: "Improves child health but not direct diarrhea prevention.",
+      },
+      {
+        answer: "sanitary latrines",
+        answerKey: true,
+        reason: "Breaks fecal-oral route of infection.",
+      },
+    ],
+  },
+  {
+    id: 20,
+    statement: "Complications of corticosteroid therapy include",
+    choices: [
+      {
+        answer: "moon face",
+        answerKey: true,
+        reason: "Cushingoid appearance due to chronic steroids.",
+      },
+      {
+        answer: "tall stature",
+        answerKey: false,
+        reason: "Steroids → growth suppression, not tall stature.",
+      },
+      {
+        answer: "hypoglycaemia",
+        answerKey: false,
+        reason: "Steroids cause hyperglycemia, not hypoglycemia.",
+      },
+      {
+        answer: "hypertension",
+        answerKey: true,
+        reason: "Mineralocorticoid effect → sodium retention → hypertension.",
+      },
+      {
+        answer: "cataract",
+        answerKey: true,
+        reason: "Long-term steroid therapy → posterior subcapsular cataract.",
+      },
+    ],
+  },
+  {
+    id: 21,
+    statement: "Following drugs are used in ascariasis",
+    choices: [
+      {
+        answer: "albendazole",
+        answerKey: true,
+        reason: "First-line drug for ascariasis.",
+      },
+      {
+        answer: "metronidazole",
+        answerKey: false,
+        reason: "Used for protozoal infections, not helminths.",
+      },
+      {
+        answer: "mebendazole",
+        answerKey: true,
+        reason: "Effective broad-spectrum antihelminthic.",
+      },
+      {
+        answer: "tinidazole",
+        answerKey: false,
+        reason: "Used for Giardia and amoebiasis, not worms.",
+      },
+      {
+        answer: "fluconazole",
+        answerKey: false,
+        reason: "Antifungal, no role in ascariasis.",
+      },
+    ],
+  },
+  {
+    id: 22,
+    statement: "Features of lead poisoning include",
+    choices: [
+      {
+        answer: "abdominal pain",
+        answerKey: true,
+        reason: "Lead colic → recurrent abdominal pain.",
+      },
+      {
+        answer: "seizures",
+        answerKey: true,
+        reason: "Neurotoxicity → encephalopathy → seizures.",
+      },
+      {
+        answer: "anaemia",
+        answerKey: true,
+        reason:
+          "Microcytic hypochromic anemia due to defective heme synthesis.",
+      },
+      {
+        answer: "macrocytic blood film",
+        answerKey: false,
+        reason: "Lead causes microcytosis, not macrocytosis.",
+      },
+      {
+        answer: "eosinophilia",
+        answerKey: false,
+        reason: "Not a feature of lead toxicity.",
+      },
+    ],
+  },
+  {
+    id: 23,
+    statement: "Measures in the general management of poisoning include",
+    choices: [
+      {
+        answer: "establishment of airway and ventilation",
+        answerKey: true,
+        reason: "Airway, breathing, circulation = first priority.",
+      },
+      {
+        answer: "removal of poison",
+        answerKey: true,
+        reason: "Decontamination → gastric lavage, activated charcoal.",
+      },
+      {
+        answer: "identification of poison",
+        answerKey: true,
+        reason: "Essential for targeted management.",
+      },
+      {
+        answer: "administration of antidotes",
+        answerKey: true,
+        reason: "Specific antidote → prevents complications.",
+      },
+      {
+        answer: "promote excretion of toxin",
+        answerKey: true,
+        reason: "Forced diuresis, dialysis → enhance elimination.",
+      },
+    ],
+  },
+  {
+    id: 24,
+    statement: "Rashes can be seen in the following infections",
+    choices: [
+      {
+        answer: "chicken pox",
+        answerKey: true,
+        reason: "Vesicular rash in crops.",
+      },
+      {
+        answer: "whooping cough",
+        answerKey: false,
+        reason: "Characterized by cough, not rash.",
+      },
+      {
+        answer: "measles",
+        answerKey: true,
+        reason: "Maculopapular rash from face to trunk.",
+      },
+      {
+        answer: "rubella",
+        answerKey: true,
+        reason: "Fine pink maculopapular rash.",
+      },
+      {
+        answer: "dengue haemorrhagic fever",
+        answerKey: true,
+        reason: "Transient erythematous/maculopapular rash.",
+      },
+    ],
+  },
+  {
+    id: 25,
+    statement: "Complications of chicken pox are",
+    choices: [
+      {
+        answer: "Guillain-Barrè syndrome",
+        answerKey: true,
+        reason: "Post-infectious demyelination complication.",
+      },
+      {
+        answer: "cerebellar ataxia",
+        answerKey: true,
+        reason: "Post-viral cerebellitis in children.",
+      },
+      {
+        answer: "pneumonitis",
+        answerKey: true,
+        reason: "Varicella pneumonitis in immunocompromised/adults.",
+      },
+      {
+        answer: "appendicitis",
+        answerKey: false,
+        reason: "No relation to chickenpox.",
+      },
+      {
+        answer: "flaring up of primary complex",
+        answerKey: true,
+        reason: "TB reactivation risk due to immune suppression.",
+      },
+    ],
+  },
+  {
+    id: 26,
+    statement: "In congenital syphilis",
+    choices: [
+      {
+        answer: "infant can present with hepatosplenomegaly",
+        answerKey: true,
+        reason: "Early manifestation of congenital syphilis.",
+      },
+      {
+        answer: "early manifestations include saddle nose and saber shin",
+        answerKey: false,
+        reason: "These are late congenital syphilis features.",
+      },
+      {
+        answer: "it may present with congenital heart disease",
+        answerKey: false,
+        reason: "Not a typical feature.",
+      },
+      {
+        answer: "X-ray long bone may show periosteitis",
+        answerKey: true,
+        reason: "Early finding in congenital syphilis.",
+      },
+      {
+        answer: "penicillin is no longer used in treatment",
+        answerKey: false,
+        reason: "Penicillin remains drug of choice.",
+      },
+    ],
+  },
+  {
+    id: 27,
+    statement: "Complications of falciparum malaria include",
+    choices: [
+      {
+        answer: "hypoglycaemia",
+        answerKey: true,
+        reason: "Due to parasite consumption + quinine therapy.",
+      },
+      {
+        answer: "severe anaemia",
+        answerKey: true,
+        reason: "Massive hemolysis of RBCs.",
+      },
+      {
+        answer: "nephritic syndrome",
+        answerKey: false,
+        reason: "Not a recognized complication.",
+      },
+      {
+        answer: "convulsion and coma",
+        answerKey: true,
+        reason: "Cerebral malaria complication.",
+      },
+      {
+        answer: "abnormal bleeding tendency",
+        answerKey: true,
+        reason: "DIC and thrombocytopenia in severe cases.",
+      },
+    ],
+  },
+  {
+    id: 28,
+    statement: "The following are live attenuated vaccines",
+    choices: [
+      {
+        answer: "poliomyelitis",
+        answerKey: true,
+        reason: "Oral polio vaccine (OPV) is live attenuated.",
+      },
+      {
+        answer: "measles",
+        answerKey: true,
+        reason: "Live attenuated measles vaccine.",
+      },
+      {
+        answer: "pertussis",
+        answerKey: false,
+        reason: "Killed whole-cell vaccine, not live attenuated.",
+      },
+      {
+        answer: "BCG",
+        answerKey: true,
+        reason: "Live attenuated Mycobacterium bovis.",
+      },
+      {
+        answer: "hepatitis B",
+        answerKey: false,
+        reason: "Recombinant subunit vaccine.",
+      },
+    ],
+  },
+  {
+    id: 29,
+    statement: "Complications of Amoebiasis include",
+    choices: [
+      {
+        answer: "perforation",
+        answerKey: true,
+        reason: "Fulminant colitis → intestinal perforation.",
+      },
+      {
+        answer: "skin rashes",
+        answerKey: false,
+        reason: "Not associated with amoebiasis.",
+      },
+      {
+        answer: "haemorrhagic manifestation",
+        answerKey: false,
+        reason: "Not typical complication.",
+      },
+      {
+        answer: "liver abscess",
+        answerKey: true,
+        reason: "Most serious extraintestinal complication.",
+      },
+      { answer: "UTI", answerKey: false, reason: "Not a direct complication." },
+    ],
+  },
+  {
+    id: 30,
+    statement: "Early signs and symptoms of Dengue shock syndrome",
+    choices: [
+      {
+        answer: "may develop on the 3rd to 7th day of fever",
+        answerKey: true,
+        reason: "Shock phase usually starts when fever subsides (day 3–7).",
+      },
+      {
+        answer: "drowsiness /restlessness",
+        answerKey: true,
+        reason: "Early warning sign of shock.",
+      },
+      {
+        answer: "abdominal pain",
+        answerKey: true,
+        reason: "Warning sign due to plasma leakage.",
+      },
+      {
+        answer: "wide pulse pressure",
+        answerKey: false,
+        reason: "Narrow pulse pressure (\\<20 mmHg) is typical.",
+      },
+      {
+        answer: "bounding pulse",
+        answerKey: false,
+        reason: "Shock → weak, thready pulse, not bounding.",
+      },
+    ],
+  },
 ];
 
 export default PAEDIATRICS_PAPER_1_SET_2;
