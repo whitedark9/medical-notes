@@ -1,6 +1,10 @@
 import fs from "fs";
 import path from "path";
 import MEDICINE_UMM_PAPER_1 from "./src/constants/mcqs/medicine-umm-paper-1.js";
+import PAEDIATRICS_PAPER_1_SET_1 from "./src/constants/mcqs/paediatrics-paper-1-set-1.js";
+import PAEDIATRICS_PAPER_1_SET_2 from "./src/constants/mcqs/paediatrics-paper-1-set-2.js";
+import PAEDIATRICS_PAPER_2_SET_1 from "./src/constants/mcqs/paediatrics-paper-2-set-1.js";
+import PAEDIATRICS_PAPER_2_SET_2 from "./src/constants/mcqs/paediatrics-paper-2-set-2.js";
 import SURGERY_UMM_GROUP_1 from "./src/constants/mcqs/surgery-umm-group-1.js";
 import SURGERY_UMM_GROUP_2 from "./src/constants/mcqs/surgery-umm-group-2.js";
 import SURGERY_UMM_GROUP_3 from "./src/constants/mcqs/surgery-umm-group-3.js";
@@ -32,3 +36,7 @@ createMDXFile("Surgery UMM Group 1", SURGERY_UMM_GROUP_1);
 createMDXFile("Surgery UMM Group 2", SURGERY_UMM_GROUP_2);
 createMDXFile("Surgery UMM Group 3", SURGERY_UMM_GROUP_3);
 createMDXFile("Surgery UMM Group 4", SURGERY_UMM_GROUP_4);
+createMDXFile("Paediatric Paper 1 Set 1", PAEDIATRICS_PAPER_1_SET_1);
+createMDXFile("Paediatric Paper 1 Set 2", PAEDIATRICS_PAPER_1_SET_2);
+createMDXFile("Paediatric Paper 2 Set 1", PAEDIATRICS_PAPER_2_SET_1);
+createMDXFile("Paediatric Paper 2 Set 2", PAEDIATRICS_PAPER_2_SET_2);
