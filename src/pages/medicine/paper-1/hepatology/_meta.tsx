@@ -3,5 +3,4 @@ export default {
   "portal-hypertension": "Portal Hypertension",
   "hepatic-encephalopathy": "Hepatic Encephalopathy",
   ascites: "Ascites",
-  leptospirosis: "Leptospirosis",
 };
