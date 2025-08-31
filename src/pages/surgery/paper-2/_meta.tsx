@@ -14,6 +14,7 @@ export default {
   "breast-cancer": "Breast Cancer",
   "severe-acute-pancreatitis": "Pancreatitis",
   "obstructive-jaundice": "Obstructive Jaundice",
+  choledocholithiasis: "Choledocholithiasis",
   "malignant-obstructive-jaundice": "Malignant Obstructive Jaundice",
   hcc: "Hepatocellular Carcinoma",
   "splenic-injury": "Splenic Injury",
